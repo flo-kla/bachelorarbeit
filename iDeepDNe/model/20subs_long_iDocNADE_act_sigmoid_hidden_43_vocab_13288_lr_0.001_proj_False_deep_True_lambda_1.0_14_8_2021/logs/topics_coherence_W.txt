@@ -1,0 +1,266 @@
+top_n: 10 Topic Num: 1 
+Topic Words: [['ring', 'slide', 'wear', 'length', 'snipe', 'wheel', 'dominate', 'laser', 'sentence', 'regard']]
+Coh_type:c_v  Topic Num:1 COH score:0.6890873600397459
+top_n: 20 Topic Num: 1 
+Topic Words: [['ring', 'slide', 'wear', 'length', 'snipe', 'wheel', 'dominate', 'laser', 'sentence', 'regard', 'commenter', 'additionally', 'strike', 'reproduce', 'steel', 'contemporary', 'curse', 'generate', 'paint', 'form']]
+Coh_type:c_v  Topic Num:1 COH score:0.7817419049344843
+top_n: 10 Topic Num: 2 
+Topic Words: [['ring', 'slide', 'wear', 'commenter', 'wheel', 'animal', 'snipe', 'laser', 'regard', 'contemporary']]
+Coh_type:c_v  Topic Num:2 COH score:0.6912933960545307
+top_n: 20 Topic Num: 2 
+Topic Words: [['ring', 'slide', 'wear', 'commenter', 'wheel', 'animal', 'snipe', 'laser', 'regard', 'contemporary', 'additionally', 'dominate', 'reproduce', 'priest', 'length', 'mag', 'generate', 'uh', 'z', 'leave']]
+Coh_type:c_v  Topic Num:2 COH score:0.7690415914105071
+top_n: 10 Topic Num: 3 
+Topic Words: [['slide', 'ring', 'animal', 'wear', 'wheel', 'reproduce', 'leave', 'mag', 'commenter', 'typical']]
+Coh_type:c_v  Topic Num:3 COH score:0.647288996056971
+top_n: 20 Topic Num: 3 
+Topic Words: [['slide', 'ring', 'animal', 'wear', 'wheel', 'reproduce', 'leave', 'mag', 'commenter', 'typical', 'water', 'form', 'generate', 'wave', 'regard', 'snipe', 'z', 'contemporary', 'beginning', 'laser']]
+Coh_type:c_v  Topic Num:3 COH score:0.7241307944025699
+top_n: 10 Topic Num: 4 
+Topic Words: [['ring', 'snipe', 'wheel', 'dominate', 'reuse', 'slide', 'logically', 'paint', 'heart', 'wear']]
+Coh_type:c_v  Topic Num:4 COH score:0.6969594453894484
+top_n: 20 Topic Num: 4 
+Topic Words: [['ring', 'snipe', 'wheel', 'dominate', 'reuse', 'slide', 'logically', 'paint', 'heart', 'wear', 'stick', 'confirm', 'curse', 'reality', 'generate', 'leave', 'commenter', 'regard', 'journalist', 'strike']]
+Coh_type:c_v  Topic Num:4 COH score:0.7456832544357954
+top_n: 10 Topic Num: 5 
+Topic Words: [['karma', 'guarantee', 'partner', 'username', 'lt', 'immediate', 'collector', 'clue', 'anyways', 'skip']]
+Coh_type:c_v  Topic Num:5 COH score:0.5225047042434724
+top_n: 20 Topic Num: 5 
+Topic Words: [['karma', 'guarantee', 'partner', 'username', 'lt', 'immediate', 'collector', 'clue', 'anyways', 'skip', 'swap', 'mic', 'ah', 'potential', 'informative', 'innovation', 'sidebar', 'jesus', 'powerpoint', 'optimal']]
+Coh_type:c_v  Topic Num:5 COH score:0.6614724251008114
+top_n: 10 Topic Num: 6 
+Topic Words: [['slide', 'animal', 'ring', 'wear', 'wheel', 'reproduce', 'leave', 'form', 'typical', 'mag']]
+Coh_type:c_v  Topic Num:6 COH score:0.612673283075878
+top_n: 20 Topic Num: 6 
+Topic Words: [['slide', 'animal', 'ring', 'wear', 'wheel', 'reproduce', 'leave', 'form', 'typical', 'mag', 'water', 'commenter', 'generate', 'jack', 'deny', 'regard', 'bear', 'wave', 'snipe', 'z']]
+Coh_type:c_v  Topic Num:6 COH score:0.6963981623357892
+top_n: 10 Topic Num: 7 
+Topic Words: [['guarantee', 'partner', 'karma', 'username', 'lt', 'immediate', 'skip', 'anyways', 'potential', 'beneficial']]
+Coh_type:c_v  Topic Num:7 COH score:0.5327790861205062
+top_n: 20 Topic Num: 7 
+Topic Words: [['guarantee', 'partner', 'karma', 'username', 'lt', 'immediate', 'skip', 'anyways', 'potential', 'beneficial', 'ah', 'mic', 'collector', 'informative', 'jesus', 'past', 'daily', 'optimal', 'clue', 'elementary']]
+Coh_type:c_v  Topic Num:7 COH score:0.6827168717274688
+top_n: 10 Topic Num: 8 
+Topic Words: [['ring', 'slide', 'wear', 'wheel', 'commenter', 'snipe', 'animal', 'laser', 'regard', 'length']]
+Coh_type:c_v  Topic Num:8 COH score:0.6792869948912461
+top_n: 20 Topic Num: 8 
+Topic Words: [['ring', 'slide', 'wear', 'wheel', 'commenter', 'snipe', 'animal', 'laser', 'regard', 'length', 'dominate', 'contemporary', 'additionally', 'reproduce', 'priest', 'uh', 'mag', 'generate', 'form', 'deep']]
+Coh_type:c_v  Topic Num:8 COH score:0.7694893864926163
+top_n: 10 Topic Num: 9 
+Topic Words: [['karma', 'guarantee', 'partner', 'username', 'lt', 'immediate', 'collector', 'clue', 'anyways', 'skip']]
+Coh_type:c_v  Topic Num:9 COH score:0.5225047042434724
+top_n: 20 Topic Num: 9 
+Topic Words: [['karma', 'guarantee', 'partner', 'username', 'lt', 'immediate', 'collector', 'clue', 'anyways', 'skip', 'swap', 'mic', 'ah', 'potential', 'informative', 'jesus', 'powerpoint', 'innovation', 'optimal', 'daily']]
+Coh_type:c_v  Topic Num:9 COH score:0.6511527299568456
+top_n: 10 Topic Num: 10 
+Topic Words: [['wheel', 'ring', 'reuse', 'dominate', 'logically', 'snipe', 'paint', 'stick', 'heart', 'wear']]
+Coh_type:c_v  Topic Num:10 COH score:0.6427621754602739
+top_n: 20 Topic Num: 10 
+Topic Words: [['wheel', 'ring', 'reuse', 'dominate', 'logically', 'snipe', 'paint', 'stick', 'heart', 'wear', 'reality', 'slide', 'confirm', 'leave', 'curse', 'nuts', 'generate', 'journalist', 'chemical', 'trash']]
+Coh_type:c_v  Topic Num:10 COH score:0.7297390725242042
+top_n: 10 Topic Num: 11 
+Topic Words: [['slide', 'wear', 'ring', 'animal', 'wheel', 'leave', 'form', 'reproduce', 'typical', 'water']]
+Coh_type:c_v  Topic Num:11 COH score:0.5729356739560718
+top_n: 20 Topic Num: 11 
+Topic Words: [['slide', 'wear', 'ring', 'animal', 'wheel', 'leave', 'form', 'reproduce', 'typical', 'water', 'commenter', 'generate', 'mag', 'deny', 'jack', 'bear', 'regard', 'wave', 'snipe', 'wire']]
+Coh_type:c_v  Topic Num:11 COH score:0.6867921898167447
+top_n: 10 Topic Num: 12 
+Topic Words: [['slide', 'ring', 'wheel', 'animal', 'wear', 'commenter', 'leave', 'generate', 'form', 'snipe']]
+Coh_type:c_v  Topic Num:12 COH score:0.6013671239934618
+top_n: 20 Topic Num: 12 
+Topic Words: [['slide', 'ring', 'wheel', 'animal', 'wear', 'commenter', 'leave', 'generate', 'form', 'snipe', 'regard', 'contemporary', 'laser', 'z', 'mag', 'reproduce', 'priest', 'dominate', 'beginning', 'water']]
+Coh_type:c_v  Topic Num:12 COH score:0.726106643826611
+top_n: 10 Topic Num: 13 
+Topic Words: [['ring', 'slide', 'length', 'snipe', 'wear', 'wheel', 'dominate', 'laser', 'sentence', 'commenter']]
+Coh_type:c_v  Topic Num:13 COH score:0.6845015339272642
+top_n: 20 Topic Num: 13 
+Topic Words: [['ring', 'slide', 'length', 'snipe', 'wear', 'wheel', 'dominate', 'laser', 'sentence', 'commenter', 'reuse', 'regard', 'paint', 'reproduce', 'steel', 'strike', 'additionally', 'curse', 'confirm', 'generate']]
+Coh_type:c_v  Topic Num:13 COH score:0.7942738141446559
+top_n: 10 Topic Num: 14 
+Topic Words: [['ring', 'slide', 'snipe', 'dominate', 'wheel', 'wear', 'length', 'reuse', 'paint', 'laser']]
+Coh_type:c_v  Topic Num:14 COH score:0.6882146643236824
+top_n: 20 Topic Num: 14 
+Topic Words: [['ring', 'slide', 'snipe', 'dominate', 'wheel', 'wear', 'length', 'reuse', 'paint', 'laser', 'heart', 'commenter', 'curse', 'confirm', 'regard', 'reproduce', 'steel', 'strike', 'stick', 'generate']]
+Coh_type:c_v  Topic Num:14 COH score:0.7799247365193509
+top_n: 10 Topic Num: 15 
+Topic Words: [['slide', 'ring', 'wheel', 'wear', 'animal', 'commenter', 'snipe', 'generate', 'laser', 'regard']]
+Coh_type:c_v  Topic Num:15 COH score:0.6502378957489644
+top_n: 20 Topic Num: 15 
+Topic Words: [['slide', 'ring', 'wheel', 'wear', 'animal', 'commenter', 'snipe', 'generate', 'laser', 'regard', 'contemporary', 'leave', 'reproduce', 'priest', 'dominate', 'additionally', 'z', 'form', 'mag', 'uh']]
+Coh_type:c_v  Topic Num:15 COH score:0.7490563729399016
+top_n: 10 Topic Num: 16 
+Topic Words: [['ring', 'wheel', 'reuse', 'snipe', 'dominate', 'logically', 'paint', 'heart', 'slide', 'stick']]
+Coh_type:c_v  Topic Num:16 COH score:0.67327118305387
+top_n: 20 Topic Num: 16 
+Topic Words: [['ring', 'wheel', 'reuse', 'snipe', 'dominate', 'logically', 'paint', 'heart', 'slide', 'stick', 'wear', 'reality', 'confirm', 'curse', 'leave', 'generate', 'journalist', 'regard', 'nuts', 'commenter']]
+Coh_type:c_v  Topic Num:16 COH score:0.7509644516180936
+top_n: 10 Topic Num: 17 
+Topic Words: [['stick', 'wheel', 'reality', 'reuse', 'heart', 'paint', 'confirm', 'dominate', 'special', 'ability']]
+Coh_type:c_v  Topic Num:17 COH score:0.6065228489950093
+top_n: 20 Topic Num: 17 
+Topic Words: [['stick', 'wheel', 'reality', 'reuse', 'heart', 'paint', 'confirm', 'dominate', 'special', 'ability', 'celibacy', 'journalist', 'chemical', 'finance', 'leave', 'fan', 'attend', 'cent', 'asset', 'forth']]
+Coh_type:c_v  Topic Num:17 COH score:0.7175992714965271
+top_n: 10 Topic Num: 18 
+Topic Words: [['ring', 'slide', 'wear', 'wheel', 'commenter', 'snipe', 'animal', 'laser', 'regard', 'length']]
+Coh_type:c_v  Topic Num:18 COH score:0.6792869948912461
+top_n: 20 Topic Num: 18 
+Topic Words: [['ring', 'slide', 'wear', 'wheel', 'commenter', 'snipe', 'animal', 'laser', 'regard', 'length', 'dominate', 'contemporary', 'additionally', 'reproduce', 'priest', 'generate', 'uh', 'mag', 'deep', 'form']]
+Coh_type:c_v  Topic Num:18 COH score:0.7694893864926163
+top_n: 10 Topic Num: 19 
+Topic Words: [['ring', 'slide', 'wear', 'length', 'snipe', 'wheel', 'dominate', 'laser', 'commenter', 'regard']]
+Coh_type:c_v  Topic Num:19 COH score:0.675866504666365
+top_n: 20 Topic Num: 19 
+Topic Words: [['ring', 'slide', 'wear', 'length', 'snipe', 'wheel', 'dominate', 'laser', 'commenter', 'regard', 'sentence', 'additionally', 'reproduce', 'contemporary', 'priest', 'animal', 'form', 'generate', 'deep', 'steel']]
+Coh_type:c_v  Topic Num:19 COH score:0.7524479478283127
+top_n: 10 Topic Num: 20 
+Topic Words: [['ring', 'slide', 'wear', 'wheel', 'snipe', 'length', 'dominate', 'laser', 'commenter', 'regard']]
+Coh_type:c_v  Topic Num:20 COH score:0.675866504666365
+top_n: 20 Topic Num: 20 
+Topic Words: [['ring', 'slide', 'wear', 'wheel', 'snipe', 'length', 'dominate', 'laser', 'commenter', 'regard', 'additionally', 'contemporary', 'reproduce', 'animal', 'sentence', 'priest', 'form', 'uh', 'generate', 'deep']]
+Coh_type:c_v  Topic Num:20 COH score:0.7595965870225773
+top_n: 10 Topic Num: 21 
+Topic Words: [['slide', 'ring', 'animal', 'wear', 'wheel', 'reproduce', 'leave', 'mag', 'commenter', 'typical']]
+Coh_type:c_v  Topic Num:21 COH score:0.647288996056971
+top_n: 20 Topic Num: 21 
+Topic Words: [['slide', 'ring', 'animal', 'wear', 'wheel', 'reproduce', 'leave', 'mag', 'commenter', 'typical', 'water', 'form', 'generate', 'wave', 'regard', 'snipe', 'z', 'contemporary', 'beginning', 'laser']]
+Coh_type:c_v  Topic Num:21 COH score:0.7241307944025699
+top_n: 10 Topic Num: 22 
+Topic Words: [['slide', 'animal', 'ring', 'wear', 'wheel', 'reproduce', 'leave', 'form', 'typical', 'mag']]
+Coh_type:c_v  Topic Num:22 COH score:0.612673283075878
+top_n: 20 Topic Num: 22 
+Topic Words: [['slide', 'animal', 'ring', 'wear', 'wheel', 'reproduce', 'leave', 'form', 'typical', 'mag', 'water', 'commenter', 'generate', 'regard', 'jack', 'deny', 'bear', 'wave', 'snipe', 'z']]
+Coh_type:c_v  Topic Num:22 COH score:0.6963981623357892
+top_n: 10 Topic Num: 23 
+Topic Words: [['guarantee', 'partner', 'lt', 'username', 'karma', 'immediate', 'skip', 'anyways', 'ah', 'potential']]
+Coh_type:c_v  Topic Num:23 COH score:0.5278115687337823
+top_n: 20 Topic Num: 23 
+Topic Words: [['guarantee', 'partner', 'lt', 'username', 'karma', 'immediate', 'skip', 'anyways', 'ah', 'potential', 'mic', 'past', 'collector', 'beneficial', 'jesus', 'informative', 'optimal', 'daily', 'elementary', 'test']]
+Coh_type:c_v  Topic Num:23 COH score:0.660253010449915
+top_n: 10 Topic Num: 24 
+Topic Words: [['slide', 'ring', 'animal', 'wear', 'wheel', 'reproduce', 'leave', 'mag', 'commenter', 'typical']]
+Coh_type:c_v  Topic Num:24 COH score:0.647288996056971
+top_n: 20 Topic Num: 24 
+Topic Words: [['slide', 'ring', 'animal', 'wear', 'wheel', 'reproduce', 'leave', 'mag', 'commenter', 'typical', 'water', 'form', 'generate', 'wave', 'regard', 'snipe', 'z', 'contemporary', 'beginning', 'laser']]
+Coh_type:c_v  Topic Num:24 COH score:0.7241307944025699
+top_n: 10 Topic Num: 25 
+Topic Words: [['slide', 'ring', 'wheel', 'animal', 'wear', 'commenter', 'generate', 'leave', 'snipe', 'form']]
+Coh_type:c_v  Topic Num:25 COH score:0.6013671239934618
+top_n: 20 Topic Num: 25 
+Topic Words: [['slide', 'ring', 'wheel', 'animal', 'wear', 'commenter', 'generate', 'leave', 'snipe', 'form', 'regard', 'laser', 'contemporary', 'reproduce', 'z', 'mag', 'priest', 'dominate', 'additionally', 'uh']]
+Coh_type:c_v  Topic Num:25 COH score:0.7490563729399018
+top_n: 10 Topic Num: 26 
+Topic Words: [['ring', 'slide', 'wear', 'wheel', 'commenter', 'animal', 'snipe', 'regard', 'laser', 'contemporary']]
+Coh_type:c_v  Topic Num:26 COH score:0.6912933960545307
+top_n: 20 Topic Num: 26 
+Topic Words: [['ring', 'slide', 'wear', 'wheel', 'commenter', 'animal', 'snipe', 'regard', 'laser', 'contemporary', 'additionally', 'dominate', 'length', 'reproduce', 'priest', 'generate', 'uh', 'mag', 'deep', 'curse']]
+Coh_type:c_v  Topic Num:26 COH score:0.795664544297455
+top_n: 10 Topic Num: 27 
+Topic Words: [['ring', 'slide', 'wear', 'wheel', 'commenter', 'snipe', 'laser', 'regard', 'animal', 'length']]
+Coh_type:c_v  Topic Num:27 COH score:0.679286994891246
+top_n: 20 Topic Num: 27 
+Topic Words: [['ring', 'slide', 'wear', 'wheel', 'commenter', 'snipe', 'laser', 'regard', 'animal', 'length', 'dominate', 'contemporary', 'additionally', 'reproduce', 'priest', 'uh', 'form', 'mag', 'generate', 'deep']]
+Coh_type:c_v  Topic Num:27 COH score:0.7694893864926163
+top_n: 10 Topic Num: 28 
+Topic Words: [['wheel', 'reuse', 'ring', 'dominate', 'logically', 'stick', 'snipe', 'paint', 'heart', 'reality']]
+Coh_type:c_v  Topic Num:28 COH score:0.6430641709592482
+top_n: 20 Topic Num: 28 
+Topic Words: [['wheel', 'reuse', 'ring', 'dominate', 'logically', 'stick', 'snipe', 'paint', 'heart', 'reality', 'wear', 'confirm', 'slide', 'leave', 'curse', 'nuts', 'journalist', 'trash', 'chemical', 'generate']]
+Coh_type:c_v  Topic Num:28 COH score:0.7297390725242042
+top_n: 10 Topic Num: 29 
+Topic Words: [['ring', 'slide', 'wear', 'wheel', 'commenter', 'snipe', 'animal', 'laser', 'regard', 'length']]
+Coh_type:c_v  Topic Num:29 COH score:0.6792869948912461
+top_n: 20 Topic Num: 29 
+Topic Words: [['ring', 'slide', 'wear', 'wheel', 'commenter', 'snipe', 'animal', 'laser', 'regard', 'length', 'dominate', 'contemporary', 'additionally', 'reproduce', 'priest', 'uh', 'mag', 'form', 'generate', 'deep']]
+Coh_type:c_v  Topic Num:29 COH score:0.7694893864926163
+top_n: 10 Topic Num: 30 
+Topic Words: [['slide', 'ring', 'animal', 'wear', 'wheel', 'leave', 'reproduce', 'form', 'typical', 'water']]
+Coh_type:c_v  Topic Num:30 COH score:0.5729356739560718
+top_n: 20 Topic Num: 30 
+Topic Words: [['slide', 'ring', 'animal', 'wear', 'wheel', 'leave', 'reproduce', 'form', 'typical', 'water', 'mag', 'commenter', 'generate', 'deny', 'jack', 'regard', 'bear', 'wave', 'snipe', 'z']]
+Coh_type:c_v  Topic Num:30 COH score:0.6963981623357892
+top_n: 10 Topic Num: 31 
+Topic Words: [['guarantee', 'partner', 'karma', 'username', 'lt', 'immediate', 'skip', 'anyways', 'beneficial', 'potential']]
+Coh_type:c_v  Topic Num:31 COH score:0.5327790861205063
+top_n: 20 Topic Num: 31 
+Topic Words: [['guarantee', 'partner', 'karma', 'username', 'lt', 'immediate', 'skip', 'anyways', 'beneficial', 'potential', 'collector', 'mic', 'ah', 'informative', 'clue', 'jesus', 'daily', 'past', 'optimal', 'elementary']]
+Coh_type:c_v  Topic Num:31 COH score:0.6827168717274688
+top_n: 10 Topic Num: 32 
+Topic Words: [['ring', 'slide', 'wear', 'wheel', 'commenter', 'snipe', 'animal', 'regard', 'laser', 'length']]
+Coh_type:c_v  Topic Num:32 COH score:0.6792869948912461
+top_n: 20 Topic Num: 32 
+Topic Words: [['ring', 'slide', 'wear', 'wheel', 'commenter', 'snipe', 'animal', 'regard', 'laser', 'length', 'contemporary', 'dominate', 'additionally', 'reproduce', 'priest', 'generate', 'uh', 'mag', 'deep', 'form']]
+Coh_type:c_v  Topic Num:32 COH score:0.7694893864926163
+top_n: 10 Topic Num: 33 
+Topic Words: [['ring', 'slide', 'wear', 'wheel', 'commenter', 'animal', 'snipe', 'regard', 'laser', 'contemporary']]
+Coh_type:c_v  Topic Num:33 COH score:0.6912933960545307
+top_n: 20 Topic Num: 33 
+Topic Words: [['ring', 'slide', 'wear', 'wheel', 'commenter', 'animal', 'snipe', 'regard', 'laser', 'contemporary', 'additionally', 'dominate', 'length', 'reproduce', 'priest', 'generate', 'uh', 'mag', 'deep', 'curse']]
+Coh_type:c_v  Topic Num:33 COH score:0.795664544297455
+top_n: 10 Topic Num: 34 
+Topic Words: [['ring', 'wheel', 'snipe', 'reuse', 'dominate', 'logically', 'paint', 'slide', 'heart', 'wear']]
+Coh_type:c_v  Topic Num:34 COH score:0.6969594453894484
+top_n: 20 Topic Num: 34 
+Topic Words: [['ring', 'wheel', 'snipe', 'reuse', 'dominate', 'logically', 'paint', 'slide', 'heart', 'wear', 'stick', 'confirm', 'curse', 'reality', 'leave', 'generate', 'regard', 'commenter', 'journalist', 'nuts']]
+Coh_type:c_v  Topic Num:34 COH score:0.7509644516180937
+top_n: 10 Topic Num: 35 
+Topic Words: [['ring', 'slide', 'length', 'wear', 'snipe', 'wheel', 'dominate', 'sentence', 'laser', 'regard']]
+Coh_type:c_v  Topic Num:35 COH score:0.6890873600397458
+top_n: 20 Topic Num: 35 
+Topic Words: [['ring', 'slide', 'length', 'wear', 'snipe', 'wheel', 'dominate', 'sentence', 'laser', 'regard', 'commenter', 'strike', 'additionally', 'reproduce', 'steel', 'paint', 'reuse', 'curse', 'generate', 'confirm']]
+Coh_type:c_v  Topic Num:35 COH score:0.7942738141446557
+top_n: 10 Topic Num: 36 
+Topic Words: [['slide', 'ring', 'wheel', 'animal', 'wear', 'commenter', 'leave', 'form', 'generate', 'snipe']]
+Coh_type:c_v  Topic Num:36 COH score:0.6013671239934617
+top_n: 20 Topic Num: 36 
+Topic Words: [['slide', 'ring', 'wheel', 'animal', 'wear', 'commenter', 'leave', 'form', 'generate', 'snipe', 'mag', 'regard', 'z', 'contemporary', 'laser', 'reproduce', 'water', 'priest', 'beginning', 'sky']]
+Coh_type:c_v  Topic Num:36 COH score:0.723268702015492
+top_n: 10 Topic Num: 37 
+Topic Words: [['ring', 'slide', 'wear', 'wheel', 'commenter', 'animal', 'snipe', 'regard', 'laser', 'contemporary']]
+Coh_type:c_v  Topic Num:37 COH score:0.6912933960545307
+top_n: 20 Topic Num: 37 
+Topic Words: [['ring', 'slide', 'wear', 'wheel', 'commenter', 'animal', 'snipe', 'regard', 'laser', 'contemporary', 'additionally', 'dominate', 'length', 'reproduce', 'priest', 'generate', 'uh', 'mag', 'deep', 'curse']]
+Coh_type:c_v  Topic Num:37 COH score:0.795664544297455
+top_n: 10 Topic Num: 38 
+Topic Words: [['ring', 'slide', 'wear', 'wheel', 'snipe', 'commenter', 'laser', 'length', 'regard', 'dominate']]
+Coh_type:c_v  Topic Num:38 COH score:0.675866504666365
+top_n: 20 Topic Num: 38 
+Topic Words: [['ring', 'slide', 'wear', 'wheel', 'snipe', 'commenter', 'laser', 'length', 'regard', 'dominate', 'animal', 'contemporary', 'additionally', 'reproduce', 'priest', 'form', 'uh', 'mag', 'deep', 'generate']]
+Coh_type:c_v  Topic Num:38 COH score:0.7694893864926164
+top_n: 10 Topic Num: 39 
+Topic Words: [['slide', 'ring', 'wheel', 'animal', 'wear', 'commenter', 'generate', 'snipe', 'leave', 'form']]
+Coh_type:c_v  Topic Num:39 COH score:0.6013671239934618
+top_n: 20 Topic Num: 39 
+Topic Words: [['slide', 'ring', 'wheel', 'animal', 'wear', 'commenter', 'generate', 'snipe', 'leave', 'form', 'regard', 'laser', 'contemporary', 'reproduce', 'z', 'priest', 'mag', 'dominate', 'additionally', 'uh']]
+Coh_type:c_v  Topic Num:39 COH score:0.7490563729399018
+top_n: 10 Topic Num: 40 
+Topic Words: [['guarantee', 'lt', 'partner', 'username', 'karma', 'skip', 'immediate', 'ah', 'past', 'anyways']]
+Coh_type:c_v  Topic Num:40 COH score:0.49910388932541316
+top_n: 20 Topic Num: 40 
+Topic Words: [['guarantee', 'lt', 'partner', 'username', 'karma', 'skip', 'immediate', 'ah', 'past', 'anyways', 'mic', 'potential', 'collector', 'beneficial', 'jesus', 'optimal', 'test', 'elementary', 'iraqi', 'depreciation']]
+Coh_type:c_v  Topic Num:40 COH score:0.6721400199935642
+top_n: 10 Topic Num: 41 
+Topic Words: [['slide', 'ring', 'wheel', 'wear', 'animal', 'commenter', 'generate', 'snipe', 'leave', 'regard']]
+Coh_type:c_v  Topic Num:41 COH score:0.6459450547508644
+top_n: 20 Topic Num: 41 
+Topic Words: [['slide', 'ring', 'wheel', 'wear', 'animal', 'commenter', 'generate', 'snipe', 'leave', 'regard', 'laser', 'form', 'contemporary', 'reproduce', 'z', 'priest', 'dominate', 'mag', 'additionally', 'uh']]
+Coh_type:c_v  Topic Num:41 COH score:0.7490563729399015
+top_n: 10 Topic Num: 42 
+Topic Words: [['ring', 'snipe', 'wheel', 'dominate', 'slide', 'reuse', 'paint', 'wear', 'heart', 'stick']]
+Coh_type:c_v  Topic Num:42 COH score:0.6660157010616218
+top_n: 20 Topic Num: 42 
+Topic Words: [['ring', 'snipe', 'wheel', 'dominate', 'slide', 'reuse', 'paint', 'wear', 'heart', 'stick', 'confirm', 'curse', 'logically', 'generate', 'length', 'commenter', 'regard', 'reality', 'leave', 'strike']]
+Coh_type:c_v  Topic Num:42 COH score:0.7417685594680313
+top_n: 10 Topic Num: 43 
+Topic Words: [['ring', 'slide', 'wear', 'wheel', 'commenter', 'animal', 'snipe', 'regard', 'laser', 'contemporary']]
+Coh_type:c_v  Topic Num:43 COH score:0.6912933960545307
+top_n: 20 Topic Num: 43 
+Topic Words: [['ring', 'slide', 'wear', 'wheel', 'commenter', 'animal', 'snipe', 'regard', 'laser', 'contemporary', 'additionally', 'dominate', 'length', 'reproduce', 'priest', 'generate', 'mag', 'uh', 'deep', 'curse']]
+Coh_type:c_v  Topic Num:43 COH score:0.795664544297455
+top scores for top_10:[0.6969594453894484, 10, [['ring', 'snipe', 'wheel', 'dominate', 'reuse', 'slide', 'logically', 'paint', 'heart', 'wear']]]
+-------------------------------------------------------------------
+top scores for top_20:[0.795664544297455, 20, [['ring', 'slide', 'wear', 'wheel', 'commenter', 'animal', 'snipe', 'regard', 'laser', 'contemporary', 'additionally', 'dominate', 'length', 'reproduce', 'priest', 'generate', 'uh', 'mag', 'deep', 'curse']]]
+-------------------------------------------------------------------
+Avg COH for top_10 topic words: 0.6374224824386738
+-------------------------------------------------------------------
+Avg COH for top_20 topic words: 0.7395763919168515
+-------------------------------------------------------------------

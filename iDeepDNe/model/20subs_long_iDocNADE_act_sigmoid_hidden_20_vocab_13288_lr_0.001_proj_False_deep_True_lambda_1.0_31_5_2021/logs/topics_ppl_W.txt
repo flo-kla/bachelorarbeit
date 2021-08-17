@@ -1,0 +1,100 @@
+h_num: 0
+w_h_top_words_indx: [ 6438 12540  5780  8530  6949   536  5059  9992 11591   593   482  3292
+  6026    45 11264  8619  1165  4398  1840  7501]
+w_h_top_words:['karma', 'username', 'immediate', 'partner', 'lt', 'anyways', 'guarantee', 'resubmit', 'swap', 'approve', 'anki', 'donation', 'innovation', 'abuse', 'starting', 'pedantic', 'bitch', 'fornicate', 'chill', 'mob']
+----------------------------------------------------------------------
+h_num: 1
+w_h_top_words_indx: [ 6438 12540  5780  6949  8530  5059   536 11591  9992   593  3292   482
+  6026  8619  4398    45  1165 11264  1840  7501]
+w_h_top_words:['karma', 'username', 'immediate', 'lt', 'partner', 'guarantee', 'anyways', 'swap', 'resubmit', 'approve', 'donation', 'anki', 'innovation', 'pedantic', 'fornicate', 'abuse', 'bitch', 'starting', 'chill', 'mob']
+----------------------------------------------------------------------
+h_num: 2
+w_h_top_words_indx: [ 6438 12540  5780  6949  8530  5059 11591   536  9992   593  3292  6026
+   482  4398  8619  7501  1840  1165  4343 11264]
+w_h_top_words:['karma', 'username', 'immediate', 'lt', 'partner', 'guarantee', 'swap', 'anyways', 'resubmit', 'approve', 'donation', 'innovation', 'anki', 'fornicate', 'pedantic', 'mob', 'chill', 'bitch', 'font', 'starting']
+----------------------------------------------------------------------
+h_num: 3
+w_h_top_words_indx: [ 6438 12540  8530  5780  6949   536  9992  5059 11591   593  3292  6026
+   482    45 11264  1165  8619  1840  4398  4343]
+w_h_top_words:['karma', 'username', 'partner', 'immediate', 'lt', 'anyways', 'resubmit', 'guarantee', 'swap', 'approve', 'donation', 'innovation', 'anki', 'abuse', 'starting', 'bitch', 'pedantic', 'chill', 'fornicate', 'font']
+----------------------------------------------------------------------
+h_num: 4
+w_h_top_words_indx: [ 6438 12540  8530  5780  6949  9992   536  5059   593   250  8760    45
+ 11591  3292  6599 11264 13111  1165  6026  4343]
+w_h_top_words:['karma', 'username', 'partner', 'immediate', 'lt', 'resubmit', 'anyways', 'guarantee', 'approve', 'ahead', 'phone', 'abuse', 'swap', 'donation', 'laptop', 'starting', 'worth', 'bitch', 'innovation', 'font']
+----------------------------------------------------------------------
+h_num: 5
+w_h_top_words_indx: [ 6438 12540  5780  8530  6949  5059 11591   536   593  9992  3292  6026
+   482  4398  8619  4343  7501  1840 12881 11264]
+w_h_top_words:['karma', 'username', 'immediate', 'partner', 'lt', 'guarantee', 'swap', 'anyways', 'approve', 'resubmit', 'donation', 'innovation', 'anki', 'fornicate', 'pedantic', 'font', 'mob', 'chill', 'wd', 'starting']
+----------------------------------------------------------------------
+h_num: 6
+w_h_top_words_indx: [ 6438 12540  8530  5780  6949  9992   536  5059   593 11591    45  8760
+  3292   250 11264  1165  6026  6599   482  4343]
+w_h_top_words:['karma', 'username', 'partner', 'immediate', 'lt', 'resubmit', 'anyways', 'guarantee', 'approve', 'swap', 'abuse', 'phone', 'donation', 'ahead', 'starting', 'bitch', 'innovation', 'laptop', 'anki', 'font']
+----------------------------------------------------------------------
+h_num: 7
+w_h_top_words_indx: [ 6438 12540  5780  6949  8530  5059   536 11591  9992   593  3292  6026
+   482  8619  4398  1165    45 11264  1840  7501]
+w_h_top_words:['karma', 'username', 'immediate', 'lt', 'partner', 'guarantee', 'anyways', 'swap', 'resubmit', 'approve', 'donation', 'innovation', 'anki', 'pedantic', 'fornicate', 'bitch', 'abuse', 'starting', 'chill', 'mob']
+----------------------------------------------------------------------
+h_num: 8
+w_h_top_words_indx: [ 6438 12540  8530  5780  6949  9992   536  5059   593   250  8760    45
+ 11591  3292  6599 11264 13111  1165  6026  4343]
+w_h_top_words:['karma', 'username', 'partner', 'immediate', 'lt', 'resubmit', 'anyways', 'guarantee', 'approve', 'ahead', 'phone', 'abuse', 'swap', 'donation', 'laptop', 'starting', 'worth', 'bitch', 'innovation', 'font']
+----------------------------------------------------------------------
+h_num: 9
+w_h_top_words_indx: [ 6438 12540  8530  5780  6949   536  9992  5059   593 11591    45  3292
+  6026 11264   482  1165  8619  4343  8760  6599]
+w_h_top_words:['karma', 'username', 'partner', 'immediate', 'lt', 'anyways', 'resubmit', 'guarantee', 'approve', 'swap', 'abuse', 'donation', 'innovation', 'starting', 'anki', 'bitch', 'pedantic', 'font', 'phone', 'laptop']
+----------------------------------------------------------------------
+h_num: 10
+w_h_top_words_indx: [ 6438 12540  5780  8530  6949  5059 11591   536   593  3292  6026  9992
+   482  4398  4343  7501  1840 12881  8619 11264]
+w_h_top_words:['karma', 'username', 'immediate', 'partner', 'lt', 'guarantee', 'swap', 'anyways', 'approve', 'donation', 'innovation', 'resubmit', 'anki', 'fornicate', 'font', 'mob', 'chill', 'wd', 'pedantic', 'starting']
+----------------------------------------------------------------------
+h_num: 11
+w_h_top_words_indx: [ 6438 12540  5780  6949  8530  5059 11591   536  9992   593  3292  6026
+   482  4398  8619  1165  1840  7501    45 11264]
+w_h_top_words:['karma', 'username', 'immediate', 'lt', 'partner', 'guarantee', 'swap', 'anyways', 'resubmit', 'approve', 'donation', 'innovation', 'anki', 'fornicate', 'pedantic', 'bitch', 'chill', 'mob', 'abuse', 'starting']
+----------------------------------------------------------------------
+h_num: 12
+w_h_top_words_indx: [ 6438 12540  5780  8530  6949   536  5059  9992 11591   593   482  3292
+  6026    45 11264  8619  1165  4398  1840  7501]
+w_h_top_words:['karma', 'username', 'immediate', 'partner', 'lt', 'anyways', 'guarantee', 'resubmit', 'swap', 'approve', 'anki', 'donation', 'innovation', 'abuse', 'starting', 'pedantic', 'bitch', 'fornicate', 'chill', 'mob']
+----------------------------------------------------------------------
+h_num: 13
+w_h_top_words_indx: [ 6438 12540  5780  8530  6949   536  5059  9992 11591   593  3292   482
+  6026    45 11264  1165  8619  1840  4398  4343]
+w_h_top_words:['karma', 'username', 'immediate', 'partner', 'lt', 'anyways', 'guarantee', 'resubmit', 'swap', 'approve', 'donation', 'anki', 'innovation', 'abuse', 'starting', 'bitch', 'pedantic', 'chill', 'fornicate', 'font']
+----------------------------------------------------------------------
+h_num: 14
+w_h_top_words_indx: [ 6438 12540  5780  6949  8530  5059   536 11591  9992   593  3292  6026
+   482  4398  8619  1165  1840    45 11264  7501]
+w_h_top_words:['karma', 'username', 'immediate', 'lt', 'partner', 'guarantee', 'anyways', 'swap', 'resubmit', 'approve', 'donation', 'innovation', 'anki', 'fornicate', 'pedantic', 'bitch', 'chill', 'abuse', 'starting', 'mob']
+----------------------------------------------------------------------
+h_num: 15
+w_h_top_words_indx: [ 6438 12540  8530  5780  6949   536  9992  5059   593 11591  3292    45
+  6026   482 11264  1165  8619  4343  1840  4398]
+w_h_top_words:['karma', 'username', 'partner', 'immediate', 'lt', 'anyways', 'resubmit', 'guarantee', 'approve', 'swap', 'donation', 'abuse', 'innovation', 'anki', 'starting', 'bitch', 'pedantic', 'font', 'chill', 'fornicate']
+----------------------------------------------------------------------
+h_num: 16
+w_h_top_words_indx: [ 6438 12540  8530  5780  6949  9992   536  5059   593 11591    45  3292
+ 11264  6026  8760  1165   482  6599  4343  8619]
+w_h_top_words:['karma', 'username', 'partner', 'immediate', 'lt', 'resubmit', 'anyways', 'guarantee', 'approve', 'swap', 'abuse', 'donation', 'starting', 'innovation', 'phone', 'bitch', 'anki', 'laptop', 'font', 'pedantic']
+----------------------------------------------------------------------
+h_num: 17
+w_h_top_words_indx: [ 6438 12540  5780  6949  8530  5059   536 11591  9992   593  3292   482
+  6026  8619  4398    45  1165 11264  1840  7501]
+w_h_top_words:['karma', 'username', 'immediate', 'lt', 'partner', 'guarantee', 'anyways', 'swap', 'resubmit', 'approve', 'donation', 'anki', 'innovation', 'pedantic', 'fornicate', 'abuse', 'bitch', 'starting', 'chill', 'mob']
+----------------------------------------------------------------------
+h_num: 18
+w_h_top_words_indx: [ 6438 12540  5780  8530  6949  5059   536 11591  9992   593   482  3292
+  6026    45 11264  8619  1165  4398  1840  7501]
+w_h_top_words:['karma', 'username', 'immediate', 'partner', 'lt', 'guarantee', 'anyways', 'swap', 'resubmit', 'approve', 'anki', 'donation', 'innovation', 'abuse', 'starting', 'pedantic', 'bitch', 'fornicate', 'chill', 'mob']
+----------------------------------------------------------------------
+h_num: 19
+w_h_top_words_indx: [ 6438 12540  5780  6949  8530  5059   536 11591  9992   593   482  3292
+  6026  8619    45 11264  1165  4398  1840  7501]
+w_h_top_words:['karma', 'username', 'immediate', 'lt', 'partner', 'guarantee', 'anyways', 'swap', 'resubmit', 'approve', 'anki', 'donation', 'innovation', 'pedantic', 'abuse', 'starting', 'bitch', 'fornicate', 'chill', 'mob']
+----------------------------------------------------------------------

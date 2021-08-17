@@ -1,0 +1,128 @@
+top_n: 10 Topic Num: 1 
+Topic Words: [['karma', 'username', 'immediate', 'partner', 'lt', 'anyways', 'guarantee', 'resubmit', 'swap', 'approve']]
+Coh_type:c_v  Topic Num:1 COH score:0.5439422503516634
+top_n: 20 Topic Num: 1 
+Topic Words: [['karma', 'username', 'immediate', 'partner', 'lt', 'anyways', 'guarantee', 'resubmit', 'swap', 'approve', 'anki', 'donation', 'innovation', 'abuse', 'starting', 'pedantic', 'bitch', 'fornicate', 'chill', 'mob']]
+Coh_type:c_v  Topic Num:1 COH score:0.6674411103463141
+top_n: 10 Topic Num: 2 
+Topic Words: [['karma', 'username', 'immediate', 'lt', 'partner', 'guarantee', 'anyways', 'swap', 'resubmit', 'approve']]
+Coh_type:c_v  Topic Num:2 COH score:0.5439422503516635
+top_n: 20 Topic Num: 2 
+Topic Words: [['karma', 'username', 'immediate', 'lt', 'partner', 'guarantee', 'anyways', 'swap', 'resubmit', 'approve', 'donation', 'anki', 'innovation', 'pedantic', 'fornicate', 'abuse', 'bitch', 'starting', 'chill', 'mob']]
+Coh_type:c_v  Topic Num:2 COH score:0.6674411103463143
+top_n: 10 Topic Num: 3 
+Topic Words: [['karma', 'username', 'immediate', 'lt', 'partner', 'guarantee', 'swap', 'anyways', 'resubmit', 'approve']]
+Coh_type:c_v  Topic Num:3 COH score:0.5439422503516634
+top_n: 20 Topic Num: 3 
+Topic Words: [['karma', 'username', 'immediate', 'lt', 'partner', 'guarantee', 'swap', 'anyways', 'resubmit', 'approve', 'donation', 'innovation', 'anki', 'fornicate', 'pedantic', 'mob', 'chill', 'bitch', 'font', 'starting']]
+Coh_type:c_v  Topic Num:3 COH score:0.6724498987926887
+top_n: 10 Topic Num: 4 
+Topic Words: [['karma', 'username', 'partner', 'immediate', 'lt', 'anyways', 'resubmit', 'guarantee', 'swap', 'approve']]
+Coh_type:c_v  Topic Num:4 COH score:0.5439422503516634
+top_n: 20 Topic Num: 4 
+Topic Words: [['karma', 'username', 'partner', 'immediate', 'lt', 'anyways', 'resubmit', 'guarantee', 'swap', 'approve', 'donation', 'innovation', 'anki', 'abuse', 'starting', 'bitch', 'pedantic', 'chill', 'fornicate', 'font']]
+Coh_type:c_v  Topic Num:4 COH score:0.6654242882057181
+top_n: 10 Topic Num: 5 
+Topic Words: [['karma', 'username', 'partner', 'immediate', 'lt', 'resubmit', 'anyways', 'guarantee', 'approve', 'ahead']]
+Coh_type:c_v  Topic Num:5 COH score:0.5257432286926209
+top_n: 20 Topic Num: 5 
+Topic Words: [['karma', 'username', 'partner', 'immediate', 'lt', 'resubmit', 'anyways', 'guarantee', 'approve', 'ahead', 'phone', 'abuse', 'swap', 'donation', 'laptop', 'starting', 'worth', 'bitch', 'innovation', 'font']]
+Coh_type:c_v  Topic Num:5 COH score:0.6461281333554408
+top_n: 10 Topic Num: 6 
+Topic Words: [['karma', 'username', 'immediate', 'partner', 'lt', 'guarantee', 'swap', 'anyways', 'approve', 'resubmit']]
+Coh_type:c_v  Topic Num:6 COH score:0.5439422503516635
+top_n: 20 Topic Num: 6 
+Topic Words: [['karma', 'username', 'immediate', 'partner', 'lt', 'guarantee', 'swap', 'anyways', 'approve', 'resubmit', 'donation', 'innovation', 'anki', 'fornicate', 'pedantic', 'font', 'mob', 'chill', 'wd', 'starting']]
+Coh_type:c_v  Topic Num:6 COH score:0.693852329914182
+top_n: 10 Topic Num: 7 
+Topic Words: [['karma', 'username', 'partner', 'immediate', 'lt', 'resubmit', 'anyways', 'guarantee', 'approve', 'swap']]
+Coh_type:c_v  Topic Num:7 COH score:0.5439422503516635
+top_n: 20 Topic Num: 7 
+Topic Words: [['karma', 'username', 'partner', 'immediate', 'lt', 'resubmit', 'anyways', 'guarantee', 'approve', 'swap', 'abuse', 'phone', 'donation', 'ahead', 'starting', 'bitch', 'innovation', 'laptop', 'anki', 'font']]
+Coh_type:c_v  Topic Num:7 COH score:0.6522474165141252
+top_n: 10 Topic Num: 8 
+Topic Words: [['karma', 'username', 'immediate', 'lt', 'partner', 'guarantee', 'anyways', 'swap', 'resubmit', 'approve']]
+Coh_type:c_v  Topic Num:8 COH score:0.5439422503516635
+top_n: 20 Topic Num: 8 
+Topic Words: [['karma', 'username', 'immediate', 'lt', 'partner', 'guarantee', 'anyways', 'swap', 'resubmit', 'approve', 'donation', 'innovation', 'anki', 'pedantic', 'fornicate', 'bitch', 'abuse', 'starting', 'chill', 'mob']]
+Coh_type:c_v  Topic Num:8 COH score:0.6674411103463143
+top_n: 10 Topic Num: 9 
+Topic Words: [['karma', 'username', 'partner', 'immediate', 'lt', 'resubmit', 'anyways', 'guarantee', 'approve', 'ahead']]
+Coh_type:c_v  Topic Num:9 COH score:0.5257432286926209
+top_n: 20 Topic Num: 9 
+Topic Words: [['karma', 'username', 'partner', 'immediate', 'lt', 'resubmit', 'anyways', 'guarantee', 'approve', 'ahead', 'phone', 'abuse', 'swap', 'donation', 'laptop', 'starting', 'worth', 'bitch', 'innovation', 'font']]
+Coh_type:c_v  Topic Num:9 COH score:0.6461281333554408
+top_n: 10 Topic Num: 10 
+Topic Words: [['karma', 'username', 'partner', 'immediate', 'lt', 'anyways', 'resubmit', 'guarantee', 'approve', 'swap']]
+Coh_type:c_v  Topic Num:10 COH score:0.5439422503516635
+top_n: 20 Topic Num: 10 
+Topic Words: [['karma', 'username', 'partner', 'immediate', 'lt', 'anyways', 'resubmit', 'guarantee', 'approve', 'swap', 'abuse', 'donation', 'innovation', 'starting', 'anki', 'bitch', 'pedantic', 'font', 'phone', 'laptop']]
+Coh_type:c_v  Topic Num:10 COH score:0.6533464695573692
+top_n: 10 Topic Num: 11 
+Topic Words: [['karma', 'username', 'immediate', 'partner', 'lt', 'guarantee', 'swap', 'anyways', 'approve', 'donation']]
+Coh_type:c_v  Topic Num:11 COH score:0.5447470446669496
+top_n: 20 Topic Num: 11 
+Topic Words: [['karma', 'username', 'immediate', 'partner', 'lt', 'guarantee', 'swap', 'anyways', 'approve', 'donation', 'innovation', 'resubmit', 'anki', 'fornicate', 'font', 'mob', 'chill', 'wd', 'pedantic', 'starting']]
+Coh_type:c_v  Topic Num:11 COH score:0.6938523299141821
+top_n: 10 Topic Num: 12 
+Topic Words: [['karma', 'username', 'immediate', 'lt', 'partner', 'guarantee', 'swap', 'anyways', 'resubmit', 'approve']]
+Coh_type:c_v  Topic Num:12 COH score:0.5439422503516634
+top_n: 20 Topic Num: 12 
+Topic Words: [['karma', 'username', 'immediate', 'lt', 'partner', 'guarantee', 'swap', 'anyways', 'resubmit', 'approve', 'donation', 'innovation', 'anki', 'fornicate', 'pedantic', 'bitch', 'chill', 'mob', 'abuse', 'starting']]
+Coh_type:c_v  Topic Num:12 COH score:0.6674411103463141
+top_n: 10 Topic Num: 13 
+Topic Words: [['karma', 'username', 'immediate', 'partner', 'lt', 'anyways', 'guarantee', 'resubmit', 'swap', 'approve']]
+Coh_type:c_v  Topic Num:13 COH score:0.5439422503516634
+top_n: 20 Topic Num: 13 
+Topic Words: [['karma', 'username', 'immediate', 'partner', 'lt', 'anyways', 'guarantee', 'resubmit', 'swap', 'approve', 'anki', 'donation', 'innovation', 'abuse', 'starting', 'pedantic', 'bitch', 'fornicate', 'chill', 'mob']]
+Coh_type:c_v  Topic Num:13 COH score:0.6674411103463141
+top_n: 10 Topic Num: 14 
+Topic Words: [['karma', 'username', 'immediate', 'partner', 'lt', 'anyways', 'guarantee', 'resubmit', 'swap', 'approve']]
+Coh_type:c_v  Topic Num:14 COH score:0.5439422503516634
+top_n: 20 Topic Num: 14 
+Topic Words: [['karma', 'username', 'immediate', 'partner', 'lt', 'anyways', 'guarantee', 'resubmit', 'swap', 'approve', 'donation', 'anki', 'innovation', 'abuse', 'starting', 'bitch', 'pedantic', 'chill', 'fornicate', 'font']]
+Coh_type:c_v  Topic Num:14 COH score:0.6654242882057182
+top_n: 10 Topic Num: 15 
+Topic Words: [['karma', 'username', 'immediate', 'lt', 'partner', 'guarantee', 'anyways', 'swap', 'resubmit', 'approve']]
+Coh_type:c_v  Topic Num:15 COH score:0.5439422503516635
+top_n: 20 Topic Num: 15 
+Topic Words: [['karma', 'username', 'immediate', 'lt', 'partner', 'guarantee', 'anyways', 'swap', 'resubmit', 'approve', 'donation', 'innovation', 'anki', 'fornicate', 'pedantic', 'bitch', 'chill', 'abuse', 'starting', 'mob']]
+Coh_type:c_v  Topic Num:15 COH score:0.6674411103463143
+top_n: 10 Topic Num: 16 
+Topic Words: [['karma', 'username', 'partner', 'immediate', 'lt', 'anyways', 'resubmit', 'guarantee', 'approve', 'swap']]
+Coh_type:c_v  Topic Num:16 COH score:0.5439422503516635
+top_n: 20 Topic Num: 16 
+Topic Words: [['karma', 'username', 'partner', 'immediate', 'lt', 'anyways', 'resubmit', 'guarantee', 'approve', 'swap', 'donation', 'abuse', 'innovation', 'anki', 'starting', 'bitch', 'pedantic', 'font', 'chill', 'fornicate']]
+Coh_type:c_v  Topic Num:16 COH score:0.6654242882057181
+top_n: 10 Topic Num: 17 
+Topic Words: [['karma', 'username', 'partner', 'immediate', 'lt', 'resubmit', 'anyways', 'guarantee', 'approve', 'swap']]
+Coh_type:c_v  Topic Num:17 COH score:0.5439422503516635
+top_n: 20 Topic Num: 17 
+Topic Words: [['karma', 'username', 'partner', 'immediate', 'lt', 'resubmit', 'anyways', 'guarantee', 'approve', 'swap', 'abuse', 'donation', 'starting', 'innovation', 'phone', 'bitch', 'anki', 'laptop', 'font', 'pedantic']]
+Coh_type:c_v  Topic Num:17 COH score:0.6533464695573692
+top_n: 10 Topic Num: 18 
+Topic Words: [['karma', 'username', 'immediate', 'lt', 'partner', 'guarantee', 'anyways', 'swap', 'resubmit', 'approve']]
+Coh_type:c_v  Topic Num:18 COH score:0.5439422503516635
+top_n: 20 Topic Num: 18 
+Topic Words: [['karma', 'username', 'immediate', 'lt', 'partner', 'guarantee', 'anyways', 'swap', 'resubmit', 'approve', 'donation', 'anki', 'innovation', 'pedantic', 'fornicate', 'abuse', 'bitch', 'starting', 'chill', 'mob']]
+Coh_type:c_v  Topic Num:18 COH score:0.6674411103463143
+top_n: 10 Topic Num: 19 
+Topic Words: [['karma', 'username', 'immediate', 'partner', 'lt', 'guarantee', 'anyways', 'swap', 'resubmit', 'approve']]
+Coh_type:c_v  Topic Num:19 COH score:0.5439422503516635
+top_n: 20 Topic Num: 19 
+Topic Words: [['karma', 'username', 'immediate', 'partner', 'lt', 'guarantee', 'anyways', 'swap', 'resubmit', 'approve', 'anki', 'donation', 'innovation', 'abuse', 'starting', 'pedantic', 'bitch', 'fornicate', 'chill', 'mob']]
+Coh_type:c_v  Topic Num:19 COH score:0.6674411103463143
+top_n: 10 Topic Num: 20 
+Topic Words: [['karma', 'username', 'immediate', 'lt', 'partner', 'guarantee', 'anyways', 'swap', 'resubmit', 'approve']]
+Coh_type:c_v  Topic Num:20 COH score:0.5439422503516635
+top_n: 20 Topic Num: 20 
+Topic Words: [['karma', 'username', 'immediate', 'lt', 'partner', 'guarantee', 'anyways', 'swap', 'resubmit', 'approve', 'anki', 'donation', 'innovation', 'pedantic', 'abuse', 'starting', 'bitch', 'fornicate', 'chill', 'mob']]
+Coh_type:c_v  Topic Num:20 COH score:0.6674411103463143
+top scores for top_10:[0.5447470446669496, 10, [['karma', 'username', 'immediate', 'partner', 'lt', 'guarantee', 'swap', 'anyways', 'approve', 'donation']]]
+-------------------------------------------------------------------
+top scores for top_20:[0.6938523299141821, 20, [['karma', 'username', 'immediate', 'partner', 'lt', 'guarantee', 'swap', 'anyways', 'approve', 'donation', 'innovation', 'resubmit', 'anki', 'fornicate', 'font', 'mob', 'chill', 'wd', 'pedantic', 'starting']]]
+-------------------------------------------------------------------
+Avg COH for top_10 topic words: 0.5421625879015237
+-------------------------------------------------------------------
+Avg COH for top_20 topic words: 0.6657297019347389
+-------------------------------------------------------------------
