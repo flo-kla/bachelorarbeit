@@ -1,0 +1,500 @@
+h_num: 0
+w_h_top_words_indx: [2192 2977  504 3600  380 1056 3898  975  743 3994 2599 1046 1277 3352
+ 2650 1290 2370 1339  637 2588]
+w_h_top_words:['mean', 'reply', 'candidate', 'thread', 'bitch', 'drag', 'weekend', 'different', 'constructive', 'z', 'personally', 'dont', 'factor', 'speech', 'pm', 'false', 'nearly', 'finance', 'code', 'perfect']
+----------------------------------------------------------------------
+h_num: 1
+w_h_top_words_indx: [2815 1008 1791 3716  516 3064 2722  590  749  480 2026 1343 2533 2603
+ 1921 3073 2931 2913  585 2082]
+w_h_top_words:['pull', 'discussion', 'incredibly', 'typical', 'carbon', 'round', 'present', 'circuit', 'contain', 'buy', 'length', 'finger', 'paint', 'phase', 'jewish', 'rule', 'region', 'red', 'chrome', 'logically']
+----------------------------------------------------------------------
+h_num: 2
+w_h_top_words_indx: [2014 2722 3183 3804  358 3627 3716 1953 3626 1791  749 3208  936 2812
+ 3169   59 2982 3034 3901 1372]
+w_h_top_words:['leave', 'present', 'server', 'variety', 'bfhttheoryautotldrconcept', 'tldrs', 'typical', 'keyword', 'tldr', 'incredibly', 'contain', 'shelf', 'deny', 'public', 'sense', 'admin', 'reproduce', 'ride', 'welcome', 'fmfaqautotldrbot']
+----------------------------------------------------------------------
+h_num: 3
+w_h_top_words_indx: [ 749 1602 3804 3344  358 3880 3910 1558 3626  392 1953 3901 3499 1383
+  936 2815 2014  743 2927 3797]
+w_h_top_words:['contain', 'hand', 'variety', 'special', 'bfhttheoryautotldrconcept', 'water', 'white', 'group', 'tldr', 'block', 'keyword', 'welcome', 'surround', 'foot', 'deny', 'pull', 'leave', 'constructive', 'refuse', 'valid']
+----------------------------------------------------------------------
+h_num: 4
+w_h_top_words_indx: [ 749 3716 3880 3418  334 3308    4 2603 2853 2660  732 1602  202 2014
+  936  302 3034 1791 1558 2370]
+w_h_top_words:['contain', 'typical', 'water', 'straight', 'begin', 'software', 'ability', 'phase', 'raise', 'policy', 'consider', 'hand', 'arm', 'leave', 'deny', 'bar', 'ride', 'incredibly', 'group', 'nearly']
+----------------------------------------------------------------------
+h_num: 5
+w_h_top_words_indx: [2014  936  749  358  392  590  851 2640 2618 1341 2660 2767 3880 3716
+ 2671 2917 1957 3627 3804 3901]
+w_h_top_words:['leave', 'deny', 'contain', 'bfhttheoryautotldrconcept', 'block', 'circuit', 'current', 'plate', 'picture', 'find', 'policy', 'product', 'water', 'typical', 'popular', 'reduce', 'kill', 'tldrs', 'variety', 'welcome']
+----------------------------------------------------------------------
+h_num: 6
+w_h_top_words_indx: [2815 3716  732 1791 1008 2722  585  851 3880 3034 3073 2931  516  679
+ 2644 3064 3189  590  951   37]
+w_h_top_words:['pull', 'typical', 'consider', 'incredibly', 'discussion', 'present', 'chrome', 'current', 'water', 'ride', 'rule', 'region', 'carbon', 'compare', 'playoff', 'round', 'setup', 'circuit', 'desire', 'acknowledge']
+----------------------------------------------------------------------
+h_num: 7
+w_h_top_words_indx: [ 679 1558 3716  732  830  590  516 2722 2218 1791 1514 3588 2917 1292
+    4 1008 3344 3189    6 1602]
+w_h_top_words:['compare', 'group', 'typical', 'consider', 'cross', 'circuit', 'carbon', 'present', 'mention', 'incredibly', 'goal', 'theory', 'reduce', 'family', 'ability', 'discussion', 'special', 'setup', 'able', 'hand']
+----------------------------------------------------------------------
+h_num: 8
+w_h_top_words_indx: [3600 2192 2977  380 2089 3898  504 2167 1477 1658  743 2630 3557  975
+ 3949 2600 2588  545  637 1528]
+w_h_top_words:['thread', 'mean', 'reply', 'bitch', 'loop', 'weekend', 'candidate', 'mask', 'gender', 'hide', 'constructive', 'pixel', 'temporarily', 'different', 'working', 'perspective', 'perfect', 'certain', 'code', 'government']
+----------------------------------------------------------------------
+h_num: 9
+w_h_top_words_indx: [2815  732 3716 1791 2722  516 2082  480 1008 3034 3823 3073 3169  585
+ 2603 3064 2323  851 2931 3880]
+w_h_top_words:['pull', 'consider', 'typical', 'incredibly', 'present', 'carbon', 'logically', 'buy', 'discussion', 'ride', 'view', 'rule', 'sense', 'chrome', 'phase', 'round', 'movie', 'current', 'region', 'water']
+----------------------------------------------------------------------
+h_num: 10
+w_h_top_words_indx: [2815 3716 1008 1791  732  516 2722 3073 2082  480 3064  585  851 2931
+ 3034  350 3880 1343 3608  590]
+w_h_top_words:['pull', 'typical', 'discussion', 'incredibly', 'consider', 'carbon', 'present', 'rule', 'logically', 'buy', 'round', 'chrome', 'current', 'region', 'ride', 'benefit', 'water', 'finger', 'tie', 'circuit']
+----------------------------------------------------------------------
+h_num: 11
+w_h_top_words_indx: [2917 1791  590 2014  358 1396 3224 3241 2767 2815 3626 3627 3561  749
+ 2316  679 3901 2541 1953 2868]
+w_h_top_words:['reduce', 'incredibly', 'circuit', 'leave', 'bfhttheoryautotldrconcept', 'form', 'short', 'sign', 'product', 'pull', 'tldr', 'tldrs', 'term', 'contain', 'motorcycle', 'compare', 'welcome', 'paper', 'keyword', 'rate']
+----------------------------------------------------------------------
+h_num: 12
+w_h_top_words_indx: [ 749 3716    4 2014  392 2567 1699 2618 2613 3344 3189  516  539 3591
+ 1602  358 2812 1953 2502  334]
+w_h_top_words:['contain', 'typical', 'ability', 'leave', 'block', 'patient', 'horrible', 'picture', 'physics', 'special', 'setup', 'carbon', 'cell', 'thin', 'hand', 'bfhttheoryautotldrconcept', 'public', 'keyword', 'oror', 'begin']
+----------------------------------------------------------------------
+h_num: 13
+w_h_top_words_indx: [2192 2977 1056 3600  504 3898 3352 1477 3994 1046 2588  380  743  637
+ 2734 2630 2599 2555 3557 2089]
+w_h_top_words:['mean', 'reply', 'drag', 'thread', 'candidate', 'weekend', 'speech', 'gender', 'z', 'dont', 'perfect', 'bitch', 'constructive', 'code', 'previous', 'pixel', 'personally', 'pass', 'temporarily', 'loop']
+----------------------------------------------------------------------
+h_num: 14
+w_h_top_words_indx: [2014  732 3627  358 2564 3464 1791 3169 2387 3626 2767  140 2917 1187
+  830 1953 3880 1528 1372 1609]
+w_h_top_words:['leave', 'consider', 'tldrs', 'bfhttheoryautotldrconcept', 'patent', 'suck', 'incredibly', 'sense', 'nice', 'tldr', 'product', 'analog', 'reduce', 'essentially', 'cross', 'keyword', 'water', 'government', 'fmfaqautotldrbot', 'happen']
+----------------------------------------------------------------------
+h_num: 15
+w_h_top_words_indx: [2284 2192 1659 2726  975 3124 2977 3994 2370 1290 2654 2904 2672 1425
+   32  616  930  380 1526 2555]
+w_h_top_words:['modern', 'mean', 'high', 'presidential', 'different', 'school', 'reply', 'z', 'nearly', 'false', 'point', 'recently', 'population', 'friend', 'accuracy', 'climate', 'democratic', 'bitch', 'got', 'pass']
+----------------------------------------------------------------------
+h_num: 16
+w_h_top_words_indx: [ 749 3804 2815   30 2722 3160 1602 1396 3637  295   37  401  679  516
+  392 2767  830 3344  217 1274]
+w_h_top_words:['contain', 'variety', 'pull', 'account', 'present', 'selection', 'hand', 'form', 'tool', 'ban', 'acknowledge', 'boat', 'compare', 'carbon', 'block', 'product', 'cross', 'special', 'aspect', 'face']
+----------------------------------------------------------------------
+h_num: 17
+w_h_top_words_indx: [ 480 2815  590  679 3169 1602 3716  358 2722 2616  830  732 2567  851
+ 2082 2077 1341 1690 2218  516]
+w_h_top_words:['buy', 'pull', 'circuit', 'compare', 'sense', 'hand', 'typical', 'bfhttheoryautotldrconcept', 'present', 'pick', 'cross', 'consider', 'patient', 'current', 'logically', 'lock', 'find', 'honestly', 'mention', 'carbon']
+----------------------------------------------------------------------
+h_num: 18
+w_h_top_words_indx: [2014 2917  590  140  936 3626 2564 1953 1791 2815  358 3627 1372 2663
+  679 1396 3241 3344 1271 3716]
+w_h_top_words:['leave', 'reduce', 'circuit', 'analog', 'deny', 'tldr', 'patent', 'keyword', 'incredibly', 'pull', 'bfhttheoryautotldrconcept', 'tldrs', 'fmfaqautotldrbot', 'political', 'compare', 'form', 'sign', 'special', 'eye', 'typical']
+----------------------------------------------------------------------
+h_num: 19
+w_h_top_words_indx: [2722  358  590  202  749 3716 2014 1953  652  936 2660 2917 3156 3880
+ 3034 3901 3183 3626 1396  851]
+w_h_top_words:['present', 'bfhttheoryautotldrconcept', 'circuit', 'arm', 'contain', 'typical', 'leave', 'keyword', 'color', 'deny', 'policy', 'reduce', 'seek', 'water', 'ride', 'welcome', 'server', 'tldr', 'form', 'current']
+----------------------------------------------------------------------
+h_num: 20
+w_h_top_words_indx: [2815 3189 3344 3908  732    6  339  358 1203 3446 1274  202 3562  484
+ 1564  951 1425  772 2502 1396]
+w_h_top_words:['pull', 'setup', 'special', 'wheel', 'consider', 'able', 'behavior', 'bfhttheoryautotldrconcept', 'eventually', 'stutter', 'face', 'arm', 'terminal', 'cable', 'gtand', 'desire', 'friend', 'cop', 'oror', 'form']
+----------------------------------------------------------------------
+h_num: 21
+w_h_top_words_indx: [ 749 2014  358 1953  732 2767  936  590 3627 2564 3901  851 3716 3804
+  743 2650 1341 2917 2722 1372]
+w_h_top_words:['contain', 'leave', 'bfhttheoryautotldrconcept', 'keyword', 'consider', 'product', 'deny', 'circuit', 'tldrs', 'patent', 'welcome', 'current', 'typical', 'variety', 'constructive', 'pm', 'find', 'reduce', 'present', 'fmfaqautotldrbot']
+----------------------------------------------------------------------
+h_num: 22
+w_h_top_words_indx: [2014 2722 3627  358  480   30 1901 2159 3183  499  749 2564 2943 3034
+ 2663  830 2917 3626 3672 1372]
+w_h_top_words:['leave', 'present', 'tldrs', 'bfhttheoryautotldrconcept', 'buy', 'account', 'issue', 'market', 'server', 'campaign', 'contain', 'patent', 'relate', 'ride', 'political', 'cross', 'reduce', 'tldr', 'transmission', 'fmfaqautotldrbot']
+----------------------------------------------------------------------
+h_num: 23
+w_h_top_words_indx: [2014 3880 2917  732  140 1791 1396  590  403  749  358 2815 3627 3626
+ 2767  231 1953  217 3716 2650]
+w_h_top_words:['leave', 'water', 'reduce', 'consider', 'analog', 'incredibly', 'form', 'circuit', 'body', 'contain', 'bfhttheoryautotldrconcept', 'pull', 'tldrs', 'tldr', 'product', 'assume', 'keyword', 'aspect', 'typical', 'pm']
+----------------------------------------------------------------------
+h_num: 24
+w_h_top_words_indx: [2815  732 1008 3716  480 2722  516 1791 2218  851 2082  590 3880  438
+  585 3073 3064 3169  749 3034]
+w_h_top_words:['pull', 'consider', 'discussion', 'typical', 'buy', 'present', 'carbon', 'incredibly', 'mention', 'current', 'logically', 'circuit', 'water', 'bring', 'chrome', 'rule', 'round', 'sense', 'contain', 'ride']
+----------------------------------------------------------------------
+h_num: 25
+w_h_top_words_indx: [2815 3716  732  480 1791  851 1008 2722  516 2082 3073 3064 1343  438
+  590 3169 2931  585 3034 3880]
+w_h_top_words:['pull', 'typical', 'consider', 'buy', 'incredibly', 'current', 'discussion', 'present', 'carbon', 'logically', 'rule', 'round', 'finger', 'bring', 'circuit', 'sense', 'region', 'chrome', 'ride', 'water']
+----------------------------------------------------------------------
+h_num: 26
+w_h_top_words_indx: [2815 3716 3189 3344  545  830 2037  339 1173  951 1791  516  151 1558
+  590 1396  732 2227    8 3034]
+w_h_top_words:['pull', 'typical', 'setup', 'special', 'certain', 'cross', 'liberal', 'behavior', 'equality', 'desire', 'incredibly', 'carbon', 'animal', 'group', 'circuit', 'form', 'consider', 'metal', 'abortion', 'ride']
+----------------------------------------------------------------------
+h_num: 27
+w_h_top_words_indx: [2192 2654 2284 2977 3994 2904 2726  975 2672 1290  616 1659  637  703
+ 3124 2370 2588 3898 3542  930]
+w_h_top_words:['mean', 'point', 'modern', 'reply', 'z', 'recently', 'presidential', 'different', 'population', 'false', 'climate', 'high', 'code', 'concern', 'school', 'nearly', 'perfect', 'weekend', 'teaching', 'democratic']
+----------------------------------------------------------------------
+h_num: 28
+w_h_top_words_indx: [ 732 2815  480 2218 3169 3716 2722 2077 1008  358 2082 1341 1292 1602
+  590  851  679  516 1690  830]
+w_h_top_words:['consider', 'pull', 'buy', 'mention', 'sense', 'typical', 'present', 'lock', 'discussion', 'bfhttheoryautotldrconcept', 'logically', 'find', 'family', 'hand', 'circuit', 'current', 'compare', 'carbon', 'honestly', 'cross']
+----------------------------------------------------------------------
+h_num: 29
+w_h_top_words_indx: [3600 1274  509  484 2600 3951 3910 1396  749 2588 2249 2996  328 3996
+  695 1320 3994 3344 1237  506]
+w_h_top_words:['thread', 'face', 'capacitor', 'cable', 'perspective', 'worldview', 'white', 'form', 'contain', 'perfect', 'mind', 'resistance', 'beat', 'zero', 'component', 'fellow', 'z', 'special', 'exist', 'capability']
+----------------------------------------------------------------------
+h_num: 30
+w_h_top_words_indx: [2014 2564 2767 3287  749 3716  679  358  732 2812 1791  392 2917 1396
+ 3034 3627 3804 1372  590 3910]
+w_h_top_words:['leave', 'patent', 'product', 'slightly', 'contain', 'typical', 'compare', 'bfhttheoryautotldrconcept', 'consider', 'public', 'incredibly', 'block', 'reduce', 'form', 'ride', 'tldrs', 'variety', 'fmfaqautotldrbot', 'circuit', 'white']
+----------------------------------------------------------------------
+h_num: 31
+w_h_top_words_indx: [2014 3183  652 3308 2722 1791  679 3716 2660  575 3189  202 3169 1659
+  677 1320  749 1587  480  590]
+w_h_top_words:['leave', 'server', 'color', 'software', 'present', 'incredibly', 'compare', 'typical', 'policy', 'chinese', 'setup', 'arm', 'sense', 'high', 'company', 'fellow', 'contain', 'guide', 'buy', 'circuit']
+----------------------------------------------------------------------
+h_num: 32
+w_h_top_words_indx: [2014 2767  358 2564  936  202  732  749  334 2578 3183 3716 2927 2650
+ 3821 3344 3626 1341 3464 1558]
+w_h_top_words:['leave', 'product', 'bfhttheoryautotldrconcept', 'patent', 'deny', 'arm', 'consider', 'contain', 'begin', 'peace', 'server', 'typical', 'refuse', 'pm', 'video', 'special', 'tldr', 'find', 'suck', 'group']
+----------------------------------------------------------------------
+h_num: 33
+w_h_top_words_indx: [ 749 2618 1602 2755 2014  652 1953  679 2917 3627  358  732 1396  575
+ 3901 3542 2159 3716 1587 2812]
+w_h_top_words:['contain', 'picture', 'hand', 'probably', 'leave', 'color', 'keyword', 'compare', 'reduce', 'tldrs', 'bfhttheoryautotldrconcept', 'consider', 'form', 'chinese', 'welcome', 'teaching', 'market', 'typical', 'guide', 'public']
+----------------------------------------------------------------------
+h_num: 34
+w_h_top_words_indx: [ 358 3716 1396  679  830 1558 1372 2618 3344  516 2917 2812 3626 2815
+ 1099 1514 3189  749 3997  132]
+w_h_top_words:['bfhttheoryautotldrconcept', 'typical', 'form', 'compare', 'cross', 'group', 'fmfaqautotldrbot', 'picture', 'special', 'carbon', 'reduce', 'public', 'tldr', 'pull', 'economy', 'goal', 'setup', 'contain', 'zionist', 'amp']
+----------------------------------------------------------------------
+h_num: 35
+w_h_top_words_indx: [2192 2284 3994 2672 2726 2977 3124  975 2904  616 1290  703  637 3898
+ 2370 2654 1387 2588 2128 2991]
+w_h_top_words:['mean', 'modern', 'z', 'population', 'presidential', 'reply', 'school', 'different', 'recently', 'climate', 'false', 'concern', 'code', 'weekend', 'nearly', 'point', 'force', 'perfect', 'mainly', 'reset']
+----------------------------------------------------------------------
+h_num: 36
+w_h_top_words_indx: [2192 2977 2654 1209  703 3994  637 2630  975 1375 1056 3557 1387 2726
+  956 2185 2904 2588  328 3898]
+w_h_top_words:['mean', 'reply', 'point', 'evil', 'concern', 'z', 'code', 'pixel', 'different', 'folder', 'drag', 'temporarily', 'force', 'presidential', 'destroy', 'maybe', 'recently', 'perfect', 'beat', 'weekend']
+----------------------------------------------------------------------
+h_num: 37
+w_h_top_words_indx: [2192 2977 3600  637 1387 2630  380 1056 2654 3898 1822  743 1477 3557
+  504 2599 1304  703 1046 1453]
+w_h_top_words:['mean', 'reply', 'thread', 'code', 'force', 'pixel', 'bitch', 'drag', 'point', 'weekend', 'input', 'constructive', 'gender', 'temporarily', 'candidate', 'personally', 'fat', 'concern', 'dont', 'g']
+----------------------------------------------------------------------
+h_num: 38
+w_h_top_words_indx: [3910  679  749 2660 2815 1791 2722 1280  916 1602 2853 3716 1372 2370
+ 1953  590 1425 3118    4 1699]
+w_h_top_words:['white', 'compare', 'contain', 'policy', 'pull', 'incredibly', 'present', 'fail', 'degree', 'hand', 'raise', 'typical', 'fmfaqautotldrbot', 'nearly', 'keyword', 'circuit', 'friend', 'scenario', 'ability', 'horrible']
+----------------------------------------------------------------------
+h_num: 39
+w_h_top_words_indx: [ 358 2917 2014 1602 1953 3880 3627 3626 2660 3716  749 2564 2767 2387
+  743 1187 1372  732 1396 3901]
+w_h_top_words:['bfhttheoryautotldrconcept', 'reduce', 'leave', 'hand', 'keyword', 'water', 'tldrs', 'tldr', 'policy', 'typical', 'contain', 'patent', 'product', 'nice', 'constructive', 'essentially', 'fmfaqautotldrbot', 'consider', 'form', 'welcome']
+----------------------------------------------------------------------
+h_num: 40
+w_h_top_words_indx: [2722 2917 3608  302 1791 3626 1396 2812  749 2815 3172 1822 2564 3716
+ 3183  358 3910 2511 2502 3627]
+w_h_top_words:['present', 'reduce', 'tie', 'bar', 'incredibly', 'tldr', 'form', 'public', 'contain', 'pull', 'sentence', 'input', 'patent', 'typical', 'server', 'bfhttheoryautotldrconcept', 'white', 'output', 'oror', 'tldrs']
+----------------------------------------------------------------------
+h_num: 41
+w_h_top_words_indx: [ 749 2014  732 3627 3626 1953 1372 1797  358 2917 2650 3901 3880   59
+  830 2567  261 3716 2815 3160]
+w_h_top_words:['contain', 'leave', 'consider', 'tldrs', 'tldr', 'keyword', 'fmfaqautotldrbot', 'individual', 'bfhttheoryautotldrconcept', 'reduce', 'pm', 'welcome', 'water', 'admin', 'cross', 'patient', 'autotldr', 'typical', 'pull', 'selection']
+----------------------------------------------------------------------
+h_num: 42
+w_h_top_words_indx: [2815  732 3716  480  516 2722 1791 3169 2082  851 1008  511  590 3073
+ 3064 1343  936 3880 2323 2931]
+w_h_top_words:['pull', 'consider', 'typical', 'buy', 'carbon', 'present', 'incredibly', 'sense', 'logically', 'current', 'discussion', 'capital', 'circuit', 'rule', 'round', 'finger', 'deny', 'water', 'movie', 'region']
+----------------------------------------------------------------------
+h_num: 43
+w_h_top_words_indx: [1953  652 2618    4  749 3626 3910  261  679 3716 2853  830   59 2159
+ 1298  732 1372 2014  358 2660]
+w_h_top_words:['keyword', 'color', 'picture', 'ability', 'contain', 'tldr', 'white', 'autotldr', 'compare', 'typical', 'raise', 'cross', 'admin', 'market', 'faqhttpnpredditcomrautotldrcomment', 'consider', 'fmfaqautotldrbot', 'leave', 'bfhttheoryautotldrconcept', 'policy']
+----------------------------------------------------------------------
+h_num: 44
+w_h_top_words_indx: [2014 2722 3183 2600 2812 2767  447  358 3627 1791 3716  590  749 2603
+ 3513 2316 3287  140  480  202]
+w_h_top_words:['leave', 'present', 'server', 'perspective', 'public', 'product', 'browser', 'bfhttheoryautotldrconcept', 'tldrs', 'incredibly', 'typical', 'circuit', 'contain', 'phase', 'switch', 'motorcycle', 'slightly', 'analog', 'buy', 'arm']
+----------------------------------------------------------------------
+h_num: 45
+w_h_top_words_indx: [2815 3716  679  392  358 2533 3169 3588  732 1008  480  830  590 1514
+ 1558 2722  749 2093 1341  516]
+w_h_top_words:['pull', 'typical', 'compare', 'block', 'bfhttheoryautotldrconcept', 'paint', 'sense', 'theory', 'consider', 'discussion', 'buy', 'cross', 'circuit', 'goal', 'group', 'present', 'contain', 'loss', 'find', 'carbon']
+----------------------------------------------------------------------
+h_num: 46
+w_h_top_words_indx: [1602  749 3308  679  217 2618 2092  590 3608 3716    4 3880 2815  358
+  951  575  830 1558 2767  652]
+w_h_top_words:['hand', 'contain', 'software', 'compare', 'aspect', 'picture', 'lose', 'circuit', 'tie', 'typical', 'ability', 'water', 'pull', 'bfhttheoryautotldrconcept', 'desire', 'chinese', 'cross', 'group', 'product', 'color']
+----------------------------------------------------------------------
+h_num: 47
+w_h_top_words_indx: [2977 2654 2192 3600 3994 3898 2599  380 2672  637 2588  743 2734 1046
+ 3384 1290 1056 2128  767 1313]
+w_h_top_words:['reply', 'point', 'mean', 'thread', 'z', 'weekend', 'personally', 'bitch', 'population', 'code', 'perfect', 'constructive', 'previous', 'dont', 'stand', 'false', 'drag', 'mainly', 'converter', 'federal']
+----------------------------------------------------------------------
+h_num: 48
+w_h_top_words_indx: [3169  545 2815  438 2812  851 3344 3880  732 3626 3034 2093 1953 1558
+ 3189 2943  830  679 2618 3716]
+w_h_top_words:['sense', 'certain', 'pull', 'bring', 'public', 'current', 'special', 'water', 'consider', 'tldr', 'ride', 'loss', 'keyword', 'group', 'setup', 'relate', 'cross', 'compare', 'picture', 'typical']
+----------------------------------------------------------------------
+h_num: 49
+w_h_top_words_indx: [1791 1396 3910 2815 2159 3208 3169 2660  749 2379 2853 2943 2592 3344
+  679 2014 3716 2982    4 1425]
+w_h_top_words:['incredibly', 'form', 'white', 'pull', 'market', 'shelf', 'sense', 'policy', 'contain', 'neighbor', 'raise', 'relate', 'performance', 'special', 'compare', 'leave', 'typical', 'reproduce', 'ability', 'friend']
+----------------------------------------------------------------------
+h_num: 50
+w_h_top_words_indx: [2815 3716 3189  830 3344 2037  545 1173  516  339  951 1558 1791  590
+  749 3034    8 2982  732 2218]
+w_h_top_words:['pull', 'typical', 'setup', 'cross', 'special', 'liberal', 'certain', 'equality', 'carbon', 'behavior', 'desire', 'group', 'incredibly', 'circuit', 'contain', 'ride', 'abortion', 'reproduce', 'consider', 'mention']
+----------------------------------------------------------------------
+h_num: 51
+w_h_top_words_indx: [ 749  679 1791  590 3561 2722 3241 2660 2767 2541 1294  202 3910 3454
+ 1170 1041 2815 3637 1187 3804]
+w_h_top_words:['contain', 'compare', 'incredibly', 'circuit', 'term', 'present', 'sign', 'policy', 'product', 'paper', 'fan', 'arm', 'white', 'subredditmessagecomposeto', 'environmental', 'dominate', 'pull', 'tool', 'essentially', 'variety']
+----------------------------------------------------------------------
+h_num: 52
+w_h_top_words_indx: [1791  202  749 2767 2917 2014  350 1953 1274 3716  428 2815  679 3804
+ 3626 1699  905 3189  261  401]
+w_h_top_words:['incredibly', 'arm', 'contain', 'product', 'reduce', 'leave', 'benefit', 'keyword', 'face', 'typical', 'brain', 'pull', 'compare', 'variety', 'tldr', 'horrible', 'deep', 'setup', 'autotldr', 'boat']
+----------------------------------------------------------------------
+h_num: 53
+w_h_top_words_indx: [2722  140 1797 3901  358   30  480 1425  749 1558 2618 1202 3646 3797
+ 2567 1791 2014  392  695 2640]
+w_h_top_words:['present', 'analog', 'individual', 'welcome', 'bfhttheoryautotldrconcept', 'account', 'buy', 'friend', 'contain', 'group', 'picture', 'event', 'touch', 'valid', 'patient', 'incredibly', 'leave', 'block', 'component', 'plate']
+----------------------------------------------------------------------
+h_num: 54
+w_h_top_words_indx: [3880  749 2159  438 3189 3716 2853 2767  732  652  392 3426 1558  358
+  217 2815 2812 3901 1202 2897]
+w_h_top_words:['water', 'contain', 'market', 'bring', 'setup', 'typical', 'raise', 'product', 'consider', 'color', 'block', 'strength', 'group', 'bfhttheoryautotldrconcept', 'aspect', 'pull', 'public', 'welcome', 'event', 'reasoning']
+----------------------------------------------------------------------
+h_num: 55
+w_h_top_words_indx: [2014 2917 2511  358  936 3627 1953 3716 2172  749 3901 2650 1372  830
+ 2564 3034 3626 2767  743  590]
+w_h_top_words:['leave', 'reduce', 'output', 'bfhttheoryautotldrconcept', 'deny', 'tldrs', 'keyword', 'typical', 'match', 'contain', 'welcome', 'pm', 'fmfaqautotldrbot', 'cross', 'patent', 'ride', 'tldr', 'product', 'constructive', 'circuit']
+----------------------------------------------------------------------
+h_num: 56
+w_h_top_words_indx: [2014  749  936 3189 1602 3880 2511 1791 2660 3716 1383 3183 2159 3591
+ 3034 2172 1408 2917  575 3064]
+w_h_top_words:['leave', 'contain', 'deny', 'setup', 'hand', 'water', 'output', 'incredibly', 'policy', 'typical', 'foot', 'server', 'market', 'thin', 'ride', 'match', 'fps', 'reduce', 'chinese', 'round']
+----------------------------------------------------------------------
+h_num: 57
+w_h_top_words_indx: [3716 2014 2564 2172 2741  516 1602  749 1396 3160 3189  830 3344 2502
+ 3308 2618 3183 2561  176 3804]
+w_h_top_words:['typical', 'leave', 'patent', 'match', 'primary', 'carbon', 'hand', 'contain', 'form', 'selection', 'setup', 'cross', 'special', 'oror', 'software', 'picture', 'server', 'paste', 'appear', 'variety']
+----------------------------------------------------------------------
+h_num: 58
+w_h_top_words_indx: [2815 2722  732 3716  516  480 1791 3880 2218  590 2323 1558  585 2618
+ 2502 1008 2982  749 2931 1901]
+w_h_top_words:['pull', 'present', 'consider', 'typical', 'carbon', 'buy', 'incredibly', 'water', 'mention', 'circuit', 'movie', 'group', 'chrome', 'picture', 'oror', 'discussion', 'reproduce', 'contain', 'region', 'issue']
+----------------------------------------------------------------------
+h_num: 59
+w_h_top_words_indx: [2767 1791  202 2722 3034  358 2660 1558 1602  749 3716  936 2650 3626
+ 1953  830 1277 1372 3183 3308]
+w_h_top_words:['product', 'incredibly', 'arm', 'present', 'ride', 'bfhttheoryautotldrconcept', 'policy', 'group', 'hand', 'contain', 'typical', 'deny', 'pm', 'tldr', 'keyword', 'cross', 'factor', 'fmfaqautotldrbot', 'server', 'software']
+----------------------------------------------------------------------
+h_num: 60
+w_h_top_words_indx: [2815  732 3716 1791  480 1008  516 2722 2082 3073 3064 3169  851 1343
+ 2931  585 3034 3880  590  511]
+w_h_top_words:['pull', 'consider', 'typical', 'incredibly', 'buy', 'discussion', 'carbon', 'present', 'logically', 'rule', 'round', 'sense', 'current', 'finger', 'region', 'chrome', 'ride', 'water', 'circuit', 'capital']
+----------------------------------------------------------------------
+h_num: 61
+w_h_top_words_indx: [2815 1008 1791 3716  516 3064  480 2722 2026  590 2533  749 1343 2603
+ 3073 1921 2082 2913 2931  438]
+w_h_top_words:['pull', 'discussion', 'incredibly', 'typical', 'carbon', 'round', 'buy', 'present', 'length', 'circuit', 'paint', 'contain', 'finger', 'phase', 'rule', 'jewish', 'logically', 'red', 'region', 'bring']
+----------------------------------------------------------------------
+h_num: 62
+w_h_top_words_indx: [ 749 2014  936 3344 3716 1791  830 1558 3880  392  298 2660  358 3804
+ 3591 3698 1699 3183 3034 2567]
+w_h_top_words:['contain', 'leave', 'deny', 'special', 'typical', 'incredibly', 'cross', 'group', 'water', 'block', 'bang', 'policy', 'bfhttheoryautotldrconcept', 'variety', 'thin', 'truly', 'horrible', 'server', 'ride', 'patient']
+----------------------------------------------------------------------
+h_num: 63
+w_h_top_words_indx: [ 679 1602 2815 3880  749 3344 2502 3169 1791 2014  590 3034  516 2564
+ 2767 2172  936  587 3716  830]
+w_h_top_words:['compare', 'hand', 'pull', 'water', 'contain', 'special', 'oror', 'sense', 'incredibly', 'leave', 'circuit', 'ride', 'carbon', 'patent', 'product', 'match', 'deny', 'church', 'typical', 'cross']
+----------------------------------------------------------------------
+h_num: 64
+w_h_top_words_indx: [ 732 2815 3716 2722 1791 3880 1901  590 2618 2082  480 2812  772  851
+  358  516  749 2917 2218 1558]
+w_h_top_words:['consider', 'pull', 'typical', 'present', 'incredibly', 'water', 'issue', 'circuit', 'picture', 'logically', 'buy', 'public', 'cop', 'current', 'bfhttheoryautotldrconcept', 'carbon', 'contain', 'reduce', 'mention', 'group']
+----------------------------------------------------------------------
+h_num: 65
+w_h_top_words_indx: [2014 3716  749  572 1791  732 1602 2564 3308 1661 1203  392 3752 2338
+ 2767  652 2533  575  774 3208]
+w_h_top_words:['leave', 'typical', 'contain', 'child', 'incredibly', 'consider', 'hand', 'patent', 'software', 'highly', 'eventually', 'block', 'unit', 'muslim', 'product', 'color', 'paint', 'chinese', 'copy', 'shelf']
+----------------------------------------------------------------------
+h_num: 66
+w_h_top_words_indx: [ 732 2815 2943 2218 3169  480 1396 2094 1558 2093 3880  851  936 2868
+ 2323 3716 2617  999  617 1957]
+w_h_top_words:['consider', 'pull', 'relate', 'mention', 'sense', 'buy', 'form', 'lot', 'group', 'loss', 'water', 'current', 'deny', 'rate', 'movie', 'typical', 'pickup', 'disaster', 'clinical', 'kill']
+----------------------------------------------------------------------
+h_num: 67
+w_h_top_words_indx: [2815 1008 3716 1791 2722  732 3073  851  516  350  585 3034 2931 1343
+ 3064 3608 2644 3880  590  566]
+w_h_top_words:['pull', 'discussion', 'typical', 'incredibly', 'present', 'consider', 'rule', 'current', 'carbon', 'benefit', 'chrome', 'ride', 'region', 'finger', 'round', 'tie', 'playoff', 'water', 'circuit', 'cheap']
+----------------------------------------------------------------------
+h_num: 68
+w_h_top_words_indx: [ 679 3716 1274 2815  749 1558 2660 1791 1396 3189  516  830 3034  358
+ 2812    4  590 3880 2502 2618]
+w_h_top_words:['compare', 'typical', 'face', 'pull', 'contain', 'group', 'policy', 'incredibly', 'form', 'setup', 'carbon', 'cross', 'ride', 'bfhttheoryautotldrconcept', 'public', 'ability', 'circuit', 'water', 'oror', 'picture']
+----------------------------------------------------------------------
+h_num: 69
+w_h_top_words_indx: [1602 2014  480 2815  516 1791  217 2927 2172 2564 1558  936  749 2812
+ 1953 3365  735  575 2660 3344]
+w_h_top_words:['hand', 'leave', 'buy', 'pull', 'carbon', 'incredibly', 'aspect', 'refuse', 'match', 'patent', 'group', 'deny', 'contain', 'public', 'keyword', 'sport', 'consistent', 'chinese', 'policy', 'special']
+----------------------------------------------------------------------
+h_num: 70
+w_h_top_words_indx: [2815  851 3716 1791 1008  480  516 2722 2533 3064 2026  590 2564 1921
+ 2218  749 3588  358 2603 3073]
+w_h_top_words:['pull', 'current', 'typical', 'incredibly', 'discussion', 'buy', 'carbon', 'present', 'paint', 'round', 'length', 'circuit', 'patent', 'jewish', 'mention', 'contain', 'theory', 'bfhttheoryautotldrconcept', 'phase', 'rule']
+----------------------------------------------------------------------
+h_num: 71
+w_h_top_words_indx: [ 679 1425  358 1953 3626 1558  830 3189 3093  516  749 3716    4 3880
+  392 2613 1791 2722 1183 2014]
+w_h_top_words:['compare', 'friend', 'bfhttheoryautotldrconcept', 'keyword', 'tldr', 'group', 'cross', 'setup', 'sake', 'carbon', 'contain', 'typical', 'ability', 'water', 'block', 'physics', 'incredibly', 'present', 'especially', 'leave']
+----------------------------------------------------------------------
+h_num: 72
+w_h_top_words_indx: [2014 2917  590 3716  140 2722 2815 2931 3211 1791  749 2564  936 2755
+  516  830 1953  679 3034 2767]
+w_h_top_words:['leave', 'reduce', 'circuit', 'typical', 'analog', 'present', 'pull', 'region', 'shift', 'incredibly', 'contain', 'patent', 'deny', 'probably', 'carbon', 'cross', 'keyword', 'compare', 'ride', 'product']
+----------------------------------------------------------------------
+h_num: 73
+w_h_top_words_indx: [3880  830 2014 3716 3189  749 2618  936  516 2567 2564 1791 3752  358
+ 3183 2767 3910  590 1277 1425]
+w_h_top_words:['water', 'cross', 'leave', 'typical', 'setup', 'contain', 'picture', 'deny', 'carbon', 'patient', 'patent', 'incredibly', 'unit', 'bfhttheoryautotldrconcept', 'server', 'product', 'white', 'circuit', 'factor', 'friend']
+----------------------------------------------------------------------
+h_num: 74
+w_h_top_words_indx: [2014 2767 1341 3716  732 1277  749  358 3901 2650 3626 3034 3627 1953
+ 2564 1791   59 2640    4  590]
+w_h_top_words:['leave', 'product', 'find', 'typical', 'consider', 'factor', 'contain', 'bfhttheoryautotldrconcept', 'welcome', 'pm', 'tldr', 'ride', 'tldrs', 'keyword', 'patent', 'incredibly', 'admin', 'plate', 'ability', 'circuit']
+----------------------------------------------------------------------
+h_num: 75
+w_h_top_words_indx: [1320   30    6 1274 1396 3910  202  749 2996  679 2767  217  484 2213
+ 3344 3600 2600 1822 1514  982]
+w_h_top_words:['fellow', 'account', 'able', 'face', 'form', 'white', 'arm', 'contain', 'resistance', 'compare', 'product', 'aspect', 'cable', 'member', 'special', 'thread', 'perspective', 'input', 'goal', 'dimension']
+----------------------------------------------------------------------
+h_num: 76
+w_h_top_words_indx: [ 749 2014 3189  732 1791  392 1558 3716 1602  830    4 2812 3344  202
+ 2567 1274 2989 3183  516 1699]
+w_h_top_words:['contain', 'leave', 'setup', 'consider', 'incredibly', 'block', 'group', 'typical', 'hand', 'cross', 'ability', 'public', 'special', 'arm', 'patient', 'face', 'research', 'server', 'carbon', 'horrible']
+----------------------------------------------------------------------
+h_num: 77
+w_h_top_words_indx: [2977 2192  504 3898 3600 3994  975 3202 3352 2284 1290 2128  703  616
+ 2588 2370 1261  589 2734 3124]
+w_h_top_words:['reply', 'mean', 'candidate', 'weekend', 'thread', 'z', 'different', 'shall', 'speech', 'modern', 'false', 'mainly', 'concern', 'climate', 'perfect', 'nearly', 'expression', 'circle', 'previous', 'school']
+----------------------------------------------------------------------
+h_num: 78
+w_h_top_words_indx: [2722  851 1791 3716 1008  732  590  749  686 2931 2618  679 2815  585
+  358 2603 2917 3073 3034 3064]
+w_h_top_words:['present', 'current', 'incredibly', 'typical', 'discussion', 'consider', 'circuit', 'contain', 'competition', 'region', 'picture', 'compare', 'pull', 'chrome', 'bfhttheoryautotldrconcept', 'phase', 'reduce', 'rule', 'ride', 'round']
+----------------------------------------------------------------------
+h_num: 79
+w_h_top_words_indx: [2014    4  392  358  749  936 3716  590  162 1341 3880 3344  575 1271
+ 3034  989 1168 2093 1602 2722]
+w_h_top_words:['leave', 'ability', 'block', 'bfhttheoryautotldrconcept', 'contain', 'deny', 'typical', 'circuit', 'anybody', 'find', 'water', 'special', 'chinese', 'eye', 'ride', 'director', 'entry', 'loss', 'hand', 'present']
+----------------------------------------------------------------------
+h_num: 80
+w_h_top_words_indx: [2815 1008 1791 3716 2722 3064  358  679 2931  516  590  585  749 3073
+ 3034 1434 2917 2218 3189    6]
+w_h_top_words:['pull', 'discussion', 'incredibly', 'typical', 'present', 'round', 'bfhttheoryautotldrconcept', 'compare', 'region', 'carbon', 'circuit', 'chrome', 'contain', 'rule', 'ride', 'fucking', 'reduce', 'mention', 'setup', 'able']
+----------------------------------------------------------------------
+h_num: 81
+w_h_top_words_indx: [2014  749 2767  358 1953 2722  732 3627 2650 3716 1372  590 3901 2564
+ 3626 3034 1258 2977  652  743]
+w_h_top_words:['leave', 'contain', 'product', 'bfhttheoryautotldrconcept', 'keyword', 'present', 'consider', 'tldrs', 'pm', 'typical', 'fmfaqautotldrbot', 'circuit', 'welcome', 'patent', 'tldr', 'ride', 'expose', 'reply', 'color', 'constructive']
+----------------------------------------------------------------------
+h_num: 82
+w_h_top_words_indx: [2014  749 1791 3189 1661 3716 2564 2616 1558 2679 3344  652 3804  572
+ 3697  392 3287 3752 3308  803]
+w_h_top_words:['leave', 'contain', 'incredibly', 'setup', 'highly', 'typical', 'patent', 'pick', 'group', 'position', 'special', 'color', 'variety', 'child', 'true', 'block', 'slightly', 'unit', 'software', 'cpu']
+----------------------------------------------------------------------
+h_num: 83
+w_h_top_words_indx: [ 480 1602 3608 2815 3880 2767 2679 3034 1203 1558 2722 3901 1202 1100
+  830 1425  749  358   59 3160]
+w_h_top_words:['buy', 'hand', 'tie', 'pull', 'water', 'product', 'position', 'ride', 'eventually', 'group', 'present', 'welcome', 'event', 'edge', 'cross', 'friend', 'contain', 'bfhttheoryautotldrconcept', 'admin', 'selection']
+----------------------------------------------------------------------
+h_num: 84
+w_h_top_words_indx: [2815 3716  480 1008 1791  851  516 3064 2026 2533  590  358 3073 1921
+  749 2722 2603 2218 2931  350]
+w_h_top_words:['pull', 'typical', 'buy', 'discussion', 'incredibly', 'current', 'carbon', 'round', 'length', 'paint', 'circuit', 'bfhttheoryautotldrconcept', 'rule', 'jewish', 'contain', 'present', 'phase', 'mention', 'region', 'benefit']
+----------------------------------------------------------------------
+h_num: 85
+w_h_top_words_indx: [ 358 3626 1953 3901   59  480  830  749 1183  392 1425 1372 3627  575
+ 3716  261  516 1791  743 2722]
+w_h_top_words:['bfhttheoryautotldrconcept', 'tldr', 'keyword', 'welcome', 'admin', 'buy', 'cross', 'contain', 'especially', 'block', 'friend', 'fmfaqautotldrbot', 'tldrs', 'chinese', 'typical', 'autotldr', 'carbon', 'incredibly', 'constructive', 'present']
+----------------------------------------------------------------------
+h_num: 86
+w_h_top_words_indx: [3600 2996  350  749 1274 3344 3910  679 2599 2159  484  830 1320 3994
+ 3169 3908 3912 1383 2588  339]
+w_h_top_words:['thread', 'resistance', 'benefit', 'contain', 'face', 'special', 'white', 'compare', 'personally', 'market', 'cable', 'cross', 'fellow', 'z', 'sense', 'wheel', 'wide', 'foot', 'perfect', 'behavior']
+----------------------------------------------------------------------
+h_num: 87
+w_h_top_words_indx: [ 480  851  358 2722  732 3716 2917 3169  590 2603 1791 3626 3880 1953
+  516  511 3160 2815 2943  151]
+w_h_top_words:['buy', 'current', 'bfhttheoryautotldrconcept', 'present', 'consider', 'typical', 'reduce', 'sense', 'circuit', 'phase', 'incredibly', 'tldr', 'water', 'keyword', 'carbon', 'capital', 'selection', 'pull', 'relate', 'animal']
+----------------------------------------------------------------------
+h_num: 88
+w_h_top_words_indx: [2815 3716  830 3344 1558 3189 2037  516  951 1791  590  749 2982 3034
+ 1173  339 3880 2227 2603 2917]
+w_h_top_words:['pull', 'typical', 'cross', 'special', 'group', 'setup', 'liberal', 'carbon', 'desire', 'incredibly', 'circuit', 'contain', 'reproduce', 'ride', 'equality', 'behavior', 'water', 'metal', 'phase', 'reduce']
+----------------------------------------------------------------------
+h_num: 89
+w_h_top_words_indx: [3716 2660 3880  749    4 1425 3804 1791  480 2815 3724 1280  392 2618
+  999 3344  830  679  575  617]
+w_h_top_words:['typical', 'policy', 'water', 'contain', 'ability', 'friend', 'variety', 'incredibly', 'buy', 'pull', 'uh', 'fail', 'block', 'picture', 'disaster', 'special', 'cross', 'compare', 'chinese', 'clinical']
+----------------------------------------------------------------------
+h_num: 90
+w_h_top_words_indx: [ 732 2014 3627  749 3626 1953 3880  140 2722 3608 2917 1372  358 3566
+ 2564 1791  590 2494  951 1041]
+w_h_top_words:['consider', 'leave', 'tldrs', 'contain', 'tldr', 'keyword', 'water', 'analog', 'present', 'tie', 'reduce', 'fmfaqautotldrbot', 'bfhttheoryautotldrconcept', 'territory', 'patent', 'incredibly', 'circuit', 'order', 'desire', 'dominate']
+----------------------------------------------------------------------
+h_num: 91
+w_h_top_words_indx: [2815 3910  749 1791 1274    4 2660  358 3716 3901 1602  743   59 3208
+  151 1372 1699 1953 2767  392]
+w_h_top_words:['pull', 'white', 'contain', 'incredibly', 'face', 'ability', 'policy', 'bfhttheoryautotldrconcept', 'typical', 'welcome', 'hand', 'constructive', 'admin', 'shelf', 'animal', 'fmfaqautotldrbot', 'horrible', 'keyword', 'product', 'block']
+----------------------------------------------------------------------
+h_num: 92
+w_h_top_words_indx: [2014  749  732 3880  936 3716 2767 2338 1558 3208 3189 1791  830  358
+ 3183 1280 3804 3591 2603 3418]
+w_h_top_words:['leave', 'contain', 'consider', 'water', 'deny', 'typical', 'product', 'muslim', 'group', 'shelf', 'setup', 'incredibly', 'cross', 'bfhttheoryautotldrconcept', 'server', 'fail', 'variety', 'thin', 'phase', 'straight']
+----------------------------------------------------------------------
+h_num: 93
+w_h_top_words_indx: [2815  732 3716  480 1791  851  516 1008 2722 2082 3073 3064 1343  438
+ 3169  590  585 2931 3034 3880]
+w_h_top_words:['pull', 'consider', 'typical', 'buy', 'incredibly', 'current', 'carbon', 'discussion', 'present', 'logically', 'rule', 'round', 'finger', 'bring', 'sense', 'circuit', 'chrome', 'region', 'ride', 'water']
+----------------------------------------------------------------------
+h_num: 94
+w_h_top_words_indx: [ 732 2775 1602 3169  480 2815  151 2812  516  936 1791 3716 2323 3344
+ 1901 1343 2093 2218  590  679]
+w_h_top_words:['consider', 'profit', 'hand', 'sense', 'buy', 'pull', 'animal', 'public', 'carbon', 'deny', 'incredibly', 'typical', 'movie', 'special', 'issue', 'finger', 'loss', 'mention', 'circuit', 'compare']
+----------------------------------------------------------------------
+h_num: 95
+w_h_top_words_indx: [ 358 1953 3804 2767 3627 1341 2917 3626 3716 2014 1372 3901 2172 2660
+  590 2511 2650 2977 1797  743]
+w_h_top_words:['bfhttheoryautotldrconcept', 'keyword', 'variety', 'product', 'tldrs', 'find', 'reduce', 'tldr', 'typical', 'leave', 'fmfaqautotldrbot', 'welcome', 'match', 'policy', 'circuit', 'output', 'pm', 'reply', 'individual', 'constructive']
+----------------------------------------------------------------------
+h_num: 96
+w_h_top_words_indx: [2192 2284 1659  975 2726 3994 2977 3124 2370 1290 2904  380 2672 2654
+ 3600 3352 3898 1397 2588  703]
+w_h_top_words:['mean', 'modern', 'high', 'different', 'presidential', 'z', 'reply', 'school', 'nearly', 'false', 'recently', 'bitch', 'population', 'point', 'thread', 'speech', 'weekend', 'formal', 'perfect', 'concern']
+----------------------------------------------------------------------
+h_num: 97
+w_h_top_words_indx: [3600  504 2192 2977  637 2599  380 2089 3898 1046 2588 3994 1658 2630
+  743 1387 3557 2663 1953   86]
+w_h_top_words:['thread', 'candidate', 'mean', 'reply', 'code', 'personally', 'bitch', 'loop', 'weekend', 'dont', 'perfect', 'z', 'hide', 'pixel', 'constructive', 'force', 'temporarily', 'political', 'keyword', 'agenda']
+----------------------------------------------------------------------
+h_num: 98
+w_h_top_words_indx: [2014 2767  392  749 2812  358 2502  499 1791  590 3208 2603 2618 3804
+ 3966 3716    4 2722  936  217]
+w_h_top_words:['leave', 'product', 'block', 'contain', 'public', 'bfhttheoryautotldrconcept', 'oror', 'campaign', 'incredibly', 'circuit', 'shelf', 'phase', 'picture', 'variety', 'x', 'typical', 'ability', 'present', 'deny', 'aspect']
+----------------------------------------------------------------------
+h_num: 99
+w_h_top_words_indx: [ 679 2815 1294 3608 1791 2722 2014 2917 2082 2613 1271 3183 1391 3716
+ 3804  590 3626 3910  749 3880]
+w_h_top_words:['compare', 'pull', 'fan', 'tie', 'incredibly', 'present', 'leave', 'reduce', 'logically', 'physics', 'eye', 'server', 'forever', 'typical', 'variety', 'circuit', 'tldr', 'white', 'contain', 'water']
+----------------------------------------------------------------------

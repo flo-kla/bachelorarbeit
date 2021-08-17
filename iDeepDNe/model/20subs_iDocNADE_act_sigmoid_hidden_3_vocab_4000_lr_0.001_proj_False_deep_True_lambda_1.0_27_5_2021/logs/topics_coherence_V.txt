@@ -1,0 +1,26 @@
+top_n: 10 Topic Num: 1 
+Topic Words: [['puwhatisautomoderator', 'moderator', 'automatically', 'bfhttheoryautotldrconcept', 'gay', 'fmfaqautotldrbot', 'keyword', 'tldr', 'sexuality', 'act']]
+Coh_type:c_v  Topic Num:1 COH score:0.3544897700470076
+top_n: 20 Topic Num: 1 
+Topic Words: [['puwhatisautomoderator', 'moderator', 'automatically', 'bfhttheoryautotldrconcept', 'gay', 'fmfaqautotldrbot', 'keyword', 'tldr', 'sexuality', 'act', 'tldrs', 'natural', 'bot', 'resubmit', 'concern', 'constructive', 'imaginary', 'autotldr', 'woman', 'ac']]
+Coh_type:c_v  Topic Num:1 COH score:0.41427084828764577
+top_n: 10 Topic Num: 2 
+Topic Words: [['app', 'screen', 'lt', 'menu', 'desktop', 'run', 'game', 'pc', 'work', 'immediate']]
+Coh_type:c_v  Topic Num:2 COH score:0.4094271667675586
+top_n: 20 Topic Num: 2 
+Topic Words: [['app', 'screen', 'lt', 'menu', 'desktop', 'run', 'game', 'pc', 'work', 'immediate', 'phone', 'bug', 'learn', 'feel', 'download', 'car', 'laptop', 'tablet', 'store', 'setting']]
+Coh_type:c_v  Topic Num:2 COH score:0.46900303514431113
+top_n: 10 Topic Num: 3 
+Topic Words: [['partner', 'karma', 'successful', 'join', 'information', 'swap', 'date', 'username', 'potential', 'immediate']]
+Coh_type:c_v  Topic Num:3 COH score:0.9228246170906692
+top_n: 20 Topic Num: 3 
+Topic Words: [['partner', 'karma', 'successful', 'join', 'information', 'swap', 'date', 'username', 'potential', 'immediate', 'guarantee', 'background', 'provide', 'trade', 'comment', 'link', 'lt', 'help', 'year', 'reinstall']]
+Coh_type:c_v  Topic Num:3 COH score:0.8257709472501897
+top scores for top_10:[0.9228246170906692, 10, [['partner', 'karma', 'successful', 'join', 'information', 'swap', 'date', 'username', 'potential', 'immediate']]]
+-------------------------------------------------------------------
+top scores for top_20:[0.8257709472501897, 20, [['partner', 'karma', 'successful', 'join', 'information', 'swap', 'date', 'username', 'potential', 'immediate', 'guarantee', 'background', 'provide', 'trade', 'comment', 'link', 'lt', 'help', 'year', 'reinstall']]]
+-------------------------------------------------------------------
+Avg COH for top_10 topic words: 0.5622471846350785
+-------------------------------------------------------------------
+Avg COH for top_20 topic words: 0.5696816102273822
+-------------------------------------------------------------------

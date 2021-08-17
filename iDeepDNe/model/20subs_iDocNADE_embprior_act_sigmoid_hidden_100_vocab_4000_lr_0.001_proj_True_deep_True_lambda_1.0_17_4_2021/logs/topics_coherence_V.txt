@@ -1,0 +1,602 @@
+top_n: 10 Topic Num: 1 
+Topic Words: [['simply', 'wrong', 'possible', 'question', 'person', 'd', 'place', 'like', 'able', 'water']]
+Coh_type:c_v  Topic Num:1 COH score:0.21240741954197687
+top_n: 20 Topic Num: 1 
+Topic Words: [['simply', 'wrong', 'possible', 'question', 'person', 'd', 'place', 'like', 'able', 'water', 'know', 'merely', 'way', 'murder', 'strategy', 'bit', 'compare', 'pay', 'low', 'opinion']]
+Coh_type:c_v  Topic Num:1 COH score:0.22789093207057404
+top_n: 10 Topic Num: 2 
+Topic Words: [['pass', 'bet', 'minority', 'elect', 'article', 'replace', 'vacuum', 'kid', 'true', 'helpful']]
+Coh_type:c_v  Topic Num:2 COH score:0.548562769402057
+top_n: 20 Topic Num: 2 
+Topic Words: [['pass', 'bet', 'minority', 'elect', 'article', 'replace', 'vacuum', 'kid', 'true', 'helpful', 'poor', 'pour', 'find', 'delete', 'start', 'pm', 'ready', 'english', 'finally', 'meet']]
+Coh_type:c_v  Topic Num:2 COH score:0.6099226466575685
+top_n: 10 Topic Num: 3 
+Topic Words: [['player', 'update', 'government', 'idea', 'think', 'autotldr', 'draw', 'talk', 'help', 'amplify']]
+Coh_type:c_v  Topic Num:3 COH score:0.4059569095587506
+top_n: 20 Topic Num: 3 
+Topic Words: [['player', 'update', 'government', 'idea', 'think', 'autotldr', 'draw', 'talk', 'help', 'amplify', 'start', 'guy', 'military', 'soviet', 'word', 'intelligent', 'instead', 'work', 'response', 'piece']]
+Coh_type:c_v  Topic Num:3 COH score:0.49695049022335375
+top_n: 10 Topic Num: 4 
+Topic Words: [['like', 'couple', 'app', 'karma', 'marriage', 'tablet', 'respect', 'paypal', 'widget', 'primarily']]
+Coh_type:c_v  Topic Num:4 COH score:0.47052767707523663
+top_n: 20 Topic Num: 4 
+Topic Words: [['like', 'couple', 'app', 'karma', 'marriage', 'tablet', 'respect', 'paypal', 'widget', 'primarily', 'drive', 'forgive', 'control', 'ugly', 'quickly', 'keyboard', 'habit', 'event', 'slightly', 'population']]
+Coh_type:c_v  Topic Num:4 COH score:0.6268790149488099
+top_n: 10 Topic Num: 5 
+Topic Words: [['probably', 'teach', 'fact', 'people', 'normal', 'accurate', 'damn', 'read', 'obviously', 'way']]
+Coh_type:c_v  Topic Num:5 COH score:0.26261469303476825
+top_n: 20 Topic Num: 5 
+Topic Words: [['probably', 'teach', 'fact', 'people', 'normal', 'accurate', 'damn', 'read', 'obviously', 'way', 'twice', 'heart', 'anymore', 'ebay', 'guess', 'difference', 'screen', 'free', 'potentially', 'narrow']]
+Coh_type:c_v  Topic Num:5 COH score:0.46842977307433886
+top_n: 10 Topic Num: 6 
+Topic Words: [['screen', 'like', 'touch', 'material', 'post', 'guy', 'prefer', 'check', 'bank', 'describe']]
+Coh_type:c_v  Topic Num:6 COH score:0.27519609140566625
+top_n: 20 Topic Num: 6 
+Topic Words: [['screen', 'like', 'touch', 'material', 'post', 'guy', 'prefer', 'check', 'bank', 'describe', 'easy', 'feel', 'intelligent', 'admit', 'think', 'good', 'reject', 'long', 'code', 'g']]
+Coh_type:c_v  Topic Num:6 COH score:0.35695251791363974
+top_n: 10 Topic Num: 7 
+Topic Words: [['people', 'easy', 'like', 'gt', 'want', 'plus', 'line', 'thank', 'point', 'feel']]
+Coh_type:c_v  Topic Num:7 COH score:0.19951733851659093
+top_n: 20 Topic Num: 7 
+Topic Words: [['people', 'easy', 'like', 'gt', 'want', 'plus', 'line', 'thank', 'point', 'feel', 'ex', 'miss', 'wrong', 'creator', 'look', 'able', 'sin', 'thing', 'example', 'stuff']]
+Coh_type:c_v  Topic Num:7 COH score:0.34331441824827363
+top_n: 10 Topic Num: 8 
+Topic Words: [['little', 'time', 'price', 'setting', 'subject', 'hell', 'recognize', 'require', 'parent', 'screen']]
+Coh_type:c_v  Topic Num:8 COH score:0.39561796296545776
+top_n: 20 Topic Num: 8 
+Topic Words: [['little', 'time', 'price', 'setting', 'subject', 'hell', 'recognize', 'require', 'parent', 'screen', 'look', 'wish', 'term', 'course', 'regret', 'block', 'gun', 'resource', 'turn', 'false']]
+Coh_type:c_v  Topic Num:8 COH score:0.46211628168468993
+top_n: 10 Topic Num: 9 
+Topic Words: [['like', 'power', 'change', 'good', 'list', 'drive', 'people', 'ban', 'text', 'gt']]
+Coh_type:c_v  Topic Num:9 COH score:0.24552938514702682
+top_n: 20 Topic Num: 9 
+Topic Words: [['like', 'power', 'change', 'good', 'list', 'drive', 'people', 'ban', 'text', 'gt', 'window', 'terminal', 'belief', 'friend', 'game', 'k', 'complete', 'pretty', 'lot', 'debate']]
+Coh_type:c_v  Topic Num:9 COH score:0.32698393114963514
+top_n: 10 Topic Num: 10 
+Topic Words: [['feel', 'internet', 'option', 'add', 'want', 'terrible', 'willing', 'separate', 'need', 'background']]
+Coh_type:c_v  Topic Num:10 COH score:0.20155088448210717
+top_n: 20 Topic Num: 10 
+Topic Words: [['feel', 'internet', 'option', 'add', 'want', 'terrible', 'willing', 'separate', 'need', 'background', 'pretty', 'know', 'rest', 'provide', 'universal', 'way', 'use', 'following', 'completely', 'post']]
+Coh_type:c_v  Topic Num:10 COH score:0.3103813637794958
+top_n: 10 Topic Num: 11 
+Topic Words: [['row', 's', 'factor', 'leave', 'represent', 'die', 'computer', 'want', 'way', 'govern']]
+Coh_type:c_v  Topic Num:11 COH score:0.3490561073098664
+top_n: 20 Topic Num: 11 
+Topic Words: [['row', 's', 'factor', 'leave', 'represent', 'die', 'computer', 'want', 'way', 'govern', 'shit', 'engine', 'base', 'step', 'completely', 'fantastic', 'course', 'definitely', 'provide', 'deserve']]
+Coh_type:c_v  Topic Num:11 COH score:0.4835734735171524
+top_n: 10 Topic Num: 12 
+Topic Words: [['exactly', 'way', 'like', 'correct', 'mean', 'online', 'delete', 'affect', 'leave', 'lose']]
+Coh_type:c_v  Topic Num:12 COH score:0.247026224954945
+top_n: 20 Topic Num: 12 
+Topic Words: [['exactly', 'way', 'like', 'correct', 'mean', 'online', 'delete', 'affect', 'leave', 'lose', 'ton', 'actual', 'regulate', 'reader', 'vote', 'background', 'different', 'rise', 'station', 'vector']]
+Coh_type:c_v  Topic Num:12 COH score:0.4966074798412876
+top_n: 10 Topic Num: 13 
+Topic Words: [['problem', 'fault', 'comment', 'position', 'think', 'agenda', 'country', 'deal', 'stupid', 'process']]
+Coh_type:c_v  Topic Num:13 COH score:0.23564910985680143
+top_n: 20 Topic Num: 13 
+Topic Words: [['problem', 'fault', 'comment', 'position', 'think', 'agenda', 'country', 'deal', 'stupid', 'process', 'thank', 'year', 'level', 'busy', 'wrong', 'add', 'pain', 'goal', 'gt', 'tell']]
+Coh_type:c_v  Topic Num:13 COH score:0.32619356513579556
+top_n: 10 Topic Num: 14 
+Topic Words: [['work', 'speak', 'deal', 'company', 'turn', 'type', 'equipment', 's', 'hand', 'dude']]
+Coh_type:c_v  Topic Num:14 COH score:0.26599207824648613
+top_n: 20 Topic Num: 14 
+Topic Words: [['work', 'speak', 'deal', 'company', 'turn', 'type', 'equipment', 's', 'hand', 'dude', 'particular', 'establish', 'use', 'kind', 'nice', 'think', 'thank', 'people', 'wire', 'pay']]
+Coh_type:c_v  Topic Num:14 COH score:0.3077544178160736
+top_n: 10 Topic Num: 15 
+Topic Words: [['change', 'know', 'bore', 'choice', 'great', 'submit', 'window', 'year', 'base', 'delete']]
+Coh_type:c_v  Topic Num:15 COH score:0.3748909048029541
+top_n: 20 Topic Num: 15 
+Topic Words: [['change', 'know', 'bore', 'choice', 'great', 'submit', 'window', 'year', 'base', 'delete', 'post', 'new', 'star', 'like', 'economy', 'faith', 'cause', 'work', 'yes', 'old']]
+Coh_type:c_v  Topic Num:15 COH score:0.4172124541140165
+top_n: 10 Topic Num: 16 
+Topic Words: [['high', 'world', 'lol', 'draw', 'loud', 'king', 'go', 'content', 'people', 'app']]
+top_n: 20 Topic Num: 16 
+Topic Words: [['high', 'world', 'lol', 'draw', 'loud', 'king', 'go', 'content', 'people', 'app', 'apparently', 'special', 'inside', 'help', 'status', 'moral', 'study', 'thank', 'long', 'belt']]
+top_n: 10 Topic Num: 17 
+Topic Words: [['gt', 'let', 'thing', 'end', 'help', 'guy', 'actually', 'consider', 'start', 'million']]
+Coh_type:c_v  Topic Num:17 COH score:0.13573680451788378
+top_n: 20 Topic Num: 17 
+Topic Words: [['gt', 'let', 'thing', 'end', 'help', 'guy', 'actually', 'consider', 'start', 'million', 'year', 'property', 'think', 'expensive', 'people', 'objection', 'budget', 'run', 'link', 'special']]
+Coh_type:c_v  Topic Num:17 COH score:0.3063159215890167
+top_n: 10 Topic Num: 18 
+Topic Words: [['woman', 'mean', 'actually', 'car', 'human', 'think', 'idea', 'time', 'ignore', 'start']]
+Coh_type:c_v  Topic Num:18 COH score:0.2635072946907433
+top_n: 20 Topic Num: 18 
+Topic Words: [['woman', 'mean', 'actually', 'car', 'human', 'think', 'idea', 'time', 'ignore', 'start', 'learn', 'mind', 'leave', 'year', 'question', 'second', 'work', 'product', 'change', 'yea']]
+Coh_type:c_v  Topic Num:18 COH score:0.30169639173028806
+top_n: 10 Topic Num: 19 
+Topic Words: [['problem', 'near', 'work', 'look', 'early', 'defense', 'use', 'gt', 'like', 'constructive']]
+Coh_type:c_v  Topic Num:19 COH score:0.21858715901663722
+top_n: 20 Topic Num: 19 
+Topic Words: [['problem', 'near', 'work', 'look', 'early', 'defense', 'use', 'gt', 'like', 'constructive', 'amazing', 'respect', 'relevant', 'freelance', 'satellite', 'repair', 'fine', 'meter', 'way', 'moderator']]
+Coh_type:c_v  Topic Num:19 COH score:0.5142354160824
+top_n: 10 Topic Num: 20 
+Topic Words: [['swap', 'build', 'money', 'sound', 'support', 'design', 'rule', 'way', 'like', 'difference']]
+Coh_type:c_v  Topic Num:20 COH score:0.21632378766090907
+top_n: 20 Topic Num: 20 
+Topic Words: [['swap', 'build', 'money', 'sound', 'support', 'design', 'rule', 'way', 'like', 'difference', 'home', 'people', 'everybody', 'successful', 'post', 'color', 'interested', 'great', 'band', 'lot']]
+Coh_type:c_v  Topic Num:20 COH score:0.3216746123844928
+top_n: 10 Topic Num: 21 
+Topic Words: [['person', 'true', 'win', 'edit', 'thank', 'suppose', 'delete', 'voting', 'buy', 'require']]
+Coh_type:c_v  Topic Num:21 COH score:0.40176771678738127
+top_n: 20 Topic Num: 21 
+Topic Words: [['person', 'true', 'win', 'edit', 'thank', 'suppose', 'delete', 'voting', 'buy', 'require', 'situation', 'account', 'information', 'problem', 'bad', 'try', 'program', 'write', 'argue', 'decide']]
+Coh_type:c_v  Topic Num:21 COH score:0.38152594416589913
+top_n: 10 Topic Num: 22 
+Topic Words: [['matter', 'app', 'like', 'thing', 'feature', 'b', 'hope', 'skill', 'lol', 'new']]
+Coh_type:c_v  Topic Num:22 COH score:0.16316372569096074
+top_n: 20 Topic Num: 22 
+Topic Words: [['matter', 'app', 'like', 'thing', 'feature', 'b', 'hope', 'skill', 'lol', 'new', 'information', 'separate', 'program', 'people', 'fill', 'love', 'sure', 'thank', 'bag', 'evidence']]
+Coh_type:c_v  Topic Num:22 COH score:0.2681979315160758
+top_n: 10 Topic Num: 23 
+Topic Words: [['free', 'kind', 'govt', 'raise', 'buy', 'play', 'policy', 'scheme', 'think', 'bunch']]
+Coh_type:c_v  Topic Num:23 COH score:0.4190951136437703
+top_n: 20 Topic Num: 23 
+Topic Words: [['free', 'kind', 'govt', 'raise', 'buy', 'play', 'policy', 'scheme', 'think', 'bunch', 'like', 'ask', 'pretty', 'cooler', 'average', 'little', 'action', 'value', 'menu', 'contract']]
+Coh_type:c_v  Topic Num:23 COH score:0.4632904168895552
+top_n: 10 Topic Num: 24 
+Topic Words: [['good', 's', 'work', 'support', 'happen', 'case', 'let', 'medical', 'think', 'use']]
+Coh_type:c_v  Topic Num:24 COH score:0.2880143914676094
+top_n: 20 Topic Num: 24 
+Topic Words: [['good', 's', 'work', 'support', 'happen', 'case', 'let', 'medical', 'think', 'use', 'way', 'place', 'experience', 'base', 'time', 'release', 'like', 'drive', 'faith', 'individual']]
+Coh_type:c_v  Topic Num:24 COH score:0.3090662124989818
+top_n: 10 Topic Num: 25 
+Topic Words: [['think', 'hate', 'sure', 'international', 'look', 'change', 'low', 'lot', 'wife', 'x']]
+Coh_type:c_v  Topic Num:25 COH score:0.228978035736839
+top_n: 20 Topic Num: 25 
+Topic Words: [['think', 'hate', 'sure', 'international', 'look', 'change', 'low', 'lot', 'wife', 'x', 'know', 'schedule', 'need', 'hand', 'link', 'include', 'battery', 'fit', 'page', 'source']]
+Coh_type:c_v  Topic Num:25 COH score:0.28665447086099205
+top_n: 10 Topic Num: 26 
+Topic Words: [['money', 'bayonet', 'scenario', 'terrible', 'gt', 'focus', 'big', 'v', 'sure', 'signal']]
+Coh_type:c_v  Topic Num:26 COH score:0.3991252227795496
+top_n: 20 Topic Num: 26 
+Topic Words: [['money', 'bayonet', 'scenario', 'terrible', 'gt', 'focus', 'big', 'v', 'sure', 'signal', 'n', 'occupy', 'hard', 'lot', 'ask', 'main', 'free', 'screw', 'computer', 'little']]
+Coh_type:c_v  Topic Num:26 COH score:0.5210293158957104
+top_n: 10 Topic Num: 27 
+Topic Words: [['build', 'n', 'trace', 'sense', 'hit', 'link', 'bounce', 'easily', 'purchase', 'want']]
+Coh_type:c_v  Topic Num:27 COH score:0.4009062108193908
+top_n: 20 Topic Num: 27 
+Topic Words: [['build', 'n', 'trace', 'sense', 'hit', 'link', 'bounce', 'easily', 'purchase', 'want', 'tell', 'oh', 'love', 'maybe', 'strength', 'bmw', 'lack', 'problem', 'question', 'teach']]
+Coh_type:c_v  Topic Num:27 COH score:0.47356357341533606
+top_n: 10 Topic Num: 28 
+Topic Words: [['let', 'stay', 'thank', 'setup', 'people', 'fact', 'sound', 'lot', 'reality', 'choose']]
+Coh_type:c_v  Topic Num:28 COH score:0.18152721041981423
+top_n: 20 Topic Num: 28 
+Topic Words: [['let', 'stay', 'thank', 'setup', 'people', 'fact', 'sound', 'lot', 'reality', 'choose', 'cheap', 'possible', 'feel', 'different', 'know', 'sex', 'union', 'use', 'code', 'worth']]
+Coh_type:c_v  Topic Num:28 COH score:0.20843925588583284
+top_n: 10 Topic Num: 29 
+Topic Words: [['fail', 'concept', 's', 'install', 'help', 'post', 'building', 'bad', 'example', 'reference']]
+Coh_type:c_v  Topic Num:29 COH score:0.28943097404517215
+top_n: 20 Topic Num: 29 
+Topic Words: [['fail', 'concept', 's', 'install', 'help', 'post', 'building', 'bad', 'example', 'reference', 'hard', 'receive', 'gap', 'op', 'command', 'away', 'list', 'unique', 'mess', 'pretend']]
+Coh_type:c_v  Topic Num:29 COH score:0.5015249395833932
+top_n: 10 Topic Num: 30 
+Topic Words: [['right', 'time', 'delete', 'morality', 'ability', 'bad', 'shit', 'question', 'think', 'need']]
+Coh_type:c_v  Topic Num:30 COH score:0.3221798124501494
+top_n: 20 Topic Num: 30 
+Topic Words: [['right', 'time', 'delete', 'morality', 'ability', 'bad', 'shit', 'question', 'think', 'need', 'oh', 'truth', 'member', 'hell', 'want', 'sling', 'sell', 'datum', 'run', 'great']]
+Coh_type:c_v  Topic Num:30 COH score:0.43473607604546166
+top_n: 10 Topic Num: 31 
+Topic Words: [['let', 'bad', 'sell', 'response', 'number', 'experiment', 'marijuana', 'kill', 'read', 'enthusiast']]
+Coh_type:c_v  Topic Num:31 COH score:0.5020420755895852
+top_n: 20 Topic Num: 31 
+Topic Words: [['let', 'bad', 'sell', 'response', 'number', 'experiment', 'marijuana', 'kill', 'read', 'enthusiast', 'machine', 'gay', 'shield', 'fresh', 'engage', 'source', 'tablet', 'know', 'change', 'death']]
+Coh_type:c_v  Topic Num:31 COH score:0.5690707894301127
+top_n: 10 Topic Num: 32 
+Topic Words: [['thank', 'inspire', 'karma', 'check', 'hand', 'image', 'pay', 'gift', 'cool', 'worth']]
+Coh_type:c_v  Topic Num:32 COH score:0.49613252395415053
+top_n: 20 Topic Num: 32 
+Topic Words: [['thank', 'inspire', 'karma', 'check', 'hand', 'image', 'pay', 'gift', 'cool', 'worth', 'nd', 'hope', 'open', 'specialized', 'surprised', 'history', 'calm', 'video', 'maybe', 'old']]
+Coh_type:c_v  Topic Num:32 COH score:0.6118172868808309
+top_n: 10 Topic Num: 33 
+Topic Words: [['kill', 'work', 'time', 'bad', 'eat', 'disagree', 'replace', 'explain', 'potentially', 'start']]
+Coh_type:c_v  Topic Num:33 COH score:0.22814135981939065
+top_n: 20 Topic Num: 33 
+Topic Words: [['kill', 'work', 'time', 'bad', 'eat', 'disagree', 'replace', 'explain', 'potentially', 'start', 'scripture', 'believe', 'think', 'write', 'money', 'line', 'theory', 'contract', 'paste', 'year']]
+Coh_type:c_v  Topic Num:33 COH score:0.2808186775233934
+top_n: 10 Topic Num: 34 
+Topic Words: [['final', 'space', 'original', 'correct', 'recommend', 'alive', 'person', 'second', 'relate', 'certain']]
+Coh_type:c_v  Topic Num:34 COH score:0.35525724177241325
+top_n: 20 Topic Num: 34 
+Topic Words: [['final', 'space', 'original', 'correct', 'recommend', 'alive', 'person', 'second', 'relate', 'certain', 'pitch', 'username', 'team', 'sense', 'christian', 'entirely', 'regular', 'time', 'trade', 'nowadays']]
+Coh_type:c_v  Topic Num:34 COH score:0.49277625840648637
+top_n: 10 Topic Num: 35 
+Topic Words: [['time', 'probably', 'look', 'people', 'gt', 'update', 's', 'woman', 'allow', 'power']]
+Coh_type:c_v  Topic Num:35 COH score:0.23740287826375428
+top_n: 20 Topic Num: 35 
+Topic Words: [['time', 'probably', 'look', 'people', 'gt', 'update', 's', 'woman', 'allow', 'power', 'know', 'e', 'choose', 'work', 'play', 'old', 'good', 'health', 'case', 'source']]
+Coh_type:c_v  Topic Num:35 COH score:0.25137941388310725
+top_n: 10 Topic Num: 36 
+Topic Words: [['good', 'team', 'blog', 'train', 'like', 'difficult', 'kilogram', 'work', 'little', 'pin']]
+Coh_type:c_v  Topic Num:36 COH score:0.3546655758991845
+top_n: 20 Topic Num: 36 
+Topic Words: [['good', 'team', 'blog', 'train', 'like', 'difficult', 'kilogram', 'work', 'little', 'pin', 'e', 'know', 'open', 'c', 'ram', 'actually', 'different', 'market', 'fucking', 'fully']]
+Coh_type:c_v  Topic Num:36 COH score:0.4049271155091064
+top_n: 10 Topic Num: 37 
+Topic Words: [['run', 'feel', 'university', 'swap', 'pc', 'delete', 'orbit', 'thing', 'self', 'definition']]
+Coh_type:c_v  Topic Num:37 COH score:0.4784692222290479
+top_n: 20 Topic Num: 37 
+Topic Words: [['run', 'feel', 'university', 'swap', 'pc', 'delete', 'orbit', 'thing', 'self', 'definition', 'follow', 'font', 'matter', 'subway', 'life', 'right', 'case', 'controller', 'share', 'news']]
+Coh_type:c_v  Topic Num:37 COH score:0.5427025255603785
+top_n: 10 Topic Num: 38 
+Topic Words: [['service', 'religion', 'class', 'need', 'enthusiast', 'wrong', 'soon', 'especially', 'obstacle', 'kill']]
+Coh_type:c_v  Topic Num:38 COH score:0.3503153059330596
+top_n: 20 Topic Num: 38 
+Topic Words: [['service', 'religion', 'class', 'need', 'enthusiast', 'wrong', 'soon', 'especially', 'obstacle', 'kill', 'trash', 'pass', 'screen', 'honestly', 'subject', 'nope', 'end', 'marry', 'folder', 'accord']]
+Coh_type:c_v  Topic Num:38 COH score:0.5403815848190996
+top_n: 10 Topic Num: 39 
+Topic Words: [['answer', 'action', 'downvote', 'pdf', 'app', 'mention', 'act', 'great', 'come', 'nice']]
+Coh_type:c_v  Topic Num:39 COH score:0.312748876651334
+top_n: 20 Topic Num: 39 
+Topic Words: [['answer', 'action', 'downvote', 'pdf', 'app', 'mention', 'act', 'great', 'come', 'nice', 'beast', 'content', 'respect', 'c', 'diagram', 'happen', 'guess', 'generally', 'catch', 's']]
+Coh_type:c_v  Topic Num:39 COH score:0.4556004320412309
+top_n: 10 Topic Num: 40 
+Topic Words: [['man', 'experience', 'future', 'sell', 'real', 'use', 'people', 'controller', 'golden', 'helmet']]
+Coh_type:c_v  Topic Num:40 COH score:0.42196162860080333
+top_n: 20 Topic Num: 40 
+Topic Words: [['man', 'experience', 'future', 'sell', 'real', 'use', 'people', 'controller', 'golden', 'helmet', 'post', 'rate', 'right', 'random', 'universal', 'live', 'battery', 'thing', 'work', 'different']]
+Coh_type:c_v  Topic Num:40 COH score:0.4074185918239562
+top_n: 10 Topic Num: 41 
+Topic Words: [['fan', 'people', 'exist', 'different', 'person', 'measure', 'think', 'eternal', 'truth', 'school']]
+Coh_type:c_v  Topic Num:41 COH score:0.3276195560345626
+top_n: 20 Topic Num: 41 
+Topic Words: [['fan', 'people', 'exist', 'different', 'person', 'measure', 'think', 'eternal', 'truth', 'school', 'f', 'network', 'represent', 'definitely', 'stupid', 'white', 'basis', 'government', 'right', 'standard']]
+Coh_type:c_v  Topic Num:41 COH score:0.4176476275049719
+top_n: 10 Topic Num: 42 
+Topic Words: [['station', 'thing', 'word', 'remotely', 'thin', 'treat', 'user', 'taskbar', 'buyer', 'ad']]
+Coh_type:c_v  Topic Num:42 COH score:0.5108707869207767
+top_n: 20 Topic Num: 42 
+Topic Words: [['station', 'thing', 'word', 'remotely', 'thin', 'treat', 'user', 'taskbar', 'buyer', 'ad', 'sleep', 'ms', 'replace', 'age', 'form', 'explain', 'pro', 'nah', 'travel', 'security']]
+Coh_type:c_v  Topic Num:42 COH score:0.6510055309406316
+top_n: 10 Topic Num: 43 
+Topic Words: [['page', 'logic', 'problem', 'rise', 'tool', 'add', 'source', 'tuner', 'weight', 'thin']]
+Coh_type:c_v  Topic Num:43 COH score:0.4495831530621464
+top_n: 20 Topic Num: 43 
+Topic Words: [['page', 'logic', 'problem', 'rise', 'tool', 'add', 'source', 'tuner', 'weight', 'thin', 'post', 'art', 'invest', 'age', 'excellent', 's', 'want', 'relationship', 'le', 'percent']]
+Coh_type:c_v  Topic Num:43 COH score:0.5815895442597635
+top_n: 10 Topic Num: 44 
+Topic Words: [['plus', 'great', 'subreddit', 'trust', 'examination', 'way', 'gt', 'kind', 'baseball', 'annoying']]
+Coh_type:c_v  Topic Num:44 COH score:0.45961264961777754
+top_n: 20 Topic Num: 44 
+Topic Words: [['plus', 'great', 'subreddit', 'trust', 'examination', 'way', 'gt', 'kind', 'baseball', 'annoying', 'curse', 'delete', 'creationist', 'train', 'net', 'yes', 'field', 'bright', 'input', 'modshttpwwwredditcommessagecomposeto']]
+Coh_type:c_v  Topic Num:44 COH score:0.653435256986921
+top_n: 10 Topic Num: 45 
+Topic Words: [['magazine', 'select', 'black', 'big', 'able', 's', 'average', 'party', 'man', 'maybe']]
+Coh_type:c_v  Topic Num:45 COH score:0.28890850515918487
+top_n: 20 Topic Num: 45 
+Topic Words: [['magazine', 'select', 'black', 'big', 'able', 's', 'average', 'party', 'man', 'maybe', 'nice', 'revelation', 'pro', 'certain', 'medicine', 'electronic', 'source', 'delete', 'advice', 'fix']]
+Coh_type:c_v  Topic Num:45 COH score:0.532798720581802
+top_n: 10 Topic Num: 46 
+Topic Words: [['year', 'like', 'fuck', 'battery', 's', 'final', 'entry', 'message', 'kind', 'clean']]
+Coh_type:c_v  Topic Num:46 COH score:0.32491128152797755
+top_n: 20 Topic Num: 46 
+Topic Words: [['year', 'like', 'fuck', 'battery', 's', 'final', 'entry', 'message', 'kind', 'clean', 'bug', 'government', 'right', 'ship', 'situation', 'accidentally', 'mean', 'inline', 'black', 'machine']]
+Coh_type:c_v  Topic Num:46 COH score:0.46486911286843535
+top_n: 10 Topic Num: 47 
+Topic Words: [['information', 'gt', 'worker', 'yes', 'gang', 'dangerous', 'single', 'actually', 'suggestion', 'leather']]
+Coh_type:c_v  Topic Num:47 COH score:0.5481019966804138
+top_n: 20 Topic Num: 47 
+Topic Words: [['information', 'gt', 'worker', 'yes', 'gang', 'dangerous', 'single', 'actually', 'suggestion', 'leather', 'cap', 'crap', 'bit', 'ignore', 'fit', 'nice', 'business', 'understand', 'upgrade', 'swap']]
+Coh_type:c_v  Topic Num:47 COH score:0.5310783858519132
+top_n: 10 Topic Num: 48 
+Topic Words: [['like', 'understand', 'outside', 'way', 'know', 'read', 'page', 'line', 'open', 'indicate']]
+Coh_type:c_v  Topic Num:48 COH score:0.2312869730136898
+top_n: 20 Topic Num: 48 
+Topic Words: [['like', 'understand', 'outside', 'way', 'know', 'read', 'page', 'line', 'open', 'indicate', 'white', 'new', 'desktop', 'nation', 'delete', 'peak', 'kit', 'player', 'region', 'need']]
+Coh_type:c_v  Topic Num:48 COH score:0.504433330136385
+top_n: 10 Topic Num: 49 
+Topic Words: [['sex', 'read', 'kind', 'remember', 'situation', 'download', 'card', 'price', 'theory', 'hard']]
+Coh_type:c_v  Topic Num:49 COH score:0.3659091934684722
+top_n: 20 Topic Num: 49 
+Topic Words: [['sex', 'read', 'kind', 'remember', 'situation', 'download', 'card', 'price', 'theory', 'hard', 'battery', 'term', 'sort', 'decide', 'critical', 'know', 'client', 'watch', 'event', 'study']]
+Coh_type:c_v  Topic Num:49 COH score:0.45067796948599437
+top_n: 10 Topic Num: 50 
+Topic Words: [['good', 'point', 'remember', 'matter', 'lot', 'tldr', 'believe', 'use', 'space', 'convention']]
+Coh_type:c_v  Topic Num:50 COH score:0.2404919952396435
+top_n: 20 Topic Num: 50 
+Topic Words: [['good', 'point', 'remember', 'matter', 'lot', 'tldr', 'believe', 'use', 'space', 'convention', 'want', 'try', 'study', 'sin', 'know', 'market', 'ass', 'na', 'oh', 'implement']]
+Coh_type:c_v  Topic Num:50 COH score:0.3252708387199506
+top_n: 10 Topic Num: 51 
+Topic Words: [['good', 'crap', 'reason', 'find', 'tv', 'axis', 'right', 'way', 'charge', 'select']]
+Coh_type:c_v  Topic Num:51 COH score:0.2782106327735073
+top_n: 20 Topic Num: 51 
+Topic Words: [['good', 'crap', 'reason', 'find', 'tv', 'axis', 'right', 'way', 'charge', 'select', 'nice', 'p', 'explain', 'day', 'suck', 'specific', 'want', 'state', 'busy', 'correct']]
+Coh_type:c_v  Topic Num:51 COH score:0.36879425299423974
+top_n: 10 Topic Num: 52 
+Topic Words: [['window', 'play', 'gear', 'thing', 'talk', 'awesome', 'game', 'b', 's', 'provide']]
+Coh_type:c_v  Topic Num:52 COH score:0.2984314553239575
+top_n: 20 Topic Num: 52 
+Topic Words: [['window', 'play', 'gear', 'thing', 'talk', 'awesome', 'game', 'b', 's', 'provide', 'marriage', 'find', 'definition', 'happen', 'guy', 'feature', 'post', 'mouse', 'right', 'want']]
+Coh_type:c_v  Topic Num:52 COH score:0.26211621785839323
+top_n: 10 Topic Num: 53 
+Topic Words: [['delete', 'design', 'lab', 'end', 'sign', 'people', 'value', 'search', 'lot', 'good']]
+Coh_type:c_v  Topic Num:53 COH score:0.3426104600166239
+top_n: 20 Topic Num: 53 
+Topic Words: [['delete', 'design', 'lab', 'end', 'sign', 'people', 'value', 'search', 'lot', 'good', 'v', 'mind', 'oror', 'term', 'work', 'think', 'help', 'fantastic', 'gear', 'provide']]
+Coh_type:c_v  Topic Num:53 COH score:0.3982107720150769
+top_n: 10 Topic Num: 54 
+Topic Words: [['forum', 'money', 'want', 'suppose', 'legal', 'delete', 'reduce', 'place', 'cut', 'explain']]
+Coh_type:c_v  Topic Num:54 COH score:0.3788830385435393
+top_n: 20 Topic Num: 54 
+Topic Words: [['forum', 'money', 'want', 'suppose', 'legal', 'delete', 'reduce', 'place', 'cut', 'explain', 'accurate', 'keyboard', 'fun', 'happen', 'private', 'run', 'world', 'suit', 'hope', 'build']]
+Coh_type:c_v  Topic Num:54 COH score:0.4364972971251821
+top_n: 10 Topic Num: 55 
+Topic Words: [['nah', 'think', 'family', 'design', 'try', 'graphic', 'vote', 'provide', 'happen', 'mean']]
+Coh_type:c_v  Topic Num:55 COH score:0.33019670956591735
+top_n: 20 Topic Num: 55 
+Topic Words: [['nah', 'think', 'family', 'design', 'try', 'graphic', 'vote', 'provide', 'happen', 'mean', 'want', 'simple', 'far', 'sure', 'slow', 'start', 'note', 'text', 'chinese', 'exam']]
+Coh_type:c_v  Topic Num:55 COH score:0.39272663229043786
+top_n: 10 Topic Num: 56 
+Topic Words: [['guarantee', 's', 'run', 'argue', 'thing', 'maybe', 'league', 'drive', 'dev', 'hit']]
+Coh_type:c_v  Topic Num:56 COH score:0.341163276006911
+top_n: 20 Topic Num: 56 
+Topic Words: [['guarantee', 's', 'run', 'argue', 'thing', 'maybe', 'league', 'drive', 'dev', 'hit', 'easy', 'program', 'creative', 'card', 'kind', 'way', 'root', 'correlation', 'worker', 'believe']]
+Coh_type:c_v  Topic Num:56 COH score:0.4655496462432045
+top_n: 10 Topic Num: 57 
+Topic Words: [['hope', 'find', 'pitcher', 'link', 'worth', 'okay', 'computer', 'religion', 'suspect', 'voltage']]
+Coh_type:c_v  Topic Num:57 COH score:0.4472401550923018
+top_n: 20 Topic Num: 57 
+Topic Words: [['hope', 'find', 'pitcher', 'link', 'worth', 'okay', 'computer', 'religion', 'suspect', 'voltage', 'open', 'end', 'science', 'case', 'run', 'law', 'lot', 'work', 'bug', 'option']]
+Coh_type:c_v  Topic Num:57 COH score:0.39894911370844366
+top_n: 10 Topic Num: 58 
+Topic Words: [['fight', 'seriously', 'usually', 'mix', 'fact', 'heat', 'try', 'wire', 'lose', 'sort']]
+Coh_type:c_v  Topic Num:58 COH score:0.4064396991498098
+top_n: 20 Topic Num: 58 
+Topic Words: [['fight', 'seriously', 'usually', 'mix', 'fact', 'heat', 'try', 'wire', 'lose', 'sort', 'examination', 'people', 'end', 'associate', 'comment', 'bizarre', 'fine', 'perfect', 'master', 'ideally']]
+Coh_type:c_v  Topic Num:58 COH score:0.48336331116324305
+top_n: 10 Topic Num: 59 
+Topic Words: [['time', 'trade', 'question', 'buy', 'like', 'hat', 'mod', 'religion', 'read', 'medicine']]
+Coh_type:c_v  Topic Num:59 COH score:0.35182033503478055
+top_n: 20 Topic Num: 59 
+Topic Words: [['time', 'trade', 'question', 'buy', 'like', 'hat', 'mod', 'religion', 'read', 'medicine', 'guess', 'stand', 'number', 'console', 'edit', 'okay', 'mistake', 'want', 'term', 'list']]
+Coh_type:c_v  Topic Num:59 COH score:0.39973799603882354
+top_n: 10 Topic Num: 60 
+Topic Words: [['tiny', 'enjoy', 'development', 'police', 'topic', 'gop', 'easy', 'wealth', 'okay', 'analogy']]
+top_n: 20 Topic Num: 60 
+Topic Words: [['tiny', 'enjoy', 'development', 'police', 'topic', 'gop', 'easy', 'wealth', 'okay', 'analogy', 'conclusion', 'lt', 'article', 'scientist', 'progress', 'pro', 'sport', 'bottle', 'style', 'examination']]
+top_n: 10 Topic Num: 61 
+Topic Words: [['people', 'close', 'buy', 'believe', 'comment', 'delete', 'fire', 'sure', 'define', 'writer']]
+Coh_type:c_v  Topic Num:61 COH score:0.3395478005932223
+top_n: 20 Topic Num: 61 
+Topic Words: [['people', 'close', 'buy', 'believe', 'comment', 'delete', 'fire', 'sure', 'define', 'writer', 'ride', 'directly', 'happen', 'mean', 'cattle', 'power', 'start', 'smart', 'single', 'gt']]
+Coh_type:c_v  Topic Num:61 COH score:0.44181248331737216
+top_n: 10 Topic Num: 62 
+Topic Words: [['s', 'read', 'outside', 'drag', 'learn', 'look', 'people', 'version', 'post', 'argument']]
+Coh_type:c_v  Topic Num:62 COH score:0.26628820124573926
+top_n: 20 Topic Num: 62 
+Topic Words: [['s', 'read', 'outside', 'drag', 'learn', 'look', 'people', 'version', 'post', 'argument', 'like', 'patch', 'time', 'build', 'second', 'opposite', 'white', 'year', 'incredibly', 'know']]
+Coh_type:c_v  Topic Num:62 COH score:0.34534633528257885
+top_n: 10 Topic Num: 63 
+Topic Words: [['yes', 'sound', 'month', 'gt', 'universe', 'thousand', 'hard', 'obstacle', 'claim', 'include']]
+Coh_type:c_v  Topic Num:63 COH score:0.30403336380595375
+top_n: 20 Topic Num: 63 
+Topic Words: [['yes', 'sound', 'month', 'gt', 'universe', 'thousand', 'hard', 'obstacle', 'claim', 'include', 'life', 'point', 'wrong', 'respond', 'bring', 'leg', 'service', 'news', 'law', 'good']]
+Coh_type:c_v  Topic Num:63 COH score:0.3701627574958874
+top_n: 10 Topic Num: 64 
+Topic Words: [['need', 'people', 'completely', 'run', 'line', 'work', 'amp', 'pretty', 'think', 'wrong']]
+Coh_type:c_v  Topic Num:64 COH score:0.18079401847461304
+top_n: 20 Topic Num: 64 
+Topic Words: [['need', 'people', 'completely', 'run', 'line', 'work', 'amp', 'pretty', 'think', 'wrong', 'opinion', 'power', 'come', 'edit', 'present', 'user', 'issue', 'sure', 'bot', 'try']]
+Coh_type:c_v  Topic Num:64 COH score:0.23650383463594243
+top_n: 10 Topic Num: 65 
+Topic Words: [['school', 'new', 'touch', 'come', 'stuff', 'history', 'stop', 'slightly', 'window', 'talk']]
+Coh_type:c_v  Topic Num:65 COH score:0.16933781325347225
+top_n: 20 Topic Num: 65 
+Topic Words: [['school', 'new', 'touch', 'come', 'stuff', 'history', 'stop', 'slightly', 'window', 'talk', 'chain', 'background', 'exactly', 'date', 'tech', 'thing', 'build', 'close', 'listen', 'innovative']]
+Coh_type:c_v  Topic Num:65 COH score:0.4156812968973937
+top_n: 10 Topic Num: 66 
+Topic Words: [['particular', 'personal', 'support', 'horribly', 'refurbish', 'chrome', 'cpu', 'bullshit', 'press', 'oh']]
+Coh_type:c_v  Topic Num:66 COH score:0.5655051651586966
+top_n: 20 Topic Num: 66 
+Topic Words: [['particular', 'personal', 'support', 'horribly', 'refurbish', 'chrome', 'cpu', 'bullshit', 'press', 'oh', 'slot', 'lobby', 's', 'scientist', 'med', 'car', 'surprised', 'mount', 'motivate', 'rid']]
+Coh_type:c_v  Topic Num:66 COH score:0.6649054987294355
+top_n: 10 Topic Num: 67 
+Topic Words: [['allow', 'god', 'brake', 'thank', 'married', 'system', 'try', 'grade', 'mean', 'year']]
+Coh_type:c_v  Topic Num:67 COH score:0.28393567447488977
+top_n: 20 Topic Num: 67 
+Topic Words: [['allow', 'god', 'brake', 'thank', 'married', 'system', 'try', 'grade', 'mean', 'year', 'thing', 'leftist', 'run', 'tend', 'problem', 'half', 'true', 'know', 'intelligence', 'play']]
+Coh_type:c_v  Topic Num:67 COH score:0.3983211289938944
+top_n: 10 Topic Num: 68 
+Topic Words: [['thing', 'check', 'confirm', 'new', 'link', 'thank', 'design', 'run', 'muslim', 'hard']]
+Coh_type:c_v  Topic Num:68 COH score:0.3436033646361429
+top_n: 20 Topic Num: 68 
+Topic Words: [['thing', 'check', 'confirm', 'new', 'link', 'thank', 'design', 'run', 'muslim', 'hard', 'man', 'know', 'political', 'ride', 'buy', 'happen', 'later', 'easy', 'maybe', 'economic']]
+Coh_type:c_v  Topic Num:68 COH score:0.3633405440087111
+top_n: 10 Topic Num: 69 
+Topic Words: [['s', 'try', 'run', 'good', 'corporation', 'like', 'think', 'fucking', 'want', 'port']]
+Coh_type:c_v  Topic Num:69 COH score:0.3294177146649066
+top_n: 20 Topic Num: 69 
+Topic Words: [['s', 'try', 'run', 'good', 'corporation', 'like', 'think', 'fucking', 'want', 'port', 'e', 'work', 'solve', 'switch', 'interest', 'end', 'read', 'terrible', 'reason', 'logic']]
+Coh_type:c_v  Topic Num:69 COH score:0.27543345199126346
+top_n: 10 Topic Num: 70 
+Topic Words: [['sure', 'good', 'country', 'delete', 'come', 'extremely', 'code', 'problem', 'exactly', 'ask']]
+Coh_type:c_v  Topic Num:70 COH score:0.3565670745460888
+top_n: 20 Topic Num: 70 
+Topic Words: [['sure', 'good', 'country', 'delete', 'come', 'extremely', 'code', 'problem', 'exactly', 'ask', 'possible', 'fly', 'helmet', 'defend', 'way', 'fix', 'partner', 'depend', 'share', 'pretty']]
+Coh_type:c_v  Topic Num:70 COH score:0.4561580202345271
+top_n: 10 Topic Num: 71 
+Topic Words: [['guy', 'choice', 'want', 'school', 'ugly', 'yeah', 'provide', 'quality', 'bitch', 'half']]
+Coh_type:c_v  Topic Num:71 COH score:0.31593379534559374
+top_n: 20 Topic Num: 71 
+Topic Words: [['guy', 'choice', 'want', 'school', 'ugly', 'yeah', 'provide', 'quality', 'bitch', 'half', 'intent', 'original', 'pay', 'fine', 'raise', 'party', 'survive', 'thank', 'chance', 'morning']]
+Coh_type:c_v  Topic Num:71 COH score:0.501450739629943
+top_n: 10 Topic Num: 72 
+Topic Words: [['lead', 'long', 'activity', 'like', 'way', 'career', 'single', 'page', 'describe', 'apply']]
+Coh_type:c_v  Topic Num:72 COH score:0.24972190446359907
+top_n: 20 Topic Num: 72 
+Topic Words: [['lead', 'long', 'activity', 'like', 'way', 'career', 'single', 'page', 'describe', 'apply', 'yes', 'post', 'official', 'brief', 'result', 'multiple', 'tv', 'policy', 'value', 'debate']]
+Coh_type:c_v  Topic Num:72 COH score:0.4343729056587781
+top_n: 10 Topic Num: 73 
+Topic Words: [['discuss', 'gt', 'thing', 'answer', 'account', 'game', 'leave', 'die', 'source', 'sell']]
+Coh_type:c_v  Topic Num:73 COH score:0.2280669119903735
+top_n: 20 Topic Num: 73 
+Topic Words: [['discuss', 'gt', 'thing', 'answer', 'account', 'game', 'leave', 'die', 'source', 'sell', 'enjoy', 'language', 'offer', 'religion', 'glory', 'page', 'familiar', 'hard', 'help', 'habit']]
+Coh_type:c_v  Topic Num:73 COH score:0.43722017969128535
+top_n: 10 Topic Num: 74 
+Topic Words: [['s', 'come', 'especially', 'work', 'instead', 'link', 'know', 'lose', 'close', 'day']]
+Coh_type:c_v  Topic Num:74 COH score:0.3054279731813535
+top_n: 20 Topic Num: 74 
+Topic Words: [['s', 'come', 'especially', 'work', 'instead', 'link', 'know', 'lose', 'close', 'day', 'meet', 'time', 'look', 'good', 'd', 'sadly', 'e', 'figure', 'computer', 'feel']]
+Coh_type:c_v  Topic Num:74 COH score:0.30063341029864965
+top_n: 10 Topic Num: 75 
+Topic Words: [['debate', 'delete', 'way', 'mean', 'word', 'screen', 'read', 's', 'probably', 'defensive']]
+Coh_type:c_v  Topic Num:75 COH score:0.33183525180435247
+top_n: 20 Topic Num: 75 
+Topic Words: [['debate', 'delete', 'way', 'mean', 'word', 'screen', 'read', 's', 'probably', 'defensive', 'win', 'find', 'regardless', 'cause', 'zionist', 'regular', 'grow', 'battery', 'influence', 'rust']]
+Coh_type:c_v  Topic Num:75 COH score:0.5094922080493323
+top_n: 10 Topic Num: 76 
+Topic Words: [['work', 'lot', 'warm', 'open', 'desktop', 'left', 'x', 'hear', 'mean', 'pass']]
+Coh_type:c_v  Topic Num:76 COH score:0.39385381650756146
+top_n: 20 Topic Num: 76 
+Topic Words: [['work', 'lot', 'warm', 'open', 'desktop', 'left', 'x', 'hear', 'mean', 'pass', 'healthy', 'thank', 'custom', 'temple', 'username', 'touch', 'press', 'regular', 'near', 'inform']]
+Coh_type:c_v  Topic Num:76 COH score:0.5816922187471443
+top_n: 10 Topic Num: 77 
+Topic Words: [['karma', 'ryan', 'os', 'kit', 'guy', 'throw', 'probably', 'visit', 'restriction', 'article']]
+top_n: 20 Topic Num: 77 
+Topic Words: [['karma', 'ryan', 'os', 'kit', 'guy', 'throw', 'probably', 'visit', 'restriction', 'article', 'suv', 'coffee', 'date', 'people', 'lead', 'element', 'hip', 'auto', 'glad', 'siri']]
+top_n: 10 Topic Num: 78 
+Topic Words: [['trust', 'director', 'think', 'team', 'day', 'matter', 'ux', 'evidence', 'send', 'issue']]
+Coh_type:c_v  Topic Num:78 COH score:0.18216697415868457
+top_n: 20 Topic Num: 78 
+Topic Words: [['trust', 'director', 'think', 'team', 'day', 'matter', 'ux', 'evidence', 'send', 'issue', 'outside', 'yes', 'air', 'benefit', 'reality', 'open', 'amazing', 'comment', 'successful', 'new']]
+Coh_type:c_v  Topic Num:78 COH score:0.353638801433729
+top_n: 10 Topic Num: 79 
+Topic Words: [['work', 'able', 'like', 'actually', 'team', 'local', 'probably', 'time', 'edge', 'risk']]
+Coh_type:c_v  Topic Num:79 COH score:0.2919558693410472
+top_n: 20 Topic Num: 79 
+Topic Words: [['work', 'able', 'like', 'actually', 'team', 'local', 'probably', 'time', 'edge', 'risk', 'understand', 'group', 'free', 'run', 'play', 'study', 'bit', 'happen', 'medicine', 'worth']]
+Coh_type:c_v  Topic Num:79 COH score:0.31290393897811436
+top_n: 10 Topic Num: 80 
+Topic Words: [['app', 'like', 'thank', 'new', 'want', 'use', 'delete', 'think', 'improvement', 'sharp']]
+Coh_type:c_v  Topic Num:80 COH score:0.34720833206994545
+top_n: 20 Topic Num: 80 
+Topic Words: [['app', 'like', 'thank', 'new', 'want', 'use', 'delete', 'think', 'improvement', 'sharp', 'cool', 'idea', 'absolutely', 'interested', 'nah', 'different', 'country', 'later', 'check', 'read']]
+Coh_type:c_v  Topic Num:80 COH score:0.4270041020183462
+top_n: 10 Topic Num: 81 
+Topic Words: [['week', 'v', 'come', 'start', 'party', 'real', 'cat', 'patient', 'phone', 'thing']]
+Coh_type:c_v  Topic Num:81 COH score:0.36397327810667524
+top_n: 20 Topic Num: 81 
+Topic Words: [['week', 'v', 'come', 'start', 'party', 'real', 'cat', 'patient', 'phone', 'thing', 'delete', 'high', 'cool', 'interesting', 'acceptable', 'example', 'app', 'feel', 'guy', 'ad']]
+Coh_type:c_v  Topic Num:81 COH score:0.4440697701055406
+top_n: 10 Topic Num: 82 
+Topic Words: [['pick', 'sure', 'heart', 'value', 'come', 'send', 'lose', 'way', 'simple', 'voting']]
+Coh_type:c_v  Topic Num:82 COH score:0.1766639101944357
+top_n: 20 Topic Num: 82 
+Topic Words: [['pick', 'sure', 'heart', 'value', 'come', 'send', 'lose', 'way', 'simple', 'voting', 'passive', 'day', 'right', 'risk', 'exactly', 'find', 'check', 'mind', 'absolutely', 'man']]
+Coh_type:c_v  Topic Num:82 COH score:0.3639730791552379
+top_n: 10 Topic Num: 83 
+Topic Words: [['s', 'like', 'grow', 'war', 'live', 'read', 'profit', 'religion', 'evolution', 'serve']]
+Coh_type:c_v  Topic Num:83 COH score:0.2544976277590816
+top_n: 20 Topic Num: 83 
+Topic Words: [['s', 'like', 'grow', 'war', 'live', 'read', 'profit', 'religion', 'evolution', 'serve', 'know', 'straight', 'delete', 'argument', 'man', 'evil', 'need', 'screen', 'mean', 'come']]
+Coh_type:c_v  Topic Num:83 COH score:0.39478682832644835
+top_n: 10 Topic Num: 84 
+Topic Words: [['hockey', 'wait', 'run', 'million', 'aid', 'horn', 'submit', 'blog', 'plus', 'daily']]
+Coh_type:c_v  Topic Num:84 COH score:0.5677010538831653
+top_n: 20 Topic Num: 84 
+Topic Words: [['hockey', 'wait', 'run', 'million', 'aid', 'horn', 'submit', 'blog', 'plus', 'daily', 'cheer', 'waste', 'point', 'hour', 'anymore', 'odd', 'win', 'advice', 'book', 'start']]
+Coh_type:c_v  Topic Num:84 COH score:0.6153724477233379
+top_n: 10 Topic Num: 85 
+Topic Words: [['wonder', 'position', 'capability', 'dozen', 'require', 'instantly', 'thoroughly', 'end', 'stuff', 'infallible']]
+Coh_type:c_v  Topic Num:85 COH score:0.5491155316135053
+top_n: 20 Topic Num: 85 
+Topic Words: [['wonder', 'position', 'capability', 'dozen', 'require', 'instantly', 'thoroughly', 'end', 'stuff', 'infallible', 'great', 'page', 'suppose', 'gentile', 'hard', 'way', 'menu', 'guess', 'money', 'note']]
+Coh_type:c_v  Topic Num:85 COH score:0.5657667919470372
+top_n: 10 Topic Num: 86 
+Topic Words: [['learn', 'driver', 'build', 'like', 'attack', 'green', 'talk', 'hey', 'pay', 'look']]
+Coh_type:c_v  Topic Num:86 COH score:0.27816154525079395
+top_n: 20 Topic Num: 86 
+Topic Words: [['learn', 'driver', 'build', 'like', 'attack', 'green', 'talk', 'hey', 'pay', 'look', 'thank', 'religion', 'work', 'date', 'regular', 'mean', 'unused', 'store', 'question', 'thing']]
+Coh_type:c_v  Topic Num:86 COH score:0.35313404471568755
+top_n: 10 Topic Num: 87 
+Topic Words: [['secondly', 'ram', 'guarantee', 'flat', 'complain', 'benchmark', 'wrap', 'need', 'bug', 'home']]
+Coh_type:c_v  Topic Num:87 COH score:0.5797252059864875
+top_n: 20 Topic Num: 87 
+Topic Words: [['secondly', 'ram', 'guarantee', 'flat', 'complain', 'benchmark', 'wrap', 'need', 'bug', 'home', 'charge', 'acid', 'great', 'send', 'save', 'judge', 'internet', 'computer', 'angle', 'percentage']]
+Coh_type:c_v  Topic Num:87 COH score:0.6571721491591923
+top_n: 10 Topic Num: 88 
+Topic Words: [['use', 'problem', 'try', 'far', 'half', 'right', 'think', 'similar', 's', 'nice']]
+Coh_type:c_v  Topic Num:88 COH score:0.20318389636181738
+top_n: 20 Topic Num: 88 
+Topic Words: [['use', 'problem', 'try', 'far', 'half', 'right', 'think', 'similar', 's', 'nice', 'live', 'come', 'role', 'post', 'drop', 'racism', 'great', 'incorrect', 'colleague', 'necessary']]
+Coh_type:c_v  Topic Num:88 COH score:0.3486520803955611
+top_n: 10 Topic Num: 89 
+Topic Words: [['shoot', 'question', 'lot', 'bad', 'great', 'price', 'app', 'good', 'maintain', 'shape']]
+Coh_type:c_v  Topic Num:89 COH score:0.270815124008555
+top_n: 20 Topic Num: 89 
+Topic Words: [['shoot', 'question', 'lot', 'bad', 'great', 'price', 'app', 'good', 'maintain', 'shape', 'game', 'waste', 'k', 'weird', 'stupid', 'datum', 'run', 's', 'nice', 'trade']]
+Coh_type:c_v  Topic Num:89 COH score:0.2850340515873523
+top_n: 10 Topic Num: 90 
+Topic Words: [['good', 'stop', 'support', 'topic', 'think', 'system', 'end', 'comment', 'y', 'probably']]
+Coh_type:c_v  Topic Num:90 COH score:0.20070384647677325
+top_n: 20 Topic Num: 90 
+Topic Words: [['good', 'stop', 'support', 'topic', 'think', 'system', 'end', 'comment', 'y', 'probably', 'mm', 'justified', 'way', 'post', 'bad', 'week', 'help', 'internal', 'appreciate', 'light']]
+Coh_type:c_v  Topic Num:90 COH score:0.30094439188206634
+top_n: 10 Topic Num: 91 
+Topic Words: [['d', 'time', 'file', 'swap', 'comment', 'thank', 'different', 'place', 'amazing', 'design']]
+Coh_type:c_v  Topic Num:91 COH score:0.1754403173907852
+top_n: 20 Topic Num: 91 
+Topic Words: [['d', 'time', 'file', 'swap', 'comment', 'thank', 'different', 'place', 'amazing', 'design', 'true', 'question', 'know', 'start', 'deal', 'word', 'content', 'description', 'bubble', 'control']]
+Coh_type:c_v  Topic Num:91 COH score:0.36231070463164927
+top_n: 10 Topic Num: 92 
+Topic Words: [['wrong', 'society', 'curriculum', 'delete', 'e', 'look', 'know', 'yes', 'long', 'throw']]
+Coh_type:c_v  Topic Num:92 COH score:0.4651062427104087
+top_n: 20 Topic Num: 92 
+Topic Words: [['wrong', 'society', 'curriculum', 'delete', 'e', 'look', 'know', 'yes', 'long', 'throw', 'fruit', 'action', 'sect', 'demand', 'insurance', 'properly', 'ignorance', 'link', 'fun', 'simple']]
+Coh_type:c_v  Topic Num:92 COH score:0.59571699050076
+top_n: 10 Topic Num: 93 
+Topic Words: [['party', 'believe', 'wind', 'line', 'tall', 'task', 'screen', 'submit', 'remember', 'open']]
+Coh_type:c_v  Topic Num:93 COH score:0.47248144680798837
+top_n: 20 Topic Num: 93 
+Topic Words: [['party', 'believe', 'wind', 'line', 'tall', 'task', 'screen', 'submit', 'remember', 'open', 'bot', 'entire', 'instead', 'fail', 'sexual', 'round', 'watch', 'privacy', 'lock', 'pin']]
+Coh_type:c_v  Topic Num:93 COH score:0.6033664919474345
+top_n: 10 Topic Num: 94 
+Topic Words: [['place', 'like', 'hear', 'game', 'joke', 'lot', 'ago', 'gay', 'tie', 'battery']]
+Coh_type:c_v  Topic Num:94 COH score:0.2784692230785054
+top_n: 20 Topic Num: 94 
+Topic Words: [['place', 'like', 'hear', 'game', 'joke', 'lot', 'ago', 'gay', 'tie', 'battery', 'legally', 'juice', 'offer', 'way', 'user', 'thing', 'pay', 'till', 'use', 'matter']]
+Coh_type:c_v  Topic Num:94 COH score:0.4254028132694172
+top_n: 10 Topic Num: 95 
+Topic Words: [['imply', 'team', 'colleague', 'machine', 'teach', 'twice', 'finally', 'rust', 'new', 'equation']]
+Coh_type:c_v  Topic Num:95 COH score:0.5837387843084955
+top_n: 20 Topic Num: 95 
+Topic Words: [['imply', 'team', 'colleague', 'machine', 'teach', 'twice', 'finally', 'rust', 'new', 'equation', 'away', 'learn', 'cite', 'price', 'problem', 'pure', 'leave', 'hd', 'question', 'hash']]
+Coh_type:c_v  Topic Num:95 COH score:0.6123028456770048
+top_n: 10 Topic Num: 96 
+Topic Words: [['like', 'nice', 'win', 'thing', 'easy', 'love', 'voltage', 'know', 'read', 's']]
+Coh_type:c_v  Topic Num:96 COH score:0.32597870045011645
+top_n: 20 Topic Num: 96 
+Topic Words: [['like', 'nice', 'win', 'thing', 'easy', 'love', 'voltage', 'know', 'read', 's', 'guy', 'people', 'talk', 'pc', 'government', 'topic', 'personal', 'shit', 'good', 'sell']]
+Coh_type:c_v  Topic Num:96 COH score:0.32662143282160244
+top_n: 10 Topic Num: 97 
+Topic Words: [['fun', 'app', 'doubt', 'like', 'feel', 'read', 'lot', 'rich', 'look', 'use']]
+Coh_type:c_v  Topic Num:97 COH score:0.1826208514118912
+top_n: 20 Topic Num: 97 
+Topic Words: [['fun', 'app', 'doubt', 'like', 'feel', 'read', 'lot', 'rich', 'look', 'use', 'code', 'dust', 'season', 'year', 'watch', 'month', 'spelling', 'stand', 'fact', 'german']]
+Coh_type:c_v  Topic Num:97 COH score:0.43956781365644393
+top_n: 10 Topic Num: 98 
+Topic Words: [['love', 'hit', 'day', 'logic', 'guess', 'different', 'corruption', 'sex', 'laugh', 'fail']]
+Coh_type:c_v  Topic Num:98 COH score:0.448808859169021
+top_n: 20 Topic Num: 98 
+Topic Words: [['love', 'hit', 'day', 'logic', 'guess', 'different', 'corruption', 'sex', 'laugh', 'fail', 'lay', 'million', 'detail', 'gap', 's', 'average', 'time', 'fine', 'monk', 'freelance']]
+Coh_type:c_v  Topic Num:98 COH score:0.5223758082537411
+top_n: 10 Topic Num: 99 
+Topic Words: [['cover', 'd', 'scale', 'road', 'specifically', 'base', 'frequency', 'phone', 'topic', 'ask']]
+Coh_type:c_v  Topic Num:99 COH score:0.4003636498878554
+top_n: 20 Topic Num: 99 
+Topic Words: [['cover', 'd', 'scale', 'road', 'specifically', 'base', 'frequency', 'phone', 'topic', 'ask', 'core', 'argument', 'religious', 'link', 'k', 'kind', 'impressive', 'good', 'bible', 'valid']]
+Coh_type:c_v  Topic Num:99 COH score:0.4083583441584298
+top_n: 10 Topic Num: 100 
+Topic Words: [['gt', 'hear', 'remember', 'general', 'love', 'delete', 'abortion', 'year', 'like', 'ride']]
+Coh_type:c_v  Topic Num:100 COH score:0.42709199561598643
+top_n: 20 Topic Num: 100 
+Topic Words: [['gt', 'hear', 'remember', 'general', 'love', 'delete', 'abortion', 'year', 'like', 'ride', 'edit', 'issue', 'feel', 'money', 'need', 'knowledge', 'thank', 'union', 'simply', 'matter']]
+Coh_type:c_v  Topic Num:100 COH score:0.4202144950206804
+top scores for top_10:[0.5837387843084955, 10, [['imply', 'team', 'colleague', 'machine', 'teach', 'twice', 'finally', 'rust', 'new', 'equation']]]
+-------------------------------------------------------------------
+top scores for top_20:[0.6649054987294355, 20, [['particular', 'personal', 'support', 'horribly', 'refurbish', 'chrome', 'cpu', 'bullshit', 'press', 'oh', 'slot', 'lobby', 's', 'scientist', 'med', 'car', 'surprised', 'mount', 'motivate', 'rid']]]
+-------------------------------------------------------------------
+Avg COH for top_10 topic words: 0.3326568006923794
+-------------------------------------------------------------------
+Avg COH for top_20 topic words: 0.4298966464164599
+-------------------------------------------------------------------

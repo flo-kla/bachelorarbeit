@@ -1,0 +1,15 @@
+h_num: 0
+w_h_top_words_indx: [2829 3454 2283 3013 2287 3258  261 1655 1372 3626 3627  358 3074 1427
+ 1953 3762 1762 3194 2876 3195]
+w_h_top_words:['puwhatisautomoderator', 'subredditmessagecomposeto', 'moderator', 'resubmit', 'modshttpwwwredditcommessagecomposeto', 'sinner', 'autotldr', 'heterosexual', 'fmfaqautotldrbot', 'tldr', 'tldrs', 'bfhttheoryautotldrconcept', 'ruleshttpwwwredditcomrhardwareaboutsidebar', 'friendship', 'keyword', 'unnatural', 'immorality', 'sexuality', 'rbuildapc', 'sexually']
+----------------------------------------------------------------------
+h_num: 1
+w_h_top_words_indx: [3454 2829 2283 3013 2287 2162 2997  261 3258 1372 2954 3668 1655 3074
+ 3570 1211 1742 3627  358 1472]
+w_h_top_words:['subredditmessagecomposeto', 'puwhatisautomoderator', 'moderator', 'resubmit', 'modshttpwwwredditcommessagecomposeto', 'marriage', 'resistor', 'autotldr', 'sinner', 'fmfaqautotldrbot', 'religion', 'transistor', 'heterosexual', 'ruleshttpwwwredditcomrhardwareaboutsidebar', 'testament', 'evolution', 'ignorance', 'tldrs', 'bfhttheoryautotldrconcept', 'gay']
+----------------------------------------------------------------------
+h_num: 2
+w_h_top_words_indx: [3454 2829 2283 3013 2162 2287 2954  616  199 2660 1528 2361 2804 3750
+ 1717 2021 2663  891 3258 2434]
+w_h_top_words:['subredditmessagecomposeto', 'puwhatisautomoderator', 'moderator', 'resubmit', 'marriage', 'modshttpwwwredditcommessagecomposeto', 'religion', 'climate', 'argue', 'policy', 'government', 'natural', 'prove', 'union', 'human', 'legal', 'political', 'debate', 'sinner', 'objective']
+----------------------------------------------------------------------

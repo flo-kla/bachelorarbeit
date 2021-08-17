@@ -1,0 +1,15 @@
+h_num: 0
+w_h_top_words_indx: [2829 2283  260  358 1472 1372 1953 3626 3194   39 3627 2361  420 3013
+  703  743 1754  261 3940   17]
+w_h_top_words:['puwhatisautomoderator', 'moderator', 'automatically', 'bfhttheoryautotldrconcept', 'gay', 'fmfaqautotldrbot', 'keyword', 'tldr', 'sexuality', 'act', 'tldrs', 'natural', 'bot', 'resubmit', 'concern', 'constructive', 'imaginary', 'autotldr', 'woman', 'ac']
+----------------------------------------------------------------------
+h_num: 1
+w_h_top_words_indx: [ 173 3132 2101 2219  952 3076 1457 2574 3946 1758 2605  459 2011 1318
+ 1051  515 1984 3521 3416 3187]
+w_h_top_words:['app', 'screen', 'lt', 'menu', 'desktop', 'run', 'game', 'pc', 'work', 'immediate', 'phone', 'bug', 'learn', 'feel', 'download', 'car', 'laptop', 'tablet', 'store', 'setting']
+----------------------------------------------------------------------
+h_num: 2
+w_h_top_words_indx: [2553 1949 3463 1928 1806 3507  877 3787 2689 1758 1583  282 2805 3657
+  662 2057 2101 1652 3979 2940]
+w_h_top_words:['partner', 'karma', 'successful', 'join', 'information', 'swap', 'date', 'username', 'potential', 'immediate', 'guarantee', 'background', 'provide', 'trade', 'comment', 'link', 'lt', 'help', 'year', 'reinstall']
+----------------------------------------------------------------------

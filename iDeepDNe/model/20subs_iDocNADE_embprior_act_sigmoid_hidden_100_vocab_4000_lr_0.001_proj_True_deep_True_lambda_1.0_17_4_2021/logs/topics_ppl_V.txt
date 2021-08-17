@@ -1,0 +1,500 @@
+h_num: 0
+w_h_top_words_indx: [3249 3964 2683 2836 2597  863 2631 2049    6 3880 1968 2222 3883 2334
+ 3420  379  679 2571 2099 2481]
+w_h_top_words:['simply', 'wrong', 'possible', 'question', 'person', 'd', 'place', 'like', 'able', 'water', 'know', 'merely', 'way', 'murder', 'strategy', 'bit', 'compare', 'pay', 'low', 'opinion']
+----------------------------------------------------------------------
+h_num: 1
+w_h_top_words_indx: [2555  355 2261 1119  210 2973 3795 1956 3697 1653 2668 2693 1341  919
+ 3388 2650 2886 1155 1338 2209]
+w_h_top_words:['pass', 'bet', 'minority', 'elect', 'article', 'replace', 'vacuum', 'kid', 'true', 'helpful', 'poor', 'pour', 'find', 'delete', 'start', 'pm', 'ready', 'english', 'finally', 'meet']
+----------------------------------------------------------------------
+h_num: 2
+w_h_top_words_indx: [2643 3771 1528 1731 3593  261 1060 3527 1652  135 3388 1591 2245 3332
+ 3944 1848 1836 3946 3004 2619]
+w_h_top_words:['player', 'update', 'government', 'idea', 'think', 'autotldr', 'draw', 'talk', 'help', 'amplify', 'start', 'guy', 'military', 'soviet', 'word', 'intelligent', 'instead', 'work', 'response', 'piece']
+----------------------------------------------------------------------
+h_num: 3
+w_h_top_words_indx: [2049  797  173 1949 2162 3521 3001 2573 3913 2740 1065 1393  759 3723
+ 2838 1952 1594 1202 3287 2672]
+w_h_top_words:['like', 'couple', 'app', 'karma', 'marriage', 'tablet', 'respect', 'paypal', 'widget', 'primarily', 'drive', 'forgive', 'control', 'ugly', 'quickly', 'keyboard', 'habit', 'event', 'slightly', 'population']
+----------------------------------------------------------------------
+h_num: 4
+w_h_top_words_indx: [2755 3540 1276 2583 2402   33  868 2883 2441 3883 3711 1640  163 1097
+ 1585  974 3132 1415 2690 2354]
+w_h_top_words:['probably', 'teach', 'fact', 'people', 'normal', 'accurate', 'damn', 'read', 'obviously', 'way', 'twice', 'heart', 'anymore', 'ebay', 'guess', 'difference', 'screen', 'free', 'potentially', 'narrow']
+----------------------------------------------------------------------
+h_num: 5
+w_h_top_words_indx: [3132 2049 3646 2175 2685 1591 2711  568  299  944 1094 1318 1848   62
+ 3593 1520 2941 2086  637 1453]
+w_h_top_words:['screen', 'like', 'touch', 'material', 'post', 'guy', 'prefer', 'check', 'bank', 'describe', 'easy', 'feel', 'intelligent', 'admit', 'think', 'good', 'reject', 'long', 'code', 'g']
+----------------------------------------------------------------------
+h_num: 6
+w_h_top_words_indx: [2583 1094 2049 1562 3865 2649 2054 3577 2654 1318 1214 2266 3964  816
+ 2088    6 3252 3592 1220 3443]
+w_h_top_words:['people', 'easy', 'like', 'gt', 'want', 'plus', 'line', 'thank', 'point', 'feel', 'ex', 'miss', 'wrong', 'creator', 'look', 'able', 'sin', 'thing', 'example', 'stuff']
+----------------------------------------------------------------------
+h_num: 7
+w_h_top_words_indx: [2066 3614 2736 3187 3449 1649 2906 2987 2545 3132 2088 3935 3561  798
+ 2934  392 1589 3000 3706 1290]
+w_h_top_words:['little', 'time', 'price', 'setting', 'subject', 'hell', 'recognize', 'require', 'parent', 'screen', 'look', 'wish', 'term', 'course', 'regret', 'block', 'gun', 'resource', 'turn', 'false']
+----------------------------------------------------------------------
+h_num: 8
+w_h_top_words_indx: [2049 2695  553 1520 2062 1065 2583  295 3574 1562 3924 3562  342 1425
+ 1457 1948  691 2731 2094  891]
+w_h_top_words:['like', 'power', 'change', 'good', 'list', 'drive', 'people', 'ban', 'text', 'gt', 'window', 'terminal', 'belief', 'friend', 'game', 'k', 'complete', 'pretty', 'lot', 'debate']
+----------------------------------------------------------------------
+h_num: 9
+w_h_top_words_indx: [1318 1865 2490   52 3865 3564 3921 3174 2375  282 2731 1968 3008 2805
+ 3755 3883 3783 1379  692 2685]
+w_h_top_words:['feel', 'internet', 'option', 'add', 'want', 'terrible', 'willing', 'separate', 'need', 'background', 'pretty', 'know', 'rest', 'provide', 'universal', 'way', 'use', 'following', 'completely', 'post']
+----------------------------------------------------------------------
+h_num: 10
+w_h_top_words_indx: [3066 3085 1277 2014 2979  972  698 3865 3883 1527 3216 1152  305 3409
+  692 1296  798  914 2805  947]
+w_h_top_words:['row', 's', 'factor', 'leave', 'represent', 'die', 'computer', 'want', 'way', 'govern', 'shit', 'engine', 'base', 'step', 'completely', 'fantastic', 'course', 'definitely', 'provide', 'deserve']
+----------------------------------------------------------------------
+h_num: 11
+w_h_top_words_indx: [1216 3883 2049  782 2192 2472  919   79 2014 2092 3634   45 2937 2884
+ 3847  282  975 3046 3397 3809]
+w_h_top_words:['exactly', 'way', 'like', 'correct', 'mean', 'online', 'delete', 'affect', 'leave', 'lose', 'ton', 'actual', 'regulate', 'reader', 'vote', 'background', 'different', 'rise', 'station', 'vector']
+----------------------------------------------------------------------
+h_num: 12
+w_h_top_words_indx: [2757 1306  662 2679 3593   86  795  886 3444 2761 3577 3979 2032  477
+ 3964   52 2532 1514 1562 3552]
+w_h_top_words:['problem', 'fault', 'comment', 'position', 'think', 'agenda', 'country', 'deal', 'stupid', 'process', 'thank', 'year', 'level', 'busy', 'wrong', 'add', 'pain', 'goal', 'gt', 'tell']
+----------------------------------------------------------------------
+h_num: 13
+w_h_top_words_indx: [3946 3341  886  677 3706 3715 1177 3085 1602 1076 2550 1188 3783 1961
+ 2387 3593 3577 2583 3931 2571]
+w_h_top_words:['work', 'speak', 'deal', 'company', 'turn', 'type', 'equipment', 's', 'hand', 'dude', 'particular', 'establish', 'use', 'kind', 'nice', 'think', 'thank', 'people', 'wire', 'pay']
+----------------------------------------------------------------------
+h_num: 14
+w_h_top_words_indx: [ 553 1968  417  578 1548 3452 3924 3979  305  919 2685 2385 3386 2049
+ 1099 1284  533 3946 3985 2467]
+w_h_top_words:['change', 'know', 'bore', 'choice', 'great', 'submit', 'window', 'year', 'base', 'delete', 'post', 'new', 'star', 'like', 'economy', 'faith', 'cause', 'work', 'yes', 'old']
+----------------------------------------------------------------------
+h_num: 15
+w_h_top_words_indx: [1659 3950 2085 1060 2095 1963 1513  750 2583  173  174 3344 1825 1652
+ 3400 2304 3442 3577 2086  346]
+w_h_top_words:['high', 'world', 'lol', 'draw', 'loud', 'king', 'go', 'content', 'people', 'app', 'apparently', 'special', 'inside', 'help', 'status', 'moral', 'study', 'thank', 'long', 'belt']
+----------------------------------------------------------------------
+h_num: 16
+w_h_top_words_indx: [1562 2029 3592 1147 1652 1591   46  732 3388 2247 3979 2790 3593 1245
+ 2583 2433  458 3076 2057 3344]
+w_h_top_words:['gt', 'let', 'thing', 'end', 'help', 'guy', 'actually', 'consider', 'start', 'million', 'year', 'property', 'think', 'expensive', 'people', 'objection', 'budget', 'run', 'link', 'special']
+----------------------------------------------------------------------
+h_num: 17
+w_h_top_words_indx: [3940 2192   46  515 1717 3593 1731 3614 1744 3388 2011 2249 2014 3979
+ 2836 3144 3946 2767  553 3977]
+w_h_top_words:['woman', 'mean', 'actually', 'car', 'human', 'think', 'idea', 'time', 'ignore', 'start', 'learn', 'mind', 'leave', 'year', 'question', 'second', 'work', 'product', 'change', 'yea']
+----------------------------------------------------------------------
+h_num: 18
+w_h_top_words_indx: [2757 2368 3946 2088 1088  911 3783 1562 2049  743  119 3001 2951 1417
+ 3106 2970 1342 2228 3883 2283]
+w_h_top_words:['problem', 'near', 'work', 'look', 'early', 'defense', 'use', 'gt', 'like', 'constructive', 'amazing', 'respect', 'relevant', 'freelance', 'satellite', 'repair', 'fine', 'meter', 'way', 'moderator']
+----------------------------------------------------------------------
+h_num: 19
+w_h_top_words_indx: [3507  460 2293 3326 3485  948 3073 3883 2049  974 1684 2583 1204 3463
+ 2685  652 1857 1548  296 2094]
+w_h_top_words:['swap', 'build', 'money', 'sound', 'support', 'design', 'rule', 'way', 'like', 'difference', 'home', 'people', 'everybody', 'successful', 'post', 'color', 'interested', 'great', 'band', 'lot']
+----------------------------------------------------------------------
+h_num: 20
+w_h_top_words_indx: [2597 3697 3922 1101 3577 3487  919 3849  480 2987 3264   30 1806 2757
+  285 3701 2777 3961  199  897]
+w_h_top_words:['person', 'true', 'win', 'edit', 'thank', 'suppose', 'delete', 'voting', 'buy', 'require', 'situation', 'account', 'information', 'problem', 'bad', 'try', 'program', 'write', 'argue', 'decide']
+----------------------------------------------------------------------
+h_num: 21
+w_h_top_words_indx: [2180  173 2049 3592 1311  276 1695 3269 2085 2385 1806 3174 2777 2583
+ 1334 2097 3491 3577  288 1207]
+w_h_top_words:['matter', 'app', 'like', 'thing', 'feature', 'b', 'hope', 'skill', 'lol', 'new', 'information', 'separate', 'program', 'people', 'fill', 'love', 'sure', 'thank', 'bag', 'evidence']
+----------------------------------------------------------------------
+h_num: 22
+w_h_top_words_indx: [1415 1961 1529 2853  480 2642 2660 3122 3593  468 2049  215 2731  771
+  264 2066   40 3799 2219  753]
+w_h_top_words:['free', 'kind', 'govt', 'raise', 'buy', 'play', 'policy', 'scheme', 'think', 'bunch', 'like', 'ask', 'pretty', 'cooler', 'average', 'little', 'action', 'value', 'menu', 'contract']
+----------------------------------------------------------------------
+h_num: 23
+w_h_top_words_indx: [1520 3085 3946 3485 1609  523 2029 2206 3593 3783 3883 2631 1246  305
+ 3614 2950 2049 1065 1284 1797]
+w_h_top_words:['good', 's', 'work', 'support', 'happen', 'case', 'let', 'medical', 'think', 'use', 'way', 'place', 'experience', 'base', 'time', 'release', 'like', 'drive', 'faith', 'individual']
+----------------------------------------------------------------------
+h_num: 24
+w_h_top_words_indx: [3593 1622 3491 1864 2088  553 2099 2094 3914 3966 1968 3120 2375 1602
+ 2057 1784  315 1351 2531 3328]
+w_h_top_words:['think', 'hate', 'sure', 'international', 'look', 'change', 'low', 'lot', 'wife', 'x', 'know', 'schedule', 'need', 'hand', 'link', 'include', 'battery', 'fit', 'page', 'source']
+----------------------------------------------------------------------
+h_num: 25
+w_h_top_words_indx: [2293  319 3118 3564 1562 1373  363 3794 3491 3242 2346 2444 1612 2094
+  215 2127 1415 3134  698 2066]
+w_h_top_words:['money', 'bayonet', 'scenario', 'terrible', 'gt', 'focus', 'big', 'v', 'sure', 'signal', 'n', 'occupy', 'hard', 'lot', 'ask', 'main', 'free', 'screw', 'computer', 'little']
+----------------------------------------------------------------------
+h_num: 26
+w_h_top_words_indx: [ 460 2346 3653 3169 1673 2057  424 1092 2821 3865 3552 2461 2097 2185
+ 3426  399 1977 2757 2836 3540]
+w_h_top_words:['build', 'n', 'trace', 'sense', 'hit', 'link', 'bounce', 'easily', 'purchase', 'want', 'tell', 'oh', 'love', 'maybe', 'strength', 'bmw', 'lack', 'problem', 'question', 'teach']
+----------------------------------------------------------------------
+h_num: 27
+w_h_top_words_indx: [2029 3402 3577 3189 2583 1276 3326 2094 2890  579  566 2683 1318  975
+ 1968 3192 3750 3783  637 3955]
+w_h_top_words:['let', 'stay', 'thank', 'setup', 'people', 'fact', 'sound', 'lot', 'reality', 'choose', 'cheap', 'possible', 'feel', 'different', 'know', 'sex', 'union', 'use', 'code', 'worth']
+----------------------------------------------------------------------
+h_num: 28
+w_h_top_words_indx: [1280  702 3085 1832 1652 2685  461  285 1220 2920 1612 2901 1462 2474
+  661  268 2062 3751 2224 2730]
+w_h_top_words:['fail', 'concept', 's', 'install', 'help', 'post', 'building', 'bad', 'example', 'reference', 'hard', 'receive', 'gap', 'op', 'command', 'away', 'list', 'unique', 'mess', 'pretend']
+----------------------------------------------------------------------
+h_num: 29
+w_h_top_words_indx: [3040 3614  919 2305    4  285 3216 2836 3593 2375 2461 3700 2213 1649
+ 3865 3288 3162  878 3076 1548]
+w_h_top_words:['right', 'time', 'delete', 'morality', 'ability', 'bad', 'shit', 'question', 'think', 'need', 'oh', 'truth', 'member', 'hell', 'want', 'sling', 'sell', 'datum', 'run', 'great']
+----------------------------------------------------------------------
+h_num: 30
+w_h_top_words_indx: [2029  285 3162 3004 2421 1247 2156 1957 2883 1163 2116 1472 3210 1423
+ 1151 3328 3521 1968  553  890]
+w_h_top_words:['let', 'bad', 'sell', 'response', 'number', 'experiment', 'marijuana', 'kill', 'read', 'enthusiast', 'machine', 'gay', 'shield', 'fresh', 'engage', 'source', 'tablet', 'know', 'change', 'death']
+----------------------------------------------------------------------
+h_num: 31
+w_h_top_words_indx: [3577 1830 1949  568 1602 1753 2571 1498  770 3955 2367 1695 2476 3345
+ 3497 1672  495 3821 2185 2467]
+w_h_top_words:['thank', 'inspire', 'karma', 'check', 'hand', 'image', 'pay', 'gift', 'cool', 'worth', 'nd', 'hope', 'open', 'specialized', 'surprised', 'history', 'calm', 'video', 'maybe', 'old']
+----------------------------------------------------------------------
+h_num: 32
+w_h_top_words_indx: [1957 3946 3614  285 1095  994 2973 1250 2690 3388 3136  343 3593 3961
+ 2293 2054 3588  753 2561 3979]
+w_h_top_words:['kill', 'work', 'time', 'bad', 'eat', 'disagree', 'replace', 'explain', 'potentially', 'start', 'scripture', 'believe', 'think', 'write', 'money', 'line', 'theory', 'contract', 'paste', 'year']
+----------------------------------------------------------------------
+h_num: 33
+w_h_top_words_indx: [1337 3335 2499  782 2908  108 2597 3144 2943  545 2628 3787 3543 3169
+  581 1165 2935 3614 3657 2414]
+w_h_top_words:['final', 'space', 'original', 'correct', 'recommend', 'alive', 'person', 'second', 'relate', 'certain', 'pitch', 'username', 'team', 'sense', 'christian', 'entirely', 'regular', 'time', 'trade', 'nowadays']
+----------------------------------------------------------------------
+h_num: 34
+w_h_top_words_indx: [3614 2755 2088 2583 1562 3771 3085 3940  112 2695 1968 1086  579 3946
+ 2642 2467 1520 1635  523 3328]
+w_h_top_words:['time', 'probably', 'look', 'people', 'gt', 'update', 's', 'woman', 'allow', 'power', 'know', 'e', 'choose', 'work', 'play', 'old', 'good', 'health', 'case', 'source']
+----------------------------------------------------------------------
+h_num: 35
+w_h_top_words_indx: [1520 3543  394 3663 2049  978 1960 3946 2066 2621 1086 1968 2476  483
+ 2854   46  975 2159 1434 1438]
+w_h_top_words:['good', 'team', 'blog', 'train', 'like', 'difficult', 'kilogram', 'work', 'little', 'pin', 'e', 'know', 'open', 'c', 'ram', 'actually', 'different', 'market', 'fucking', 'fully']
+----------------------------------------------------------------------
+h_num: 36
+w_h_top_words_indx: [3076 1318 3757 3507 2574  919 2493 3592 3161  915 1377 1380 2180 3460
+ 2045 3040  523  760 3205 2386]
+w_h_top_words:['run', 'feel', 'university', 'swap', 'pc', 'delete', 'orbit', 'thing', 'self', 'definition', 'follow', 'font', 'matter', 'subway', 'life', 'right', 'case', 'controller', 'share', 'news']
+----------------------------------------------------------------------
+h_num: 37
+w_h_top_words_indx: [3184 2954  606 2375 1163 3964 3322 1183 2438 1957 3677 2555 3132 1690
+ 3449 2400 1147 2164 1375   28]
+w_h_top_words:['service', 'religion', 'class', 'need', 'enthusiast', 'wrong', 'soon', 'especially', 'obstacle', 'kill', 'trash', 'pass', 'screen', 'honestly', 'subject', 'nope', 'end', 'marry', 'folder', 'accord']
+----------------------------------------------------------------------
+h_num: 38
+w_h_top_words_indx: [ 159   40 1052 2577  173 2218   39 1548  658 2387  327  750 3001  483
+  969 1609 1585 1480  527 3085]
+w_h_top_words:['answer', 'action', 'downvote', 'pdf', 'app', 'mention', 'act', 'great', 'come', 'nice', 'beast', 'content', 'respect', 'c', 'diagram', 'happen', 'guess', 'generally', 'catch', 's']
+----------------------------------------------------------------------
+h_num: 39
+w_h_top_words_indx: [2139 1246 1451 3162 2887 3783 2583  760 1519 1651 2685 2868 3040 2857
+ 3755 2067  315 3592 3946  975]
+w_h_top_words:['man', 'experience', 'future', 'sell', 'real', 'use', 'people', 'controller', 'golden', 'helmet', 'post', 'rate', 'right', 'random', 'universal', 'live', 'battery', 'thing', 'work', 'different']
+----------------------------------------------------------------------
+h_num: 40
+w_h_top_words_indx: [1294 2583 1237  975 2597 2197 3593 1192 3700 3124 1272 2382 2979  914
+ 3444 3910  309 1528 3040 3385]
+w_h_top_words:['fan', 'people', 'exist', 'different', 'person', 'measure', 'think', 'eternal', 'truth', 'school', 'f', 'network', 'represent', 'definitely', 'stupid', 'white', 'basis', 'government', 'right', 'standard']
+----------------------------------------------------------------------
+h_num: 41
+w_h_top_words_indx: [3397 3592 3944 2963 3591 3679 3786 3534  481   47 3281 2328 2973   84
+ 1396 1250 2753 2348 3678 3153]
+w_h_top_words:['station', 'thing', 'word', 'remotely', 'thin', 'treat', 'user', 'taskbar', 'buyer', 'ad', 'sleep', 'ms', 'replace', 'age', 'form', 'explain', 'pro', 'nah', 'travel', 'security']
+----------------------------------------------------------------------
+h_num: 42
+w_h_top_words_indx: [2531 2080 2757 3046 3637   52 3328 3704 3899 3591 2685  209 1873   84
+ 1221 3085 3865 2946 2003 2585]
+w_h_top_words:['page', 'logic', 'problem', 'rise', 'tool', 'add', 'source', 'tuner', 'weight', 'thin', 'post', 'art', 'invest', 'age', 'excellent', 's', 'want', 'relationship', 'le', 'percent']
+----------------------------------------------------------------------
+h_num: 43
+w_h_top_words_indx: [2649 1548 3453 3699 1218 3883 1562 1961  306  157  854  919  814 3663
+ 2380 3985 1329  436 1822 2287]
+w_h_top_words:['plus', 'great', 'subreddit', 'trust', 'examination', 'way', 'gt', 'kind', 'baseball', 'annoying', 'curse', 'delete', 'creationist', 'train', 'net', 'yes', 'field', 'bright', 'input', 'modshttpwwwredditcommessagecomposeto']
+----------------------------------------------------------------------
+h_num: 44
+w_h_top_words_indx: [2121 3159  385  363    6 3085  264 2554 2139 2185 2387 3024 2753  545
+ 2207 1124 3328  919   72 1352]
+w_h_top_words:['magazine', 'select', 'black', 'big', 'able', 's', 'average', 'party', 'man', 'maybe', 'nice', 'revelation', 'pro', 'certain', 'medicine', 'electronic', 'source', 'delete', 'advice', 'fix']
+----------------------------------------------------------------------
+h_num: 45
+w_h_top_words_indx: [3979 2049 1431  315 3085 1337 1168 2225 1961  610  459 1528 3040 3213
+ 3264   26 2192 1817  385 2116]
+w_h_top_words:['year', 'like', 'fuck', 'battery', 's', 'final', 'entry', 'message', 'kind', 'clean', 'bug', 'government', 'right', 'ship', 'situation', 'accidentally', 'mean', 'inline', 'black', 'machine']
+----------------------------------------------------------------------
+h_num: 46
+w_h_top_words_indx: [1806 1562 3947 3985 1461  871 3256   46 3471 2013  505  807  379 1744
+ 1351 2387  475 3740 3772 3507]
+w_h_top_words:['information', 'gt', 'worker', 'yes', 'gang', 'dangerous', 'single', 'actually', 'suggestion', 'leather', 'cap', 'crap', 'bit', 'ignore', 'fit', 'nice', 'business', 'understand', 'upgrade', 'swap']
+----------------------------------------------------------------------
+h_num: 47
+w_h_top_words_indx: [2049 3740 2513 3883 1968 2883 2531 2054 2476 1795 3910 2385  952 2358
+  919 2579 1965 2643 2931 2375]
+w_h_top_words:['like', 'understand', 'outside', 'way', 'know', 'read', 'page', 'line', 'open', 'indicate', 'white', 'new', 'desktop', 'nation', 'delete', 'peak', 'kit', 'player', 'region', 'need']
+----------------------------------------------------------------------
+h_num: 48
+w_h_top_words_indx: [3192 2883 1961 2960 3264 1051  517 2736 3588 1612  315 3561 3324  897
+  827 1968  615 3879 1202 3442]
+w_h_top_words:['sex', 'read', 'kind', 'remember', 'situation', 'download', 'card', 'price', 'theory', 'hard', 'battery', 'term', 'sort', 'decide', 'critical', 'know', 'client', 'watch', 'event', 'study']
+----------------------------------------------------------------------
+h_num: 49
+w_h_top_words_indx: [1520 2654 2960 2180 2094 3626  343 3783 3335  763 3865 3701 3442 3252
+ 1968 2159  218 2347 2461 1767]
+w_h_top_words:['good', 'point', 'remember', 'matter', 'lot', 'tldr', 'believe', 'use', 'space', 'convention', 'want', 'try', 'study', 'sin', 'know', 'market', 'ass', 'na', 'oh', 'implement']
+----------------------------------------------------------------------
+h_num: 50
+w_h_top_words_indx: [1520  807 2894 1341 3708  274 3040 3883  559 3159 2387 2524 1250  882
+ 3464 3348 3865 3393  477  782]
+w_h_top_words:['good', 'crap', 'reason', 'find', 'tv', 'axis', 'right', 'way', 'charge', 'select', 'nice', 'p', 'explain', 'day', 'suck', 'specific', 'want', 'state', 'busy', 'correct']
+----------------------------------------------------------------------
+h_num: 51
+w_h_top_words_indx: [3924 2642 1474 3592 3527  269 1457  276 3085 2805 2162 1341  915 1609
+ 1591 1311 2685 2319 3040 3865]
+w_h_top_words:['window', 'play', 'gear', 'thing', 'talk', 'awesome', 'game', 'b', 's', 'provide', 'marriage', 'find', 'definition', 'happen', 'guy', 'feature', 'post', 'mouse', 'right', 'want']
+----------------------------------------------------------------------
+h_num: 52
+w_h_top_words_indx: [ 919  948 1974 1147 3241 2583 3799 3140 2094 1520 3794 2249 2502 3561
+ 3946 3593 1652 1296 1474 2805]
+w_h_top_words:['delete', 'design', 'lab', 'end', 'sign', 'people', 'value', 'search', 'lot', 'good', 'v', 'mind', 'oror', 'term', 'work', 'think', 'help', 'fantastic', 'gear', 'provide']
+----------------------------------------------------------------------
+h_num: 53
+w_h_top_words_indx: [1401 2293 3865 3487 2021  919 2917 2631  858 1250   33 1952 1439 1609
+ 2751 3076 3950 3472 1695  460]
+w_h_top_words:['forum', 'money', 'want', 'suppose', 'legal', 'delete', 'reduce', 'place', 'cut', 'explain', 'accurate', 'keyboard', 'fun', 'happen', 'private', 'run', 'world', 'suit', 'hope', 'build']
+----------------------------------------------------------------------
+h_num: 54
+w_h_top_words_indx: [2348 3593 1292  948 3701 1544 3847 2805 1609 2192 3865 3248 1301 3491
+ 3291 3388 2407 3574  575 1217]
+w_h_top_words:['nah', 'think', 'family', 'design', 'try', 'graphic', 'vote', 'provide', 'happen', 'mean', 'want', 'simple', 'far', 'sure', 'slow', 'start', 'note', 'text', 'chinese', 'exam']
+----------------------------------------------------------------------
+h_num: 55
+w_h_top_words_indx: [1583 3085 3076  199 3592 2185 2007 1065  962 1673 1094 2777  815  517
+ 1961 3883 3060  785 3947  343]
+w_h_top_words:['guarantee', 's', 'run', 'argue', 'thing', 'maybe', 'league', 'drive', 'dev', 'hit', 'easy', 'program', 'creative', 'card', 'kind', 'way', 'root', 'correlation', 'worker', 'believe']
+----------------------------------------------------------------------
+h_num: 56
+w_h_top_words_indx: [1695 1341 2629 2057 3955 2466  698 2954 3502 3844 2476 1147 3125  523
+ 3076 1995 2094 3946  459 2490]
+w_h_top_words:['hope', 'find', 'pitcher', 'link', 'worth', 'okay', 'computer', 'religion', 'suspect', 'voltage', 'open', 'end', 'science', 'case', 'run', 'law', 'lot', 'work', 'bug', 'option']
+----------------------------------------------------------------------
+h_num: 57
+w_h_top_words_indx: [1331 3180 3789 2272 1276 1641 3701 3931 2092 3324 1218 2583 1147  229
+  662  384 1342 2588 2171 1733]
+w_h_top_words:['fight', 'seriously', 'usually', 'mix', 'fact', 'heat', 'try', 'wire', 'lose', 'sort', 'examination', 'people', 'end', 'associate', 'comment', 'bizarre', 'fine', 'perfect', 'master', 'ideally']
+----------------------------------------------------------------------
+h_num: 58
+w_h_top_words_indx: [3614 3657 2836  480 2049 1621 2279 2954 2883 2207 1585 3384 2421  737
+ 1101 2466 2269 3865 3561 2062]
+w_h_top_words:['time', 'trade', 'question', 'buy', 'like', 'hat', 'mod', 'religion', 'read', 'medicine', 'guess', 'stand', 'number', 'console', 'edit', 'okay', 'mistake', 'want', 'term', 'list']
+----------------------------------------------------------------------
+h_num: 59
+w_h_top_words_indx: [3618 1157  965 2659 3639 1523 1094 3887 2466  141  705 2101  210 3127
+ 2779 2753 3365  423 3447 1218]
+w_h_top_words:['tiny', 'enjoy', 'development', 'police', 'topic', 'gop', 'easy', 'wealth', 'okay', 'analogy', 'conclusion', 'lt', 'article', 'scientist', 'progress', 'pro', 'sport', 'bottle', 'style', 'examination']
+----------------------------------------------------------------------
+h_num: 60
+w_h_top_words_indx: [2583  622  480  343  662  919 1345 3491  913 3962 3034  988 1609 2192
+  532 2695 3388 3295 3256 1562]
+w_h_top_words:['people', 'close', 'buy', 'believe', 'comment', 'delete', 'fire', 'sure', 'define', 'writer', 'ride', 'directly', 'happen', 'mean', 'cattle', 'power', 'start', 'smart', 'single', 'gt']
+----------------------------------------------------------------------
+h_num: 61
+w_h_top_words_indx: [3085 2883 2513 1056 2011 2088 2583 3816 2685  200 2049 2563 3614  460
+ 3144 2485 3910 3979 1791 1968]
+w_h_top_words:['s', 'read', 'outside', 'drag', 'learn', 'look', 'people', 'version', 'post', 'argument', 'like', 'patch', 'time', 'build', 'second', 'opposite', 'white', 'year', 'incredibly', 'know']
+----------------------------------------------------------------------
+h_num: 62
+w_h_top_words_indx: [3985 3326 2299 1562 3756 3599 1612 2438  604 1784 2045 2654 3964 3003
+  438 2019 3184 2386 1995 1520]
+w_h_top_words:['yes', 'sound', 'month', 'gt', 'universe', 'thousand', 'hard', 'obstacle', 'claim', 'include', 'life', 'point', 'wrong', 'respond', 'bring', 'leg', 'service', 'news', 'law', 'good']
+----------------------------------------------------------------------
+h_num: 63
+w_h_top_words_indx: [2375 2583  692 3076 2054 3946  132 2731 3593 3964 2481 2695  658 1101
+ 2722 3786 1901 3491  420 3701]
+w_h_top_words:['need', 'people', 'completely', 'run', 'line', 'work', 'amp', 'pretty', 'think', 'wrong', 'opinion', 'power', 'come', 'edit', 'present', 'user', 'issue', 'sure', 'bot', 'try']
+----------------------------------------------------------------------
+h_num: 64
+w_h_top_words_indx: [3124 2385 3646  658 3443 1672 3414 3287 3924 3527  549  282 1216  877
+ 3545 3592  460  622 2063 1821]
+w_h_top_words:['school', 'new', 'touch', 'come', 'stuff', 'history', 'stop', 'slightly', 'window', 'talk', 'chain', 'background', 'exactly', 'date', 'tech', 'thing', 'build', 'close', 'listen', 'innovative']
+----------------------------------------------------------------------
+h_num: 65
+w_h_top_words_indx: [2550 2598 3485 1700 2926  585  803  466 2727 2461 3290 2073 3085 3127
+ 2203  515 3497 2317 2313 3033]
+w_h_top_words:['particular', 'personal', 'support', 'horribly', 'refurbish', 'chrome', 'cpu', 'bullshit', 'press', 'oh', 'slot', 'lobby', 's', 'scientist', 'med', 'car', 'surprised', 'mount', 'motivate', 'rid']
+----------------------------------------------------------------------
+h_num: 66
+w_h_top_words_indx: [ 112 1516  429 3577 2163 3517 3701 1536 2192 3979 3592 2018 3076 3559
+ 2757 1600 3697 1968 1847 2642]
+w_h_top_words:['allow', 'god', 'brake', 'thank', 'married', 'system', 'try', 'grade', 'mean', 'year', 'thing', 'leftist', 'run', 'tend', 'problem', 'half', 'true', 'know', 'intelligence', 'play']
+----------------------------------------------------------------------
+h_num: 67
+w_h_top_words_indx: [3592  568  715 2385 2057 3577  948 3076 2338 1612 2139 1968 2663 3034
+  480 1609 1991 1094 2185 1098]
+w_h_top_words:['thing', 'check', 'confirm', 'new', 'link', 'thank', 'design', 'run', 'muslim', 'hard', 'man', 'know', 'political', 'ride', 'buy', 'happen', 'later', 'easy', 'maybe', 'economic']
+----------------------------------------------------------------------
+h_num: 68
+w_h_top_words_indx: [3085 3701 3076 1520  781 2049 3593 1434 3865 2675 1086 3946 3315 3513
+ 1856 1147 2883 3564 2894 2080]
+w_h_top_words:['s', 'try', 'run', 'good', 'corporation', 'like', 'think', 'fucking', 'want', 'port', 'e', 'work', 'solve', 'switch', 'interest', 'end', 'read', 'terrible', 'reason', 'logic']
+----------------------------------------------------------------------
+h_num: 69
+w_h_top_words_indx: [3491 1520  795  919  658 1270  637 2757 1216  215 2683 1371 1651  909
+ 3883 1352 2553  938 3205 2731]
+w_h_top_words:['sure', 'good', 'country', 'delete', 'come', 'extremely', 'code', 'problem', 'exactly', 'ask', 'possible', 'fly', 'helmet', 'defend', 'way', 'fix', 'partner', 'depend', 'share', 'pretty']
+----------------------------------------------------------------------
+h_num: 70
+w_h_top_words_indx: [1591  578 3865 3124 3723 3978 2805 2834  380 1600 1851 2499 2571 1342
+ 2853 2554 3501 3577  552 2307]
+w_h_top_words:['guy', 'choice', 'want', 'school', 'ugly', 'yeah', 'provide', 'quality', 'bitch', 'half', 'intent', 'original', 'pay', 'fine', 'raise', 'party', 'survive', 'thank', 'chance', 'morning']
+----------------------------------------------------------------------
+h_num: 71
+w_h_top_words_indx: [2004 2086   44 2049 3883  519 3256 2531  944  183 3985 2685 2456  435
+ 3014 2331 3708 2660 3799  891]
+w_h_top_words:['lead', 'long', 'activity', 'like', 'way', 'career', 'single', 'page', 'describe', 'apply', 'yes', 'post', 'official', 'brief', 'result', 'multiple', 'tv', 'policy', 'value', 'debate']
+----------------------------------------------------------------------
+h_num: 72
+w_h_top_words_indx: [1007 1562 3592  159   30 1457 2014  972 3328 3162 1157 1983 2453 2954
+ 1509 2531 1291 1612 1652 1594]
+w_h_top_words:['discuss', 'gt', 'thing', 'answer', 'account', 'game', 'leave', 'die', 'source', 'sell', 'enjoy', 'language', 'offer', 'religion', 'glory', 'page', 'familiar', 'hard', 'help', 'habit']
+----------------------------------------------------------------------
+h_num: 73
+w_h_top_words_indx: [3085  658 1183 3946 1836 2057 1968 2092  622  882 2209 3614 2088 1520
+  863 3088 1086 1332  698 1318]
+w_h_top_words:['s', 'come', 'especially', 'work', 'instead', 'link', 'know', 'lose', 'close', 'day', 'meet', 'time', 'look', 'good', 'd', 'sadly', 'e', 'figure', 'computer', 'feel']
+----------------------------------------------------------------------
+h_num: 74
+w_h_top_words_indx: [ 891  919 3883 2192 3944 3132 2883 3085 2755  912 3922 1341 2930  533
+ 3997 2935 1559  315 1803 3082]
+w_h_top_words:['debate', 'delete', 'way', 'mean', 'word', 'screen', 'read', 's', 'probably', 'defensive', 'win', 'find', 'regardless', 'cause', 'zionist', 'regular', 'grow', 'battery', 'influence', 'rust']
+----------------------------------------------------------------------
+h_num: 75
+w_h_top_words_indx: [3946 2094 3868 2476  952 2017 3966 1638 2192 2555 1637 3577  856 3556
+ 3787 3646 2727 2935 2368 1805]
+w_h_top_words:['work', 'lot', 'warm', 'open', 'desktop', 'left', 'x', 'hear', 'mean', 'pass', 'healthy', 'thank', 'custom', 'temple', 'username', 'touch', 'press', 'regular', 'near', 'inform']
+----------------------------------------------------------------------
+h_num: 76
+w_h_top_words_indx: [1949 3084 2503 1965 1591 3603 2755 3836 3012  210 3506  640  877 2583
+ 2004 1125 1669  258 1503 3260]
+w_h_top_words:['karma', 'ryan', 'os', 'kit', 'guy', 'throw', 'probably', 'visit', 'restriction', 'article', 'suv', 'coffee', 'date', 'people', 'lead', 'element', 'hip', 'auto', 'glad', 'siri']
+----------------------------------------------------------------------
+h_num: 77
+w_h_top_words_indx: [3699  989 3593 3543  882 2180 3793 1207 3167 1901 2513 3985   97  350
+ 2890 2476  119  662 3463 2385]
+w_h_top_words:['trust', 'director', 'think', 'team', 'day', 'matter', 'ux', 'evidence', 'send', 'issue', 'outside', 'yes', 'air', 'benefit', 'reality', 'open', 'amazing', 'comment', 'successful', 'new']
+----------------------------------------------------------------------
+h_num: 78
+w_h_top_words_indx: [3946    6 2049   46 3543 2074 2755 3614 1100 3047 3740 1558 1415 3076
+ 2642 3442  379 1609 2207 3955]
+w_h_top_words:['work', 'able', 'like', 'actually', 'team', 'local', 'probably', 'time', 'edge', 'risk', 'understand', 'group', 'free', 'run', 'play', 'study', 'bit', 'happen', 'medicine', 'worth']
+----------------------------------------------------------------------
+h_num: 79
+w_h_top_words_indx: [ 173 2049 3577 2385 3865 3783  919 3593 1780 3206  770 1731   11 1857
+ 2348  975  795 1991  568 2883]
+w_h_top_words:['app', 'like', 'thank', 'new', 'want', 'use', 'delete', 'think', 'improvement', 'sharp', 'cool', 'idea', 'absolutely', 'interested', 'nah', 'different', 'country', 'later', 'check', 'read']
+----------------------------------------------------------------------
+h_num: 80
+w_h_top_words_indx: [3897 3794  658 3388 2554 2887  526 2567 2605 3592  919 1659  770 1858
+   22 1220  173 1318 1591   47]
+w_h_top_words:['week', 'v', 'come', 'start', 'party', 'real', 'cat', 'patient', 'phone', 'thing', 'delete', 'high', 'cool', 'interesting', 'acceptable', 'example', 'app', 'feel', 'guy', 'ad']
+----------------------------------------------------------------------
+h_num: 81
+w_h_top_words_indx: [2616 3491 1640 3799  658 3167 2092 3883 3248 3849 2558  882 3040 3047
+ 1216 1341  568 2249   11 2139]
+w_h_top_words:['pick', 'sure', 'heart', 'value', 'come', 'send', 'lose', 'way', 'simple', 'voting', 'passive', 'day', 'right', 'risk', 'exactly', 'find', 'check', 'mind', 'absolutely', 'man']
+----------------------------------------------------------------------
+h_num: 82
+w_h_top_words_indx: [3085 2049 1559 3866 2067 2883 2775 2954 1211 3182 1968 3418  919  200
+ 2139 1209 2375 3132 2192  658]
+w_h_top_words:['s', 'like', 'grow', 'war', 'live', 'read', 'profit', 'religion', 'evolution', 'serve', 'know', 'straight', 'delete', 'argument', 'man', 'evil', 'need', 'screen', 'mean', 'come']
+----------------------------------------------------------------------
+h_num: 83
+w_h_top_words_indx: [1677 3858 3076 2247   95 1698 3452  394 2649  866  569 3878 2654 1705
+  163 2448 3922   72  412 3388]
+w_h_top_words:['hockey', 'wait', 'run', 'million', 'aid', 'horn', 'submit', 'blog', 'plus', 'daily', 'cheer', 'waste', 'point', 'hour', 'anymore', 'odd', 'win', 'advice', 'book', 'start']
+----------------------------------------------------------------------
+h_num: 84
+w_h_top_words_indx: [3941 2679  506 1053 2987 1835 3597 1147 3443 1800 1548 2531 3487 1488
+ 1612 3883 2219 1585 2293 2407]
+w_h_top_words:['wonder', 'position', 'capability', 'dozen', 'require', 'instantly', 'thoroughly', 'end', 'stuff', 'infallible', 'great', 'page', 'suppose', 'gentile', 'hard', 'way', 'menu', 'guess', 'money', 'note']
+----------------------------------------------------------------------
+h_num: 85
+w_h_top_words_indx: [2011 1066  460 2049  242 1552 3527 1656 2571 2088 3577 2954 3946  877
+ 2935 2192 3769 3416 2836 3592]
+w_h_top_words:['learn', 'driver', 'build', 'like', 'attack', 'green', 'talk', 'hey', 'pay', 'look', 'thank', 'religion', 'work', 'date', 'regular', 'mean', 'unused', 'store', 'question', 'thing']
+----------------------------------------------------------------------
+h_num: 86
+w_h_top_words_indx: [3146 2854 1583 1358  689  348 3960 2375  459 1684  559   36 1548 3167
+ 3110 1936 1865  698  150 2586]
+w_h_top_words:['secondly', 'ram', 'guarantee', 'flat', 'complain', 'benchmark', 'wrap', 'need', 'bug', 'home', 'charge', 'acid', 'great', 'send', 'save', 'judge', 'internet', 'computer', 'angle', 'percentage']
+----------------------------------------------------------------------
+h_num: 87
+w_h_top_words_indx: [3783 2757 3701 1301 1600 3040 3593 3247 3085 2387 2067  658 3054 2685
+ 1068 2846 1548 1788  647 2373]
+w_h_top_words:['use', 'problem', 'try', 'far', 'half', 'right', 'think', 'similar', 's', 'nice', 'live', 'come', 'role', 'post', 'drop', 'racism', 'great', 'incorrect', 'colleague', 'necessary']
+----------------------------------------------------------------------
+h_num: 88
+w_h_top_words_indx: [3220 2836 2094  285 1548 2736  173 1520 2130 3204 1457 3878 1948 3900
+ 3444  878 3076 3085 2387 3657]
+w_h_top_words:['shoot', 'question', 'lot', 'bad', 'great', 'price', 'app', 'good', 'maintain', 'shape', 'game', 'waste', 'k', 'weird', 'stupid', 'datum', 'run', 's', 'nice', 'trade']
+----------------------------------------------------------------------
+h_num: 89
+w_h_top_words_indx: [1520 3414 3485 3639 3593 3517 1147  662 3972 2755 2276 1946 3883 2685
+  285 3897 1652 1862  185 2048]
+w_h_top_words:['good', 'stop', 'support', 'topic', 'think', 'system', 'end', 'comment', 'y', 'probably', 'mm', 'justified', 'way', 'post', 'bad', 'week', 'help', 'internal', 'appreciate', 'light']
+----------------------------------------------------------------------
+h_num: 90
+w_h_top_words_indx: [ 863 3614 1333 3507  662 3577  975 2631  119  948 3697 2836 1968 3388
+  886 3944  750  945  451  759]
+w_h_top_words:['d', 'time', 'file', 'swap', 'comment', 'thank', 'different', 'place', 'amazing', 'design', 'true', 'question', 'know', 'start', 'deal', 'word', 'content', 'description', 'bubble', 'control']
+----------------------------------------------------------------------
+h_num: 91
+w_h_top_words_indx: [3964 3305  853  919 1086 2088 1968 3985 2086 3603 1428   40 3148  926
+ 1842 2789 1742 2057 1439 3248]
+w_h_top_words:['wrong', 'society', 'curriculum', 'delete', 'e', 'look', 'know', 'yes', 'long', 'throw', 'fruit', 'action', 'sect', 'demand', 'insurance', 'properly', 'ignorance', 'link', 'fun', 'simple']
+----------------------------------------------------------------------
+h_num: 92
+w_h_top_words_indx: [2554  343 3923 2054 3528 3533 3132 3452 2960 2476  420 1164 1836 1280
+ 3193 3064 3879 2750 2077 2621]
+w_h_top_words:['party', 'believe', 'wind', 'line', 'tall', 'task', 'screen', 'submit', 'remember', 'open', 'bot', 'entire', 'instead', 'fail', 'sexual', 'round', 'watch', 'privacy', 'lock', 'pin']
+----------------------------------------------------------------------
+h_num: 93
+w_h_top_words_indx: [2631 2049 1638 1457 1930 2094   90 1472 3608  315 2022 1938 2453 3883
+ 3786 3592 2571 3613 3783 2180]
+w_h_top_words:['place', 'like', 'hear', 'game', 'joke', 'lot', 'ago', 'gay', 'tie', 'battery', 'legally', 'juice', 'offer', 'way', 'user', 'thing', 'pay', 'till', 'use', 'matter']
+----------------------------------------------------------------------
+h_num: 94
+w_h_top_words_indx: [1770 3543  647 2116 3540 3711 1338 3082 2385 1176  268 2011  594 2736
+ 2757 2822 2014 1627 2836 1619]
+w_h_top_words:['imply', 'team', 'colleague', 'machine', 'teach', 'twice', 'finally', 'rust', 'new', 'equation', 'away', 'learn', 'cite', 'price', 'problem', 'pure', 'leave', 'hd', 'question', 'hash']
+----------------------------------------------------------------------
+h_num: 95
+w_h_top_words_indx: [2049 2387 3922 3592 1094 2097 3844 1968 2883 3085 1591 2583 3527 2574
+ 1528 3639 2598 3216 1520 3162]
+w_h_top_words:['like', 'nice', 'win', 'thing', 'easy', 'love', 'voltage', 'know', 'read', 's', 'guy', 'people', 'talk', 'pc', 'government', 'topic', 'personal', 'shit', 'good', 'sell']
+----------------------------------------------------------------------
+h_num: 96
+w_h_top_words_indx: [1439  173 1050 2049 1318 2883 2094 3032 2088 3783  637 1081 3141 3979
+ 3879 2299 3355 3384 1276 1491]
+w_h_top_words:['fun', 'app', 'doubt', 'like', 'feel', 'read', 'lot', 'rich', 'look', 'use', 'code', 'dust', 'season', 'year', 'watch', 'month', 'spelling', 'stand', 'fact', 'german']
+----------------------------------------------------------------------
+h_num: 97
+w_h_top_words_indx: [2097 1673  882 2080 1585  975  787 3192 1992 1280 1997 2247  957 1462
+ 3085  264 3614 1342 2295 1417]
+w_h_top_words:['love', 'hit', 'day', 'logic', 'guess', 'different', 'corruption', 'sex', 'laugh', 'fail', 'lay', 'million', 'detail', 'gap', 's', 'average', 'time', 'fine', 'monk', 'freelance']
+----------------------------------------------------------------------
+h_num: 98
+w_h_top_words_indx: [ 801  863 3114 3051 3349  305 1421 2605 3639  215  777  200 2955 2057
+ 1948 1961 1778 1520  361 3797]
+w_h_top_words:['cover', 'd', 'scale', 'road', 'specifically', 'base', 'frequency', 'phone', 'topic', 'ask', 'core', 'argument', 'religious', 'link', 'k', 'kind', 'impressive', 'good', 'bible', 'valid']
+----------------------------------------------------------------------
+h_num: 99
+w_h_top_words_indx: [1562 1638 2960 1479 2097  919    8 3979 2049 3034 1101 1901 1318 2293
+ 2375 1969 3577 3750 3249 2180]
+w_h_top_words:['gt', 'hear', 'remember', 'general', 'love', 'delete', 'abortion', 'year', 'like', 'ride', 'edit', 'issue', 'feel', 'money', 'need', 'knowledge', 'thank', 'union', 'simply', 'matter']
+----------------------------------------------------------------------

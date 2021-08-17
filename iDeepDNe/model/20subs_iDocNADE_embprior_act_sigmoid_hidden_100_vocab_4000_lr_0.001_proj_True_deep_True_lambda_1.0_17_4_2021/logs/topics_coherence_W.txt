@@ -1,0 +1,608 @@
+top_n: 10 Topic Num: 1 
+Topic Words: [['mean', 'reply', 'candidate', 'thread', 'bitch', 'drag', 'weekend', 'different', 'constructive', 'z']]
+Coh_type:c_v  Topic Num:1 COH score:0.5199754996548889
+top_n: 20 Topic Num: 1 
+Topic Words: [['mean', 'reply', 'candidate', 'thread', 'bitch', 'drag', 'weekend', 'different', 'constructive', 'z', 'personally', 'dont', 'factor', 'speech', 'pm', 'false', 'nearly', 'finance', 'code', 'perfect']]
+Coh_type:c_v  Topic Num:1 COH score:0.6119570966056783
+top_n: 10 Topic Num: 2 
+Topic Words: [['pull', 'discussion', 'incredibly', 'typical', 'carbon', 'round', 'present', 'circuit', 'contain', 'buy']]
+Coh_type:c_v  Topic Num:2 COH score:0.5576995799951101
+top_n: 20 Topic Num: 2 
+Topic Words: [['pull', 'discussion', 'incredibly', 'typical', 'carbon', 'round', 'present', 'circuit', 'contain', 'buy', 'length', 'finger', 'paint', 'phase', 'jewish', 'rule', 'region', 'red', 'chrome', 'logically']]
+Coh_type:c_v  Topic Num:2 COH score:0.7516965390038637
+top_n: 10 Topic Num: 3 
+Topic Words: [['leave', 'present', 'server', 'variety', 'bfhttheoryautotldrconcept', 'tldrs', 'typical', 'keyword', 'tldr', 'incredibly']]
+Coh_type:c_v  Topic Num:3 COH score:0.5007929760243408
+top_n: 20 Topic Num: 3 
+Topic Words: [['leave', 'present', 'server', 'variety', 'bfhttheoryautotldrconcept', 'tldrs', 'typical', 'keyword', 'tldr', 'incredibly', 'contain', 'shelf', 'deny', 'public', 'sense', 'admin', 'reproduce', 'ride', 'welcome', 'fmfaqautotldrbot']]
+Coh_type:c_v  Topic Num:3 COH score:0.5499149888767102
+top_n: 10 Topic Num: 4 
+Topic Words: [['contain', 'hand', 'variety', 'special', 'bfhttheoryautotldrconcept', 'water', 'white', 'group', 'tldr', 'block']]
+Coh_type:c_v  Topic Num:4 COH score:0.4554680077699924
+top_n: 20 Topic Num: 4 
+Topic Words: [['contain', 'hand', 'variety', 'special', 'bfhttheoryautotldrconcept', 'water', 'white', 'group', 'tldr', 'block', 'keyword', 'welcome', 'surround', 'foot', 'deny', 'pull', 'leave', 'constructive', 'refuse', 'valid']]
+Coh_type:c_v  Topic Num:4 COH score:0.5067213778417015
+top_n: 10 Topic Num: 5 
+Topic Words: [['contain', 'typical', 'water', 'straight', 'begin', 'software', 'ability', 'phase', 'raise', 'policy']]
+Coh_type:c_v  Topic Num:5 COH score:0.5652070078780925
+top_n: 20 Topic Num: 5 
+Topic Words: [['contain', 'typical', 'water', 'straight', 'begin', 'software', 'ability', 'phase', 'raise', 'policy', 'consider', 'hand', 'arm', 'leave', 'deny', 'bar', 'ride', 'incredibly', 'group', 'nearly']]
+Coh_type:c_v  Topic Num:5 COH score:0.6273321717759418
+top_n: 10 Topic Num: 6 
+Topic Words: [['leave', 'deny', 'contain', 'bfhttheoryautotldrconcept', 'block', 'circuit', 'current', 'plate', 'picture', 'find']]
+Coh_type:c_v  Topic Num:6 COH score:0.344461824887606
+top_n: 20 Topic Num: 6 
+Topic Words: [['leave', 'deny', 'contain', 'bfhttheoryautotldrconcept', 'block', 'circuit', 'current', 'plate', 'picture', 'find', 'policy', 'product', 'water', 'typical', 'popular', 'reduce', 'kill', 'tldrs', 'variety', 'welcome']]
+Coh_type:c_v  Topic Num:6 COH score:0.484223392379494
+top_n: 10 Topic Num: 7 
+Topic Words: [['pull', 'typical', 'consider', 'incredibly', 'discussion', 'present', 'chrome', 'current', 'water', 'ride']]
+Coh_type:c_v  Topic Num:7 COH score:0.523049330258714
+top_n: 20 Topic Num: 7 
+Topic Words: [['pull', 'typical', 'consider', 'incredibly', 'discussion', 'present', 'chrome', 'current', 'water', 'ride', 'rule', 'region', 'carbon', 'compare', 'playoff', 'round', 'setup', 'circuit', 'desire', 'acknowledge']]
+Coh_type:c_v  Topic Num:7 COH score:0.6914635478099223
+top_n: 10 Topic Num: 8 
+Topic Words: [['compare', 'group', 'typical', 'consider', 'cross', 'circuit', 'carbon', 'present', 'mention', 'incredibly']]
+Coh_type:c_v  Topic Num:8 COH score:0.4973114308712958
+top_n: 20 Topic Num: 8 
+Topic Words: [['compare', 'group', 'typical', 'consider', 'cross', 'circuit', 'carbon', 'present', 'mention', 'incredibly', 'goal', 'theory', 'reduce', 'family', 'ability', 'discussion', 'special', 'setup', 'able', 'hand']]
+Coh_type:c_v  Topic Num:8 COH score:0.496985487900025
+top_n: 10 Topic Num: 9 
+Topic Words: [['thread', 'mean', 'reply', 'bitch', 'loop', 'weekend', 'candidate', 'mask', 'gender', 'hide']]
+Coh_type:c_v  Topic Num:9 COH score:0.5756859228539248
+top_n: 20 Topic Num: 9 
+Topic Words: [['thread', 'mean', 'reply', 'bitch', 'loop', 'weekend', 'candidate', 'mask', 'gender', 'hide', 'constructive', 'pixel', 'temporarily', 'different', 'working', 'perspective', 'perfect', 'certain', 'code', 'government']]
+Coh_type:c_v  Topic Num:9 COH score:0.6522170472807926
+top_n: 10 Topic Num: 10 
+Topic Words: [['pull', 'consider', 'typical', 'incredibly', 'present', 'carbon', 'logically', 'buy', 'discussion', 'ride']]
+Coh_type:c_v  Topic Num:10 COH score:0.5519376606986195
+top_n: 20 Topic Num: 10 
+Topic Words: [['pull', 'consider', 'typical', 'incredibly', 'present', 'carbon', 'logically', 'buy', 'discussion', 'ride', 'view', 'rule', 'sense', 'chrome', 'phase', 'round', 'movie', 'current', 'region', 'water']]
+Coh_type:c_v  Topic Num:10 COH score:0.6435042359082406
+top_n: 10 Topic Num: 11 
+Topic Words: [['pull', 'typical', 'discussion', 'incredibly', 'consider', 'carbon', 'present', 'rule', 'logically', 'buy']]
+Coh_type:c_v  Topic Num:11 COH score:0.5447701318662943
+top_n: 20 Topic Num: 11 
+Topic Words: [['pull', 'typical', 'discussion', 'incredibly', 'consider', 'carbon', 'present', 'rule', 'logically', 'buy', 'round', 'chrome', 'current', 'region', 'ride', 'benefit', 'water', 'finger', 'tie', 'circuit']]
+Coh_type:c_v  Topic Num:11 COH score:0.6699175168562339
+top_n: 10 Topic Num: 12 
+Topic Words: [['reduce', 'incredibly', 'circuit', 'leave', 'bfhttheoryautotldrconcept', 'form', 'short', 'sign', 'product', 'pull']]
+Coh_type:c_v  Topic Num:12 COH score:0.42248578990719254
+top_n: 20 Topic Num: 12 
+Topic Words: [['reduce', 'incredibly', 'circuit', 'leave', 'bfhttheoryautotldrconcept', 'form', 'short', 'sign', 'product', 'pull', 'tldr', 'tldrs', 'term', 'contain', 'motorcycle', 'compare', 'welcome', 'paper', 'keyword', 'rate']]
+Coh_type:c_v  Topic Num:12 COH score:0.47325805007373223
+top_n: 10 Topic Num: 13 
+Topic Words: [['contain', 'typical', 'ability', 'leave', 'block', 'patient', 'horrible', 'picture', 'physics', 'special']]
+Coh_type:c_v  Topic Num:13 COH score:0.5113101966014296
+top_n: 20 Topic Num: 13 
+Topic Words: [['contain', 'typical', 'ability', 'leave', 'block', 'patient', 'horrible', 'picture', 'physics', 'special', 'setup', 'carbon', 'cell', 'thin', 'hand', 'bfhttheoryautotldrconcept', 'public', 'keyword', 'oror', 'begin']]
+Coh_type:c_v  Topic Num:13 COH score:0.6408557563868381
+top_n: 10 Topic Num: 14 
+Topic Words: [['mean', 'reply', 'drag', 'thread', 'candidate', 'weekend', 'speech', 'gender', 'z', 'dont']]
+Coh_type:c_v  Topic Num:14 COH score:0.6100386601933527
+top_n: 20 Topic Num: 14 
+Topic Words: [['mean', 'reply', 'drag', 'thread', 'candidate', 'weekend', 'speech', 'gender', 'z', 'dont', 'perfect', 'bitch', 'constructive', 'code', 'previous', 'pixel', 'personally', 'pass', 'temporarily', 'loop']]
+Coh_type:c_v  Topic Num:14 COH score:0.6777581894161566
+top_n: 10 Topic Num: 15 
+Topic Words: [['leave', 'consider', 'tldrs', 'bfhttheoryautotldrconcept', 'patent', 'suck', 'incredibly', 'sense', 'nice', 'tldr']]
+Coh_type:c_v  Topic Num:15 COH score:0.41830282226975984
+top_n: 20 Topic Num: 15 
+Topic Words: [['leave', 'consider', 'tldrs', 'bfhttheoryautotldrconcept', 'patent', 'suck', 'incredibly', 'sense', 'nice', 'tldr', 'product', 'analog', 'reduce', 'essentially', 'cross', 'keyword', 'water', 'government', 'fmfaqautotldrbot', 'happen']]
+Coh_type:c_v  Topic Num:15 COH score:0.462981224508873
+top_n: 10 Topic Num: 16 
+Topic Words: [['modern', 'mean', 'high', 'presidential', 'different', 'school', 'reply', 'z', 'nearly', 'false']]
+Coh_type:c_v  Topic Num:16 COH score:0.47525418836685757
+top_n: 20 Topic Num: 16 
+Topic Words: [['modern', 'mean', 'high', 'presidential', 'different', 'school', 'reply', 'z', 'nearly', 'false', 'point', 'recently', 'population', 'friend', 'accuracy', 'climate', 'democratic', 'bitch', 'got', 'pass']]
+Coh_type:c_v  Topic Num:16 COH score:0.5191538159601728
+top_n: 10 Topic Num: 17 
+Topic Words: [['contain', 'variety', 'pull', 'account', 'present', 'selection', 'hand', 'form', 'tool', 'ban']]
+Coh_type:c_v  Topic Num:17 COH score:0.4531861439387407
+top_n: 20 Topic Num: 17 
+Topic Words: [['contain', 'variety', 'pull', 'account', 'present', 'selection', 'hand', 'form', 'tool', 'ban', 'acknowledge', 'boat', 'compare', 'carbon', 'block', 'product', 'cross', 'special', 'aspect', 'face']]
+Coh_type:c_v  Topic Num:17 COH score:0.6415643714276733
+top_n: 10 Topic Num: 18 
+Topic Words: [['buy', 'pull', 'circuit', 'compare', 'sense', 'hand', 'typical', 'bfhttheoryautotldrconcept', 'present', 'pick']]
+Coh_type:c_v  Topic Num:18 COH score:0.47830769805156964
+top_n: 20 Topic Num: 18 
+Topic Words: [['buy', 'pull', 'circuit', 'compare', 'sense', 'hand', 'typical', 'bfhttheoryautotldrconcept', 'present', 'pick', 'cross', 'consider', 'patient', 'current', 'logically', 'lock', 'find', 'honestly', 'mention', 'carbon']]
+Coh_type:c_v  Topic Num:18 COH score:0.5252782821494814
+top_n: 10 Topic Num: 19 
+Topic Words: [['leave', 'reduce', 'circuit', 'analog', 'deny', 'tldr', 'patent', 'keyword', 'incredibly', 'pull']]
+Coh_type:c_v  Topic Num:19 COH score:0.5360853797008206
+top_n: 20 Topic Num: 19 
+Topic Words: [['leave', 'reduce', 'circuit', 'analog', 'deny', 'tldr', 'patent', 'keyword', 'incredibly', 'pull', 'bfhttheoryautotldrconcept', 'tldrs', 'fmfaqautotldrbot', 'political', 'compare', 'form', 'sign', 'special', 'eye', 'typical']]
+Coh_type:c_v  Topic Num:19 COH score:0.5941018678513001
+top_n: 10 Topic Num: 20 
+Topic Words: [['present', 'bfhttheoryautotldrconcept', 'circuit', 'arm', 'contain', 'typical', 'leave', 'keyword', 'color', 'deny']]
+Coh_type:c_v  Topic Num:20 COH score:0.479120423962461
+top_n: 20 Topic Num: 20 
+Topic Words: [['present', 'bfhttheoryautotldrconcept', 'circuit', 'arm', 'contain', 'typical', 'leave', 'keyword', 'color', 'deny', 'policy', 'reduce', 'seek', 'water', 'ride', 'welcome', 'server', 'tldr', 'form', 'current']]
+Coh_type:c_v  Topic Num:20 COH score:0.5249437196495731
+top_n: 10 Topic Num: 21 
+Topic Words: [['pull', 'setup', 'special', 'wheel', 'consider', 'able', 'behavior', 'bfhttheoryautotldrconcept', 'eventually', 'stutter']]
+Coh_type:c_v  Topic Num:21 COH score:0.5306096290746426
+top_n: 20 Topic Num: 21 
+Topic Words: [['pull', 'setup', 'special', 'wheel', 'consider', 'able', 'behavior', 'bfhttheoryautotldrconcept', 'eventually', 'stutter', 'face', 'arm', 'terminal', 'cable', 'gtand', 'desire', 'friend', 'cop', 'oror', 'form']]
+Coh_type:c_v  Topic Num:21 COH score:0.5886190696093516
+top_n: 10 Topic Num: 22 
+Topic Words: [['contain', 'leave', 'bfhttheoryautotldrconcept', 'keyword', 'consider', 'product', 'deny', 'circuit', 'tldrs', 'patent']]
+Coh_type:c_v  Topic Num:22 COH score:0.387462675575979
+top_n: 20 Topic Num: 22 
+Topic Words: [['contain', 'leave', 'bfhttheoryautotldrconcept', 'keyword', 'consider', 'product', 'deny', 'circuit', 'tldrs', 'patent', 'welcome', 'current', 'typical', 'variety', 'constructive', 'pm', 'find', 'reduce', 'present', 'fmfaqautotldrbot']]
+Coh_type:c_v  Topic Num:22 COH score:0.4294184215710649
+top_n: 10 Topic Num: 23 
+Topic Words: [['leave', 'present', 'tldrs', 'bfhttheoryautotldrconcept', 'buy', 'account', 'issue', 'market', 'server', 'campaign']]
+Coh_type:c_v  Topic Num:23 COH score:0.31488372901510575
+top_n: 20 Topic Num: 23 
+Topic Words: [['leave', 'present', 'tldrs', 'bfhttheoryautotldrconcept', 'buy', 'account', 'issue', 'market', 'server', 'campaign', 'contain', 'patent', 'relate', 'ride', 'political', 'cross', 'reduce', 'tldr', 'transmission', 'fmfaqautotldrbot']]
+Coh_type:c_v  Topic Num:23 COH score:0.47335445443065083
+top_n: 10 Topic Num: 24 
+Topic Words: [['leave', 'water', 'reduce', 'consider', 'analog', 'incredibly', 'form', 'circuit', 'body', 'contain']]
+Coh_type:c_v  Topic Num:24 COH score:0.4283158199693616
+top_n: 20 Topic Num: 24 
+Topic Words: [['leave', 'water', 'reduce', 'consider', 'analog', 'incredibly', 'form', 'circuit', 'body', 'contain', 'bfhttheoryautotldrconcept', 'pull', 'tldrs', 'tldr', 'product', 'assume', 'keyword', 'aspect', 'typical', 'pm']]
+Coh_type:c_v  Topic Num:24 COH score:0.47979052074370643
+top_n: 10 Topic Num: 25 
+Topic Words: [['pull', 'consider', 'discussion', 'typical', 'buy', 'present', 'carbon', 'incredibly', 'mention', 'current']]
+Coh_type:c_v  Topic Num:25 COH score:0.43766190510716596
+top_n: 20 Topic Num: 25 
+Topic Words: [['pull', 'consider', 'discussion', 'typical', 'buy', 'present', 'carbon', 'incredibly', 'mention', 'current', 'logically', 'circuit', 'water', 'bring', 'chrome', 'rule', 'round', 'sense', 'contain', 'ride']]
+Coh_type:c_v  Topic Num:25 COH score:0.5735339099612474
+top_n: 10 Topic Num: 26 
+Topic Words: [['pull', 'typical', 'consider', 'buy', 'incredibly', 'current', 'discussion', 'present', 'carbon', 'logically']]
+Coh_type:c_v  Topic Num:26 COH score:0.5052813595737066
+top_n: 20 Topic Num: 26 
+Topic Words: [['pull', 'typical', 'consider', 'buy', 'incredibly', 'current', 'discussion', 'present', 'carbon', 'logically', 'rule', 'round', 'finger', 'bring', 'circuit', 'sense', 'region', 'chrome', 'ride', 'water']]
+Coh_type:c_v  Topic Num:26 COH score:0.623567078512509
+top_n: 10 Topic Num: 27 
+Topic Words: [['pull', 'typical', 'setup', 'special', 'certain', 'cross', 'liberal', 'behavior', 'equality', 'desire']]
+Coh_type:c_v  Topic Num:27 COH score:0.5946131407483881
+top_n: 20 Topic Num: 27 
+Topic Words: [['pull', 'typical', 'setup', 'special', 'certain', 'cross', 'liberal', 'behavior', 'equality', 'desire', 'incredibly', 'carbon', 'animal', 'group', 'circuit', 'form', 'consider', 'metal', 'abortion', 'ride']]
+Coh_type:c_v  Topic Num:27 COH score:0.6439251875908092
+top_n: 10 Topic Num: 28 
+Topic Words: [['mean', 'point', 'modern', 'reply', 'z', 'recently', 'presidential', 'different', 'population', 'false']]
+Coh_type:c_v  Topic Num:28 COH score:0.3913329643600928
+top_n: 20 Topic Num: 28 
+Topic Words: [['mean', 'point', 'modern', 'reply', 'z', 'recently', 'presidential', 'different', 'population', 'false', 'climate', 'high', 'code', 'concern', 'school', 'nearly', 'perfect', 'weekend', 'teaching', 'democratic']]
+Coh_type:c_v  Topic Num:28 COH score:0.5096665057508127
+top_n: 10 Topic Num: 29 
+Topic Words: [['consider', 'pull', 'buy', 'mention', 'sense', 'typical', 'present', 'lock', 'discussion', 'bfhttheoryautotldrconcept']]
+Coh_type:c_v  Topic Num:29 COH score:0.5007010271530778
+top_n: 20 Topic Num: 29 
+Topic Words: [['consider', 'pull', 'buy', 'mention', 'sense', 'typical', 'present', 'lock', 'discussion', 'bfhttheoryautotldrconcept', 'logically', 'find', 'family', 'hand', 'circuit', 'current', 'compare', 'carbon', 'honestly', 'cross']]
+Coh_type:c_v  Topic Num:29 COH score:0.517563818825673
+top_n: 10 Topic Num: 30 
+Topic Words: [['thread', 'face', 'capacitor', 'cable', 'perspective', 'worldview', 'white', 'form', 'contain', 'perfect']]
+Coh_type:c_v  Topic Num:30 COH score:0.5745549836008725
+top_n: 20 Topic Num: 30 
+Topic Words: [['thread', 'face', 'capacitor', 'cable', 'perspective', 'worldview', 'white', 'form', 'contain', 'perfect', 'mind', 'resistance', 'beat', 'zero', 'component', 'fellow', 'z', 'special', 'exist', 'capability']]
+Coh_type:c_v  Topic Num:30 COH score:0.6448164912568256
+top_n: 10 Topic Num: 31 
+Topic Words: [['leave', 'patent', 'product', 'slightly', 'contain', 'typical', 'compare', 'bfhttheoryautotldrconcept', 'consider', 'public']]
+Coh_type:c_v  Topic Num:31 COH score:0.4058575217259827
+top_n: 20 Topic Num: 31 
+Topic Words: [['leave', 'patent', 'product', 'slightly', 'contain', 'typical', 'compare', 'bfhttheoryautotldrconcept', 'consider', 'public', 'incredibly', 'block', 'reduce', 'form', 'ride', 'tldrs', 'variety', 'fmfaqautotldrbot', 'circuit', 'white']]
+Coh_type:c_v  Topic Num:31 COH score:0.541232339858281
+top_n: 10 Topic Num: 32 
+Topic Words: [['leave', 'server', 'color', 'software', 'present', 'incredibly', 'compare', 'typical', 'policy', 'chinese']]
+Coh_type:c_v  Topic Num:32 COH score:0.5410382000171654
+top_n: 20 Topic Num: 32 
+Topic Words: [['leave', 'server', 'color', 'software', 'present', 'incredibly', 'compare', 'typical', 'policy', 'chinese', 'setup', 'arm', 'sense', 'high', 'company', 'fellow', 'contain', 'guide', 'buy', 'circuit']]
+Coh_type:c_v  Topic Num:32 COH score:0.4686589449981179
+top_n: 10 Topic Num: 33 
+Topic Words: [['leave', 'product', 'bfhttheoryautotldrconcept', 'patent', 'deny', 'arm', 'consider', 'contain', 'begin', 'peace']]
+Coh_type:c_v  Topic Num:33 COH score:0.4001477692706697
+top_n: 20 Topic Num: 33 
+Topic Words: [['leave', 'product', 'bfhttheoryautotldrconcept', 'patent', 'deny', 'arm', 'consider', 'contain', 'begin', 'peace', 'server', 'typical', 'refuse', 'pm', 'video', 'special', 'tldr', 'find', 'suck', 'group']]
+Coh_type:c_v  Topic Num:33 COH score:0.48256000227255597
+top_n: 10 Topic Num: 34 
+Topic Words: [['contain', 'picture', 'hand', 'probably', 'leave', 'color', 'keyword', 'compare', 'reduce', 'tldrs']]
+Coh_type:c_v  Topic Num:34 COH score:0.2975481426012269
+top_n: 20 Topic Num: 34 
+Topic Words: [['contain', 'picture', 'hand', 'probably', 'leave', 'color', 'keyword', 'compare', 'reduce', 'tldrs', 'bfhttheoryautotldrconcept', 'consider', 'form', 'chinese', 'welcome', 'teaching', 'market', 'typical', 'guide', 'public']]
+Coh_type:c_v  Topic Num:34 COH score:0.48756098614653487
+top_n: 10 Topic Num: 35 
+Topic Words: [['bfhttheoryautotldrconcept', 'typical', 'form', 'compare', 'cross', 'group', 'fmfaqautotldrbot', 'picture', 'special', 'carbon']]
+Coh_type:c_v  Topic Num:35 COH score:0.5005643696158568
+top_n: 20 Topic Num: 35 
+Topic Words: [['bfhttheoryautotldrconcept', 'typical', 'form', 'compare', 'cross', 'group', 'fmfaqautotldrbot', 'picture', 'special', 'carbon', 'reduce', 'public', 'tldr', 'pull', 'economy', 'goal', 'setup', 'contain', 'zionist', 'amp']]
+Coh_type:c_v  Topic Num:35 COH score:0.5439831232617786
+top_n: 10 Topic Num: 36 
+Topic Words: [['mean', 'modern', 'z', 'population', 'presidential', 'reply', 'school', 'different', 'recently', 'climate']]
+Coh_type:c_v  Topic Num:36 COH score:0.43443645513767876
+top_n: 20 Topic Num: 36 
+Topic Words: [['mean', 'modern', 'z', 'population', 'presidential', 'reply', 'school', 'different', 'recently', 'climate', 'false', 'concern', 'code', 'weekend', 'nearly', 'point', 'force', 'perfect', 'mainly', 'reset']]
+Coh_type:c_v  Topic Num:36 COH score:0.5655481947390292
+top_n: 10 Topic Num: 37 
+Topic Words: [['mean', 'reply', 'point', 'evil', 'concern', 'z', 'code', 'pixel', 'different', 'folder']]
+Coh_type:c_v  Topic Num:37 COH score:0.5091927727118482
+top_n: 20 Topic Num: 37 
+Topic Words: [['mean', 'reply', 'point', 'evil', 'concern', 'z', 'code', 'pixel', 'different', 'folder', 'drag', 'temporarily', 'force', 'presidential', 'destroy', 'maybe', 'recently', 'perfect', 'beat', 'weekend']]
+Coh_type:c_v  Topic Num:37 COH score:0.5971839115716016
+top_n: 10 Topic Num: 38 
+Topic Words: [['mean', 'reply', 'thread', 'code', 'force', 'pixel', 'bitch', 'drag', 'point', 'weekend']]
+Coh_type:c_v  Topic Num:38 COH score:0.4735242549021857
+top_n: 20 Topic Num: 38 
+Topic Words: [['mean', 'reply', 'thread', 'code', 'force', 'pixel', 'bitch', 'drag', 'point', 'weekend', 'input', 'constructive', 'gender', 'temporarily', 'candidate', 'personally', 'fat', 'concern', 'dont', 'g']]
+Coh_type:c_v  Topic Num:38 COH score:0.6640382486733251
+top_n: 10 Topic Num: 39 
+Topic Words: [['white', 'compare', 'contain', 'policy', 'pull', 'incredibly', 'present', 'fail', 'degree', 'hand']]
+Coh_type:c_v  Topic Num:39 COH score:0.42523574013824667
+top_n: 20 Topic Num: 39 
+Topic Words: [['white', 'compare', 'contain', 'policy', 'pull', 'incredibly', 'present', 'fail', 'degree', 'hand', 'raise', 'typical', 'fmfaqautotldrbot', 'nearly', 'keyword', 'circuit', 'friend', 'scenario', 'ability', 'horrible']]
+Coh_type:c_v  Topic Num:39 COH score:0.5470645707802319
+top_n: 10 Topic Num: 40 
+Topic Words: [['bfhttheoryautotldrconcept', 'reduce', 'leave', 'hand', 'keyword', 'water', 'tldrs', 'tldr', 'policy', 'typical']]
+Coh_type:c_v  Topic Num:40 COH score:0.3976342010654121
+top_n: 20 Topic Num: 40 
+Topic Words: [['bfhttheoryautotldrconcept', 'reduce', 'leave', 'hand', 'keyword', 'water', 'tldrs', 'tldr', 'policy', 'typical', 'contain', 'patent', 'product', 'nice', 'constructive', 'essentially', 'fmfaqautotldrbot', 'consider', 'form', 'welcome']]
+Coh_type:c_v  Topic Num:40 COH score:0.4209939148433131
+top_n: 10 Topic Num: 41 
+Topic Words: [['present', 'reduce', 'tie', 'bar', 'incredibly', 'tldr', 'form', 'public', 'contain', 'pull']]
+Coh_type:c_v  Topic Num:41 COH score:0.5469509119168556
+top_n: 20 Topic Num: 41 
+Topic Words: [['present', 'reduce', 'tie', 'bar', 'incredibly', 'tldr', 'form', 'public', 'contain', 'pull', 'sentence', 'input', 'patent', 'typical', 'server', 'bfhttheoryautotldrconcept', 'white', 'output', 'oror', 'tldrs']]
+Coh_type:c_v  Topic Num:41 COH score:0.6347849502006176
+top_n: 10 Topic Num: 42 
+Topic Words: [['contain', 'leave', 'consider', 'tldrs', 'tldr', 'keyword', 'fmfaqautotldrbot', 'individual', 'bfhttheoryautotldrconcept', 'reduce']]
+Coh_type:c_v  Topic Num:42 COH score:0.3264933271764289
+top_n: 20 Topic Num: 42 
+Topic Words: [['contain', 'leave', 'consider', 'tldrs', 'tldr', 'keyword', 'fmfaqautotldrbot', 'individual', 'bfhttheoryautotldrconcept', 'reduce', 'pm', 'welcome', 'water', 'admin', 'cross', 'patient', 'autotldr', 'typical', 'pull', 'selection']]
+Coh_type:c_v  Topic Num:42 COH score:0.4430685933216216
+top_n: 10 Topic Num: 43 
+Topic Words: [['pull', 'consider', 'typical', 'buy', 'carbon', 'present', 'incredibly', 'sense', 'logically', 'current']]
+Coh_type:c_v  Topic Num:43 COH score:0.43946478221005086
+top_n: 20 Topic Num: 43 
+Topic Words: [['pull', 'consider', 'typical', 'buy', 'carbon', 'present', 'incredibly', 'sense', 'logically', 'current', 'discussion', 'capital', 'circuit', 'rule', 'round', 'finger', 'deny', 'water', 'movie', 'region']]
+Coh_type:c_v  Topic Num:43 COH score:0.6488601208152704
+top_n: 10 Topic Num: 44 
+Topic Words: [['keyword', 'color', 'picture', 'ability', 'contain', 'tldr', 'white', 'autotldr', 'compare', 'typical']]
+Coh_type:c_v  Topic Num:44 COH score:0.45314370362259
+top_n: 20 Topic Num: 44 
+Topic Words: [['keyword', 'color', 'picture', 'ability', 'contain', 'tldr', 'white', 'autotldr', 'compare', 'typical', 'raise', 'cross', 'admin', 'market', 'faqhttpnpredditcomrautotldrcomment', 'consider', 'fmfaqautotldrbot', 'leave', 'bfhttheoryautotldrconcept', 'policy']]
+Coh_type:c_v  Topic Num:44 COH score:0.43370783296294907
+top_n: 10 Topic Num: 45 
+Topic Words: [['leave', 'present', 'server', 'perspective', 'public', 'product', 'browser', 'bfhttheoryautotldrconcept', 'tldrs', 'incredibly']]
+Coh_type:c_v  Topic Num:45 COH score:0.45472582776807524
+top_n: 20 Topic Num: 45 
+Topic Words: [['leave', 'present', 'server', 'perspective', 'public', 'product', 'browser', 'bfhttheoryautotldrconcept', 'tldrs', 'incredibly', 'typical', 'circuit', 'contain', 'phase', 'switch', 'motorcycle', 'slightly', 'analog', 'buy', 'arm']]
+Coh_type:c_v  Topic Num:45 COH score:0.6320635403620999
+top_n: 10 Topic Num: 46 
+Topic Words: [['pull', 'typical', 'compare', 'block', 'bfhttheoryautotldrconcept', 'paint', 'sense', 'theory', 'consider', 'discussion']]
+Coh_type:c_v  Topic Num:46 COH score:0.5517625566882226
+top_n: 20 Topic Num: 46 
+Topic Words: [['pull', 'typical', 'compare', 'block', 'bfhttheoryautotldrconcept', 'paint', 'sense', 'theory', 'consider', 'discussion', 'buy', 'cross', 'circuit', 'goal', 'group', 'present', 'contain', 'loss', 'find', 'carbon']]
+Coh_type:c_v  Topic Num:46 COH score:0.5692347566579613
+top_n: 10 Topic Num: 47 
+Topic Words: [['hand', 'contain', 'software', 'compare', 'aspect', 'picture', 'lose', 'circuit', 'tie', 'typical']]
+Coh_type:c_v  Topic Num:47 COH score:0.46605833791920614
+top_n: 20 Topic Num: 47 
+Topic Words: [['hand', 'contain', 'software', 'compare', 'aspect', 'picture', 'lose', 'circuit', 'tie', 'typical', 'ability', 'water', 'pull', 'bfhttheoryautotldrconcept', 'desire', 'chinese', 'cross', 'group', 'product', 'color']]
+Coh_type:c_v  Topic Num:47 COH score:0.6327083350260196
+top_n: 10 Topic Num: 48 
+Topic Words: [['reply', 'point', 'mean', 'thread', 'z', 'weekend', 'personally', 'bitch', 'population', 'code']]
+Coh_type:c_v  Topic Num:48 COH score:0.5130218615880174
+top_n: 20 Topic Num: 48 
+Topic Words: [['reply', 'point', 'mean', 'thread', 'z', 'weekend', 'personally', 'bitch', 'population', 'code', 'perfect', 'constructive', 'previous', 'dont', 'stand', 'false', 'drag', 'mainly', 'converter', 'federal']]
+Coh_type:c_v  Topic Num:48 COH score:0.6596845661609972
+top_n: 10 Topic Num: 49 
+Topic Words: [['sense', 'certain', 'pull', 'bring', 'public', 'current', 'special', 'water', 'consider', 'tldr']]
+Coh_type:c_v  Topic Num:49 COH score:0.33871477779704695
+top_n: 20 Topic Num: 49 
+Topic Words: [['sense', 'certain', 'pull', 'bring', 'public', 'current', 'special', 'water', 'consider', 'tldr', 'ride', 'loss', 'keyword', 'group', 'setup', 'relate', 'cross', 'compare', 'picture', 'typical']]
+Coh_type:c_v  Topic Num:49 COH score:0.5424031210532376
+top_n: 10 Topic Num: 50 
+Topic Words: [['incredibly', 'form', 'white', 'pull', 'market', 'shelf', 'sense', 'policy', 'contain', 'neighbor']]
+Coh_type:c_v  Topic Num:50 COH score:0.5030283852070956
+top_n: 20 Topic Num: 50 
+Topic Words: [['incredibly', 'form', 'white', 'pull', 'market', 'shelf', 'sense', 'policy', 'contain', 'neighbor', 'raise', 'relate', 'performance', 'special', 'compare', 'leave', 'typical', 'reproduce', 'ability', 'friend']]
+Coh_type:c_v  Topic Num:50 COH score:0.5782431816783008
+top_n: 10 Topic Num: 51 
+Topic Words: [['pull', 'typical', 'setup', 'cross', 'special', 'liberal', 'certain', 'equality', 'carbon', 'behavior']]
+Coh_type:c_v  Topic Num:51 COH score:0.6090736693067128
+top_n: 20 Topic Num: 51 
+Topic Words: [['pull', 'typical', 'setup', 'cross', 'special', 'liberal', 'certain', 'equality', 'carbon', 'behavior', 'desire', 'group', 'incredibly', 'circuit', 'contain', 'ride', 'abortion', 'reproduce', 'consider', 'mention']]
+Coh_type:c_v  Topic Num:51 COH score:0.6800234558916978
+top_n: 10 Topic Num: 52 
+Topic Words: [['contain', 'compare', 'incredibly', 'circuit', 'term', 'present', 'sign', 'policy', 'product', 'paper']]
+Coh_type:c_v  Topic Num:52 COH score:0.4745201393886666
+top_n: 20 Topic Num: 52 
+Topic Words: [['contain', 'compare', 'incredibly', 'circuit', 'term', 'present', 'sign', 'policy', 'product', 'paper', 'fan', 'arm', 'white', 'subredditmessagecomposeto', 'environmental', 'dominate', 'pull', 'tool', 'essentially', 'variety']]
+Coh_type:c_v  Topic Num:52 COH score:0.6776246441742172
+top_n: 10 Topic Num: 53 
+Topic Words: [['incredibly', 'arm', 'contain', 'product', 'reduce', 'leave', 'benefit', 'keyword', 'face', 'typical']]
+Coh_type:c_v  Topic Num:53 COH score:0.507070939267615
+top_n: 20 Topic Num: 53 
+Topic Words: [['incredibly', 'arm', 'contain', 'product', 'reduce', 'leave', 'benefit', 'keyword', 'face', 'typical', 'brain', 'pull', 'compare', 'variety', 'tldr', 'horrible', 'deep', 'setup', 'autotldr', 'boat']]
+Coh_type:c_v  Topic Num:53 COH score:0.6070003798822304
+top_n: 10 Topic Num: 54 
+Topic Words: [['present', 'analog', 'individual', 'welcome', 'bfhttheoryautotldrconcept', 'account', 'buy', 'friend', 'contain', 'group']]
+Coh_type:c_v  Topic Num:54 COH score:0.4507114596550833
+top_n: 20 Topic Num: 54 
+Topic Words: [['present', 'analog', 'individual', 'welcome', 'bfhttheoryautotldrconcept', 'account', 'buy', 'friend', 'contain', 'group', 'picture', 'event', 'touch', 'valid', 'patient', 'incredibly', 'leave', 'block', 'component', 'plate']]
+Coh_type:c_v  Topic Num:54 COH score:0.5488462793597083
+top_n: 10 Topic Num: 55 
+Topic Words: [['water', 'contain', 'market', 'bring', 'setup', 'typical', 'raise', 'product', 'consider', 'color']]
+Coh_type:c_v  Topic Num:55 COH score:0.4660217282063039
+top_n: 20 Topic Num: 55 
+Topic Words: [['water', 'contain', 'market', 'bring', 'setup', 'typical', 'raise', 'product', 'consider', 'color', 'block', 'strength', 'group', 'bfhttheoryautotldrconcept', 'aspect', 'pull', 'public', 'welcome', 'event', 'reasoning']]
+Coh_type:c_v  Topic Num:55 COH score:0.5124318206412012
+top_n: 10 Topic Num: 56 
+Topic Words: [['leave', 'reduce', 'output', 'bfhttheoryautotldrconcept', 'deny', 'tldrs', 'keyword', 'typical', 'match', 'contain']]
+Coh_type:c_v  Topic Num:56 COH score:0.4101775249001049
+top_n: 20 Topic Num: 56 
+Topic Words: [['leave', 'reduce', 'output', 'bfhttheoryautotldrconcept', 'deny', 'tldrs', 'keyword', 'typical', 'match', 'contain', 'welcome', 'pm', 'fmfaqautotldrbot', 'cross', 'patent', 'ride', 'tldr', 'product', 'constructive', 'circuit']]
+Coh_type:c_v  Topic Num:56 COH score:0.4896614605911215
+top_n: 10 Topic Num: 57 
+Topic Words: [['leave', 'contain', 'deny', 'setup', 'hand', 'water', 'output', 'incredibly', 'policy', 'typical']]
+Coh_type:c_v  Topic Num:57 COH score:0.5501152352212549
+top_n: 20 Topic Num: 57 
+Topic Words: [['leave', 'contain', 'deny', 'setup', 'hand', 'water', 'output', 'incredibly', 'policy', 'typical', 'foot', 'server', 'market', 'thin', 'ride', 'match', 'fps', 'reduce', 'chinese', 'round']]
+Coh_type:c_v  Topic Num:57 COH score:0.6441680883519103
+top_n: 10 Topic Num: 58 
+Topic Words: [['typical', 'leave', 'patent', 'match', 'primary', 'carbon', 'hand', 'contain', 'form', 'selection']]
+Coh_type:c_v  Topic Num:58 COH score:0.48262841484313324
+top_n: 20 Topic Num: 58 
+Topic Words: [['typical', 'leave', 'patent', 'match', 'primary', 'carbon', 'hand', 'contain', 'form', 'selection', 'setup', 'cross', 'special', 'oror', 'software', 'picture', 'server', 'paste', 'appear', 'variety']]
+Coh_type:c_v  Topic Num:58 COH score:0.6705642668108251
+top_n: 10 Topic Num: 59 
+Topic Words: [['pull', 'present', 'consider', 'typical', 'carbon', 'buy', 'incredibly', 'water', 'mention', 'circuit']]
+Coh_type:c_v  Topic Num:59 COH score:0.4792634205542262
+top_n: 20 Topic Num: 59 
+Topic Words: [['pull', 'present', 'consider', 'typical', 'carbon', 'buy', 'incredibly', 'water', 'mention', 'circuit', 'movie', 'group', 'chrome', 'picture', 'oror', 'discussion', 'reproduce', 'contain', 'region', 'issue']]
+Coh_type:c_v  Topic Num:59 COH score:0.6505927203761495
+top_n: 10 Topic Num: 60 
+Topic Words: [['product', 'incredibly', 'arm', 'present', 'ride', 'bfhttheoryautotldrconcept', 'policy', 'group', 'hand', 'contain']]
+Coh_type:c_v  Topic Num:60 COH score:0.5111247804236229
+top_n: 20 Topic Num: 60 
+Topic Words: [['product', 'incredibly', 'arm', 'present', 'ride', 'bfhttheoryautotldrconcept', 'policy', 'group', 'hand', 'contain', 'typical', 'deny', 'pm', 'tldr', 'keyword', 'cross', 'factor', 'fmfaqautotldrbot', 'server', 'software']]
+Coh_type:c_v  Topic Num:60 COH score:0.5601771415232465
+top_n: 10 Topic Num: 61 
+Topic Words: [['pull', 'consider', 'typical', 'incredibly', 'buy', 'discussion', 'carbon', 'present', 'logically', 'rule']]
+Coh_type:c_v  Topic Num:61 COH score:0.5447701318662943
+top_n: 20 Topic Num: 61 
+Topic Words: [['pull', 'consider', 'typical', 'incredibly', 'buy', 'discussion', 'carbon', 'present', 'logically', 'rule', 'round', 'sense', 'current', 'finger', 'region', 'chrome', 'ride', 'water', 'circuit', 'capital']]
+Coh_type:c_v  Topic Num:61 COH score:0.6595689093211383
+top_n: 10 Topic Num: 62 
+Topic Words: [['pull', 'discussion', 'incredibly', 'typical', 'carbon', 'round', 'buy', 'present', 'length', 'circuit']]
+Coh_type:c_v  Topic Num:62 COH score:0.5956210956894431
+top_n: 20 Topic Num: 62 
+Topic Words: [['pull', 'discussion', 'incredibly', 'typical', 'carbon', 'round', 'buy', 'present', 'length', 'circuit', 'paint', 'contain', 'finger', 'phase', 'rule', 'jewish', 'logically', 'red', 'region', 'bring']]
+Coh_type:c_v  Topic Num:62 COH score:0.7247668196770196
+top_n: 10 Topic Num: 63 
+Topic Words: [['contain', 'leave', 'deny', 'special', 'typical', 'incredibly', 'cross', 'group', 'water', 'block']]
+Coh_type:c_v  Topic Num:63 COH score:0.5298920174143876
+top_n: 20 Topic Num: 63 
+Topic Words: [['contain', 'leave', 'deny', 'special', 'typical', 'incredibly', 'cross', 'group', 'water', 'block', 'bang', 'policy', 'bfhttheoryautotldrconcept', 'variety', 'thin', 'truly', 'horrible', 'server', 'ride', 'patient']]
+Coh_type:c_v  Topic Num:63 COH score:0.6746317683092127
+top_n: 10 Topic Num: 64 
+Topic Words: [['compare', 'hand', 'pull', 'water', 'contain', 'special', 'oror', 'sense', 'incredibly', 'leave']]
+Coh_type:c_v  Topic Num:64 COH score:0.4118196839186701
+top_n: 20 Topic Num: 64 
+Topic Words: [['compare', 'hand', 'pull', 'water', 'contain', 'special', 'oror', 'sense', 'incredibly', 'leave', 'circuit', 'ride', 'carbon', 'patent', 'product', 'match', 'deny', 'church', 'typical', 'cross']]
+Coh_type:c_v  Topic Num:64 COH score:0.6309052074082763
+top_n: 10 Topic Num: 65 
+Topic Words: [['consider', 'pull', 'typical', 'present', 'incredibly', 'water', 'issue', 'circuit', 'picture', 'logically']]
+Coh_type:c_v  Topic Num:65 COH score:0.5139766488716695
+top_n: 20 Topic Num: 65 
+Topic Words: [['consider', 'pull', 'typical', 'present', 'incredibly', 'water', 'issue', 'circuit', 'picture', 'logically', 'buy', 'public', 'cop', 'current', 'bfhttheoryautotldrconcept', 'carbon', 'contain', 'reduce', 'mention', 'group']]
+Coh_type:c_v  Topic Num:65 COH score:0.5755107083462958
+top_n: 10 Topic Num: 66 
+Topic Words: [['leave', 'typical', 'contain', 'child', 'incredibly', 'consider', 'hand', 'patent', 'software', 'highly']]
+Coh_type:c_v  Topic Num:66 COH score:0.3556317710137079
+top_n: 20 Topic Num: 66 
+Topic Words: [['leave', 'typical', 'contain', 'child', 'incredibly', 'consider', 'hand', 'patent', 'software', 'highly', 'eventually', 'block', 'unit', 'muslim', 'product', 'color', 'paint', 'chinese', 'copy', 'shelf']]
+Coh_type:c_v  Topic Num:66 COH score:0.5907049760680525
+top_n: 10 Topic Num: 67 
+Topic Words: [['consider', 'pull', 'relate', 'mention', 'sense', 'buy', 'form', 'lot', 'group', 'loss']]
+Coh_type:c_v  Topic Num:67 COH score:0.23264094533496554
+top_n: 20 Topic Num: 67 
+Topic Words: [['consider', 'pull', 'relate', 'mention', 'sense', 'buy', 'form', 'lot', 'group', 'loss', 'water', 'current', 'deny', 'rate', 'movie', 'typical', 'pickup', 'disaster', 'clinical', 'kill']]
+Coh_type:c_v  Topic Num:67 COH score:0.5520770374093715
+top_n: 10 Topic Num: 68 
+Topic Words: [['pull', 'discussion', 'typical', 'incredibly', 'present', 'consider', 'rule', 'current', 'carbon', 'benefit']]
+Coh_type:c_v  Topic Num:68 COH score:0.5038545081991229
+top_n: 20 Topic Num: 68 
+Topic Words: [['pull', 'discussion', 'typical', 'incredibly', 'present', 'consider', 'rule', 'current', 'carbon', 'benefit', 'chrome', 'ride', 'region', 'finger', 'round', 'tie', 'playoff', 'water', 'circuit', 'cheap']]
+Coh_type:c_v  Topic Num:68 COH score:0.6866553051358757
+top_n: 10 Topic Num: 69 
+Topic Words: [['compare', 'typical', 'face', 'pull', 'contain', 'group', 'policy', 'incredibly', 'form', 'setup']]
+Coh_type:c_v  Topic Num:69 COH score:0.48932628675318224
+top_n: 20 Topic Num: 69 
+Topic Words: [['compare', 'typical', 'face', 'pull', 'contain', 'group', 'policy', 'incredibly', 'form', 'setup', 'carbon', 'cross', 'ride', 'bfhttheoryautotldrconcept', 'public', 'ability', 'circuit', 'water', 'oror', 'picture']]
+Coh_type:c_v  Topic Num:69 COH score:0.6556796740198533
+top_n: 10 Topic Num: 70 
+Topic Words: [['hand', 'leave', 'buy', 'pull', 'carbon', 'incredibly', 'aspect', 'refuse', 'match', 'patent']]
+Coh_type:c_v  Topic Num:70 COH score:0.4991349626242273
+top_n: 20 Topic Num: 70 
+Topic Words: [['hand', 'leave', 'buy', 'pull', 'carbon', 'incredibly', 'aspect', 'refuse', 'match', 'patent', 'group', 'deny', 'contain', 'public', 'keyword', 'sport', 'consistent', 'chinese', 'policy', 'special']]
+Coh_type:c_v  Topic Num:70 COH score:0.5966043698341883
+top_n: 10 Topic Num: 71 
+Topic Words: [['pull', 'current', 'typical', 'incredibly', 'discussion', 'buy', 'carbon', 'present', 'paint', 'round']]
+Coh_type:c_v  Topic Num:71 COH score:0.5612629923461409
+top_n: 20 Topic Num: 71 
+Topic Words: [['pull', 'current', 'typical', 'incredibly', 'discussion', 'buy', 'carbon', 'present', 'paint', 'round', 'length', 'circuit', 'patent', 'jewish', 'mention', 'contain', 'theory', 'bfhttheoryautotldrconcept', 'phase', 'rule']]
+Coh_type:c_v  Topic Num:71 COH score:0.6847416821598784
+top_n: 10 Topic Num: 72 
+Topic Words: [['compare', 'friend', 'bfhttheoryautotldrconcept', 'keyword', 'tldr', 'group', 'cross', 'setup', 'sake', 'carbon']]
+Coh_type:c_v  Topic Num:72 COH score:0.49117786915489814
+top_n: 20 Topic Num: 72 
+Topic Words: [['compare', 'friend', 'bfhttheoryautotldrconcept', 'keyword', 'tldr', 'group', 'cross', 'setup', 'sake', 'carbon', 'contain', 'typical', 'ability', 'water', 'block', 'physics', 'incredibly', 'present', 'especially', 'leave']]
+Coh_type:c_v  Topic Num:72 COH score:0.5928415258286169
+top_n: 10 Topic Num: 73 
+Topic Words: [['leave', 'reduce', 'circuit', 'typical', 'analog', 'present', 'pull', 'region', 'shift', 'incredibly']]
+Coh_type:c_v  Topic Num:73 COH score:0.5473970856450867
+top_n: 20 Topic Num: 73 
+Topic Words: [['leave', 'reduce', 'circuit', 'typical', 'analog', 'present', 'pull', 'region', 'shift', 'incredibly', 'contain', 'patent', 'deny', 'probably', 'carbon', 'cross', 'keyword', 'compare', 'ride', 'product']]
+Coh_type:c_v  Topic Num:73 COH score:0.6496088860658927
+top_n: 10 Topic Num: 74 
+Topic Words: [['water', 'cross', 'leave', 'typical', 'setup', 'contain', 'picture', 'deny', 'carbon', 'patient']]
+Coh_type:c_v  Topic Num:74 COH score:0.6127335917363574
+top_n: 20 Topic Num: 74 
+Topic Words: [['water', 'cross', 'leave', 'typical', 'setup', 'contain', 'picture', 'deny', 'carbon', 'patient', 'patent', 'incredibly', 'unit', 'bfhttheoryautotldrconcept', 'server', 'product', 'white', 'circuit', 'factor', 'friend']]
+Coh_type:c_v  Topic Num:74 COH score:0.6796494950763708
+top_n: 10 Topic Num: 75 
+Topic Words: [['leave', 'product', 'find', 'typical', 'consider', 'factor', 'contain', 'bfhttheoryautotldrconcept', 'welcome', 'pm']]
+Coh_type:c_v  Topic Num:75 COH score:0.29229935114199546
+top_n: 20 Topic Num: 75 
+Topic Words: [['leave', 'product', 'find', 'typical', 'consider', 'factor', 'contain', 'bfhttheoryautotldrconcept', 'welcome', 'pm', 'tldr', 'ride', 'tldrs', 'keyword', 'patent', 'incredibly', 'admin', 'plate', 'ability', 'circuit']]
+Coh_type:c_v  Topic Num:75 COH score:0.4370189717433579
+top_n: 10 Topic Num: 76 
+Topic Words: [['fellow', 'account', 'able', 'face', 'form', 'white', 'arm', 'contain', 'resistance', 'compare']]
+Coh_type:c_v  Topic Num:76 COH score:0.4988031276245553
+top_n: 20 Topic Num: 76 
+Topic Words: [['fellow', 'account', 'able', 'face', 'form', 'white', 'arm', 'contain', 'resistance', 'compare', 'product', 'aspect', 'cable', 'member', 'special', 'thread', 'perspective', 'input', 'goal', 'dimension']]
+Coh_type:c_v  Topic Num:76 COH score:0.5746770504805414
+top_n: 10 Topic Num: 77 
+Topic Words: [['contain', 'leave', 'setup', 'consider', 'incredibly', 'block', 'group', 'typical', 'hand', 'cross']]
+Coh_type:c_v  Topic Num:77 COH score:0.4179575796850413
+top_n: 20 Topic Num: 77 
+Topic Words: [['contain', 'leave', 'setup', 'consider', 'incredibly', 'block', 'group', 'typical', 'hand', 'cross', 'ability', 'public', 'special', 'arm', 'patient', 'face', 'research', 'server', 'carbon', 'horrible']]
+Coh_type:c_v  Topic Num:77 COH score:0.5203901562082759
+top_n: 10 Topic Num: 78 
+Topic Words: [['reply', 'mean', 'candidate', 'weekend', 'thread', 'z', 'different', 'shall', 'speech', 'modern']]
+Coh_type:c_v  Topic Num:78 COH score:0.5302899899362263
+top_n: 20 Topic Num: 78 
+Topic Words: [['reply', 'mean', 'candidate', 'weekend', 'thread', 'z', 'different', 'shall', 'speech', 'modern', 'false', 'mainly', 'concern', 'climate', 'perfect', 'nearly', 'expression', 'circle', 'previous', 'school']]
+Coh_type:c_v  Topic Num:78 COH score:0.6106744288124778
+top_n: 10 Topic Num: 79 
+Topic Words: [['present', 'current', 'incredibly', 'typical', 'discussion', 'consider', 'circuit', 'contain', 'competition', 'region']]
+Coh_type:c_v  Topic Num:79 COH score:0.5298087921018866
+top_n: 20 Topic Num: 79 
+Topic Words: [['present', 'current', 'incredibly', 'typical', 'discussion', 'consider', 'circuit', 'contain', 'competition', 'region', 'picture', 'compare', 'pull', 'chrome', 'bfhttheoryautotldrconcept', 'phase', 'reduce', 'rule', 'ride', 'round']]
+Coh_type:c_v  Topic Num:79 COH score:0.6620853548697982
+top_n: 10 Topic Num: 80 
+Topic Words: [['leave', 'ability', 'block', 'bfhttheoryautotldrconcept', 'contain', 'deny', 'typical', 'circuit', 'anybody', 'find']]
+Coh_type:c_v  Topic Num:80 COH score:0.4919808037514028
+top_n: 20 Topic Num: 80 
+Topic Words: [['leave', 'ability', 'block', 'bfhttheoryautotldrconcept', 'contain', 'deny', 'typical', 'circuit', 'anybody', 'find', 'water', 'special', 'chinese', 'eye', 'ride', 'director', 'entry', 'loss', 'hand', 'present']]
+Coh_type:c_v  Topic Num:80 COH score:0.6117776052125579
+top_n: 10 Topic Num: 81 
+Topic Words: [['pull', 'discussion', 'incredibly', 'typical', 'present', 'round', 'bfhttheoryautotldrconcept', 'compare', 'region', 'carbon']]
+Coh_type:c_v  Topic Num:81 COH score:0.6254690762269813
+top_n: 20 Topic Num: 81 
+Topic Words: [['pull', 'discussion', 'incredibly', 'typical', 'present', 'round', 'bfhttheoryautotldrconcept', 'compare', 'region', 'carbon', 'circuit', 'chrome', 'contain', 'rule', 'ride', 'fucking', 'reduce', 'mention', 'setup', 'able']]
+Coh_type:c_v  Topic Num:81 COH score:0.6572477892913984
+top_n: 10 Topic Num: 82 
+Topic Words: [['leave', 'contain', 'product', 'bfhttheoryautotldrconcept', 'keyword', 'present', 'consider', 'tldrs', 'pm', 'typical']]
+Coh_type:c_v  Topic Num:82 COH score:0.343599523595498
+top_n: 20 Topic Num: 82 
+Topic Words: [['leave', 'contain', 'product', 'bfhttheoryautotldrconcept', 'keyword', 'present', 'consider', 'tldrs', 'pm', 'typical', 'fmfaqautotldrbot', 'circuit', 'welcome', 'patent', 'tldr', 'ride', 'expose', 'reply', 'color', 'constructive']]
+Coh_type:c_v  Topic Num:82 COH score:0.4585140363216758
+top_n: 10 Topic Num: 83 
+Topic Words: [['leave', 'contain', 'incredibly', 'setup', 'highly', 'typical', 'patent', 'pick', 'group', 'position']]
+Coh_type:c_v  Topic Num:83 COH score:0.5014467895224806
+top_n: 20 Topic Num: 83 
+Topic Words: [['leave', 'contain', 'incredibly', 'setup', 'highly', 'typical', 'patent', 'pick', 'group', 'position', 'special', 'color', 'variety', 'child', 'true', 'block', 'slightly', 'unit', 'software', 'cpu']]
+Coh_type:c_v  Topic Num:83 COH score:0.5546683202805825
+top_n: 10 Topic Num: 84 
+Topic Words: [['buy', 'hand', 'tie', 'pull', 'water', 'product', 'position', 'ride', 'eventually', 'group']]
+Coh_type:c_v  Topic Num:84 COH score:0.40357227251480043
+top_n: 20 Topic Num: 84 
+Topic Words: [['buy', 'hand', 'tie', 'pull', 'water', 'product', 'position', 'ride', 'eventually', 'group', 'present', 'welcome', 'event', 'edge', 'cross', 'friend', 'contain', 'bfhttheoryautotldrconcept', 'admin', 'selection']]
+Coh_type:c_v  Topic Num:84 COH score:0.5478779355964688
+top_n: 10 Topic Num: 85 
+Topic Words: [['pull', 'typical', 'buy', 'discussion', 'incredibly', 'current', 'carbon', 'round', 'length', 'paint']]
+Coh_type:c_v  Topic Num:85 COH score:0.6157635330343693
+top_n: 20 Topic Num: 85 
+Topic Words: [['pull', 'typical', 'buy', 'discussion', 'incredibly', 'current', 'carbon', 'round', 'length', 'paint', 'circuit', 'bfhttheoryautotldrconcept', 'rule', 'jewish', 'contain', 'present', 'phase', 'mention', 'region', 'benefit']]
+Coh_type:c_v  Topic Num:85 COH score:0.6907967532517955
+top_n: 10 Topic Num: 86 
+Topic Words: [['bfhttheoryautotldrconcept', 'tldr', 'keyword', 'welcome', 'admin', 'buy', 'cross', 'contain', 'especially', 'block']]
+Coh_type:c_v  Topic Num:86 COH score:0.37407490197299026
+top_n: 20 Topic Num: 86 
+Topic Words: [['bfhttheoryautotldrconcept', 'tldr', 'keyword', 'welcome', 'admin', 'buy', 'cross', 'contain', 'especially', 'block', 'friend', 'fmfaqautotldrbot', 'tldrs', 'chinese', 'typical', 'autotldr', 'carbon', 'incredibly', 'constructive', 'present']]
+Coh_type:c_v  Topic Num:86 COH score:0.46477268135799055
+top_n: 10 Topic Num: 87 
+Topic Words: [['thread', 'resistance', 'benefit', 'contain', 'face', 'special', 'white', 'compare', 'personally', 'market']]
+Coh_type:c_v  Topic Num:87 COH score:0.4793759974992202
+top_n: 20 Topic Num: 87 
+Topic Words: [['thread', 'resistance', 'benefit', 'contain', 'face', 'special', 'white', 'compare', 'personally', 'market', 'cable', 'cross', 'fellow', 'z', 'sense', 'wheel', 'wide', 'foot', 'perfect', 'behavior']]
+Coh_type:c_v  Topic Num:87 COH score:0.6458000152656581
+top_n: 10 Topic Num: 88 
+Topic Words: [['buy', 'current', 'bfhttheoryautotldrconcept', 'present', 'consider', 'typical', 'reduce', 'sense', 'circuit', 'phase']]
+Coh_type:c_v  Topic Num:88 COH score:0.4305740171651003
+top_n: 20 Topic Num: 88 
+Topic Words: [['buy', 'current', 'bfhttheoryautotldrconcept', 'present', 'consider', 'typical', 'reduce', 'sense', 'circuit', 'phase', 'incredibly', 'tldr', 'water', 'keyword', 'carbon', 'capital', 'selection', 'pull', 'relate', 'animal']]
+Coh_type:c_v  Topic Num:88 COH score:0.5768772821079313
+top_n: 10 Topic Num: 89 
+Topic Words: [['pull', 'typical', 'cross', 'special', 'group', 'setup', 'liberal', 'carbon', 'desire', 'incredibly']]
+Coh_type:c_v  Topic Num:89 COH score:0.5944034207154554
+top_n: 20 Topic Num: 89 
+Topic Words: [['pull', 'typical', 'cross', 'special', 'group', 'setup', 'liberal', 'carbon', 'desire', 'incredibly', 'circuit', 'contain', 'reproduce', 'ride', 'equality', 'behavior', 'water', 'metal', 'phase', 'reduce']]
+Coh_type:c_v  Topic Num:89 COH score:0.6973479248776879
+top_n: 10 Topic Num: 90 
+Topic Words: [['typical', 'policy', 'water', 'contain', 'ability', 'friend', 'variety', 'incredibly', 'buy', 'pull']]
+Coh_type:c_v  Topic Num:90 COH score:0.5072024777586709
+top_n: 20 Topic Num: 90 
+Topic Words: [['typical', 'policy', 'water', 'contain', 'ability', 'friend', 'variety', 'incredibly', 'buy', 'pull', 'uh', 'fail', 'block', 'picture', 'disaster', 'special', 'cross', 'compare', 'chinese', 'clinical']]
+Coh_type:c_v  Topic Num:90 COH score:0.662161301421057
+top_n: 10 Topic Num: 91 
+Topic Words: [['consider', 'leave', 'tldrs', 'contain', 'tldr', 'keyword', 'water', 'analog', 'present', 'tie']]
+Coh_type:c_v  Topic Num:91 COH score:0.46479541594215074
+top_n: 20 Topic Num: 91 
+Topic Words: [['consider', 'leave', 'tldrs', 'contain', 'tldr', 'keyword', 'water', 'analog', 'present', 'tie', 'reduce', 'fmfaqautotldrbot', 'bfhttheoryautotldrconcept', 'territory', 'patent', 'incredibly', 'circuit', 'order', 'desire', 'dominate']]
+Coh_type:c_v  Topic Num:91 COH score:0.5267179645666105
+top_n: 10 Topic Num: 92 
+Topic Words: [['pull', 'white', 'contain', 'incredibly', 'face', 'ability', 'policy', 'bfhttheoryautotldrconcept', 'typical', 'welcome']]
+Coh_type:c_v  Topic Num:92 COH score:0.4897785933295111
+top_n: 20 Topic Num: 92 
+Topic Words: [['pull', 'white', 'contain', 'incredibly', 'face', 'ability', 'policy', 'bfhttheoryautotldrconcept', 'typical', 'welcome', 'hand', 'constructive', 'admin', 'shelf', 'animal', 'fmfaqautotldrbot', 'horrible', 'keyword', 'product', 'block']]
+Coh_type:c_v  Topic Num:92 COH score:0.5315988927410225
+top_n: 10 Topic Num: 93 
+Topic Words: [['leave', 'contain', 'consider', 'water', 'deny', 'typical', 'product', 'muslim', 'group', 'shelf']]
+Coh_type:c_v  Topic Num:93 COH score:0.49755631772749453
+top_n: 20 Topic Num: 93 
+Topic Words: [['leave', 'contain', 'consider', 'water', 'deny', 'typical', 'product', 'muslim', 'group', 'shelf', 'setup', 'incredibly', 'cross', 'bfhttheoryautotldrconcept', 'server', 'fail', 'variety', 'thin', 'phase', 'straight']]
+Coh_type:c_v  Topic Num:93 COH score:0.6770840717551272
+top_n: 10 Topic Num: 94 
+Topic Words: [['pull', 'consider', 'typical', 'buy', 'incredibly', 'current', 'carbon', 'discussion', 'present', 'logically']]
+Coh_type:c_v  Topic Num:94 COH score:0.5052813595737065
+top_n: 20 Topic Num: 94 
+Topic Words: [['pull', 'consider', 'typical', 'buy', 'incredibly', 'current', 'carbon', 'discussion', 'present', 'logically', 'rule', 'round', 'finger', 'bring', 'sense', 'circuit', 'chrome', 'region', 'ride', 'water']]
+Coh_type:c_v  Topic Num:94 COH score:0.6235670785125089
+top_n: 10 Topic Num: 95 
+Topic Words: [['consider', 'profit', 'hand', 'sense', 'buy', 'pull', 'animal', 'public', 'carbon', 'deny']]
+Coh_type:c_v  Topic Num:95 COH score:0.37178204740385906
+top_n: 20 Topic Num: 95 
+Topic Words: [['consider', 'profit', 'hand', 'sense', 'buy', 'pull', 'animal', 'public', 'carbon', 'deny', 'incredibly', 'typical', 'movie', 'special', 'issue', 'finger', 'loss', 'mention', 'circuit', 'compare']]
+Coh_type:c_v  Topic Num:95 COH score:0.5574263414687429
+top_n: 10 Topic Num: 96 
+Topic Words: [['bfhttheoryautotldrconcept', 'keyword', 'variety', 'product', 'tldrs', 'find', 'reduce', 'tldr', 'typical', 'leave']]
+Coh_type:c_v  Topic Num:96 COH score:0.4682948067451805
+top_n: 20 Topic Num: 96 
+Topic Words: [['bfhttheoryautotldrconcept', 'keyword', 'variety', 'product', 'tldrs', 'find', 'reduce', 'tldr', 'typical', 'leave', 'fmfaqautotldrbot', 'welcome', 'match', 'policy', 'circuit', 'output', 'pm', 'reply', 'individual', 'constructive']]
+Coh_type:c_v  Topic Num:96 COH score:0.43597928390150625
+top_n: 10 Topic Num: 97 
+Topic Words: [['mean', 'modern', 'high', 'different', 'presidential', 'z', 'reply', 'school', 'nearly', 'false']]
+Coh_type:c_v  Topic Num:97 COH score:0.4752541883668576
+top_n: 20 Topic Num: 97 
+Topic Words: [['mean', 'modern', 'high', 'different', 'presidential', 'z', 'reply', 'school', 'nearly', 'false', 'recently', 'bitch', 'population', 'point', 'thread', 'speech', 'weekend', 'formal', 'perfect', 'concern']]
+Coh_type:c_v  Topic Num:97 COH score:0.5599853110691165
+top_n: 10 Topic Num: 98 
+Topic Words: [['thread', 'candidate', 'mean', 'reply', 'code', 'personally', 'bitch', 'loop', 'weekend', 'dont']]
+Coh_type:c_v  Topic Num:98 COH score:0.5290136022991639
+top_n: 20 Topic Num: 98 
+Topic Words: [['thread', 'candidate', 'mean', 'reply', 'code', 'personally', 'bitch', 'loop', 'weekend', 'dont', 'perfect', 'z', 'hide', 'pixel', 'constructive', 'force', 'temporarily', 'political', 'keyword', 'agenda']]
+Coh_type:c_v  Topic Num:98 COH score:0.6681704063204912
+top_n: 10 Topic Num: 99 
+Topic Words: [['leave', 'product', 'block', 'contain', 'public', 'bfhttheoryautotldrconcept', 'oror', 'campaign', 'incredibly', 'circuit']]
+Coh_type:c_v  Topic Num:99 COH score:0.5489672083354282
+top_n: 20 Topic Num: 99 
+Topic Words: [['leave', 'product', 'block', 'contain', 'public', 'bfhttheoryautotldrconcept', 'oror', 'campaign', 'incredibly', 'circuit', 'shelf', 'phase', 'picture', 'variety', 'x', 'typical', 'ability', 'present', 'deny', 'aspect']]
+Coh_type:c_v  Topic Num:99 COH score:0.652819364146745
+top_n: 10 Topic Num: 100 
+Topic Words: [['compare', 'pull', 'fan', 'tie', 'incredibly', 'present', 'leave', 'reduce', 'logically', 'physics']]
+Coh_type:c_v  Topic Num:100 COH score:0.5308151548535259
+top_n: 20 Topic Num: 100 
+Topic Words: [['compare', 'pull', 'fan', 'tie', 'incredibly', 'present', 'leave', 'reduce', 'logically', 'physics', 'eye', 'server', 'forever', 'typical', 'variety', 'circuit', 'tldr', 'white', 'contain', 'water']]
+Coh_type:c_v  Topic Num:100 COH score:0.6503168173314253
+top scores for top_10:[0.6254690762269813, 10, [['pull', 'discussion', 'incredibly', 'typical', 'present', 'round', 'bfhttheoryautotldrconcept', 'compare', 'region', 'carbon']]]
+-------------------------------------------------------------------
+top scores for top_20:[0.7516965390038637, 20, [['pull', 'discussion', 'incredibly', 'typical', 'carbon', 'round', 'present', 'circuit', 'contain', 'buy', 'length', 'finger', 'paint', 'phase', 'jewish', 'rule', 'region', 'red', 'chrome', 'logically']]]
+-------------------------------------------------------------------
+Avg COH for top_10 topic words: 0.48012519060167747
+-------------------------------------------------------------------
+Avg COH for top_20 topic words: 0.585750571344738
+-------------------------------------------------------------------

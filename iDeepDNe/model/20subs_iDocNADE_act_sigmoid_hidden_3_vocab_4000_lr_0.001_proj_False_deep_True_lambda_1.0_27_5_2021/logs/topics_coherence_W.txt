@@ -1,0 +1,26 @@
+top_n: 10 Topic Num: 1 
+Topic Words: [['puwhatisautomoderator', 'subredditmessagecomposeto', 'moderator', 'resubmit', 'modshttpwwwredditcommessagecomposeto', 'sinner', 'autotldr', 'heterosexual', 'fmfaqautotldrbot', 'tldr']]
+Coh_type:c_v  Topic Num:1 COH score:0.36438171909522066
+top_n: 20 Topic Num: 1 
+Topic Words: [['puwhatisautomoderator', 'subredditmessagecomposeto', 'moderator', 'resubmit', 'modshttpwwwredditcommessagecomposeto', 'sinner', 'autotldr', 'heterosexual', 'fmfaqautotldrbot', 'tldr', 'tldrs', 'bfhttheoryautotldrconcept', 'ruleshttpwwwredditcomrhardwareaboutsidebar', 'friendship', 'keyword', 'unnatural', 'immorality', 'sexuality', 'rbuildapc', 'sexually']]
+Coh_type:c_v  Topic Num:1 COH score:0.5278578732088056
+top_n: 10 Topic Num: 2 
+Topic Words: [['subredditmessagecomposeto', 'puwhatisautomoderator', 'moderator', 'resubmit', 'modshttpwwwredditcommessagecomposeto', 'marriage', 'resistor', 'autotldr', 'sinner', 'fmfaqautotldrbot']]
+Coh_type:c_v  Topic Num:2 COH score:0.47566733753480095
+top_n: 20 Topic Num: 2 
+Topic Words: [['subredditmessagecomposeto', 'puwhatisautomoderator', 'moderator', 'resubmit', 'modshttpwwwredditcommessagecomposeto', 'marriage', 'resistor', 'autotldr', 'sinner', 'fmfaqautotldrbot', 'religion', 'transistor', 'heterosexual', 'ruleshttpwwwredditcomrhardwareaboutsidebar', 'testament', 'evolution', 'ignorance', 'tldrs', 'bfhttheoryautotldrconcept', 'gay']]
+Coh_type:c_v  Topic Num:2 COH score:0.6169162797804769
+top_n: 10 Topic Num: 3 
+Topic Words: [['subredditmessagecomposeto', 'puwhatisautomoderator', 'moderator', 'resubmit', 'marriage', 'modshttpwwwredditcommessagecomposeto', 'religion', 'climate', 'argue', 'policy']]
+Coh_type:c_v  Topic Num:3 COH score:0.3054125637423683
+top_n: 20 Topic Num: 3 
+Topic Words: [['subredditmessagecomposeto', 'puwhatisautomoderator', 'moderator', 'resubmit', 'marriage', 'modshttpwwwredditcommessagecomposeto', 'religion', 'climate', 'argue', 'policy', 'government', 'natural', 'prove', 'union', 'human', 'legal', 'political', 'debate', 'sinner', 'objective']]
+Coh_type:c_v  Topic Num:3 COH score:0.48332489948797386
+top scores for top_10:[0.47566733753480095, 10, [['subredditmessagecomposeto', 'puwhatisautomoderator', 'moderator', 'resubmit', 'modshttpwwwredditcommessagecomposeto', 'marriage', 'resistor', 'autotldr', 'sinner', 'fmfaqautotldrbot']]]
+-------------------------------------------------------------------
+top scores for top_20:[0.6169162797804769, 20, [['subredditmessagecomposeto', 'puwhatisautomoderator', 'moderator', 'resubmit', 'modshttpwwwredditcommessagecomposeto', 'marriage', 'resistor', 'autotldr', 'sinner', 'fmfaqautotldrbot', 'religion', 'transistor', 'heterosexual', 'ruleshttpwwwredditcomrhardwareaboutsidebar', 'testament', 'evolution', 'ignorance', 'tldrs', 'bfhttheoryautotldrconcept', 'gay']]]
+-------------------------------------------------------------------
+Avg COH for top_10 topic words: 0.38182054012412997
+-------------------------------------------------------------------
+Avg COH for top_20 topic words: 0.5426996841590855
+-------------------------------------------------------------------
