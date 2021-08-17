@@ -1,0 +1,1000 @@
+h_num: 0
+w_h_top_words_indx: [ 732 1341 3344 2618 3034  202 1558  215 2696 3433 1320 3751 3308  851
+ 3890 1481 3167 3464  777  652]
+w_h_top_words:['consider', 'find', 'special', 'picture', 'ride', 'arm', 'group', 'ask', 'powerful', 'strip', 'fellow', 'unique', 'software', 'current', 'wear', 'generate', 'send', 'suck', 'core', 'color']
+----------------------------------------------------------------------
+h_num: 1
+w_h_top_words_indx: [ 392  851  151 3344 1558  358  777  732 3566  652 1953  590  217  202
+ 1341  516 3034 3626 2815 1403]
+w_h_top_words:['block', 'current', 'animal', 'special', 'group', 'bfhttheoryautotldrconcept', 'core', 'consider', 'territory', 'color', 'keyword', 'circuit', 'aspect', 'arm', 'find', 'carbon', 'ride', 'tldr', 'pull', 'foul']
+----------------------------------------------------------------------
+h_num: 2
+w_h_top_words_indx: [3600 1237 3224 2599 3910  484  732 1274 3305 2868 3562  140 3249 1151
+ 2829  830 1755 1702 2660  975]
+w_h_top_words:['thread', 'exist', 'short', 'personally', 'white', 'cable', 'consider', 'face', 'society', 'rate', 'terminal', 'analog', 'simply', 'engage', 'puwhatisautomoderator', 'cross', 'imagine', 'hospital', 'policy', 'different']
+----------------------------------------------------------------------
+h_num: 3
+w_h_top_words_indx: [ 851 3034 3626 3344  392  732 3716  358   79 3901  516 1953 1558  590
+ 3588 1921 3172  749  777 2917]
+w_h_top_words:['current', 'ride', 'tldr', 'special', 'block', 'consider', 'typical', 'bfhttheoryautotldrconcept', 'affect', 'welcome', 'carbon', 'keyword', 'group', 'circuit', 'theory', 'jewish', 'sentence', 'contain', 'core', 'reduce']
+----------------------------------------------------------------------
+h_num: 4
+w_h_top_words_indx: [2815 3034 2618 3167  590 2031 3598 1791  392 3716  516  851   37 3064
+  951 2316 2696 2169 3626  585]
+w_h_top_words:['pull', 'ride', 'picture', 'send', 'circuit', 'letter', 'thought', 'incredibly', 'block', 'typical', 'carbon', 'current', 'acknowledge', 'round', 'desire', 'motorcycle', 'powerful', 'massive', 'tldr', 'chrome']
+----------------------------------------------------------------------
+h_num: 5
+w_h_top_words_indx: [2815 3034 3167 2618 2031  590  392 3598 1791  851 3716 3064  516   37
+  951 2169 2316  358  585 2696]
+w_h_top_words:['pull', 'ride', 'send', 'picture', 'letter', 'circuit', 'block', 'thought', 'incredibly', 'current', 'typical', 'round', 'carbon', 'acknowledge', 'desire', 'massive', 'motorcycle', 'bfhttheoryautotldrconcept', 'chrome', 'powerful']
+----------------------------------------------------------------------
+h_num: 6
+w_h_top_words_indx: [ 851 2815 3252   79 3344  732  975 2812  516 3964 3034 2921 3308 1558
+ 3910 3433 3464 2618  830 3716]
+w_h_top_words:['current', 'pull', 'sin', 'affect', 'special', 'consider', 'different', 'public', 'carbon', 'wrong', 'ride', 'reflect', 'software', 'group', 'white', 'strip', 'suck', 'picture', 'cross', 'typical']
+----------------------------------------------------------------------
+h_num: 7
+w_h_top_words_indx: [2815 3034 3167 2618 2031  590  392 1791 3598  851 3064 3716  516 2169
+  951   37 2591  358 2316  585]
+w_h_top_words:['pull', 'ride', 'send', 'picture', 'letter', 'circuit', 'block', 'incredibly', 'thought', 'current', 'round', 'typical', 'carbon', 'massive', 'desire', 'acknowledge', 'perform', 'bfhttheoryautotldrconcept', 'motorcycle', 'chrome']
+----------------------------------------------------------------------
+h_num: 8
+w_h_top_words_indx: [2815 3034 3167 2618 2031  590  392 3598 1791  851 3716 3064  516  951
+   37 2169 2316  358  585 2696]
+w_h_top_words:['pull', 'ride', 'send', 'picture', 'letter', 'circuit', 'block', 'thought', 'incredibly', 'current', 'typical', 'round', 'carbon', 'desire', 'acknowledge', 'massive', 'motorcycle', 'bfhttheoryautotldrconcept', 'chrome', 'powerful']
+----------------------------------------------------------------------
+h_num: 9
+w_h_top_words_indx: [3167 3252  732 2815 2618  151 3890  590 3034  830 1558 1602 1230 1341
+  516 2696 3716 2077  358 1649]
+w_h_top_words:['send', 'sin', 'consider', 'pull', 'picture', 'animal', 'wear', 'circuit', 'ride', 'cross', 'group', 'hand', 'exclusive', 'find', 'carbon', 'powerful', 'typical', 'lock', 'bfhttheoryautotldrconcept', 'hell']
+----------------------------------------------------------------------
+h_num: 10
+w_h_top_words_indx: [ 358 1953 3626  392  975 1558 3034 3464 3566 2066 3901  732 2640   37
+  830 2815  590 1562 3910 1341]
+w_h_top_words:['bfhttheoryautotldrconcept', 'keyword', 'tldr', 'block', 'different', 'group', 'ride', 'suck', 'territory', 'little', 'welcome', 'consider', 'plate', 'acknowledge', 'cross', 'pull', 'circuit', 'gt', 'white', 'find']
+----------------------------------------------------------------------
+h_num: 11
+w_h_top_words_indx: [ 732  358 3626 1953 1558 3034 3073 3344  392 1514   79   37  851 2640
+  590 2815 3566  872  516 3901]
+w_h_top_words:['consider', 'bfhttheoryautotldrconcept', 'tldr', 'keyword', 'group', 'ride', 'rule', 'special', 'block', 'goal', 'affect', 'acknowledge', 'current', 'plate', 'circuit', 'pull', 'territory', 'dark', 'carbon', 'welcome']
+----------------------------------------------------------------------
+h_num: 12
+w_h_top_words_indx: [2815 3034 2618  516  590 3716 3598 1791  392   37 2031 2696  851 3167
+ 2276 3064  951 3626  585 3890]
+w_h_top_words:['pull', 'ride', 'picture', 'carbon', 'circuit', 'typical', 'thought', 'incredibly', 'block', 'acknowledge', 'letter', 'powerful', 'current', 'send', 'mm', 'round', 'desire', 'tldr', 'chrome', 'wear']
+----------------------------------------------------------------------
+h_num: 13
+w_h_top_words_indx: [ 851  392 3034  202 1558  777 3626   37  590  358  350 3344 3172  516
+  975 1791  140 2815 1953   79]
+w_h_top_words:['current', 'block', 'ride', 'arm', 'group', 'core', 'tldr', 'acknowledge', 'circuit', 'bfhttheoryautotldrconcept', 'benefit', 'special', 'sentence', 'carbon', 'different', 'incredibly', 'analog', 'pull', 'keyword', 'affect']
+----------------------------------------------------------------------
+h_num: 14
+w_h_top_words_indx: [3600  732 3242  803 1514 2541 3908 3249 2766  559 3369  215  975 2868
+ 1068 2615 2829 3380 1481 1274]
+w_h_top_words:['thread', 'consider', 'signal', 'cpu', 'goal', 'paper', 'wheel', 'simply', 'produce', 'charge', 'spread', 'ask', 'different', 'rate', 'drop', 'pic', 'puwhatisautomoderator', 'staff', 'generate', 'face']
+----------------------------------------------------------------------
+h_num: 15
+w_h_top_words_indx: [ 732 2812  851 3034  830 1341 1558 3344 3751 2696 2618 3308 3626  202
+ 3716 3890  777  215 2929 3433]
+w_h_top_words:['consider', 'public', 'current', 'ride', 'cross', 'find', 'group', 'special', 'unique', 'powerful', 'picture', 'software', 'tldr', 'arm', 'typical', 'wear', 'core', 'ask', 'regard', 'strip']
+----------------------------------------------------------------------
+h_num: 16
+w_h_top_words_indx: [2815 3034 3167 2618 2031  590  392 3598 1791 3716  851  516 3064   37
+  951 2169 2316  358 2696  585]
+w_h_top_words:['pull', 'ride', 'send', 'picture', 'letter', 'circuit', 'block', 'thought', 'incredibly', 'typical', 'current', 'carbon', 'round', 'acknowledge', 'desire', 'massive', 'motorcycle', 'bfhttheoryautotldrconcept', 'powerful', 'chrome']
+----------------------------------------------------------------------
+h_num: 17
+w_h_top_words_indx: [3600  732 3910 2599 3562 1237 2829 3249 3994 1274 2868 3167  830 3844
+ 2766 3908 2622 1808 1151   40]
+w_h_top_words:['thread', 'consider', 'white', 'personally', 'terminal', 'exist', 'puwhatisautomoderator', 'simply', 'z', 'face', 'rate', 'send', 'cross', 'voltage', 'produce', 'wheel', 'pipe', 'infortotesmessengerwiki', 'engage', 'action']
+----------------------------------------------------------------------
+h_num: 18
+w_h_top_words_indx: [2815 3034 3167 2618 2031  590  392 3598 1791  851 3064 3716  516 2169
+  951   37 2316  358  585 2591]
+w_h_top_words:['pull', 'ride', 'send', 'picture', 'letter', 'circuit', 'block', 'thought', 'incredibly', 'current', 'round', 'typical', 'carbon', 'massive', 'desire', 'acknowledge', 'motorcycle', 'bfhttheoryautotldrconcept', 'chrome', 'perform']
+----------------------------------------------------------------------
+h_num: 19
+w_h_top_words_indx: [3600  732  559 2599  140 3242 3994 3908 1274 3562 1151  484 3249  695
+ 3910  803 2929  851 3752 1438]
+w_h_top_words:['thread', 'consider', 'charge', 'personally', 'analog', 'signal', 'z', 'wheel', 'face', 'terminal', 'engage', 'cable', 'simply', 'component', 'white', 'cpu', 'regard', 'current', 'unit', 'fully']
+----------------------------------------------------------------------
+h_num: 20
+w_h_top_words_indx: [2618  732  851 1558 1953  830 3034  652  202 3308 3910  358 2093 2812
+  392  516 3626 2696 3716  151]
+w_h_top_words:['picture', 'consider', 'current', 'group', 'keyword', 'cross', 'ride', 'color', 'arm', 'software', 'white', 'bfhttheoryautotldrconcept', 'loss', 'public', 'block', 'carbon', 'tldr', 'powerful', 'typical', 'animal']
+----------------------------------------------------------------------
+h_num: 21
+w_h_top_words_indx: [3600 3908 3562  484 1320 2591 1274 1438 3910 1151  975  987 3344 2599
+ 2660  951 3446 1887 2615 2868]
+w_h_top_words:['thread', 'wheel', 'terminal', 'cable', 'fellow', 'perform', 'face', 'fully', 'white', 'engage', 'different', 'direction', 'special', 'personally', 'policy', 'desire', 'stutter', 'iraqi', 'pic', 'rate']
+----------------------------------------------------------------------
+h_num: 22
+w_h_top_words_indx: [1396  851 3344  151 2511 3034 3588  392 3804  140  516 1558 2815 1953
+  695   37  545  358  309  302]
+w_h_top_words:['form', 'current', 'special', 'animal', 'output', 'ride', 'theory', 'block', 'variety', 'analog', 'carbon', 'group', 'pull', 'keyword', 'component', 'acknowledge', 'certain', 'bfhttheoryautotldrconcept', 'basis', 'bar']
+----------------------------------------------------------------------
+h_num: 23
+w_h_top_words_indx: [ 851 3034 3626 3344  392  732  358 3716   79 3901 1953 1558  516 3588
+  777 3172  749 2917  590 1921]
+w_h_top_words:['current', 'ride', 'tldr', 'special', 'block', 'consider', 'bfhttheoryautotldrconcept', 'typical', 'affect', 'welcome', 'keyword', 'group', 'carbon', 'theory', 'core', 'sentence', 'contain', 'reduce', 'circuit', 'jewish']
+----------------------------------------------------------------------
+h_num: 24
+w_h_top_words_indx: [ 732 3910 2618 3344 1558  851 3479 1320 2093 2169 3588  516 3716  215
+ 3626 2696  652 3034 1341 3167]
+w_h_top_words:['consider', 'white', 'picture', 'special', 'group', 'current', 'sun', 'fellow', 'loss', 'massive', 'theory', 'carbon', 'typical', 'ask', 'tldr', 'powerful', 'color', 'ride', 'find', 'send']
+----------------------------------------------------------------------
+h_num: 25
+w_h_top_words_indx: [ 358 3034 3626  851  350 2825  392 3910 2812  516 3716  590 1558 3901
+ 1953 3431  140 3464 2616 2897]
+w_h_top_words:['bfhttheoryautotldrconcept', 'ride', 'tldr', 'current', 'benefit', 'purpose', 'block', 'white', 'public', 'carbon', 'typical', 'circuit', 'group', 'welcome', 'keyword', 'strike', 'analog', 'suck', 'pick', 'reasoning']
+----------------------------------------------------------------------
+h_num: 26
+w_h_top_words_indx: [ 851 3344 3626 3034  392 3716  358 1558  151 3588   79  749  217 2305
+  652 3172  951  350 2917  732]
+w_h_top_words:['current', 'special', 'tldr', 'ride', 'block', 'typical', 'bfhttheoryautotldrconcept', 'group', 'animal', 'theory', 'affect', 'contain', 'aspect', 'morality', 'color', 'sentence', 'desire', 'benefit', 'reduce', 'consider']
+----------------------------------------------------------------------
+h_num: 27
+w_h_top_words_indx: [2815 3034 3167 2618 2031  590  392 3598 1791  851 3716 3064  516  951
+   37 2169 2316  358  585 2696]
+w_h_top_words:['pull', 'ride', 'send', 'picture', 'letter', 'circuit', 'block', 'thought', 'incredibly', 'current', 'typical', 'round', 'carbon', 'desire', 'acknowledge', 'massive', 'motorcycle', 'bfhttheoryautotldrconcept', 'chrome', 'powerful']
+----------------------------------------------------------------------
+h_num: 28
+w_h_top_words_indx: [ 732 2618 3588  851  151 2815 3890 1558 3167  516  392  215 2812 2696
+  403 3964 2276 2066 1901 3716]
+w_h_top_words:['consider', 'picture', 'theory', 'current', 'animal', 'pull', 'wear', 'group', 'send', 'carbon', 'block', 'ask', 'public', 'powerful', 'body', 'wrong', 'mm', 'little', 'issue', 'typical']
+----------------------------------------------------------------------
+h_num: 29
+w_h_top_words_indx: [ 732  830 2815 2618  151  851  215 3034  392 1558 3167 3890 2812  590
+ 2338 1090 1341 3588  516 3562]
+w_h_top_words:['consider', 'cross', 'pull', 'picture', 'animal', 'current', 'ask', 'ride', 'block', 'group', 'send', 'wear', 'public', 'circuit', 'muslim', 'earth', 'find', 'theory', 'carbon', 'terminal']
+----------------------------------------------------------------------
+h_num: 30
+w_h_top_words_indx: [ 851 1558 3626  975 1341 3910 3646 3344  358 3901 1953 3431  590 2815
+  830 1481 3566 3464 1320  140]
+w_h_top_words:['current', 'group', 'tldr', 'different', 'find', 'white', 'touch', 'special', 'bfhttheoryautotldrconcept', 'welcome', 'keyword', 'strike', 'circuit', 'pull', 'cross', 'generate', 'territory', 'suck', 'fellow', 'analog']
+----------------------------------------------------------------------
+h_num: 31
+w_h_top_words_indx: [ 732 2815 3167 3890 2943 3344 2618  975 3034 1602  480  830 3588  851
+ 1558 1341 3252 2031 2077 1514]
+w_h_top_words:['consider', 'pull', 'send', 'wear', 'relate', 'special', 'picture', 'different', 'ride', 'hand', 'buy', 'cross', 'theory', 'current', 'group', 'find', 'sin', 'letter', 'lock', 'goal']
+----------------------------------------------------------------------
+h_num: 32
+w_h_top_words_indx: [ 732 3910 2618 1558 3344 2093 3479  851 1320 2169 3588 1341  516  652
+ 3308 3626 3167 3034  215 3716]
+w_h_top_words:['consider', 'white', 'picture', 'group', 'special', 'loss', 'sun', 'current', 'fellow', 'massive', 'theory', 'find', 'carbon', 'color', 'software', 'tldr', 'send', 'ride', 'ask', 'typical']
+----------------------------------------------------------------------
+h_num: 33
+w_h_top_words_indx: [2812  851 3034 1953 3626 2618 1558  358  975  590 3910 3431  392 2169
+ 2511 3901 1562 2696   79 1372]
+w_h_top_words:['public', 'current', 'ride', 'keyword', 'tldr', 'picture', 'group', 'bfhttheoryautotldrconcept', 'different', 'circuit', 'white', 'strike', 'block', 'massive', 'output', 'welcome', 'gt', 'powerful', 'affect', 'fmfaqautotldrbot']
+----------------------------------------------------------------------
+h_num: 34
+w_h_top_words_indx: [2812 3034 1558  392 1953 3626 1659 3431 2696  350  590   86 3716  358
+ 2169  975  851 2618  830  516]
+w_h_top_words:['public', 'ride', 'group', 'block', 'keyword', 'tldr', 'high', 'strike', 'powerful', 'benefit', 'circuit', 'agenda', 'typical', 'bfhttheoryautotldrconcept', 'massive', 'different', 'current', 'picture', 'cross', 'carbon']
+----------------------------------------------------------------------
+h_num: 35
+w_h_top_words_indx: [2815 3034 2618 3167  590 3598  516 3716 2031 1791  392   37  851 2696
+ 2316  951 3064 3626 2276 3073]
+w_h_top_words:['pull', 'ride', 'picture', 'send', 'circuit', 'thought', 'carbon', 'typical', 'letter', 'incredibly', 'block', 'acknowledge', 'current', 'powerful', 'motorcycle', 'desire', 'round', 'tldr', 'mm', 'rule']
+----------------------------------------------------------------------
+h_num: 36
+w_h_top_words_indx: [2815 3034 3167 2618 2031  590 3598  392 1791 3716  516  851 3064   37
+  951 2316 2169 2696 3626  585]
+w_h_top_words:['pull', 'ride', 'send', 'picture', 'letter', 'circuit', 'thought', 'block', 'incredibly', 'typical', 'carbon', 'current', 'round', 'acknowledge', 'desire', 'motorcycle', 'massive', 'powerful', 'tldr', 'chrome']
+----------------------------------------------------------------------
+h_num: 37
+w_h_top_words_indx: [2815 3034 3167 2618 2031  590  392 3598 1791 3716  851  516 3064   37
+  951 2169 2316  358 2696  585]
+w_h_top_words:['pull', 'ride', 'send', 'picture', 'letter', 'circuit', 'block', 'thought', 'incredibly', 'typical', 'current', 'carbon', 'round', 'acknowledge', 'desire', 'massive', 'motorcycle', 'bfhttheoryautotldrconcept', 'powerful', 'chrome']
+----------------------------------------------------------------------
+h_num: 38
+w_h_top_words_indx: [3600  732 3994  140  975 3305 2599  695 3908 1274 3910  987 1320  872
+ 1558 1151  484 1953  559 3562]
+w_h_top_words:['thread', 'consider', 'z', 'analog', 'different', 'society', 'personally', 'component', 'wheel', 'face', 'white', 'direction', 'fellow', 'dark', 'group', 'engage', 'cable', 'keyword', 'charge', 'terminal']
+----------------------------------------------------------------------
+h_num: 39
+w_h_top_words_indx: [2618  851  830 3344 3034 1341 3716  392 2031 1202 3249 2338  358 1558
+ 2812 3167  516 3698 2929  313]
+w_h_top_words:['picture', 'current', 'cross', 'special', 'ride', 'find', 'typical', 'block', 'letter', 'event', 'simply', 'muslim', 'bfhttheoryautotldrconcept', 'group', 'public', 'send', 'carbon', 'truly', 'regard', 'bat']
+----------------------------------------------------------------------
+h_num: 40
+w_h_top_words_indx: [ 851 3626 3034 3344  392  732  358 3716   79 3901 1953  516 3588 1558
+  777 2917 3172  749 1921  590]
+w_h_top_words:['current', 'tldr', 'ride', 'special', 'block', 'consider', 'bfhttheoryautotldrconcept', 'typical', 'affect', 'welcome', 'keyword', 'carbon', 'theory', 'group', 'core', 'reduce', 'sentence', 'contain', 'jewish', 'circuit']
+----------------------------------------------------------------------
+h_num: 41
+w_h_top_words_indx: [3600 3910 2868 1237 2599 3249  732 2829 3562 1274 2591  484  830   40
+ 1151 3908 3167 3224 2622 2696]
+w_h_top_words:['thread', 'white', 'rate', 'exist', 'personally', 'simply', 'consider', 'puwhatisautomoderator', 'terminal', 'face', 'perform', 'cable', 'cross', 'action', 'engage', 'wheel', 'send', 'short', 'pipe', 'powerful']
+----------------------------------------------------------------------
+h_num: 42
+w_h_top_words_indx: [2815 3034 3167 2618 2031  590 3598  392 1791 3716  516  851 3064   37
+  951 2316 2169 2696  358  585]
+w_h_top_words:['pull', 'ride', 'send', 'picture', 'letter', 'circuit', 'thought', 'block', 'incredibly', 'typical', 'carbon', 'current', 'round', 'acknowledge', 'desire', 'motorcycle', 'massive', 'powerful', 'bfhttheoryautotldrconcept', 'chrome']
+----------------------------------------------------------------------
+h_num: 43
+w_h_top_words_indx: [2815 3034 3167 2618 2031  590  392 1791 3598  851 3064 3716  516 2169
+  951   37 2316  358  585 2591]
+w_h_top_words:['pull', 'ride', 'send', 'picture', 'letter', 'circuit', 'block', 'incredibly', 'thought', 'current', 'round', 'typical', 'carbon', 'massive', 'desire', 'acknowledge', 'motorcycle', 'bfhttheoryautotldrconcept', 'chrome', 'perform']
+----------------------------------------------------------------------
+h_num: 44
+w_h_top_words_indx: [3600  732 3242  803 3668  559 1514 2766 3249 1068 3369 2615 2541 3908
+  975 2829 1274 1481  215 3380]
+w_h_top_words:['thread', 'consider', 'signal', 'cpu', 'transistor', 'charge', 'goal', 'produce', 'simply', 'drop', 'spread', 'pic', 'paper', 'wheel', 'different', 'puwhatisautomoderator', 'face', 'generate', 'ask', 'staff']
+----------------------------------------------------------------------
+h_num: 45
+w_h_top_words_indx: [ 851 3344 3626 1558  392  358 3034 3716  652 2825 1587   37   79  732
+ 2815  777 3464 1953  202 2037]
+w_h_top_words:['current', 'special', 'tldr', 'group', 'block', 'bfhttheoryautotldrconcept', 'ride', 'typical', 'color', 'purpose', 'guide', 'acknowledge', 'affect', 'consider', 'pull', 'core', 'suck', 'keyword', 'arm', 'liberal']
+----------------------------------------------------------------------
+h_num: 46
+w_h_top_words_indx: [ 851  975 1558  392 3626    4  140  516 2618 2815  732  151  217 2812
+ 3464 1403   37  202  830 2567]
+w_h_top_words:['current', 'different', 'group', 'block', 'tldr', 'ability', 'analog', 'carbon', 'picture', 'pull', 'consider', 'animal', 'aspect', 'public', 'suck', 'foul', 'acknowledge', 'arm', 'cross', 'patient']
+----------------------------------------------------------------------
+h_num: 47
+w_h_top_words_indx: [2815 3034 2618  516  590 3716 3598 1791 3167 2031  392   37  851 2696
+ 2276 3064  951 2316 3626  585]
+w_h_top_words:['pull', 'ride', 'picture', 'carbon', 'circuit', 'typical', 'thought', 'incredibly', 'send', 'letter', 'block', 'acknowledge', 'current', 'powerful', 'mm', 'round', 'desire', 'motorcycle', 'tldr', 'chrome']
+----------------------------------------------------------------------
+h_num: 48
+w_h_top_words_indx: [3600  732  559 3369 2541 3249 2829 1514 2615 3242 3908  803 3380 2766
+ 3221 3646 1274 1151 3431 1320]
+w_h_top_words:['thread', 'consider', 'charge', 'spread', 'paper', 'simply', 'puwhatisautomoderator', 'goal', 'pic', 'signal', 'wheel', 'cpu', 'staff', 'produce', 'shooter', 'touch', 'face', 'engage', 'strike', 'fellow']
+----------------------------------------------------------------------
+h_num: 49
+w_h_top_words_indx: [ 392 2169 1558 3431   37  590 3626  975  951  202  516   79  777 3716
+  350  358 1921 2815 2766 2603]
+w_h_top_words:['block', 'massive', 'group', 'strike', 'acknowledge', 'circuit', 'tldr', 'different', 'desire', 'arm', 'carbon', 'affect', 'core', 'typical', 'benefit', 'bfhttheoryautotldrconcept', 'jewish', 'pull', 'produce', 'phase']
+----------------------------------------------------------------------
+h_num: 50
+w_h_top_words_indx: [3600 3910 2868 2599 3249 2829 1237  732 3562 2591 1274   40  830  484
+ 1151 3908 3167 3224 2696 2622]
+w_h_top_words:['thread', 'white', 'rate', 'personally', 'simply', 'puwhatisautomoderator', 'exist', 'consider', 'terminal', 'perform', 'face', 'action', 'cross', 'cable', 'engage', 'wheel', 'send', 'short', 'powerful', 'pipe']
+----------------------------------------------------------------------
+h_num: 51
+w_h_top_words_indx: [3034 2825 2917 3716 3626  358 2815  302 1953 1894  140 1396  516  732
+ 3705 2276   37 1853  350 1921]
+w_h_top_words:['ride', 'purpose', 'reduce', 'typical', 'tldr', 'bfhttheoryautotldrconcept', 'pull', 'bar', 'keyword', 'islamic', 'analog', 'form', 'carbon', 'consider', 'turbo', 'mm', 'acknowledge', 'intentionally', 'benefit', 'jewish']
+----------------------------------------------------------------------
+h_num: 52
+w_h_top_words_indx: [3600 2539  732 3910 3562  975 1514 2829 2591 3167 3249 2618    6 3344
+ 2541  484  830 1718 3908 2815]
+w_h_top_words:['thread', 'panel', 'consider', 'white', 'terminal', 'different', 'goal', 'puwhatisautomoderator', 'perform', 'send', 'simply', 'picture', 'able', 'special', 'paper', 'cable', 'cross', 'humanity', 'wheel', 'pull']
+----------------------------------------------------------------------
+h_num: 53
+w_h_top_words_indx: [2815 3890 2618 3167  516  392  732 3034 2276 2616  480  215  590 3073
+ 3588 3433 2162 1896 3598 2077]
+w_h_top_words:['pull', 'wear', 'picture', 'send', 'carbon', 'block', 'consider', 'ride', 'mm', 'pick', 'buy', 'ask', 'circuit', 'rule', 'theory', 'strip', 'marriage', 'iso', 'thought', 'lock']
+----------------------------------------------------------------------
+h_num: 54
+w_h_top_words_indx: [3626  358 3716 3344 3034  392 1953 2815   79 3901  777   37  732 1557
+ 3431 3705  851 2305 2825 1602]
+w_h_top_words:['tldr', 'bfhttheoryautotldrconcept', 'typical', 'special', 'ride', 'block', 'keyword', 'pull', 'affect', 'welcome', 'core', 'acknowledge', 'consider', 'ground', 'strike', 'turbo', 'current', 'morality', 'purpose', 'hand']
+----------------------------------------------------------------------
+h_num: 55
+w_h_top_words_indx: [ 392 3344 1396 3716  358  830  151 3034  851  749 3588 1953 1558 3698
+  951 2213   37  516 2929 3172]
+w_h_top_words:['block', 'special', 'form', 'typical', 'bfhttheoryautotldrconcept', 'cross', 'animal', 'ride', 'current', 'contain', 'theory', 'keyword', 'group', 'truly', 'desire', 'member', 'acknowledge', 'carbon', 'regard', 'sentence']
+----------------------------------------------------------------------
+h_num: 56
+w_h_top_words_indx: [ 732 2815 3344 3890 3167  830 2618 3034  516  851  242 3264  215 1341
+ 1514 3598 3588 1558  975 2031]
+w_h_top_words:['consider', 'pull', 'special', 'wear', 'send', 'cross', 'picture', 'ride', 'carbon', 'current', 'attack', 'situation', 'ask', 'find', 'goal', 'thought', 'theory', 'group', 'different', 'letter']
+----------------------------------------------------------------------
+h_num: 57
+w_h_top_words_indx: [1396  851 1953 3344  392  140  151 2815  732 2511 3034  358   37  516
+ 1558  545 3716 3513 1514  309]
+w_h_top_words:['form', 'current', 'keyword', 'special', 'block', 'analog', 'animal', 'pull', 'consider', 'output', 'ride', 'bfhttheoryautotldrconcept', 'acknowledge', 'carbon', 'group', 'certain', 'typical', 'switch', 'goal', 'basis']
+----------------------------------------------------------------------
+h_num: 58
+w_h_top_words_indx: [ 732 3910 2618 3344 1558  851 3479 1320 2093 2169 3588  516  215 2696
+ 3626 1341 3308 3167 3716 3034]
+w_h_top_words:['consider', 'white', 'picture', 'special', 'group', 'current', 'sun', 'fellow', 'loss', 'massive', 'theory', 'carbon', 'ask', 'powerful', 'tldr', 'find', 'software', 'send', 'typical', 'ride']
+----------------------------------------------------------------------
+h_num: 59
+w_h_top_words_indx: [ 732  851  392 3588 2618 3890 2696 2815  830  516 3034 1558  151 2812
+ 3566  652 2031 3626 2511 1403]
+w_h_top_words:['consider', 'current', 'block', 'theory', 'picture', 'wear', 'powerful', 'pull', 'cross', 'carbon', 'ride', 'group', 'animal', 'public', 'territory', 'color', 'letter', 'tldr', 'output', 'foul']
+----------------------------------------------------------------------
+h_num: 60
+w_h_top_words_indx: [2812 3034 1953 2618  851  358  951 3716 1558 3344  392  516 3626 3901
+  652 3172  590 2696  350 1562]
+w_h_top_words:['public', 'ride', 'keyword', 'picture', 'current', 'bfhttheoryautotldrconcept', 'desire', 'typical', 'group', 'special', 'block', 'carbon', 'tldr', 'welcome', 'color', 'sentence', 'circuit', 'powerful', 'benefit', 'gt']
+----------------------------------------------------------------------
+h_num: 61
+w_h_top_words_indx: [ 851  392 1558 1953  358 3344  652 3626  777 3431 1152 2077 3073  872
+ 3901 3910 2660   79  732  516]
+w_h_top_words:['current', 'block', 'group', 'keyword', 'bfhttheoryautotldrconcept', 'special', 'color', 'tldr', 'core', 'strike', 'engine', 'lock', 'rule', 'dark', 'welcome', 'white', 'policy', 'affect', 'consider', 'carbon']
+----------------------------------------------------------------------
+h_num: 62
+w_h_top_words_indx: [ 851 3626 3034 3344  392  732  358 3716 3901   79 1953  516 3588 1558
+  777 2917 3172  749 1921 3043]
+w_h_top_words:['current', 'tldr', 'ride', 'special', 'block', 'consider', 'bfhttheoryautotldrconcept', 'typical', 'welcome', 'affect', 'keyword', 'carbon', 'theory', 'group', 'core', 'reduce', 'sentence', 'contain', 'jewish', 'ring']
+----------------------------------------------------------------------
+h_num: 63
+w_h_top_words_indx: [3600 3910 3562 2591 1237 2868 3908  830 3752  140 2599  951 2660 2541
+  732 1178  151  851 1151 1481]
+w_h_top_words:['thread', 'white', 'terminal', 'perform', 'exist', 'rate', 'wheel', 'cross', 'unit', 'analog', 'personally', 'desire', 'policy', 'paper', 'consider', 'equivalent', 'animal', 'current', 'engage', 'generate']
+----------------------------------------------------------------------
+h_num: 64
+w_h_top_words_indx: [ 732 3910 2618 3344 1558  851 1320  215  516 3479 2696 2169 1341 3626
+ 3287 2093  140 3716  652 3167]
+w_h_top_words:['consider', 'white', 'picture', 'special', 'group', 'current', 'fellow', 'ask', 'carbon', 'sun', 'powerful', 'massive', 'find', 'tldr', 'slightly', 'loss', 'analog', 'typical', 'color', 'send']
+----------------------------------------------------------------------
+h_num: 65
+w_h_top_words_indx: [ 732  830 1341 2815  151 3034 3167  851  480  516 2812  215 3433 2618
+ 2921   79 1558  358 3252 3464]
+w_h_top_words:['consider', 'cross', 'find', 'pull', 'animal', 'ride', 'send', 'current', 'buy', 'carbon', 'public', 'ask', 'strip', 'picture', 'reflect', 'affect', 'group', 'bfhttheoryautotldrconcept', 'sin', 'suck']
+----------------------------------------------------------------------
+h_num: 66
+w_h_top_words_indx: [ 851 2812 3034  358 2618  951 1953 3626 1558 1341  392 3716 2917 3901
+  652 3431  590 3344  350 2660]
+w_h_top_words:['current', 'public', 'ride', 'bfhttheoryautotldrconcept', 'picture', 'desire', 'keyword', 'tldr', 'group', 'find', 'block', 'typical', 'reduce', 'welcome', 'color', 'strike', 'circuit', 'special', 'benefit', 'policy']
+----------------------------------------------------------------------
+h_num: 67
+w_h_top_words_indx: [3034  851 2812  392 3716  358 2618  590 2696 2917 1237  830   37  652
+  516 2815  732  484 2603  217]
+w_h_top_words:['ride', 'current', 'public', 'block', 'typical', 'bfhttheoryautotldrconcept', 'picture', 'circuit', 'powerful', 'reduce', 'exist', 'cross', 'acknowledge', 'color', 'carbon', 'pull', 'consider', 'cable', 'phase', 'aspect']
+----------------------------------------------------------------------
+h_num: 68
+w_h_top_words_indx: [3344 2815  851 3626  202 1202 3308  652  590  313  140 2077  975 3464
+ 3602 3566 1558 2913 3513  777]
+w_h_top_words:['special', 'pull', 'current', 'tldr', 'arm', 'event', 'software', 'color', 'circuit', 'bat', 'analog', 'lock', 'different', 'suck', 'throttle', 'territory', 'group', 'red', 'switch', 'core']
+----------------------------------------------------------------------
+h_num: 69
+w_h_top_words_indx: [2618  732 3588 2815  851 2812 3034  516 3964 2696 1558 3167 3910 3308
+ 2008 1602  253 3464   79  830]
+w_h_top_words:['picture', 'consider', 'theory', 'pull', 'current', 'public', 'ride', 'carbon', 'wrong', 'powerful', 'group', 'send', 'white', 'software', 'leak', 'hand', 'audio', 'suck', 'affect', 'cross']
+----------------------------------------------------------------------
+h_num: 70
+w_h_top_words_indx: [ 732 3034 2812  358 3588 3344 2618  392 1953 3626 1152 2696  516 3751
+ 2603 2093 2825  851 3566 3562]
+w_h_top_words:['consider', 'ride', 'public', 'bfhttheoryautotldrconcept', 'theory', 'special', 'picture', 'block', 'keyword', 'tldr', 'engine', 'powerful', 'carbon', 'unique', 'phase', 'loss', 'purpose', 'current', 'territory', 'terminal']
+----------------------------------------------------------------------
+h_num: 71
+w_h_top_words_indx: [3034 1558 2897 2618 2812 1953  358  732 3626  392 3431 1797 3344 2511
+  590 3598 3901 1562  202 2815]
+w_h_top_words:['ride', 'group', 'reasoning', 'picture', 'public', 'keyword', 'bfhttheoryautotldrconcept', 'consider', 'tldr', 'block', 'strike', 'individual', 'special', 'output', 'circuit', 'thought', 'welcome', 'gt', 'arm', 'pull']
+----------------------------------------------------------------------
+h_num: 72
+w_h_top_words_indx: [2815 3034 3167 2618 2031  590  392 1791  851 3598 3064  516 3716 2169
+ 2591   37  951  358 2316  585]
+w_h_top_words:['pull', 'ride', 'send', 'picture', 'letter', 'circuit', 'block', 'incredibly', 'current', 'thought', 'round', 'carbon', 'typical', 'massive', 'perform', 'acknowledge', 'desire', 'bfhttheoryautotldrconcept', 'motorcycle', 'chrome']
+----------------------------------------------------------------------
+h_num: 73
+w_h_top_words_indx: [2815 3034 3167 2618 2031  590 3598  392 1791 3716  516  851 3064   37
+  951 2316 2169 2696  585  358]
+w_h_top_words:['pull', 'ride', 'send', 'picture', 'letter', 'circuit', 'thought', 'block', 'incredibly', 'typical', 'carbon', 'current', 'round', 'acknowledge', 'desire', 'motorcycle', 'massive', 'powerful', 'chrome', 'bfhttheoryautotldrconcept']
+----------------------------------------------------------------------
+h_num: 74
+w_h_top_words_indx: [2815 2618 3034 3716  516  590  392   37 3598 1791 2696  732 2031 3626
+  851 3890  951 3167 3064  585]
+w_h_top_words:['pull', 'picture', 'ride', 'typical', 'carbon', 'circuit', 'block', 'acknowledge', 'thought', 'incredibly', 'powerful', 'consider', 'letter', 'tldr', 'current', 'wear', 'desire', 'send', 'round', 'chrome']
+----------------------------------------------------------------------
+h_num: 75
+w_h_top_words_indx: [3626  732  358 1953 3344  392 3901 3034 1558   79  851 3073 3566 3716
+ 1341   37  777 2640 2169 1396]
+w_h_top_words:['tldr', 'consider', 'bfhttheoryautotldrconcept', 'keyword', 'special', 'block', 'welcome', 'ride', 'group', 'affect', 'current', 'rule', 'territory', 'typical', 'find', 'acknowledge', 'core', 'plate', 'massive', 'form']
+----------------------------------------------------------------------
+h_num: 76
+w_h_top_words_indx: [ 732 3344  202 3034 2618 1341 3167 1558 1320   79 3252 3433  215 2093
+  851 2913 2696 3910  400 3646]
+w_h_top_words:['consider', 'special', 'arm', 'ride', 'picture', 'find', 'send', 'group', 'fellow', 'affect', 'sin', 'strip', 'ask', 'loss', 'current', 'red', 'powerful', 'white', 'board', 'touch']
+----------------------------------------------------------------------
+h_num: 77
+w_h_top_words_indx: [ 851  392 3626 3344 3034  732  358 3716 1558   37  777   79 3588  516
+ 3172 2815 1921  749  590  350]
+w_h_top_words:['current', 'block', 'tldr', 'special', 'ride', 'consider', 'bfhttheoryautotldrconcept', 'typical', 'group', 'acknowledge', 'core', 'affect', 'theory', 'carbon', 'sentence', 'pull', 'jewish', 'contain', 'circuit', 'benefit']
+----------------------------------------------------------------------
+h_num: 78
+w_h_top_words_indx: [ 732 3588 2618 2815 3890 3167 3344 3252 1558  516  151 1602 2696 3034
+ 2812 1341 3964  242  215  253]
+w_h_top_words:['consider', 'theory', 'picture', 'pull', 'wear', 'send', 'special', 'sin', 'group', 'carbon', 'animal', 'hand', 'powerful', 'ride', 'public', 'find', 'wrong', 'attack', 'ask', 'audio']
+----------------------------------------------------------------------
+h_num: 79
+w_h_top_words_indx: [ 830 3908 3910 3600  951  484  140 3562 3344 3588  851 2541 2618  516
+ 2815 3446 1718 3043 1953 2921]
+w_h_top_words:['cross', 'wheel', 'white', 'thread', 'desire', 'cable', 'analog', 'terminal', 'special', 'theory', 'current', 'paper', 'picture', 'carbon', 'pull', 'stutter', 'humanity', 'ring', 'keyword', 'reflect']
+----------------------------------------------------------------------
+h_num: 80
+w_h_top_words_indx: [ 851 3626 3034 3344 3716 2511  358  590  516   79  392 3479 2917  151
+ 3172 2825  732 1558  872 3588]
+w_h_top_words:['current', 'tldr', 'ride', 'special', 'typical', 'output', 'bfhttheoryautotldrconcept', 'circuit', 'carbon', 'affect', 'block', 'sun', 'reduce', 'animal', 'sentence', 'purpose', 'consider', 'group', 'dark', 'theory']
+----------------------------------------------------------------------
+h_num: 81
+w_h_top_words_indx: [3600 3910 2868 2599 2829 3249 1237  732 3562 2591 1274  830   40  484
+ 3167 1151 3908 3224 3994 2622]
+w_h_top_words:['thread', 'white', 'rate', 'personally', 'puwhatisautomoderator', 'simply', 'exist', 'consider', 'terminal', 'perform', 'face', 'cross', 'action', 'cable', 'send', 'engage', 'wheel', 'short', 'z', 'pipe']
+----------------------------------------------------------------------
+h_num: 82
+w_h_top_words_indx: [ 732 3910 2618 1341   79 3034 3308  202 2696 2913 3167 1558 3433 3716
+  851 1320  652  516 1481 1901]
+w_h_top_words:['consider', 'white', 'picture', 'find', 'affect', 'ride', 'software', 'arm', 'powerful', 'red', 'send', 'group', 'strip', 'typical', 'current', 'fellow', 'color', 'carbon', 'generate', 'issue']
+----------------------------------------------------------------------
+h_num: 83
+w_h_top_words_indx: [ 392  975  516  851 2815 2618 2812  202  140  777 3626 1396 3172 1558
+  652  830 2696 3034 3602 3344]
+w_h_top_words:['block', 'different', 'carbon', 'current', 'pull', 'picture', 'public', 'arm', 'analog', 'core', 'tldr', 'form', 'sentence', 'group', 'color', 'cross', 'powerful', 'ride', 'throttle', 'special']
+----------------------------------------------------------------------
+h_num: 84
+w_h_top_words_indx: [2812 3034 2618  851 1558 1953  392 3167  830 3626  202 1562 3172 3431
+  358  590  858 3344  749  516]
+w_h_top_words:['public', 'ride', 'picture', 'current', 'group', 'keyword', 'block', 'send', 'cross', 'tldr', 'arm', 'gt', 'sentence', 'strike', 'bfhttheoryautotldrconcept', 'circuit', 'cut', 'special', 'contain', 'carbon']
+----------------------------------------------------------------------
+h_num: 85
+w_h_top_words_indx: [3600  732 1237  975 3994 2599 3910 1274 3562 1068  140 2829 3908  987
+ 2929 1151 2812  484 2249 3249]
+w_h_top_words:['thread', 'consider', 'exist', 'different', 'z', 'personally', 'white', 'face', 'terminal', 'drop', 'analog', 'puwhatisautomoderator', 'wheel', 'direction', 'regard', 'engage', 'public', 'cable', 'mind', 'simply']
+----------------------------------------------------------------------
+h_num: 86
+w_h_top_words_indx: [ 851 3344 3626 3034  358 2921 1836 3716 2825  151  392 2815 1558  652
+ 1602 3566 1341 3588   79 3901]
+w_h_top_words:['current', 'special', 'tldr', 'ride', 'bfhttheoryautotldrconcept', 'reflect', 'instead', 'typical', 'purpose', 'animal', 'block', 'pull', 'group', 'color', 'hand', 'territory', 'find', 'theory', 'affect', 'welcome']
+----------------------------------------------------------------------
+h_num: 87
+w_h_top_words_indx: [2815 3034 3167 2618 2031  590  392 3598 1791  851 3064 3716  516 2169
+  951   37 2316  358  585 2696]
+w_h_top_words:['pull', 'ride', 'send', 'picture', 'letter', 'circuit', 'block', 'thought', 'incredibly', 'current', 'round', 'typical', 'carbon', 'massive', 'desire', 'acknowledge', 'motorcycle', 'bfhttheoryautotldrconcept', 'chrome', 'powerful']
+----------------------------------------------------------------------
+h_num: 88
+w_h_top_words_indx: [3034  392  851 3716 2696 2618  358  830 3172 1237  151  652 2917 2812
+ 1558 1372  516 1396  590 1440]
+w_h_top_words:['ride', 'block', 'current', 'typical', 'powerful', 'picture', 'bfhttheoryautotldrconcept', 'cross', 'sentence', 'exist', 'animal', 'color', 'reduce', 'public', 'group', 'fmfaqautotldrbot', 'carbon', 'form', 'circuit', 'function']
+----------------------------------------------------------------------
+h_num: 89
+w_h_top_words_indx: [2815 3034 3167 2618 2031  590  392 3598 1791  851 3064 3716  516 2169
+  951   37 2316  358  585 3890]
+w_h_top_words:['pull', 'ride', 'send', 'picture', 'letter', 'circuit', 'block', 'thought', 'incredibly', 'current', 'round', 'typical', 'carbon', 'massive', 'desire', 'acknowledge', 'motorcycle', 'bfhttheoryautotldrconcept', 'chrome', 'wear']
+----------------------------------------------------------------------
+h_num: 90
+w_h_top_words_indx: [2815 3034 3167 2618 2031  590  392 3598 1791 3716  851  516 3064   37
+  951 2169 2316 2696  358  585]
+w_h_top_words:['pull', 'ride', 'send', 'picture', 'letter', 'circuit', 'block', 'thought', 'incredibly', 'typical', 'current', 'carbon', 'round', 'acknowledge', 'desire', 'massive', 'motorcycle', 'powerful', 'bfhttheoryautotldrconcept', 'chrome']
+----------------------------------------------------------------------
+h_num: 91
+w_h_top_words_indx: [1558  851  975 2618 3626 3344 1953  777  202 3034  732  358  392 1481
+  830 2812  590  215 2093 3167]
+w_h_top_words:['group', 'current', 'different', 'picture', 'tldr', 'special', 'keyword', 'core', 'arm', 'ride', 'consider', 'bfhttheoryautotldrconcept', 'block', 'generate', 'cross', 'public', 'circuit', 'ask', 'loss', 'send']
+----------------------------------------------------------------------
+h_num: 92
+w_h_top_words_indx: [2812 3034 2618 1953 1558  392 3626  851 3716  590 3431 3167 3172 2815
+ 1440  358  830  732 2696  202]
+w_h_top_words:['public', 'ride', 'picture', 'keyword', 'group', 'block', 'tldr', 'current', 'typical', 'circuit', 'strike', 'send', 'sentence', 'pull', 'function', 'bfhttheoryautotldrconcept', 'cross', 'consider', 'powerful', 'arm']
+----------------------------------------------------------------------
+h_num: 93
+w_h_top_words_indx: [3034 3626  392  851 2169 1558 3308 3431  590 2812   79  358  732   37
+ 2603  516 2276 1953 2511 2897]
+w_h_top_words:['ride', 'tldr', 'block', 'current', 'massive', 'group', 'software', 'strike', 'circuit', 'public', 'affect', 'bfhttheoryautotldrconcept', 'consider', 'acknowledge', 'phase', 'carbon', 'mm', 'keyword', 'output', 'reasoning']
+----------------------------------------------------------------------
+h_num: 94
+w_h_top_words_indx: [ 392 3626 1558 3172 1481  851 1341  590  516 2169 3431 3716 2815   86
+  358 3464 2603  975  151  830]
+w_h_top_words:['block', 'tldr', 'group', 'sentence', 'generate', 'current', 'find', 'circuit', 'carbon', 'massive', 'strike', 'typical', 'pull', 'agenda', 'bfhttheoryautotldrconcept', 'suck', 'phase', 'different', 'animal', 'cross']
+----------------------------------------------------------------------
+h_num: 95
+w_h_top_words_indx: [3626 3034 3344  358 3716  516  392   79 2511  851  732 2917 1558 1953
+ 3172  777  590  484 3705 3043]
+w_h_top_words:['tldr', 'ride', 'special', 'bfhttheoryautotldrconcept', 'typical', 'carbon', 'block', 'affect', 'output', 'current', 'consider', 'reduce', 'group', 'keyword', 'sentence', 'core', 'circuit', 'cable', 'turbo', 'ring']
+----------------------------------------------------------------------
+h_num: 96
+w_h_top_words_indx: [3626  851 3034  392 3344  358 3716  590  732 2815  516  777 1953 1558
+   79  749 2917 3172 2511 3705]
+w_h_top_words:['tldr', 'current', 'ride', 'block', 'special', 'bfhttheoryautotldrconcept', 'typical', 'circuit', 'consider', 'pull', 'carbon', 'core', 'keyword', 'group', 'affect', 'contain', 'reduce', 'sentence', 'output', 'turbo']
+----------------------------------------------------------------------
+h_num: 97
+w_h_top_words_indx: [2815 3034 3167 2618 2031  590 3598  392 1791 3716  516  851 3064   37
+  951 2316 2169 2696  358  585]
+w_h_top_words:['pull', 'ride', 'send', 'picture', 'letter', 'circuit', 'thought', 'block', 'incredibly', 'typical', 'carbon', 'current', 'round', 'acknowledge', 'desire', 'motorcycle', 'massive', 'powerful', 'bfhttheoryautotldrconcept', 'chrome']
+----------------------------------------------------------------------
+h_num: 98
+w_h_top_words_indx: [2815 3034 3167 2618 2031  590  392 3598 1791  851 3064 3716  516 2169
+  951   37 2316  358  585 2696]
+w_h_top_words:['pull', 'ride', 'send', 'picture', 'letter', 'circuit', 'block', 'thought', 'incredibly', 'current', 'round', 'typical', 'carbon', 'massive', 'desire', 'acknowledge', 'motorcycle', 'bfhttheoryautotldrconcept', 'chrome', 'powerful']
+----------------------------------------------------------------------
+h_num: 99
+w_h_top_words_indx: [ 358 1953 2618 2812  851  652 3034 3910 3344 3626 3901 1558  951 3716
+ 2660  975 2616 3167  516 2917]
+w_h_top_words:['bfhttheoryautotldrconcept', 'keyword', 'picture', 'public', 'current', 'color', 'ride', 'white', 'special', 'tldr', 'welcome', 'group', 'desire', 'typical', 'policy', 'different', 'pick', 'send', 'carbon', 'reduce']
+----------------------------------------------------------------------
+h_num: 100
+w_h_top_words_indx: [2815 3034 3167 2618 2031  590  392 3598 1791 3716  851  516 3064   37
+  951 2169 2316 2696  358  585]
+w_h_top_words:['pull', 'ride', 'send', 'picture', 'letter', 'circuit', 'block', 'thought', 'incredibly', 'typical', 'current', 'carbon', 'round', 'acknowledge', 'desire', 'massive', 'motorcycle', 'powerful', 'bfhttheoryautotldrconcept', 'chrome']
+----------------------------------------------------------------------
+h_num: 101
+w_h_top_words_indx: [ 851  392 1341 3344  830  732 3588 3252  652 2812  358 1372 2541 2618
+ 2815 2579  140 1403 3073  590]
+w_h_top_words:['current', 'block', 'find', 'special', 'cross', 'consider', 'theory', 'sin', 'color', 'public', 'bfhttheoryautotldrconcept', 'fmfaqautotldrbot', 'paper', 'picture', 'pull', 'peak', 'analog', 'foul', 'rule', 'circuit']
+----------------------------------------------------------------------
+h_num: 102
+w_h_top_words_indx: [3344 3626  851  358 3034 3901  732 1953  392 3716 1558 2305   79  652
+ 2897  951 2511 3431 1341  590]
+w_h_top_words:['special', 'tldr', 'current', 'bfhttheoryautotldrconcept', 'ride', 'welcome', 'consider', 'keyword', 'block', 'typical', 'group', 'morality', 'affect', 'color', 'reasoning', 'desire', 'output', 'strike', 'find', 'circuit']
+----------------------------------------------------------------------
+h_num: 103
+w_h_top_words_indx: [ 732 3910 2618 3344 1558  851 3479 1320 3716 2093 2169  516 3588  652
+ 3626  215 2696 3034 1341 3167]
+w_h_top_words:['consider', 'white', 'picture', 'special', 'group', 'current', 'sun', 'fellow', 'typical', 'loss', 'massive', 'carbon', 'theory', 'color', 'tldr', 'ask', 'powerful', 'ride', 'find', 'send']
+----------------------------------------------------------------------
+h_num: 104
+w_h_top_words_indx: [2815 3034 3167 2618 2031  590  392 3598 1791  851 3064 3716  516 2169
+  951   37 2316  358  585 2696]
+w_h_top_words:['pull', 'ride', 'send', 'picture', 'letter', 'circuit', 'block', 'thought', 'incredibly', 'current', 'round', 'typical', 'carbon', 'massive', 'desire', 'acknowledge', 'motorcycle', 'bfhttheoryautotldrconcept', 'chrome', 'powerful']
+----------------------------------------------------------------------
+h_num: 105
+w_h_top_words_indx: [ 851 3034  358  392 3344 3626 1558 3716 2812 3431 1953 3901  516  590
+ 2618  858 3172  652 2603 2815]
+w_h_top_words:['current', 'ride', 'bfhttheoryautotldrconcept', 'block', 'special', 'tldr', 'group', 'typical', 'public', 'strike', 'keyword', 'welcome', 'carbon', 'circuit', 'picture', 'cut', 'sentence', 'color', 'phase', 'pull']
+----------------------------------------------------------------------
+h_num: 106
+w_h_top_words_indx: [1953 2618 2812  851  392  732 1558 1341 3588 3034  652  590  358 3308
+ 3901 1791 2696 2640  202 2603]
+w_h_top_words:['keyword', 'picture', 'public', 'current', 'block', 'consider', 'group', 'find', 'theory', 'ride', 'color', 'circuit', 'bfhttheoryautotldrconcept', 'software', 'welcome', 'incredibly', 'powerful', 'plate', 'arm', 'phase']
+----------------------------------------------------------------------
+h_num: 107
+w_h_top_words_indx: [2815 3034 2618  516  590 3716 3598 3167 1791 2031  392   37  851 2696
+ 3064 2276  951 2316 3626  585]
+w_h_top_words:['pull', 'ride', 'picture', 'carbon', 'circuit', 'typical', 'thought', 'send', 'incredibly', 'letter', 'block', 'acknowledge', 'current', 'powerful', 'round', 'mm', 'desire', 'motorcycle', 'tldr', 'chrome']
+----------------------------------------------------------------------
+h_num: 108
+w_h_top_words_indx: [2815 3034 3167 2618 2031  590 3598  392 1791 3716  516  851 3064   37
+  951 2316 2169 2696  585  358]
+w_h_top_words:['pull', 'ride', 'send', 'picture', 'letter', 'circuit', 'thought', 'block', 'incredibly', 'typical', 'carbon', 'current', 'round', 'acknowledge', 'desire', 'motorcycle', 'massive', 'powerful', 'chrome', 'bfhttheoryautotldrconcept']
+----------------------------------------------------------------------
+h_num: 109
+w_h_top_words_indx: [2815 3034 3167 2618 2031  590 3598  392 1791 3716  516  851 3064   37
+  951 2316 2169 2696  358  585]
+w_h_top_words:['pull', 'ride', 'send', 'picture', 'letter', 'circuit', 'thought', 'block', 'incredibly', 'typical', 'carbon', 'current', 'round', 'acknowledge', 'desire', 'motorcycle', 'massive', 'powerful', 'bfhttheoryautotldrconcept', 'chrome']
+----------------------------------------------------------------------
+h_num: 110
+w_h_top_words_indx: [3600 3910  830 3562  484 1237 2591 2541 3908 2829  803    6 2599  559
+  587 1151 1718 2868 2618  328]
+w_h_top_words:['thread', 'white', 'cross', 'terminal', 'cable', 'exist', 'perform', 'paper', 'wheel', 'puwhatisautomoderator', 'cpu', 'able', 'personally', 'charge', 'church', 'engage', 'humanity', 'rate', 'picture', 'beat']
+----------------------------------------------------------------------
+h_num: 111
+w_h_top_words_indx: [2815 3034 3167 2618 2031  590  392 1791 3598  851 3064 3716  516 2169
+  951   37 2316  358 2591  585]
+w_h_top_words:['pull', 'ride', 'send', 'picture', 'letter', 'circuit', 'block', 'incredibly', 'thought', 'current', 'round', 'typical', 'carbon', 'massive', 'desire', 'acknowledge', 'motorcycle', 'bfhttheoryautotldrconcept', 'perform', 'chrome']
+----------------------------------------------------------------------
+h_num: 112
+w_h_top_words_indx: [2815 2618 3034  516 3716  590  392   37 1791 3598 2696 2031  851 3626
+  732 3167  951 3890 3064  585]
+w_h_top_words:['pull', 'picture', 'ride', 'carbon', 'typical', 'circuit', 'block', 'acknowledge', 'incredibly', 'thought', 'powerful', 'letter', 'current', 'tldr', 'consider', 'send', 'desire', 'wear', 'round', 'chrome']
+----------------------------------------------------------------------
+h_num: 113
+w_h_top_words_indx: [2815 2618 3034  516  590 3716 3598  392 1791   37 2696 2031  851 3167
+ 3064 2276  951 3626  732  585]
+w_h_top_words:['pull', 'picture', 'ride', 'carbon', 'circuit', 'typical', 'thought', 'block', 'incredibly', 'acknowledge', 'powerful', 'letter', 'current', 'send', 'round', 'mm', 'desire', 'tldr', 'consider', 'chrome']
+----------------------------------------------------------------------
+h_num: 114
+w_h_top_words_indx: [2815 3034 3167 2618 2031  590  392 3598 1791  851 3064 3716  516 2169
+  951   37 2316  358  585 2591]
+w_h_top_words:['pull', 'ride', 'send', 'picture', 'letter', 'circuit', 'block', 'thought', 'incredibly', 'current', 'round', 'typical', 'carbon', 'massive', 'desire', 'acknowledge', 'motorcycle', 'bfhttheoryautotldrconcept', 'chrome', 'perform']
+----------------------------------------------------------------------
+h_num: 115
+w_h_top_words_indx: [2815 3034 2618  516  590 3716 3598 1791  392 3167 2031   37  851 2696
+ 2276 3064  951 2316 3626  585]
+w_h_top_words:['pull', 'ride', 'picture', 'carbon', 'circuit', 'typical', 'thought', 'incredibly', 'block', 'send', 'letter', 'acknowledge', 'current', 'powerful', 'mm', 'round', 'desire', 'motorcycle', 'tldr', 'chrome']
+----------------------------------------------------------------------
+h_num: 116
+w_h_top_words_indx: [3626  392 3034  732  358  851 1953 3344 3716  590 1558 3588 3172  516
+ 1921 3901   37   79  749  777]
+w_h_top_words:['tldr', 'block', 'ride', 'consider', 'bfhttheoryautotldrconcept', 'current', 'keyword', 'special', 'typical', 'circuit', 'group', 'theory', 'sentence', 'carbon', 'jewish', 'welcome', 'acknowledge', 'affect', 'contain', 'core']
+----------------------------------------------------------------------
+h_num: 117
+w_h_top_words_indx: [2815 2618 3034  516 3716  590  392   37 3598 1791 2696 3890  732 2031
+  851 3626  951 3064  215  585]
+w_h_top_words:['pull', 'picture', 'ride', 'carbon', 'typical', 'circuit', 'block', 'acknowledge', 'thought', 'incredibly', 'powerful', 'wear', 'consider', 'letter', 'current', 'tldr', 'desire', 'round', 'ask', 'chrome']
+----------------------------------------------------------------------
+h_num: 118
+w_h_top_words_indx: [3034 2812 1953 2618  358 1558 3626 1562 3167  830  392 3172 3431  202
+  851 3716  858 2696 3901  590]
+w_h_top_words:['ride', 'public', 'keyword', 'picture', 'bfhttheoryautotldrconcept', 'group', 'tldr', 'gt', 'send', 'cross', 'block', 'sentence', 'strike', 'arm', 'current', 'typical', 'cut', 'powerful', 'welcome', 'circuit']
+----------------------------------------------------------------------
+h_num: 119
+w_h_top_words_indx: [1396 3716 2815 3588 2825 3034  732  151 3344  590  516  140   86  749
+ 1953 3566 3626  652   37  392]
+w_h_top_words:['form', 'typical', 'pull', 'theory', 'purpose', 'ride', 'consider', 'animal', 'special', 'circuit', 'carbon', 'analog', 'agenda', 'contain', 'keyword', 'territory', 'tldr', 'color', 'acknowledge', 'block']
+----------------------------------------------------------------------
+h_num: 120
+w_h_top_words_indx: [ 851  652  358 1558 2812 1953 3626  392  590 2037 3910 3464  732 3034
+ 3431 2696 3716 2722 3479 3344]
+w_h_top_words:['current', 'color', 'bfhttheoryautotldrconcept', 'group', 'public', 'keyword', 'tldr', 'block', 'circuit', 'liberal', 'white', 'suck', 'consider', 'ride', 'strike', 'powerful', 'typical', 'present', 'sun', 'special']
+----------------------------------------------------------------------
+h_num: 121
+w_h_top_words_indx: [ 392  975  516  851 2812 2618 2815  140  202  777 1396 3626 3172  830
+ 1558  652 2696 3034 3602 3344]
+w_h_top_words:['block', 'different', 'carbon', 'current', 'public', 'picture', 'pull', 'analog', 'arm', 'core', 'form', 'tldr', 'sentence', 'cross', 'group', 'color', 'powerful', 'ride', 'throttle', 'special']
+----------------------------------------------------------------------
+h_num: 122
+w_h_top_words_indx: [ 851 3626 3034  732  392  358 1953 3344 1558  516 2917 3588 3716  590
+ 1797 2815  749   79  777   37]
+w_h_top_words:['current', 'tldr', 'ride', 'consider', 'block', 'bfhttheoryautotldrconcept', 'keyword', 'special', 'group', 'carbon', 'reduce', 'theory', 'typical', 'circuit', 'individual', 'pull', 'contain', 'affect', 'core', 'acknowledge']
+----------------------------------------------------------------------
+h_num: 123
+w_h_top_words_indx: [3626 3034 3344  358 3716  516  392   79 2511  732 2917 1558  777  851
+ 3172 1953  590  484 3705 3043]
+w_h_top_words:['tldr', 'ride', 'special', 'bfhttheoryautotldrconcept', 'typical', 'carbon', 'block', 'affect', 'output', 'consider', 'reduce', 'group', 'core', 'current', 'sentence', 'keyword', 'circuit', 'cable', 'turbo', 'ring']
+----------------------------------------------------------------------
+h_num: 124
+w_h_top_words_indx: [ 851 3034  358  392 3626 1562  590 3901 3716 2169 2897 3910 3172 2812
+ 1558 1953  975  516 2660  777]
+w_h_top_words:['current', 'ride', 'bfhttheoryautotldrconcept', 'block', 'tldr', 'gt', 'circuit', 'welcome', 'typical', 'massive', 'reasoning', 'white', 'sentence', 'public', 'group', 'keyword', 'different', 'carbon', 'policy', 'core']
+----------------------------------------------------------------------
+h_num: 125
+w_h_top_words_indx: [ 732 3910 2618 3344 1558  851 3479 1320 3716  516 2093 2169  652 3626
+  215 3588 2696 1341 3034 3167]
+w_h_top_words:['consider', 'white', 'picture', 'special', 'group', 'current', 'sun', 'fellow', 'typical', 'carbon', 'loss', 'massive', 'color', 'tldr', 'ask', 'theory', 'powerful', 'find', 'ride', 'send']
+----------------------------------------------------------------------
+h_num: 126
+w_h_top_words_indx: [ 851 3344 3626  358  392 3034 2305 3716 2917 3901 1953 1558   79  652
+  951 3431  777  590  617 3172]
+w_h_top_words:['current', 'special', 'tldr', 'bfhttheoryautotldrconcept', 'block', 'ride', 'morality', 'typical', 'reduce', 'welcome', 'keyword', 'group', 'affect', 'color', 'desire', 'strike', 'core', 'circuit', 'clinical', 'sentence']
+----------------------------------------------------------------------
+h_num: 127
+w_h_top_words_indx: [2815 3034 2618  516  590 3716 3598 1791  392   37 2031 2696  851 3167
+ 2276 3064  951 3626  585 3890]
+w_h_top_words:['pull', 'ride', 'picture', 'carbon', 'circuit', 'typical', 'thought', 'incredibly', 'block', 'acknowledge', 'letter', 'powerful', 'current', 'send', 'mm', 'round', 'desire', 'tldr', 'chrome', 'wear']
+----------------------------------------------------------------------
+h_num: 128
+w_h_top_words_indx: [ 732 2815  392  851 3034 1953 3626 3344 2812 1558  358  140  590  777
+ 1797 1372 2917 2511 3566 3716]
+w_h_top_words:['consider', 'pull', 'block', 'current', 'ride', 'keyword', 'tldr', 'special', 'public', 'group', 'bfhttheoryautotldrconcept', 'analog', 'circuit', 'core', 'individual', 'fmfaqautotldrbot', 'reduce', 'output', 'territory', 'typical']
+----------------------------------------------------------------------
+h_num: 129
+w_h_top_words_indx: [2815 3034 2618 3167  590 3598 2031 1791 3716  516  392  851   37  951
+ 2696 2316 3064 3626  585 3073]
+w_h_top_words:['pull', 'ride', 'picture', 'send', 'circuit', 'thought', 'letter', 'incredibly', 'typical', 'carbon', 'block', 'current', 'acknowledge', 'desire', 'powerful', 'motorcycle', 'round', 'tldr', 'chrome', 'rule']
+----------------------------------------------------------------------
+h_num: 130
+w_h_top_words_indx: [2815 3034 3167 2618 2031  590 3598  392 1791 3716  851  516 3064   37
+  951 2169 2316 2696  358  585]
+w_h_top_words:['pull', 'ride', 'send', 'picture', 'letter', 'circuit', 'thought', 'block', 'incredibly', 'typical', 'current', 'carbon', 'round', 'acknowledge', 'desire', 'massive', 'motorcycle', 'powerful', 'bfhttheoryautotldrconcept', 'chrome']
+----------------------------------------------------------------------
+h_num: 131
+w_h_top_words_indx: [ 851 3344 3034  392  732 3626 3716  358   79 1558  516  777 3588 1953
+ 3172 1313  749 1921 1341 3901]
+w_h_top_words:['current', 'special', 'ride', 'block', 'consider', 'tldr', 'typical', 'bfhttheoryautotldrconcept', 'affect', 'group', 'carbon', 'core', 'theory', 'keyword', 'sentence', 'federal', 'contain', 'jewish', 'find', 'welcome']
+----------------------------------------------------------------------
+h_num: 132
+w_h_top_words_indx: [2815 3034 3167 2618 2031  590 3598  392 1791 3716  516  851 3064   37
+  951 2316 2169 2696 3626  585]
+w_h_top_words:['pull', 'ride', 'send', 'picture', 'letter', 'circuit', 'thought', 'block', 'incredibly', 'typical', 'carbon', 'current', 'round', 'acknowledge', 'desire', 'motorcycle', 'massive', 'powerful', 'tldr', 'chrome']
+----------------------------------------------------------------------
+h_num: 133
+w_h_top_words_indx: [ 732  851 3588 3034  392 2812 3344 2696 1953 1558  358 2511 2618  516
+ 2815 3716 2276 2917  590 2603]
+w_h_top_words:['consider', 'current', 'theory', 'ride', 'block', 'public', 'special', 'powerful', 'keyword', 'group', 'bfhttheoryautotldrconcept', 'output', 'picture', 'carbon', 'pull', 'typical', 'mm', 'reduce', 'circuit', 'phase']
+----------------------------------------------------------------------
+h_num: 134
+w_h_top_words_indx: [2815 3034 2618 3167  590 2031 3598 1791  392 3716  516  851   37 3064
+  951 2316 2696 3626 2169  585]
+w_h_top_words:['pull', 'ride', 'picture', 'send', 'circuit', 'letter', 'thought', 'incredibly', 'block', 'typical', 'carbon', 'current', 'acknowledge', 'round', 'desire', 'motorcycle', 'powerful', 'tldr', 'massive', 'chrome']
+----------------------------------------------------------------------
+h_num: 135
+w_h_top_words_indx: [3600 3910 3562 1237  830 3908 3752 2591 2868  140  951 3305 1178 1702
+  732 2599 2660 1151  851 3431]
+w_h_top_words:['thread', 'white', 'terminal', 'exist', 'cross', 'wheel', 'unit', 'perform', 'rate', 'analog', 'desire', 'society', 'equivalent', 'hospital', 'consider', 'personally', 'policy', 'engage', 'current', 'strike']
+----------------------------------------------------------------------
+h_num: 136
+w_h_top_words_indx: [3600  732  559 3242  803 3369 3249 2615 2541 2829 2766 1514 3908 3380
+ 3646 3221 1274 1151 1068 3431]
+w_h_top_words:['thread', 'consider', 'charge', 'signal', 'cpu', 'spread', 'simply', 'pic', 'paper', 'puwhatisautomoderator', 'produce', 'goal', 'wheel', 'staff', 'touch', 'shooter', 'face', 'engage', 'drop', 'strike']
+----------------------------------------------------------------------
+h_num: 137
+w_h_top_words_indx: [2815 3034 3167 2618 2031  590  392 3598 1791  851 3716 3064  516   37
+  951 2169 2316  358  585 2696]
+w_h_top_words:['pull', 'ride', 'send', 'picture', 'letter', 'circuit', 'block', 'thought', 'incredibly', 'current', 'typical', 'round', 'carbon', 'acknowledge', 'desire', 'massive', 'motorcycle', 'bfhttheoryautotldrconcept', 'chrome', 'powerful']
+----------------------------------------------------------------------
+h_num: 138
+w_h_top_words_indx: [3600 3910 3562 2541  830  484 1237 3908 2591  151 1178  951 2618  140
+ 1718 2868 3446  851    6 2599]
+w_h_top_words:['thread', 'white', 'terminal', 'paper', 'cross', 'cable', 'exist', 'wheel', 'perform', 'animal', 'equivalent', 'desire', 'picture', 'analog', 'humanity', 'rate', 'stutter', 'current', 'able', 'personally']
+----------------------------------------------------------------------
+h_num: 139
+w_h_top_words_indx: [3034  851  392 2812 2696  590 3716 1558  358  830 2618   37 2603  516
+  328  140 3172 1396  777  732]
+w_h_top_words:['ride', 'current', 'block', 'public', 'powerful', 'circuit', 'typical', 'group', 'bfhttheoryautotldrconcept', 'cross', 'picture', 'acknowledge', 'phase', 'carbon', 'beat', 'analog', 'sentence', 'form', 'core', 'consider']
+----------------------------------------------------------------------
+h_num: 140
+w_h_top_words_indx: [3600 3910 1237 3562  140 1558  590 3908 3752 3637 1718  951 3344 2591
+ 1396 1274 1702 2868  830 1514]
+w_h_top_words:['thread', 'white', 'exist', 'terminal', 'analog', 'group', 'circuit', 'wheel', 'unit', 'tool', 'humanity', 'desire', 'special', 'perform', 'form', 'face', 'hospital', 'rate', 'cross', 'goal']
+----------------------------------------------------------------------
+h_num: 141
+w_h_top_words_indx: [ 732 1341 3034 2812 2618  975  392 3308 3344  215  202  830 3433 1558
+ 3716 3751 2696 1957 3431  851]
+w_h_top_words:['consider', 'find', 'ride', 'public', 'picture', 'different', 'block', 'software', 'special', 'ask', 'arm', 'cross', 'strip', 'group', 'typical', 'unique', 'powerful', 'kill', 'strike', 'current']
+----------------------------------------------------------------------
+h_num: 142
+w_h_top_words_indx: [3344 3626  851 3034  358  151 3716   79 2305 1558 3431 1953 3588 1341
+ 3513  392 2825 3901 3369  217]
+w_h_top_words:['special', 'tldr', 'current', 'ride', 'bfhttheoryautotldrconcept', 'animal', 'typical', 'affect', 'morality', 'group', 'strike', 'keyword', 'theory', 'find', 'switch', 'block', 'purpose', 'welcome', 'spread', 'aspect']
+----------------------------------------------------------------------
+h_num: 143
+w_h_top_words_indx: [ 851 3344  732 3626  358 3034  392 1953 3901 1341 3716 1558   79 2897
+ 2511 1514 1403 3073  777 3172]
+w_h_top_words:['current', 'special', 'consider', 'tldr', 'bfhttheoryautotldrconcept', 'ride', 'block', 'keyword', 'welcome', 'find', 'typical', 'group', 'affect', 'reasoning', 'output', 'goal', 'foul', 'rule', 'core', 'sentence']
+----------------------------------------------------------------------
+h_num: 144
+w_h_top_words_indx: [ 851 3626  350  392 3344 1558 3034  358  516   79  777 3716 2815 3588
+  732  151 3172  951 1797 3043]
+w_h_top_words:['current', 'tldr', 'benefit', 'block', 'special', 'group', 'ride', 'bfhttheoryautotldrconcept', 'carbon', 'affect', 'core', 'typical', 'pull', 'theory', 'consider', 'animal', 'sentence', 'desire', 'individual', 'ring']
+----------------------------------------------------------------------
+h_num: 145
+w_h_top_words_indx: [3167 3034  851  922 1957 2618 2812  652  830  358  858 1558 2913 3910
+ 3890 2533 1587 2696 3344 3431]
+w_h_top_words:['send', 'ride', 'current', 'deliver', 'kill', 'picture', 'public', 'color', 'cross', 'bfhttheoryautotldrconcept', 'cut', 'group', 'red', 'white', 'wear', 'paint', 'guide', 'powerful', 'special', 'strike']
+----------------------------------------------------------------------
+h_num: 146
+w_h_top_words_indx: [3910 3600 3562  590 3908  140 2591  732 2599  951 3752 3446  392 1178
+ 3431   37 3305  830  872 2868]
+w_h_top_words:['white', 'thread', 'terminal', 'circuit', 'wheel', 'analog', 'perform', 'consider', 'personally', 'desire', 'unit', 'stutter', 'block', 'equivalent', 'strike', 'acknowledge', 'society', 'cross', 'dark', 'rate']
+----------------------------------------------------------------------
+h_num: 147
+w_h_top_words_indx: [ 851 2812 2618 3034 1953 3626  392 3716 2815 1558  590 3167 1341 3172
+  516  358  652  335 2603  350]
+w_h_top_words:['current', 'public', 'picture', 'ride', 'keyword', 'tldr', 'block', 'typical', 'pull', 'group', 'circuit', 'send', 'find', 'sentence', 'carbon', 'bfhttheoryautotldrconcept', 'color', 'beginning', 'phase', 'benefit']
+----------------------------------------------------------------------
+h_num: 148
+w_h_top_words_indx: [2815  732 3890 2618  516 3034  358 2276 3167 3433  750  392  777 3598
+  590 3705 3464 3172 3344 3064]
+w_h_top_words:['pull', 'consider', 'wear', 'picture', 'carbon', 'ride', 'bfhttheoryautotldrconcept', 'mm', 'send', 'strip', 'content', 'block', 'core', 'thought', 'circuit', 'turbo', 'suck', 'sentence', 'special', 'round']
+----------------------------------------------------------------------
+h_num: 149
+w_h_top_words_indx: [ 350 3344 3626  851 3034  358 1558  151  392 3716   37  516 2913 2815
+   79  777  951  732  217 3172]
+w_h_top_words:['benefit', 'special', 'tldr', 'current', 'ride', 'bfhttheoryautotldrconcept', 'group', 'animal', 'block', 'typical', 'acknowledge', 'carbon', 'red', 'pull', 'affect', 'core', 'desire', 'consider', 'aspect', 'sentence']
+----------------------------------------------------------------------
+h_num: 150
+w_h_top_words_indx: [3600 3910 3562 2541 3908  484  830 1237 2599 2591 1178 2618  140 2089
+  951 3446  215 3305  803 1718]
+w_h_top_words:['thread', 'white', 'terminal', 'paper', 'wheel', 'cable', 'cross', 'exist', 'personally', 'perform', 'equivalent', 'picture', 'analog', 'loop', 'desire', 'stutter', 'ask', 'society', 'cpu', 'humanity']
+----------------------------------------------------------------------
+h_num: 151
+w_h_top_words_indx: [ 851  695  140 3908 3344 2815  516 2511 1953 3588 3626  951 3034  732
+  151  221 1383  872 3566 1320]
+w_h_top_words:['current', 'component', 'analog', 'wheel', 'special', 'pull', 'carbon', 'output', 'keyword', 'theory', 'tldr', 'desire', 'ride', 'consider', 'animal', 'assembly', 'foot', 'dark', 'territory', 'fellow']
+----------------------------------------------------------------------
+h_num: 152
+w_h_top_words_indx: [ 851  732 1341  151  830 2618  392 3034  358 3167 2696 2812 3566 3716
+ 2338 2031 1396 1202  516 1558]
+w_h_top_words:['current', 'consider', 'find', 'animal', 'cross', 'picture', 'block', 'ride', 'bfhttheoryautotldrconcept', 'send', 'powerful', 'public', 'territory', 'typical', 'muslim', 'letter', 'form', 'event', 'carbon', 'group']
+----------------------------------------------------------------------
+h_num: 153
+w_h_top_words_indx: [2815 3034 2618 3167 2031  590 3598 1791  392 3716  516  851 3064   37
+  951 2316 2169 2696 3626  585]
+w_h_top_words:['pull', 'ride', 'picture', 'send', 'letter', 'circuit', 'thought', 'incredibly', 'block', 'typical', 'carbon', 'current', 'round', 'acknowledge', 'desire', 'motorcycle', 'massive', 'powerful', 'tldr', 'chrome']
+----------------------------------------------------------------------
+h_num: 154
+w_h_top_words_indx: [3034 3716 2696  151  851  358 1558 2812  392 2618  516  830  140 2917
+ 1396 2921  590 2031 1237 3172]
+w_h_top_words:['ride', 'typical', 'powerful', 'animal', 'current', 'bfhttheoryautotldrconcept', 'group', 'public', 'block', 'picture', 'carbon', 'cross', 'analog', 'reduce', 'form', 'reflect', 'circuit', 'letter', 'exist', 'sentence']
+----------------------------------------------------------------------
+h_num: 155
+w_h_top_words_indx: [ 851 3626  392 3034  732  358 3344 1558 1953 3588  516 2917 3716   37
+  777  749 3901  590 1921   79]
+w_h_top_words:['current', 'tldr', 'block', 'ride', 'consider', 'bfhttheoryautotldrconcept', 'special', 'group', 'keyword', 'theory', 'carbon', 'reduce', 'typical', 'acknowledge', 'core', 'contain', 'welcome', 'circuit', 'jewish', 'affect']
+----------------------------------------------------------------------
+h_num: 156
+w_h_top_words_indx: [2618 2812  851 1953  652  732  358  392 1341 1558 3344 3901  830 2696
+ 3716 1791 3308 3034    4  202]
+w_h_top_words:['picture', 'public', 'current', 'keyword', 'color', 'consider', 'bfhttheoryautotldrconcept', 'block', 'find', 'group', 'special', 'welcome', 'cross', 'powerful', 'typical', 'incredibly', 'software', 'ride', 'ability', 'arm']
+----------------------------------------------------------------------
+h_num: 157
+w_h_top_words_indx: [ 732 2812  392 1558 2696 1953 2618 1341  202 3588  358 3034  872 1791
+ 3344 2815  851   37 3566 3626]
+w_h_top_words:['consider', 'public', 'block', 'group', 'powerful', 'keyword', 'picture', 'find', 'arm', 'theory', 'bfhttheoryautotldrconcept', 'ride', 'dark', 'incredibly', 'special', 'pull', 'current', 'acknowledge', 'territory', 'tldr']
+----------------------------------------------------------------------
+h_num: 158
+w_h_top_words_indx: [2815 3034 2618  516  590 3716 3598 3167 1791 2031  392   37  851 2696
+ 3064 2276  951 2316 3626  585]
+w_h_top_words:['pull', 'ride', 'picture', 'carbon', 'circuit', 'typical', 'thought', 'send', 'incredibly', 'letter', 'block', 'acknowledge', 'current', 'powerful', 'round', 'mm', 'desire', 'motorcycle', 'tldr', 'chrome']
+----------------------------------------------------------------------
+h_num: 159
+w_h_top_words_indx: [2815 2618 3034 3716  516  590  392   37 1791 3598 2696 2031 3626  732
+  851  951 3890 3167 3064  585]
+w_h_top_words:['pull', 'picture', 'ride', 'typical', 'carbon', 'circuit', 'block', 'acknowledge', 'incredibly', 'thought', 'powerful', 'letter', 'tldr', 'consider', 'current', 'desire', 'wear', 'send', 'round', 'chrome']
+----------------------------------------------------------------------
+h_num: 160
+w_h_top_words_indx: [3600  732 3994 2599  975 1274 3908 3752  559  140 3910 3562 3305  987
+  695 1151 1953  484 1558 1068]
+w_h_top_words:['thread', 'consider', 'z', 'personally', 'different', 'face', 'wheel', 'unit', 'charge', 'analog', 'white', 'terminal', 'society', 'direction', 'component', 'engage', 'keyword', 'cable', 'group', 'drop']
+----------------------------------------------------------------------
+h_num: 161
+w_h_top_words_indx: [2815 3034 2618  516  590 3716 3598 1791  392   37 2031 2696  851 3167
+ 2276 3064  951 3626  585 3890]
+w_h_top_words:['pull', 'ride', 'picture', 'carbon', 'circuit', 'typical', 'thought', 'incredibly', 'block', 'acknowledge', 'letter', 'powerful', 'current', 'send', 'mm', 'round', 'desire', 'tldr', 'chrome', 'wear']
+----------------------------------------------------------------------
+h_num: 162
+w_h_top_words_indx: [3600  732 3994 2599 1237 3910 2812 3562 1274 3224  830  743  140 2929
+ 3001 2766 3908 3167 2829  484]
+w_h_top_words:['thread', 'consider', 'z', 'personally', 'exist', 'white', 'public', 'terminal', 'face', 'short', 'cross', 'constructive', 'analog', 'regard', 'respect', 'produce', 'wheel', 'send', 'puwhatisautomoderator', 'cable']
+----------------------------------------------------------------------
+h_num: 163
+w_h_top_words_indx: [1396 2815  732  851  151 3344 3073 1953  392  358  140 2618 3716 3566
+ 3626 1372 3034 2276  749  830]
+w_h_top_words:['form', 'pull', 'consider', 'current', 'animal', 'special', 'rule', 'keyword', 'block', 'bfhttheoryautotldrconcept', 'analog', 'picture', 'typical', 'territory', 'tldr', 'fmfaqautotldrbot', 'ride', 'mm', 'contain', 'cross']
+----------------------------------------------------------------------
+h_num: 164
+w_h_top_words_indx: [2815 3034 3167 2618 2031  590  392 1791  851 3598 3064  516 3716 2169
+  951   37 2591  358 2316  585]
+w_h_top_words:['pull', 'ride', 'send', 'picture', 'letter', 'circuit', 'block', 'incredibly', 'current', 'thought', 'round', 'carbon', 'typical', 'massive', 'desire', 'acknowledge', 'perform', 'bfhttheoryautotldrconcept', 'motorcycle', 'chrome']
+----------------------------------------------------------------------
+h_num: 165
+w_h_top_words_indx: [2815 3034 2618  516  590 3716 3598 1791  392 2031   37 3167  851 2696
+ 2276 3064  951 3626  585 2316]
+w_h_top_words:['pull', 'ride', 'picture', 'carbon', 'circuit', 'typical', 'thought', 'incredibly', 'block', 'letter', 'acknowledge', 'send', 'current', 'powerful', 'mm', 'round', 'desire', 'tldr', 'chrome', 'motorcycle']
+----------------------------------------------------------------------
+h_num: 166
+w_h_top_words_indx: [ 851  140  392 1558 1953 3034 3588 3344  358  516  151 2511 3626  732
+ 1372 2917    4  680  830 2616]
+w_h_top_words:['current', 'analog', 'block', 'group', 'keyword', 'ride', 'theory', 'special', 'bfhttheoryautotldrconcept', 'carbon', 'animal', 'output', 'tldr', 'consider', 'fmfaqautotldrbot', 'reduce', 'ability', 'comparison', 'cross', 'pick']
+----------------------------------------------------------------------
+h_num: 167
+w_h_top_words_indx: [3600  732  140 3994 1274  975 2599 1237 3908  987 3369 1068 3249 1151
+ 2812  830  328 1558 3910 2622]
+w_h_top_words:['thread', 'consider', 'analog', 'z', 'face', 'different', 'personally', 'exist', 'wheel', 'direction', 'spread', 'drop', 'simply', 'engage', 'public', 'cross', 'beat', 'group', 'white', 'pipe']
+----------------------------------------------------------------------
+h_num: 168
+w_h_top_words_indx: [ 851 3344  830 3034 2618 3588  392  732 3716  358 3249   37 3751 1901
+ 2815 2812 1558 3073 2921 1202]
+w_h_top_words:['current', 'special', 'cross', 'ride', 'picture', 'theory', 'block', 'consider', 'typical', 'bfhttheoryautotldrconcept', 'simply', 'acknowledge', 'unique', 'issue', 'pull', 'public', 'group', 'rule', 'reflect', 'event']
+----------------------------------------------------------------------
+h_num: 169
+w_h_top_words_indx: [3034  830 1396 1953 2815  140 3588 3344  516  392 3908  951 1558  851
+ 3910 3716  151   37 1894 1718]
+w_h_top_words:['ride', 'cross', 'form', 'keyword', 'pull', 'analog', 'theory', 'special', 'carbon', 'block', 'wheel', 'desire', 'group', 'current', 'white', 'typical', 'animal', 'acknowledge', 'islamic', 'humanity']
+----------------------------------------------------------------------
+h_num: 170
+w_h_top_words_indx: [ 392  851 1558 3344  975 2815 3588 3626 2031  140  516 2533  732 3172
+ 2338 2989 3328 1953 2276 3562]
+w_h_top_words:['block', 'current', 'group', 'special', 'different', 'pull', 'theory', 'tldr', 'letter', 'analog', 'carbon', 'paint', 'consider', 'sentence', 'muslim', 'research', 'source', 'keyword', 'mm', 'terminal']
+----------------------------------------------------------------------
+h_num: 171
+w_h_top_words_indx: [2815 3034 2618  516  590 3716 3598 1791  392 2031 3167   37  851 2696
+ 2276 3064  951 2316 3626  585]
+w_h_top_words:['pull', 'ride', 'picture', 'carbon', 'circuit', 'typical', 'thought', 'incredibly', 'block', 'letter', 'send', 'acknowledge', 'current', 'powerful', 'mm', 'round', 'desire', 'motorcycle', 'tldr', 'chrome']
+----------------------------------------------------------------------
+h_num: 172
+w_h_top_words_indx: [ 851 3626 1558 3344  392 3716 3034 3431  358  777   37  652  350   79
+  749 3588 3172  590  516  732]
+w_h_top_words:['current', 'tldr', 'group', 'special', 'block', 'typical', 'ride', 'strike', 'bfhttheoryautotldrconcept', 'core', 'acknowledge', 'color', 'benefit', 'affect', 'contain', 'theory', 'sentence', 'circuit', 'carbon', 'consider']
+----------------------------------------------------------------------
+h_num: 173
+w_h_top_words_indx: [3600 3910 3562 3908  830 3752 1237 2591 2868  951  140 3305  732 1702
+ 2599 1178 1151 2660 3431 1808]
+w_h_top_words:['thread', 'white', 'terminal', 'wheel', 'cross', 'unit', 'exist', 'perform', 'rate', 'desire', 'analog', 'society', 'consider', 'hospital', 'personally', 'equivalent', 'engage', 'policy', 'strike', 'infortotesmessengerwiki']
+----------------------------------------------------------------------
+h_num: 174
+w_h_top_words_indx: [3600  732 3242  803 3668  559 1514 2766 3249 1068 3369 2615 3908 2541
+  975 2829 1274 1481 3380 3221]
+w_h_top_words:['thread', 'consider', 'signal', 'cpu', 'transistor', 'charge', 'goal', 'produce', 'simply', 'drop', 'spread', 'pic', 'wheel', 'paper', 'different', 'puwhatisautomoderator', 'face', 'generate', 'staff', 'shooter']
+----------------------------------------------------------------------
+h_num: 175
+w_h_top_words_indx: [2815 2618 3034 3716  516  590   37  392 1791 3598 2696 2031 3626  851
+  732  951 3167 3890 3064  585]
+w_h_top_words:['pull', 'picture', 'ride', 'typical', 'carbon', 'circuit', 'acknowledge', 'block', 'incredibly', 'thought', 'powerful', 'letter', 'tldr', 'current', 'consider', 'desire', 'send', 'wear', 'round', 'chrome']
+----------------------------------------------------------------------
+h_num: 176
+w_h_top_words_indx: [2815 3034 2618  516  590 3716 3598 1791  392   37 2031 2696  851 3167
+ 2276 3064  951 3626  585 3890]
+w_h_top_words:['pull', 'ride', 'picture', 'carbon', 'circuit', 'typical', 'thought', 'incredibly', 'block', 'acknowledge', 'letter', 'powerful', 'current', 'send', 'mm', 'round', 'desire', 'tldr', 'chrome', 'wear']
+----------------------------------------------------------------------
+h_num: 177
+w_h_top_words_indx: [2815 3034 2618  516  590 3716 3598 1791  392   37 2031 3167 2696  851
+ 2276 3064  951  585 3626 3890]
+w_h_top_words:['pull', 'ride', 'picture', 'carbon', 'circuit', 'typical', 'thought', 'incredibly', 'block', 'acknowledge', 'letter', 'send', 'powerful', 'current', 'mm', 'round', 'desire', 'chrome', 'tldr', 'wear']
+----------------------------------------------------------------------
+h_num: 178
+w_h_top_words_indx: [2815 3034 2618  516  590 3716 3598 1791  392   37 2031 3167  851 2696
+ 2276 3064  951 3626  585 3890]
+w_h_top_words:['pull', 'ride', 'picture', 'carbon', 'circuit', 'typical', 'thought', 'incredibly', 'block', 'acknowledge', 'letter', 'send', 'current', 'powerful', 'mm', 'round', 'desire', 'tldr', 'chrome', 'wear']
+----------------------------------------------------------------------
+h_num: 179
+w_h_top_words_indx: [3626 3344  358 3716 3034 2825 1558  516   79 3043  777 3588  851  202
+  392 2432 3172  350  140  749]
+w_h_top_words:['tldr', 'special', 'bfhttheoryautotldrconcept', 'typical', 'ride', 'purpose', 'group', 'carbon', 'affect', 'ring', 'core', 'theory', 'current', 'arm', 'block', 'object', 'sentence', 'benefit', 'analog', 'contain']
+----------------------------------------------------------------------
+h_num: 180
+w_h_top_words_indx: [1396 3588 3034 3716 2815 3910  516  140 2825  590 1953 1403   37 3626
+ 1894  392  151  777 2921 3931]
+w_h_top_words:['form', 'theory', 'ride', 'typical', 'pull', 'white', 'carbon', 'analog', 'purpose', 'circuit', 'keyword', 'foul', 'acknowledge', 'tldr', 'islamic', 'block', 'animal', 'core', 'reflect', 'wire']
+----------------------------------------------------------------------
+h_num: 181
+w_h_top_words_indx: [2815 3034 2618  516  590 3716 3598 1791 3167  392 2031   37  851 2696
+ 2276 3064  951 2316 3626  585]
+w_h_top_words:['pull', 'ride', 'picture', 'carbon', 'circuit', 'typical', 'thought', 'incredibly', 'send', 'block', 'letter', 'acknowledge', 'current', 'powerful', 'mm', 'round', 'desire', 'motorcycle', 'tldr', 'chrome']
+----------------------------------------------------------------------
+h_num: 182
+w_h_top_words_indx: [2815 2618 3034  516 3716  590  392   37 1791 3598 2696 2031  851 3626
+  732 3167  951 3890 3064  585]
+w_h_top_words:['pull', 'picture', 'ride', 'carbon', 'typical', 'circuit', 'block', 'acknowledge', 'incredibly', 'thought', 'powerful', 'letter', 'current', 'tldr', 'consider', 'send', 'desire', 'wear', 'round', 'chrome']
+----------------------------------------------------------------------
+h_num: 183
+w_h_top_words_indx: [3464 1558 3626  851 2913 3344  590 2093 2815 3479  392  732 3433 1481
+  872 3964  737  140 3908 2077]
+w_h_top_words:['suck', 'group', 'tldr', 'current', 'red', 'special', 'circuit', 'loss', 'pull', 'sun', 'block', 'consider', 'strip', 'generate', 'dark', 'wrong', 'console', 'analog', 'wheel', 'lock']
+----------------------------------------------------------------------
+h_num: 184
+w_h_top_words_indx: [3716 1396 3588 3034 2815  392  516  140 1321   37  590 1383  732 3931
+ 3705 2825 1953  951 2276  777]
+w_h_top_words:['typical', 'form', 'theory', 'ride', 'pull', 'block', 'carbon', 'analog', 'female', 'acknowledge', 'circuit', 'foot', 'consider', 'wire', 'turbo', 'purpose', 'keyword', 'desire', 'mm', 'core']
+----------------------------------------------------------------------
+h_num: 185
+w_h_top_words_indx: [ 140  695  830 3034 3626 3910 2815 1953 3908 1894  851 3716 2921  358
+   79 2660  516  777 2618  202]
+w_h_top_words:['analog', 'component', 'cross', 'ride', 'tldr', 'white', 'pull', 'keyword', 'wheel', 'islamic', 'current', 'typical', 'reflect', 'bfhttheoryautotldrconcept', 'affect', 'policy', 'carbon', 'core', 'picture', 'arm']
+----------------------------------------------------------------------
+h_num: 186
+w_h_top_words_indx: [2815 3034 3167 2618 2031  590  392 3598 1791  851 3716 3064  516   37
+  951 2169 2316  358  585 2696]
+w_h_top_words:['pull', 'ride', 'send', 'picture', 'letter', 'circuit', 'block', 'thought', 'incredibly', 'current', 'typical', 'round', 'carbon', 'acknowledge', 'desire', 'massive', 'motorcycle', 'bfhttheoryautotldrconcept', 'chrome', 'powerful']
+----------------------------------------------------------------------
+h_num: 187
+w_h_top_words_indx: [ 140  151 3034 3716 1558 1396  652 2812  392  217  851  732 3172 2696
+  516  590  777 2276 2815 2618]
+w_h_top_words:['analog', 'animal', 'ride', 'typical', 'group', 'form', 'color', 'public', 'block', 'aspect', 'current', 'consider', 'sentence', 'powerful', 'carbon', 'circuit', 'core', 'mm', 'pull', 'picture']
+----------------------------------------------------------------------
+h_num: 188
+w_h_top_words_indx: [ 851 2812  358 1953 3034 2618  951  652  350 1558 2917 3626 3716  392
+ 3344 1341  590 3901 2696 2603]
+w_h_top_words:['current', 'public', 'bfhttheoryautotldrconcept', 'keyword', 'ride', 'picture', 'desire', 'color', 'benefit', 'group', 'reduce', 'tldr', 'typical', 'block', 'special', 'find', 'circuit', 'welcome', 'powerful', 'phase']
+----------------------------------------------------------------------
+h_num: 189
+w_h_top_words_indx: [3600  732 3242  559  803 2766 3249 3369 2541 2615 1514 2829 1068 3668
+ 3908 1274 1481 3221 3646  975]
+w_h_top_words:['thread', 'consider', 'signal', 'charge', 'cpu', 'produce', 'simply', 'spread', 'paper', 'pic', 'goal', 'puwhatisautomoderator', 'drop', 'transistor', 'wheel', 'face', 'generate', 'shooter', 'touch', 'different']
+----------------------------------------------------------------------
+h_num: 190
+w_h_top_words_indx: [ 851 3626 3034 3344  392  732  358 3716 3901   79 1953  516 3588 1558
+  777 2917 3172  749 1921 3043]
+w_h_top_words:['current', 'tldr', 'ride', 'special', 'block', 'consider', 'bfhttheoryautotldrconcept', 'typical', 'welcome', 'affect', 'keyword', 'carbon', 'theory', 'group', 'core', 'reduce', 'sentence', 'contain', 'jewish', 'ring']
+----------------------------------------------------------------------
+h_num: 191
+w_h_top_words_indx: [ 851  732 3252  830 1341 3034 3167 1396 3464 3716  358 2618 3433 3064
+ 2815 3646 3073  590 3172 3344]
+w_h_top_words:['current', 'consider', 'sin', 'cross', 'find', 'ride', 'send', 'form', 'suck', 'typical', 'bfhttheoryautotldrconcept', 'picture', 'strip', 'round', 'pull', 'touch', 'rule', 'circuit', 'sentence', 'special']
+----------------------------------------------------------------------
+h_num: 192
+w_h_top_words_indx: [ 732  851 3344 3626  358  392 1953 3034 1558 3716 1341  590 3513  217
+ 3073 3588 1514 3566  749 2897]
+w_h_top_words:['consider', 'current', 'special', 'tldr', 'bfhttheoryautotldrconcept', 'block', 'keyword', 'ride', 'group', 'typical', 'find', 'circuit', 'switch', 'aspect', 'rule', 'theory', 'goal', 'territory', 'contain', 'reasoning']
+----------------------------------------------------------------------
+h_num: 193
+w_h_top_words_indx: [2618  830  732 3034 3910 3751 1558 2696  202 3600  392  652  328 2929
+ 2812 1702 1921  975  215 3308]
+w_h_top_words:['picture', 'cross', 'consider', 'ride', 'white', 'unique', 'group', 'powerful', 'arm', 'thread', 'block', 'color', 'beat', 'regard', 'public', 'hospital', 'jewish', 'different', 'ask', 'software']
+----------------------------------------------------------------------
+h_num: 194
+w_h_top_words_indx: [2618 3600  851  830  392  732 3588 3910 1718 1780 3249 3380 2929 2591
+  590 3189 1547 1558  328 2812]
+w_h_top_words:['picture', 'thread', 'current', 'cross', 'block', 'consider', 'theory', 'white', 'humanity', 'improvement', 'simply', 'staff', 'regard', 'perform', 'circuit', 'setup', 'gray', 'group', 'beat', 'public']
+----------------------------------------------------------------------
+h_num: 195
+w_h_top_words_indx: [2815 3034 3167 2618 2031  590  392 3598 1791  851 3716 3064  516   37
+  951 2169 2316  358  585 2696]
+w_h_top_words:['pull', 'ride', 'send', 'picture', 'letter', 'circuit', 'block', 'thought', 'incredibly', 'current', 'typical', 'round', 'carbon', 'acknowledge', 'desire', 'massive', 'motorcycle', 'bfhttheoryautotldrconcept', 'chrome', 'powerful']
+----------------------------------------------------------------------
+h_num: 196
+w_h_top_words_indx: [3034  358 3716  851 1558 2618 3344 3566 2812  590  140 3513  151  516
+  732  830 1396 3910    4  392]
+w_h_top_words:['ride', 'bfhttheoryautotldrconcept', 'typical', 'current', 'group', 'picture', 'special', 'territory', 'public', 'circuit', 'analog', 'switch', 'animal', 'carbon', 'consider', 'cross', 'form', 'white', 'ability', 'block']
+----------------------------------------------------------------------
+h_num: 197
+w_h_top_words_indx: [ 732 2618 3588 2815  151 3890  516 1558  392 3167 2812  215  403 2696
+ 3964 2276 3241 2066 2077 1321]
+w_h_top_words:['consider', 'picture', 'theory', 'pull', 'animal', 'wear', 'carbon', 'group', 'block', 'send', 'public', 'ask', 'body', 'powerful', 'wrong', 'mm', 'sign', 'little', 'lock', 'female']
+----------------------------------------------------------------------
+h_num: 198
+w_h_top_words_indx: [ 732  392  851 3588 3034 1953 1558 3931 2812  358 1797 2618  516 3344
+ 3566  872 2511 3716 2815 2276]
+w_h_top_words:['consider', 'block', 'current', 'theory', 'ride', 'keyword', 'group', 'wire', 'public', 'bfhttheoryautotldrconcept', 'individual', 'picture', 'carbon', 'special', 'territory', 'dark', 'output', 'typical', 'pull', 'mm']
+----------------------------------------------------------------------
+h_num: 199
+w_h_top_words_indx: [3910 3600  140 3908 3626   79  830 2591  358 1237 1953  732 3562 3344
+ 2618  951 1438 2599 3369 1558]
+w_h_top_words:['white', 'thread', 'analog', 'wheel', 'tldr', 'affect', 'cross', 'perform', 'bfhttheoryautotldrconcept', 'exist', 'keyword', 'consider', 'terminal', 'special', 'picture', 'desire', 'fully', 'personally', 'spread', 'group']
+----------------------------------------------------------------------

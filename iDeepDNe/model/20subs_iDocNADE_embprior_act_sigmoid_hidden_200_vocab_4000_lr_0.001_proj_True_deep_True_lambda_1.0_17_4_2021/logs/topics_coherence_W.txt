@@ -1,0 +1,1208 @@
+top_n: 10 Topic Num: 1 
+Topic Words: [['consider', 'find', 'special', 'picture', 'ride', 'arm', 'group', 'ask', 'powerful', 'strip']]
+Coh_type:c_v  Topic Num:1 COH score:0.36980832758653703
+top_n: 20 Topic Num: 1 
+Topic Words: [['consider', 'find', 'special', 'picture', 'ride', 'arm', 'group', 'ask', 'powerful', 'strip', 'fellow', 'unique', 'software', 'current', 'wear', 'generate', 'send', 'suck', 'core', 'color']]
+Coh_type:c_v  Topic Num:1 COH score:0.5180496139103938
+top_n: 10 Topic Num: 2 
+Topic Words: [['block', 'current', 'animal', 'special', 'group', 'bfhttheoryautotldrconcept', 'core', 'consider', 'territory', 'color']]
+Coh_type:c_v  Topic Num:2 COH score:0.3940182424748149
+top_n: 20 Topic Num: 2 
+Topic Words: [['block', 'current', 'animal', 'special', 'group', 'bfhttheoryautotldrconcept', 'core', 'consider', 'territory', 'color', 'keyword', 'circuit', 'aspect', 'arm', 'find', 'carbon', 'ride', 'tldr', 'pull', 'foul']]
+Coh_type:c_v  Topic Num:2 COH score:0.5064532228239969
+top_n: 10 Topic Num: 3 
+Topic Words: [['thread', 'exist', 'short', 'personally', 'white', 'cable', 'consider', 'face', 'society', 'rate']]
+Coh_type:c_v  Topic Num:3 COH score:0.3870498746530245
+top_n: 20 Topic Num: 3 
+Topic Words: [['thread', 'exist', 'short', 'personally', 'white', 'cable', 'consider', 'face', 'society', 'rate', 'terminal', 'analog', 'simply', 'engage', 'puwhatisautomoderator', 'cross', 'imagine', 'hospital', 'policy', 'different']]
+Coh_type:c_v  Topic Num:3 COH score:0.583014929444664
+top_n: 10 Topic Num: 4 
+Topic Words: [['current', 'ride', 'tldr', 'special', 'block', 'consider', 'typical', 'bfhttheoryautotldrconcept', 'affect', 'welcome']]
+Coh_type:c_v  Topic Num:4 COH score:0.421514018282625
+top_n: 20 Topic Num: 4 
+Topic Words: [['current', 'ride', 'tldr', 'special', 'block', 'consider', 'typical', 'bfhttheoryautotldrconcept', 'affect', 'welcome', 'carbon', 'keyword', 'group', 'circuit', 'theory', 'jewish', 'sentence', 'contain', 'core', 'reduce']]
+Coh_type:c_v  Topic Num:4 COH score:0.5496133154859421
+top_n: 10 Topic Num: 5 
+Topic Words: [['pull', 'ride', 'picture', 'send', 'circuit', 'letter', 'thought', 'incredibly', 'block', 'typical']]
+Coh_type:c_v  Topic Num:5 COH score:0.5764875502311955
+top_n: 20 Topic Num: 5 
+Topic Words: [['pull', 'ride', 'picture', 'send', 'circuit', 'letter', 'thought', 'incredibly', 'block', 'typical', 'carbon', 'current', 'acknowledge', 'round', 'desire', 'motorcycle', 'powerful', 'massive', 'tldr', 'chrome']]
+Coh_type:c_v  Topic Num:5 COH score:0.6677847907572743
+top_n: 10 Topic Num: 6 
+Topic Words: [['pull', 'ride', 'send', 'picture', 'letter', 'circuit', 'block', 'thought', 'incredibly', 'current']]
+Coh_type:c_v  Topic Num:6 COH score:0.49380908856156713
+top_n: 20 Topic Num: 6 
+Topic Words: [['pull', 'ride', 'send', 'picture', 'letter', 'circuit', 'block', 'thought', 'incredibly', 'current', 'typical', 'round', 'carbon', 'acknowledge', 'desire', 'massive', 'motorcycle', 'bfhttheoryautotldrconcept', 'chrome', 'powerful']]
+Coh_type:c_v  Topic Num:6 COH score:0.6702033894751802
+top_n: 10 Topic Num: 7 
+Topic Words: [['current', 'pull', 'sin', 'affect', 'special', 'consider', 'different', 'public', 'carbon', 'wrong']]
+Coh_type:c_v  Topic Num:7 COH score:0.4292619641288568
+top_n: 20 Topic Num: 7 
+Topic Words: [['current', 'pull', 'sin', 'affect', 'special', 'consider', 'different', 'public', 'carbon', 'wrong', 'ride', 'reflect', 'software', 'group', 'white', 'strip', 'suck', 'picture', 'cross', 'typical']]
+Coh_type:c_v  Topic Num:7 COH score:0.5717535218234653
+top_n: 10 Topic Num: 8 
+Topic Words: [['pull', 'ride', 'send', 'picture', 'letter', 'circuit', 'block', 'incredibly', 'thought', 'current']]
+Coh_type:c_v  Topic Num:8 COH score:0.49380908856156713
+top_n: 20 Topic Num: 8 
+Topic Words: [['pull', 'ride', 'send', 'picture', 'letter', 'circuit', 'block', 'incredibly', 'thought', 'current', 'round', 'typical', 'carbon', 'massive', 'desire', 'acknowledge', 'perform', 'bfhttheoryautotldrconcept', 'motorcycle', 'chrome']]
+Coh_type:c_v  Topic Num:8 COH score:0.6766683246824687
+top_n: 10 Topic Num: 9 
+Topic Words: [['pull', 'ride', 'send', 'picture', 'letter', 'circuit', 'block', 'thought', 'incredibly', 'current']]
+Coh_type:c_v  Topic Num:9 COH score:0.49380908856156713
+top_n: 20 Topic Num: 9 
+Topic Words: [['pull', 'ride', 'send', 'picture', 'letter', 'circuit', 'block', 'thought', 'incredibly', 'current', 'typical', 'round', 'carbon', 'desire', 'acknowledge', 'massive', 'motorcycle', 'bfhttheoryautotldrconcept', 'chrome', 'powerful']]
+Coh_type:c_v  Topic Num:9 COH score:0.6702033894751803
+top_n: 10 Topic Num: 10 
+Topic Words: [['send', 'sin', 'consider', 'pull', 'picture', 'animal', 'wear', 'circuit', 'ride', 'cross']]
+Coh_type:c_v  Topic Num:10 COH score:0.5045434000233765
+top_n: 20 Topic Num: 10 
+Topic Words: [['send', 'sin', 'consider', 'pull', 'picture', 'animal', 'wear', 'circuit', 'ride', 'cross', 'group', 'hand', 'exclusive', 'find', 'carbon', 'powerful', 'typical', 'lock', 'bfhttheoryautotldrconcept', 'hell']]
+Coh_type:c_v  Topic Num:10 COH score:0.5643342677669507
+top_n: 10 Topic Num: 11 
+Topic Words: [['bfhttheoryautotldrconcept', 'keyword', 'tldr', 'block', 'different', 'group', 'ride', 'suck', 'territory', 'little']]
+Coh_type:c_v  Topic Num:11 COH score:0.39047658775897476
+top_n: 20 Topic Num: 11 
+Topic Words: [['bfhttheoryautotldrconcept', 'keyword', 'tldr', 'block', 'different', 'group', 'ride', 'suck', 'territory', 'little', 'welcome', 'consider', 'plate', 'acknowledge', 'cross', 'pull', 'circuit', 'gt', 'white', 'find']]
+Coh_type:c_v  Topic Num:11 COH score:0.45706237883450307
+top_n: 10 Topic Num: 12 
+Topic Words: [['consider', 'bfhttheoryautotldrconcept', 'tldr', 'keyword', 'group', 'ride', 'rule', 'special', 'block', 'goal']]
+Coh_type:c_v  Topic Num:12 COH score:0.3434112941587415
+top_n: 20 Topic Num: 12 
+Topic Words: [['consider', 'bfhttheoryautotldrconcept', 'tldr', 'keyword', 'group', 'ride', 'rule', 'special', 'block', 'goal', 'affect', 'acknowledge', 'current', 'plate', 'circuit', 'pull', 'territory', 'dark', 'carbon', 'welcome']]
+Coh_type:c_v  Topic Num:12 COH score:0.5565770272588899
+top_n: 10 Topic Num: 13 
+Topic Words: [['pull', 'ride', 'picture', 'carbon', 'circuit', 'typical', 'thought', 'incredibly', 'block', 'acknowledge']]
+Coh_type:c_v  Topic Num:13 COH score:0.6282235473736011
+top_n: 20 Topic Num: 13 
+Topic Words: [['pull', 'ride', 'picture', 'carbon', 'circuit', 'typical', 'thought', 'incredibly', 'block', 'acknowledge', 'letter', 'powerful', 'current', 'send', 'mm', 'round', 'desire', 'tldr', 'chrome', 'wear']]
+Coh_type:c_v  Topic Num:13 COH score:0.681232045987358
+top_n: 10 Topic Num: 14 
+Topic Words: [['current', 'block', 'ride', 'arm', 'group', 'core', 'tldr', 'acknowledge', 'circuit', 'bfhttheoryautotldrconcept']]
+Coh_type:c_v  Topic Num:14 COH score:0.40599104148630394
+top_n: 20 Topic Num: 14 
+Topic Words: [['current', 'block', 'ride', 'arm', 'group', 'core', 'tldr', 'acknowledge', 'circuit', 'bfhttheoryautotldrconcept', 'benefit', 'special', 'sentence', 'carbon', 'different', 'incredibly', 'analog', 'pull', 'keyword', 'affect']]
+Coh_type:c_v  Topic Num:14 COH score:0.5910075582077426
+top_n: 10 Topic Num: 15 
+Topic Words: [['thread', 'consider', 'signal', 'cpu', 'goal', 'paper', 'wheel', 'simply', 'produce', 'charge']]
+Coh_type:c_v  Topic Num:15 COH score:0.48994644544607385
+top_n: 20 Topic Num: 15 
+Topic Words: [['thread', 'consider', 'signal', 'cpu', 'goal', 'paper', 'wheel', 'simply', 'produce', 'charge', 'spread', 'ask', 'different', 'rate', 'drop', 'pic', 'puwhatisautomoderator', 'staff', 'generate', 'face']]
+Coh_type:c_v  Topic Num:15 COH score:0.6140668985011672
+top_n: 10 Topic Num: 16 
+Topic Words: [['consider', 'public', 'current', 'ride', 'cross', 'find', 'group', 'special', 'unique', 'powerful']]
+Coh_type:c_v  Topic Num:16 COH score:0.35312002962992234
+top_n: 20 Topic Num: 16 
+Topic Words: [['consider', 'public', 'current', 'ride', 'cross', 'find', 'group', 'special', 'unique', 'powerful', 'picture', 'software', 'tldr', 'arm', 'typical', 'wear', 'core', 'ask', 'regard', 'strip']]
+Coh_type:c_v  Topic Num:16 COH score:0.5618629904465388
+top_n: 10 Topic Num: 17 
+Topic Words: [['pull', 'ride', 'send', 'picture', 'letter', 'circuit', 'block', 'thought', 'incredibly', 'typical']]
+Coh_type:c_v  Topic Num:17 COH score:0.5764875502311955
+top_n: 20 Topic Num: 17 
+Topic Words: [['pull', 'ride', 'send', 'picture', 'letter', 'circuit', 'block', 'thought', 'incredibly', 'typical', 'current', 'carbon', 'round', 'acknowledge', 'desire', 'massive', 'motorcycle', 'bfhttheoryautotldrconcept', 'powerful', 'chrome']]
+Coh_type:c_v  Topic Num:17 COH score:0.6702033894751802
+top_n: 10 Topic Num: 18 
+Topic Words: [['thread', 'consider', 'white', 'personally', 'terminal', 'exist', 'puwhatisautomoderator', 'simply', 'z', 'face']]
+Coh_type:c_v  Topic Num:18 COH score:0.5669151512663622
+top_n: 20 Topic Num: 18 
+Topic Words: [['thread', 'consider', 'white', 'personally', 'terminal', 'exist', 'puwhatisautomoderator', 'simply', 'z', 'face', 'rate', 'send', 'cross', 'voltage', 'produce', 'wheel', 'pipe', 'infortotesmessengerwiki', 'engage', 'action']]
+Coh_type:c_v  Topic Num:18 COH score:0.6470219597290083
+top_n: 10 Topic Num: 19 
+Topic Words: [['pull', 'ride', 'send', 'picture', 'letter', 'circuit', 'block', 'thought', 'incredibly', 'current']]
+Coh_type:c_v  Topic Num:19 COH score:0.49380908856156713
+top_n: 20 Topic Num: 19 
+Topic Words: [['pull', 'ride', 'send', 'picture', 'letter', 'circuit', 'block', 'thought', 'incredibly', 'current', 'round', 'typical', 'carbon', 'massive', 'desire', 'acknowledge', 'motorcycle', 'bfhttheoryautotldrconcept', 'chrome', 'perform']]
+Coh_type:c_v  Topic Num:19 COH score:0.6766683246824687
+top_n: 10 Topic Num: 20 
+Topic Words: [['thread', 'consider', 'charge', 'personally', 'analog', 'signal', 'z', 'wheel', 'face', 'terminal']]
+Coh_type:c_v  Topic Num:20 COH score:0.5034968617909514
+top_n: 20 Topic Num: 20 
+Topic Words: [['thread', 'consider', 'charge', 'personally', 'analog', 'signal', 'z', 'wheel', 'face', 'terminal', 'engage', 'cable', 'simply', 'component', 'white', 'cpu', 'regard', 'current', 'unit', 'fully']]
+Coh_type:c_v  Topic Num:20 COH score:0.6066578735197191
+top_n: 10 Topic Num: 21 
+Topic Words: [['picture', 'consider', 'current', 'group', 'keyword', 'cross', 'ride', 'color', 'arm', 'software']]
+Coh_type:c_v  Topic Num:21 COH score:0.499137170983978
+top_n: 20 Topic Num: 21 
+Topic Words: [['picture', 'consider', 'current', 'group', 'keyword', 'cross', 'ride', 'color', 'arm', 'software', 'white', 'bfhttheoryautotldrconcept', 'loss', 'public', 'block', 'carbon', 'tldr', 'powerful', 'typical', 'animal']]
+Coh_type:c_v  Topic Num:21 COH score:0.573269646896848
+top_n: 10 Topic Num: 22 
+Topic Words: [['thread', 'wheel', 'terminal', 'cable', 'fellow', 'perform', 'face', 'fully', 'white', 'engage']]
+Coh_type:c_v  Topic Num:22 COH score:0.5439836221485141
+top_n: 20 Topic Num: 22 
+Topic Words: [['thread', 'wheel', 'terminal', 'cable', 'fellow', 'perform', 'face', 'fully', 'white', 'engage', 'different', 'direction', 'special', 'personally', 'policy', 'desire', 'stutter', 'iraqi', 'pic', 'rate']]
+Coh_type:c_v  Topic Num:22 COH score:0.6126102758330607
+top_n: 10 Topic Num: 23 
+Topic Words: [['form', 'current', 'special', 'animal', 'output', 'ride', 'theory', 'block', 'variety', 'analog']]
+Coh_type:c_v  Topic Num:23 COH score:0.41408729778810943
+top_n: 20 Topic Num: 23 
+Topic Words: [['form', 'current', 'special', 'animal', 'output', 'ride', 'theory', 'block', 'variety', 'analog', 'carbon', 'group', 'pull', 'keyword', 'component', 'acknowledge', 'certain', 'bfhttheoryautotldrconcept', 'basis', 'bar']]
+Coh_type:c_v  Topic Num:23 COH score:0.5890914962346526
+top_n: 10 Topic Num: 24 
+Topic Words: [['current', 'ride', 'tldr', 'special', 'block', 'consider', 'bfhttheoryautotldrconcept', 'typical', 'affect', 'welcome']]
+Coh_type:c_v  Topic Num:24 COH score:0.421514018282625
+top_n: 20 Topic Num: 24 
+Topic Words: [['current', 'ride', 'tldr', 'special', 'block', 'consider', 'bfhttheoryautotldrconcept', 'typical', 'affect', 'welcome', 'keyword', 'group', 'carbon', 'theory', 'core', 'sentence', 'contain', 'reduce', 'circuit', 'jewish']]
+Coh_type:c_v  Topic Num:24 COH score:0.5496133154859421
+top_n: 10 Topic Num: 25 
+Topic Words: [['consider', 'white', 'picture', 'special', 'group', 'current', 'sun', 'fellow', 'loss', 'massive']]
+Coh_type:c_v  Topic Num:25 COH score:0.49522906746376094
+top_n: 20 Topic Num: 25 
+Topic Words: [['consider', 'white', 'picture', 'special', 'group', 'current', 'sun', 'fellow', 'loss', 'massive', 'theory', 'carbon', 'typical', 'ask', 'tldr', 'powerful', 'color', 'ride', 'find', 'send']]
+Coh_type:c_v  Topic Num:25 COH score:0.4985683488593914
+top_n: 10 Topic Num: 26 
+Topic Words: [['bfhttheoryautotldrconcept', 'ride', 'tldr', 'current', 'benefit', 'purpose', 'block', 'white', 'public', 'carbon']]
+Coh_type:c_v  Topic Num:26 COH score:0.4961293265633661
+top_n: 20 Topic Num: 26 
+Topic Words: [['bfhttheoryautotldrconcept', 'ride', 'tldr', 'current', 'benefit', 'purpose', 'block', 'white', 'public', 'carbon', 'typical', 'circuit', 'group', 'welcome', 'keyword', 'strike', 'analog', 'suck', 'pick', 'reasoning']]
+Coh_type:c_v  Topic Num:26 COH score:0.5882507470396747
+top_n: 10 Topic Num: 27 
+Topic Words: [['current', 'special', 'tldr', 'ride', 'block', 'typical', 'bfhttheoryautotldrconcept', 'group', 'animal', 'theory']]
+Coh_type:c_v  Topic Num:27 COH score:0.441137702591236
+top_n: 20 Topic Num: 27 
+Topic Words: [['current', 'special', 'tldr', 'ride', 'block', 'typical', 'bfhttheoryautotldrconcept', 'group', 'animal', 'theory', 'affect', 'contain', 'aspect', 'morality', 'color', 'sentence', 'desire', 'benefit', 'reduce', 'consider']]
+Coh_type:c_v  Topic Num:27 COH score:0.5127678586673393
+top_n: 10 Topic Num: 28 
+Topic Words: [['pull', 'ride', 'send', 'picture', 'letter', 'circuit', 'block', 'thought', 'incredibly', 'current']]
+Coh_type:c_v  Topic Num:28 COH score:0.49380908856156713
+top_n: 20 Topic Num: 28 
+Topic Words: [['pull', 'ride', 'send', 'picture', 'letter', 'circuit', 'block', 'thought', 'incredibly', 'current', 'typical', 'round', 'carbon', 'desire', 'acknowledge', 'massive', 'motorcycle', 'bfhttheoryautotldrconcept', 'chrome', 'powerful']]
+Coh_type:c_v  Topic Num:28 COH score:0.6702033894751803
+top_n: 10 Topic Num: 29 
+Topic Words: [['consider', 'picture', 'theory', 'current', 'animal', 'pull', 'wear', 'group', 'send', 'carbon']]
+Coh_type:c_v  Topic Num:29 COH score:0.3557350346974683
+top_n: 20 Topic Num: 29 
+Topic Words: [['consider', 'picture', 'theory', 'current', 'animal', 'pull', 'wear', 'group', 'send', 'carbon', 'block', 'ask', 'public', 'powerful', 'body', 'wrong', 'mm', 'little', 'issue', 'typical']]
+Coh_type:c_v  Topic Num:29 COH score:0.48577799405050825
+top_n: 10 Topic Num: 30 
+Topic Words: [['consider', 'cross', 'pull', 'picture', 'animal', 'current', 'ask', 'ride', 'block', 'group']]
+Coh_type:c_v  Topic Num:30 COH score:0.3770699738102701
+top_n: 20 Topic Num: 30 
+Topic Words: [['consider', 'cross', 'pull', 'picture', 'animal', 'current', 'ask', 'ride', 'block', 'group', 'send', 'wear', 'public', 'circuit', 'muslim', 'earth', 'find', 'theory', 'carbon', 'terminal']]
+Coh_type:c_v  Topic Num:30 COH score:0.5024224943852679
+top_n: 10 Topic Num: 31 
+Topic Words: [['current', 'group', 'tldr', 'different', 'find', 'white', 'touch', 'special', 'bfhttheoryautotldrconcept', 'welcome']]
+Coh_type:c_v  Topic Num:31 COH score:0.2900747753705407
+top_n: 20 Topic Num: 31 
+Topic Words: [['current', 'group', 'tldr', 'different', 'find', 'white', 'touch', 'special', 'bfhttheoryautotldrconcept', 'welcome', 'keyword', 'strike', 'circuit', 'pull', 'cross', 'generate', 'territory', 'suck', 'fellow', 'analog']]
+Coh_type:c_v  Topic Num:31 COH score:0.5146150999948448
+top_n: 10 Topic Num: 32 
+Topic Words: [['consider', 'pull', 'send', 'wear', 'relate', 'special', 'picture', 'different', 'ride', 'hand']]
+Coh_type:c_v  Topic Num:32 COH score:0.36815730825678755
+top_n: 20 Topic Num: 32 
+Topic Words: [['consider', 'pull', 'send', 'wear', 'relate', 'special', 'picture', 'different', 'ride', 'hand', 'buy', 'cross', 'theory', 'current', 'group', 'find', 'sin', 'letter', 'lock', 'goal']]
+Coh_type:c_v  Topic Num:32 COH score:0.4871499774237792
+top_n: 10 Topic Num: 33 
+Topic Words: [['consider', 'white', 'picture', 'group', 'special', 'loss', 'sun', 'current', 'fellow', 'massive']]
+Coh_type:c_v  Topic Num:33 COH score:0.49522906746376094
+top_n: 20 Topic Num: 33 
+Topic Words: [['consider', 'white', 'picture', 'group', 'special', 'loss', 'sun', 'current', 'fellow', 'massive', 'theory', 'find', 'carbon', 'color', 'software', 'tldr', 'send', 'ride', 'ask', 'typical']]
+Coh_type:c_v  Topic Num:33 COH score:0.504747314016518
+top_n: 10 Topic Num: 34 
+Topic Words: [['public', 'current', 'ride', 'keyword', 'tldr', 'picture', 'group', 'bfhttheoryautotldrconcept', 'different', 'circuit']]
+Coh_type:c_v  Topic Num:34 COH score:0.28618379965947743
+top_n: 20 Topic Num: 34 
+Topic Words: [['public', 'current', 'ride', 'keyword', 'tldr', 'picture', 'group', 'bfhttheoryautotldrconcept', 'different', 'circuit', 'white', 'strike', 'block', 'massive', 'output', 'welcome', 'gt', 'powerful', 'affect', 'fmfaqautotldrbot']]
+Coh_type:c_v  Topic Num:34 COH score:0.4076517295381669
+top_n: 10 Topic Num: 35 
+Topic Words: [['public', 'ride', 'group', 'block', 'keyword', 'tldr', 'high', 'strike', 'powerful', 'benefit']]
+Coh_type:c_v  Topic Num:35 COH score:0.40064328322595477
+top_n: 20 Topic Num: 35 
+Topic Words: [['public', 'ride', 'group', 'block', 'keyword', 'tldr', 'high', 'strike', 'powerful', 'benefit', 'circuit', 'agenda', 'typical', 'bfhttheoryautotldrconcept', 'massive', 'different', 'current', 'picture', 'cross', 'carbon']]
+Coh_type:c_v  Topic Num:35 COH score:0.5292777440532277
+top_n: 10 Topic Num: 36 
+Topic Words: [['pull', 'ride', 'picture', 'send', 'circuit', 'thought', 'carbon', 'typical', 'letter', 'incredibly']]
+Coh_type:c_v  Topic Num:36 COH score:0.6287050358717059
+top_n: 20 Topic Num: 36 
+Topic Words: [['pull', 'ride', 'picture', 'send', 'circuit', 'thought', 'carbon', 'typical', 'letter', 'incredibly', 'block', 'acknowledge', 'current', 'powerful', 'motorcycle', 'desire', 'round', 'tldr', 'mm', 'rule']]
+Coh_type:c_v  Topic Num:36 COH score:0.6547697883274283
+top_n: 10 Topic Num: 37 
+Topic Words: [['pull', 'ride', 'send', 'picture', 'letter', 'circuit', 'thought', 'block', 'incredibly', 'typical']]
+Coh_type:c_v  Topic Num:37 COH score:0.5764875502311955
+top_n: 20 Topic Num: 37 
+Topic Words: [['pull', 'ride', 'send', 'picture', 'letter', 'circuit', 'thought', 'block', 'incredibly', 'typical', 'carbon', 'current', 'round', 'acknowledge', 'desire', 'motorcycle', 'massive', 'powerful', 'tldr', 'chrome']]
+Coh_type:c_v  Topic Num:37 COH score:0.6677847907572743
+top_n: 10 Topic Num: 38 
+Topic Words: [['pull', 'ride', 'send', 'picture', 'letter', 'circuit', 'block', 'thought', 'incredibly', 'typical']]
+Coh_type:c_v  Topic Num:38 COH score:0.5764875502311955
+top_n: 20 Topic Num: 38 
+Topic Words: [['pull', 'ride', 'send', 'picture', 'letter', 'circuit', 'block', 'thought', 'incredibly', 'typical', 'current', 'carbon', 'round', 'acknowledge', 'desire', 'massive', 'motorcycle', 'bfhttheoryautotldrconcept', 'powerful', 'chrome']]
+Coh_type:c_v  Topic Num:38 COH score:0.6702033894751802
+top_n: 10 Topic Num: 39 
+Topic Words: [['thread', 'consider', 'z', 'analog', 'different', 'society', 'personally', 'component', 'wheel', 'face']]
+Coh_type:c_v  Topic Num:39 COH score:0.4934574302328768
+top_n: 20 Topic Num: 39 
+Topic Words: [['thread', 'consider', 'z', 'analog', 'different', 'society', 'personally', 'component', 'wheel', 'face', 'white', 'direction', 'fellow', 'dark', 'group', 'engage', 'cable', 'keyword', 'charge', 'terminal']]
+Coh_type:c_v  Topic Num:39 COH score:0.6103453968522142
+top_n: 10 Topic Num: 40 
+Topic Words: [['picture', 'current', 'cross', 'special', 'ride', 'find', 'typical', 'block', 'letter', 'event']]
+Coh_type:c_v  Topic Num:40 COH score:0.43256862953766306
+top_n: 20 Topic Num: 40 
+Topic Words: [['picture', 'current', 'cross', 'special', 'ride', 'find', 'typical', 'block', 'letter', 'event', 'simply', 'muslim', 'bfhttheoryautotldrconcept', 'group', 'public', 'send', 'carbon', 'truly', 'regard', 'bat']]
+Coh_type:c_v  Topic Num:40 COH score:0.5458776830456556
+top_n: 10 Topic Num: 41 
+Topic Words: [['current', 'tldr', 'ride', 'special', 'block', 'consider', 'bfhttheoryautotldrconcept', 'typical', 'affect', 'welcome']]
+Coh_type:c_v  Topic Num:41 COH score:0.4215140182826251
+top_n: 20 Topic Num: 41 
+Topic Words: [['current', 'tldr', 'ride', 'special', 'block', 'consider', 'bfhttheoryautotldrconcept', 'typical', 'affect', 'welcome', 'keyword', 'carbon', 'theory', 'group', 'core', 'reduce', 'sentence', 'contain', 'jewish', 'circuit']]
+Coh_type:c_v  Topic Num:41 COH score:0.5496133154859421
+top_n: 10 Topic Num: 42 
+Topic Words: [['thread', 'white', 'rate', 'exist', 'personally', 'simply', 'consider', 'puwhatisautomoderator', 'terminal', 'face']]
+Coh_type:c_v  Topic Num:42 COH score:0.5083428149858837
+top_n: 20 Topic Num: 42 
+Topic Words: [['thread', 'white', 'rate', 'exist', 'personally', 'simply', 'consider', 'puwhatisautomoderator', 'terminal', 'face', 'perform', 'cable', 'cross', 'action', 'engage', 'wheel', 'send', 'short', 'pipe', 'powerful']]
+Coh_type:c_v  Topic Num:42 COH score:0.5892706655461704
+top_n: 10 Topic Num: 43 
+Topic Words: [['pull', 'ride', 'send', 'picture', 'letter', 'circuit', 'thought', 'block', 'incredibly', 'typical']]
+Coh_type:c_v  Topic Num:43 COH score:0.5764875502311955
+top_n: 20 Topic Num: 43 
+Topic Words: [['pull', 'ride', 'send', 'picture', 'letter', 'circuit', 'thought', 'block', 'incredibly', 'typical', 'carbon', 'current', 'round', 'acknowledge', 'desire', 'motorcycle', 'massive', 'powerful', 'bfhttheoryautotldrconcept', 'chrome']]
+Coh_type:c_v  Topic Num:43 COH score:0.6702033894751802
+top_n: 10 Topic Num: 44 
+Topic Words: [['pull', 'ride', 'send', 'picture', 'letter', 'circuit', 'block', 'incredibly', 'thought', 'current']]
+Coh_type:c_v  Topic Num:44 COH score:0.49380908856156713
+top_n: 20 Topic Num: 44 
+Topic Words: [['pull', 'ride', 'send', 'picture', 'letter', 'circuit', 'block', 'incredibly', 'thought', 'current', 'round', 'typical', 'carbon', 'massive', 'desire', 'acknowledge', 'motorcycle', 'bfhttheoryautotldrconcept', 'chrome', 'perform']]
+Coh_type:c_v  Topic Num:44 COH score:0.6766683246824688
+top_n: 10 Topic Num: 45 
+Topic Words: [['thread', 'consider', 'signal', 'cpu', 'transistor', 'charge', 'goal', 'produce', 'simply', 'drop']]
+Coh_type:c_v  Topic Num:45 COH score:0.4500457130794769
+top_n: 20 Topic Num: 45 
+Topic Words: [['thread', 'consider', 'signal', 'cpu', 'transistor', 'charge', 'goal', 'produce', 'simply', 'drop', 'spread', 'pic', 'paper', 'wheel', 'different', 'puwhatisautomoderator', 'face', 'generate', 'ask', 'staff']]
+Coh_type:c_v  Topic Num:45 COH score:0.6349298081818026
+top_n: 10 Topic Num: 46 
+Topic Words: [['current', 'special', 'tldr', 'group', 'block', 'bfhttheoryautotldrconcept', 'ride', 'typical', 'color', 'purpose']]
+Coh_type:c_v  Topic Num:46 COH score:0.4428032041931023
+top_n: 20 Topic Num: 46 
+Topic Words: [['current', 'special', 'tldr', 'group', 'block', 'bfhttheoryautotldrconcept', 'ride', 'typical', 'color', 'purpose', 'guide', 'acknowledge', 'affect', 'consider', 'pull', 'core', 'suck', 'keyword', 'arm', 'liberal']]
+Coh_type:c_v  Topic Num:46 COH score:0.5537313450743826
+top_n: 10 Topic Num: 47 
+Topic Words: [['current', 'different', 'group', 'block', 'tldr', 'ability', 'analog', 'carbon', 'picture', 'pull']]
+Coh_type:c_v  Topic Num:47 COH score:0.44485539590065937
+top_n: 20 Topic Num: 47 
+Topic Words: [['current', 'different', 'group', 'block', 'tldr', 'ability', 'analog', 'carbon', 'picture', 'pull', 'consider', 'animal', 'aspect', 'public', 'suck', 'foul', 'acknowledge', 'arm', 'cross', 'patient']]
+Coh_type:c_v  Topic Num:47 COH score:0.567708109657753
+top_n: 10 Topic Num: 48 
+Topic Words: [['pull', 'ride', 'picture', 'carbon', 'circuit', 'typical', 'thought', 'incredibly', 'send', 'letter']]
+Coh_type:c_v  Topic Num:48 COH score:0.6287050358717059
+top_n: 20 Topic Num: 48 
+Topic Words: [['pull', 'ride', 'picture', 'carbon', 'circuit', 'typical', 'thought', 'incredibly', 'send', 'letter', 'block', 'acknowledge', 'current', 'powerful', 'mm', 'round', 'desire', 'motorcycle', 'tldr', 'chrome']]
+Coh_type:c_v  Topic Num:48 COH score:0.6849109518916763
+top_n: 10 Topic Num: 49 
+Topic Words: [['thread', 'consider', 'charge', 'spread', 'paper', 'simply', 'puwhatisautomoderator', 'goal', 'pic', 'signal']]
+Coh_type:c_v  Topic Num:49 COH score:0.5629590794460557
+top_n: 20 Topic Num: 49 
+Topic Words: [['thread', 'consider', 'charge', 'spread', 'paper', 'simply', 'puwhatisautomoderator', 'goal', 'pic', 'signal', 'wheel', 'cpu', 'staff', 'produce', 'shooter', 'touch', 'face', 'engage', 'strike', 'fellow']]
+Coh_type:c_v  Topic Num:49 COH score:0.6717602256760598
+top_n: 10 Topic Num: 50 
+Topic Words: [['block', 'massive', 'group', 'strike', 'acknowledge', 'circuit', 'tldr', 'different', 'desire', 'arm']]
+Coh_type:c_v  Topic Num:50 COH score:0.3917803049603549
+top_n: 20 Topic Num: 50 
+Topic Words: [['block', 'massive', 'group', 'strike', 'acknowledge', 'circuit', 'tldr', 'different', 'desire', 'arm', 'carbon', 'affect', 'core', 'typical', 'benefit', 'bfhttheoryautotldrconcept', 'jewish', 'pull', 'produce', 'phase']]
+Coh_type:c_v  Topic Num:50 COH score:0.6101163759310395
+top_n: 10 Topic Num: 51 
+Topic Words: [['thread', 'white', 'rate', 'personally', 'simply', 'puwhatisautomoderator', 'exist', 'consider', 'terminal', 'perform']]
+Coh_type:c_v  Topic Num:51 COH score:0.5026730286441758
+top_n: 20 Topic Num: 51 
+Topic Words: [['thread', 'white', 'rate', 'personally', 'simply', 'puwhatisautomoderator', 'exist', 'consider', 'terminal', 'perform', 'face', 'action', 'cross', 'cable', 'engage', 'wheel', 'send', 'short', 'powerful', 'pipe']]
+Coh_type:c_v  Topic Num:51 COH score:0.5892706655461704
+top_n: 10 Topic Num: 52 
+Topic Words: [['ride', 'purpose', 'reduce', 'typical', 'tldr', 'bfhttheoryautotldrconcept', 'pull', 'bar', 'keyword', 'islamic']]
+Coh_type:c_v  Topic Num:52 COH score:0.537663297828906
+top_n: 20 Topic Num: 52 
+Topic Words: [['ride', 'purpose', 'reduce', 'typical', 'tldr', 'bfhttheoryautotldrconcept', 'pull', 'bar', 'keyword', 'islamic', 'analog', 'form', 'carbon', 'consider', 'turbo', 'mm', 'acknowledge', 'intentionally', 'benefit', 'jewish']]
+Coh_type:c_v  Topic Num:52 COH score:0.6464303514086077
+top_n: 10 Topic Num: 53 
+Topic Words: [['thread', 'panel', 'consider', 'white', 'terminal', 'different', 'goal', 'puwhatisautomoderator', 'perform', 'send']]
+Coh_type:c_v  Topic Num:53 COH score:0.4954571970581891
+top_n: 20 Topic Num: 53 
+Topic Words: [['thread', 'panel', 'consider', 'white', 'terminal', 'different', 'goal', 'puwhatisautomoderator', 'perform', 'send', 'simply', 'picture', 'able', 'special', 'paper', 'cable', 'cross', 'humanity', 'wheel', 'pull']]
+Coh_type:c_v  Topic Num:53 COH score:0.5983069299278913
+top_n: 10 Topic Num: 54 
+Topic Words: [['pull', 'wear', 'picture', 'send', 'carbon', 'block', 'consider', 'ride', 'mm', 'pick']]
+Coh_type:c_v  Topic Num:54 COH score:0.46245621560636935
+top_n: 20 Topic Num: 54 
+Topic Words: [['pull', 'wear', 'picture', 'send', 'carbon', 'block', 'consider', 'ride', 'mm', 'pick', 'buy', 'ask', 'circuit', 'rule', 'theory', 'strip', 'marriage', 'iso', 'thought', 'lock']]
+Coh_type:c_v  Topic Num:54 COH score:0.5995472143418488
+top_n: 10 Topic Num: 55 
+Topic Words: [['tldr', 'bfhttheoryautotldrconcept', 'typical', 'special', 'ride', 'block', 'keyword', 'pull', 'affect', 'welcome']]
+Coh_type:c_v  Topic Num:55 COH score:0.5006331297582622
+top_n: 20 Topic Num: 55 
+Topic Words: [['tldr', 'bfhttheoryautotldrconcept', 'typical', 'special', 'ride', 'block', 'keyword', 'pull', 'affect', 'welcome', 'core', 'acknowledge', 'consider', 'ground', 'strike', 'turbo', 'current', 'morality', 'purpose', 'hand']]
+Coh_type:c_v  Topic Num:55 COH score:0.5702924380793413
+top_n: 10 Topic Num: 56 
+Topic Words: [['block', 'special', 'form', 'typical', 'bfhttheoryautotldrconcept', 'cross', 'animal', 'ride', 'current', 'contain']]
+Coh_type:c_v  Topic Num:56 COH score:0.5137109957132082
+top_n: 20 Topic Num: 56 
+Topic Words: [['block', 'special', 'form', 'typical', 'bfhttheoryautotldrconcept', 'cross', 'animal', 'ride', 'current', 'contain', 'theory', 'keyword', 'group', 'truly', 'desire', 'member', 'acknowledge', 'carbon', 'regard', 'sentence']]
+Coh_type:c_v  Topic Num:56 COH score:0.5692756003976884
+top_n: 10 Topic Num: 57 
+Topic Words: [['consider', 'pull', 'special', 'wear', 'send', 'cross', 'picture', 'ride', 'carbon', 'current']]
+Coh_type:c_v  Topic Num:57 COH score:0.45886211311424085
+top_n: 20 Topic Num: 57 
+Topic Words: [['consider', 'pull', 'special', 'wear', 'send', 'cross', 'picture', 'ride', 'carbon', 'current', 'attack', 'situation', 'ask', 'find', 'goal', 'thought', 'theory', 'group', 'different', 'letter']]
+Coh_type:c_v  Topic Num:57 COH score:0.46806204993305733
+top_n: 10 Topic Num: 58 
+Topic Words: [['form', 'current', 'keyword', 'special', 'block', 'analog', 'animal', 'pull', 'consider', 'output']]
+Coh_type:c_v  Topic Num:58 COH score:0.4014034708628255
+top_n: 20 Topic Num: 58 
+Topic Words: [['form', 'current', 'keyword', 'special', 'block', 'analog', 'animal', 'pull', 'consider', 'output', 'ride', 'bfhttheoryautotldrconcept', 'acknowledge', 'carbon', 'group', 'certain', 'typical', 'switch', 'goal', 'basis']]
+Coh_type:c_v  Topic Num:58 COH score:0.5685819383418961
+top_n: 10 Topic Num: 59 
+Topic Words: [['consider', 'white', 'picture', 'special', 'group', 'current', 'sun', 'fellow', 'loss', 'massive']]
+Coh_type:c_v  Topic Num:59 COH score:0.49522906746376094
+top_n: 20 Topic Num: 59 
+Topic Words: [['consider', 'white', 'picture', 'special', 'group', 'current', 'sun', 'fellow', 'loss', 'massive', 'theory', 'carbon', 'ask', 'powerful', 'tldr', 'find', 'software', 'send', 'typical', 'ride']]
+Coh_type:c_v  Topic Num:59 COH score:0.5259135661171352
+top_n: 10 Topic Num: 60 
+Topic Words: [['consider', 'current', 'block', 'theory', 'picture', 'wear', 'powerful', 'pull', 'cross', 'carbon']]
+Coh_type:c_v  Topic Num:60 COH score:0.4918652562549693
+top_n: 20 Topic Num: 60 
+Topic Words: [['consider', 'current', 'block', 'theory', 'picture', 'wear', 'powerful', 'pull', 'cross', 'carbon', 'ride', 'group', 'animal', 'public', 'territory', 'color', 'letter', 'tldr', 'output', 'foul']]
+Coh_type:c_v  Topic Num:60 COH score:0.5987854447835391
+top_n: 10 Topic Num: 61 
+Topic Words: [['public', 'ride', 'keyword', 'picture', 'current', 'bfhttheoryautotldrconcept', 'desire', 'typical', 'group', 'special']]
+Coh_type:c_v  Topic Num:61 COH score:0.38521510487950755
+top_n: 20 Topic Num: 61 
+Topic Words: [['public', 'ride', 'keyword', 'picture', 'current', 'bfhttheoryautotldrconcept', 'desire', 'typical', 'group', 'special', 'block', 'carbon', 'tldr', 'welcome', 'color', 'sentence', 'circuit', 'powerful', 'benefit', 'gt']]
+Coh_type:c_v  Topic Num:61 COH score:0.5376876235286855
+top_n: 10 Topic Num: 62 
+Topic Words: [['current', 'block', 'group', 'keyword', 'bfhttheoryautotldrconcept', 'special', 'color', 'tldr', 'core', 'strike']]
+Coh_type:c_v  Topic Num:62 COH score:0.41119141710021234
+top_n: 20 Topic Num: 62 
+Topic Words: [['current', 'block', 'group', 'keyword', 'bfhttheoryautotldrconcept', 'special', 'color', 'tldr', 'core', 'strike', 'engine', 'lock', 'rule', 'dark', 'welcome', 'white', 'policy', 'affect', 'consider', 'carbon']]
+Coh_type:c_v  Topic Num:62 COH score:0.5594229804538091
+top_n: 10 Topic Num: 63 
+Topic Words: [['current', 'tldr', 'ride', 'special', 'block', 'consider', 'bfhttheoryautotldrconcept', 'typical', 'welcome', 'affect']]
+Coh_type:c_v  Topic Num:63 COH score:0.4215140182826251
+top_n: 20 Topic Num: 63 
+Topic Words: [['current', 'tldr', 'ride', 'special', 'block', 'consider', 'bfhttheoryautotldrconcept', 'typical', 'welcome', 'affect', 'keyword', 'carbon', 'theory', 'group', 'core', 'reduce', 'sentence', 'contain', 'jewish', 'ring']]
+Coh_type:c_v  Topic Num:63 COH score:0.5703382644904551
+top_n: 10 Topic Num: 64 
+Topic Words: [['thread', 'white', 'terminal', 'perform', 'exist', 'rate', 'wheel', 'cross', 'unit', 'analog']]
+Coh_type:c_v  Topic Num:64 COH score:0.64389661445146
+top_n: 20 Topic Num: 64 
+Topic Words: [['thread', 'white', 'terminal', 'perform', 'exist', 'rate', 'wheel', 'cross', 'unit', 'analog', 'personally', 'desire', 'policy', 'paper', 'consider', 'equivalent', 'animal', 'current', 'engage', 'generate']]
+Coh_type:c_v  Topic Num:64 COH score:0.6733872361122744
+top_n: 10 Topic Num: 65 
+Topic Words: [['consider', 'white', 'picture', 'special', 'group', 'current', 'fellow', 'ask', 'carbon', 'sun']]
+Coh_type:c_v  Topic Num:65 COH score:0.3671838834119221
+top_n: 20 Topic Num: 65 
+Topic Words: [['consider', 'white', 'picture', 'special', 'group', 'current', 'fellow', 'ask', 'carbon', 'sun', 'powerful', 'massive', 'find', 'tldr', 'slightly', 'loss', 'analog', 'typical', 'color', 'send']]
+Coh_type:c_v  Topic Num:65 COH score:0.49316864573179187
+top_n: 10 Topic Num: 66 
+Topic Words: [['consider', 'cross', 'find', 'pull', 'animal', 'ride', 'send', 'current', 'buy', 'carbon']]
+Coh_type:c_v  Topic Num:66 COH score:0.3090031913004544
+top_n: 20 Topic Num: 66 
+Topic Words: [['consider', 'cross', 'find', 'pull', 'animal', 'ride', 'send', 'current', 'buy', 'carbon', 'public', 'ask', 'strip', 'picture', 'reflect', 'affect', 'group', 'bfhttheoryautotldrconcept', 'sin', 'suck']]
+Coh_type:c_v  Topic Num:66 COH score:0.5206933369239954
+top_n: 10 Topic Num: 67 
+Topic Words: [['current', 'public', 'ride', 'bfhttheoryautotldrconcept', 'picture', 'desire', 'keyword', 'tldr', 'group', 'find']]
+Coh_type:c_v  Topic Num:67 COH score:0.2703258425627551
+top_n: 20 Topic Num: 67 
+Topic Words: [['current', 'public', 'ride', 'bfhttheoryautotldrconcept', 'picture', 'desire', 'keyword', 'tldr', 'group', 'find', 'block', 'typical', 'reduce', 'welcome', 'color', 'strike', 'circuit', 'special', 'benefit', 'policy']]
+Coh_type:c_v  Topic Num:67 COH score:0.42046401560159696
+top_n: 10 Topic Num: 68 
+Topic Words: [['ride', 'current', 'public', 'block', 'typical', 'bfhttheoryautotldrconcept', 'picture', 'circuit', 'powerful', 'reduce']]
+Coh_type:c_v  Topic Num:68 COH score:0.4765080839314601
+top_n: 20 Topic Num: 68 
+Topic Words: [['ride', 'current', 'public', 'block', 'typical', 'bfhttheoryautotldrconcept', 'picture', 'circuit', 'powerful', 'reduce', 'exist', 'cross', 'acknowledge', 'color', 'carbon', 'pull', 'consider', 'cable', 'phase', 'aspect']]
+Coh_type:c_v  Topic Num:68 COH score:0.6077958511101177
+top_n: 10 Topic Num: 69 
+Topic Words: [['special', 'pull', 'current', 'tldr', 'arm', 'event', 'software', 'color', 'circuit', 'bat']]
+Coh_type:c_v  Topic Num:69 COH score:0.5618951253603894
+top_n: 20 Topic Num: 69 
+Topic Words: [['special', 'pull', 'current', 'tldr', 'arm', 'event', 'software', 'color', 'circuit', 'bat', 'analog', 'lock', 'different', 'suck', 'throttle', 'territory', 'group', 'red', 'switch', 'core']]
+Coh_type:c_v  Topic Num:69 COH score:0.6195483026492015
+top_n: 10 Topic Num: 70 
+Topic Words: [['picture', 'consider', 'theory', 'pull', 'current', 'public', 'ride', 'carbon', 'wrong', 'powerful']]
+Coh_type:c_v  Topic Num:70 COH score:0.42351148121265825
+top_n: 20 Topic Num: 70 
+Topic Words: [['picture', 'consider', 'theory', 'pull', 'current', 'public', 'ride', 'carbon', 'wrong', 'powerful', 'group', 'send', 'white', 'software', 'leak', 'hand', 'audio', 'suck', 'affect', 'cross']]
+Coh_type:c_v  Topic Num:70 COH score:0.550674294787928
+top_n: 10 Topic Num: 71 
+Topic Words: [['consider', 'ride', 'public', 'bfhttheoryautotldrconcept', 'theory', 'special', 'picture', 'block', 'keyword', 'tldr']]
+Coh_type:c_v  Topic Num:71 COH score:0.3567401752303547
+top_n: 20 Topic Num: 71 
+Topic Words: [['consider', 'ride', 'public', 'bfhttheoryautotldrconcept', 'theory', 'special', 'picture', 'block', 'keyword', 'tldr', 'engine', 'powerful', 'carbon', 'unique', 'phase', 'loss', 'purpose', 'current', 'territory', 'terminal']]
+Coh_type:c_v  Topic Num:71 COH score:0.6150270334557397
+top_n: 10 Topic Num: 72 
+Topic Words: [['ride', 'group', 'reasoning', 'picture', 'public', 'keyword', 'bfhttheoryautotldrconcept', 'consider', 'tldr', 'block']]
+Coh_type:c_v  Topic Num:72 COH score:0.4088961962530604
+top_n: 20 Topic Num: 72 
+Topic Words: [['ride', 'group', 'reasoning', 'picture', 'public', 'keyword', 'bfhttheoryautotldrconcept', 'consider', 'tldr', 'block', 'strike', 'individual', 'special', 'output', 'circuit', 'thought', 'welcome', 'gt', 'arm', 'pull']]
+Coh_type:c_v  Topic Num:72 COH score:0.4707787096066799
+top_n: 10 Topic Num: 73 
+Topic Words: [['pull', 'ride', 'send', 'picture', 'letter', 'circuit', 'block', 'incredibly', 'current', 'thought']]
+Coh_type:c_v  Topic Num:73 COH score:0.49380908856156713
+top_n: 20 Topic Num: 73 
+Topic Words: [['pull', 'ride', 'send', 'picture', 'letter', 'circuit', 'block', 'incredibly', 'current', 'thought', 'round', 'carbon', 'typical', 'massive', 'perform', 'acknowledge', 'desire', 'bfhttheoryautotldrconcept', 'motorcycle', 'chrome']]
+Coh_type:c_v  Topic Num:73 COH score:0.6766683246824686
+top_n: 10 Topic Num: 74 
+Topic Words: [['pull', 'ride', 'send', 'picture', 'letter', 'circuit', 'thought', 'block', 'incredibly', 'typical']]
+Coh_type:c_v  Topic Num:74 COH score:0.5764875502311955
+top_n: 20 Topic Num: 74 
+Topic Words: [['pull', 'ride', 'send', 'picture', 'letter', 'circuit', 'thought', 'block', 'incredibly', 'typical', 'carbon', 'current', 'round', 'acknowledge', 'desire', 'motorcycle', 'massive', 'powerful', 'chrome', 'bfhttheoryautotldrconcept']]
+Coh_type:c_v  Topic Num:74 COH score:0.6702033894751802
+top_n: 10 Topic Num: 75 
+Topic Words: [['pull', 'picture', 'ride', 'typical', 'carbon', 'circuit', 'block', 'acknowledge', 'thought', 'incredibly']]
+Coh_type:c_v  Topic Num:75 COH score:0.6282235473736011
+top_n: 20 Topic Num: 75 
+Topic Words: [['pull', 'picture', 'ride', 'typical', 'carbon', 'circuit', 'block', 'acknowledge', 'thought', 'incredibly', 'powerful', 'consider', 'letter', 'tldr', 'current', 'wear', 'desire', 'send', 'round', 'chrome']]
+Coh_type:c_v  Topic Num:75 COH score:0.648542970567511
+top_n: 10 Topic Num: 76 
+Topic Words: [['tldr', 'consider', 'bfhttheoryautotldrconcept', 'keyword', 'special', 'block', 'welcome', 'ride', 'group', 'affect']]
+Coh_type:c_v  Topic Num:76 COH score:0.38746563131237444
+top_n: 20 Topic Num: 76 
+Topic Words: [['tldr', 'consider', 'bfhttheoryautotldrconcept', 'keyword', 'special', 'block', 'welcome', 'ride', 'group', 'affect', 'current', 'rule', 'territory', 'typical', 'find', 'acknowledge', 'core', 'plate', 'massive', 'form']]
+Coh_type:c_v  Topic Num:76 COH score:0.4637551796241167
+top_n: 10 Topic Num: 77 
+Topic Words: [['consider', 'special', 'arm', 'ride', 'picture', 'find', 'send', 'group', 'fellow', 'affect']]
+Coh_type:c_v  Topic Num:77 COH score:0.3102047767638552
+top_n: 20 Topic Num: 77 
+Topic Words: [['consider', 'special', 'arm', 'ride', 'picture', 'find', 'send', 'group', 'fellow', 'affect', 'sin', 'strip', 'ask', 'loss', 'current', 'red', 'powerful', 'white', 'board', 'touch']]
+Coh_type:c_v  Topic Num:77 COH score:0.5186225622476842
+top_n: 10 Topic Num: 78 
+Topic Words: [['current', 'block', 'tldr', 'special', 'ride', 'consider', 'bfhttheoryautotldrconcept', 'typical', 'group', 'acknowledge']]
+Coh_type:c_v  Topic Num:78 COH score:0.4056650724536704
+top_n: 20 Topic Num: 78 
+Topic Words: [['current', 'block', 'tldr', 'special', 'ride', 'consider', 'bfhttheoryautotldrconcept', 'typical', 'group', 'acknowledge', 'core', 'affect', 'theory', 'carbon', 'sentence', 'pull', 'jewish', 'contain', 'circuit', 'benefit']]
+Coh_type:c_v  Topic Num:78 COH score:0.604416249928956
+top_n: 10 Topic Num: 79 
+Topic Words: [['consider', 'theory', 'picture', 'pull', 'wear', 'send', 'special', 'sin', 'group', 'carbon']]
+Coh_type:c_v  Topic Num:79 COH score:0.38855424576356506
+top_n: 20 Topic Num: 79 
+Topic Words: [['consider', 'theory', 'picture', 'pull', 'wear', 'send', 'special', 'sin', 'group', 'carbon', 'animal', 'hand', 'powerful', 'ride', 'public', 'find', 'wrong', 'attack', 'ask', 'audio']]
+Coh_type:c_v  Topic Num:79 COH score:0.43367801747013396
+top_n: 10 Topic Num: 80 
+Topic Words: [['cross', 'wheel', 'white', 'thread', 'desire', 'cable', 'analog', 'terminal', 'special', 'theory']]
+Coh_type:c_v  Topic Num:80 COH score:0.6072859239190123
+top_n: 20 Topic Num: 80 
+Topic Words: [['cross', 'wheel', 'white', 'thread', 'desire', 'cable', 'analog', 'terminal', 'special', 'theory', 'current', 'paper', 'picture', 'carbon', 'pull', 'stutter', 'humanity', 'ring', 'keyword', 'reflect']]
+Coh_type:c_v  Topic Num:80 COH score:0.7095032587970455
+top_n: 10 Topic Num: 81 
+Topic Words: [['current', 'tldr', 'ride', 'special', 'typical', 'output', 'bfhttheoryautotldrconcept', 'circuit', 'carbon', 'affect']]
+Coh_type:c_v  Topic Num:81 COH score:0.5084882926832794
+top_n: 20 Topic Num: 81 
+Topic Words: [['current', 'tldr', 'ride', 'special', 'typical', 'output', 'bfhttheoryautotldrconcept', 'circuit', 'carbon', 'affect', 'block', 'sun', 'reduce', 'animal', 'sentence', 'purpose', 'consider', 'group', 'dark', 'theory']]
+Coh_type:c_v  Topic Num:81 COH score:0.541987921652881
+top_n: 10 Topic Num: 82 
+Topic Words: [['thread', 'white', 'rate', 'personally', 'puwhatisautomoderator', 'simply', 'exist', 'consider', 'terminal', 'perform']]
+Coh_type:c_v  Topic Num:82 COH score:0.5026730286441758
+top_n: 20 Topic Num: 82 
+Topic Words: [['thread', 'white', 'rate', 'personally', 'puwhatisautomoderator', 'simply', 'exist', 'consider', 'terminal', 'perform', 'face', 'cross', 'action', 'cable', 'send', 'engage', 'wheel', 'short', 'z', 'pipe']]
+Coh_type:c_v  Topic Num:82 COH score:0.6148201382185003
+top_n: 10 Topic Num: 83 
+Topic Words: [['consider', 'white', 'picture', 'find', 'affect', 'ride', 'software', 'arm', 'powerful', 'red']]
+Coh_type:c_v  Topic Num:83 COH score:0.4415238624818181
+top_n: 20 Topic Num: 83 
+Topic Words: [['consider', 'white', 'picture', 'find', 'affect', 'ride', 'software', 'arm', 'powerful', 'red', 'send', 'group', 'strip', 'typical', 'current', 'fellow', 'color', 'carbon', 'generate', 'issue']]
+Coh_type:c_v  Topic Num:83 COH score:0.5111215134848708
+top_n: 10 Topic Num: 84 
+Topic Words: [['block', 'different', 'carbon', 'current', 'pull', 'picture', 'public', 'arm', 'analog', 'core']]
+Coh_type:c_v  Topic Num:84 COH score:0.41834253268021665
+top_n: 20 Topic Num: 84 
+Topic Words: [['block', 'different', 'carbon', 'current', 'pull', 'picture', 'public', 'arm', 'analog', 'core', 'tldr', 'form', 'sentence', 'group', 'color', 'cross', 'powerful', 'ride', 'throttle', 'special']]
+Coh_type:c_v  Topic Num:84 COH score:0.603256691510378
+top_n: 10 Topic Num: 85 
+Topic Words: [['public', 'ride', 'picture', 'current', 'group', 'keyword', 'block', 'send', 'cross', 'tldr']]
+Coh_type:c_v  Topic Num:85 COH score:0.3453519971615183
+top_n: 20 Topic Num: 85 
+Topic Words: [['public', 'ride', 'picture', 'current', 'group', 'keyword', 'block', 'send', 'cross', 'tldr', 'arm', 'gt', 'sentence', 'strike', 'bfhttheoryautotldrconcept', 'circuit', 'cut', 'special', 'contain', 'carbon']]
+Coh_type:c_v  Topic Num:85 COH score:0.5134999671395073
+top_n: 10 Topic Num: 86 
+Topic Words: [['thread', 'consider', 'exist', 'different', 'z', 'personally', 'white', 'face', 'terminal', 'drop']]
+Coh_type:c_v  Topic Num:86 COH score:0.521750961145622
+top_n: 20 Topic Num: 86 
+Topic Words: [['thread', 'consider', 'exist', 'different', 'z', 'personally', 'white', 'face', 'terminal', 'drop', 'analog', 'puwhatisautomoderator', 'wheel', 'direction', 'regard', 'engage', 'public', 'cable', 'mind', 'simply']]
+Coh_type:c_v  Topic Num:86 COH score:0.6151875821868371
+top_n: 10 Topic Num: 87 
+Topic Words: [['current', 'special', 'tldr', 'ride', 'bfhttheoryautotldrconcept', 'reflect', 'instead', 'typical', 'purpose', 'animal']]
+Coh_type:c_v  Topic Num:87 COH score:0.4579348131527466
+top_n: 20 Topic Num: 87 
+Topic Words: [['current', 'special', 'tldr', 'ride', 'bfhttheoryautotldrconcept', 'reflect', 'instead', 'typical', 'purpose', 'animal', 'block', 'pull', 'group', 'color', 'hand', 'territory', 'find', 'theory', 'affect', 'welcome']]
+Coh_type:c_v  Topic Num:87 COH score:0.4778128167174048
+top_n: 10 Topic Num: 88 
+Topic Words: [['pull', 'ride', 'send', 'picture', 'letter', 'circuit', 'block', 'thought', 'incredibly', 'current']]
+Coh_type:c_v  Topic Num:88 COH score:0.49380908856156713
+top_n: 20 Topic Num: 88 
+Topic Words: [['pull', 'ride', 'send', 'picture', 'letter', 'circuit', 'block', 'thought', 'incredibly', 'current', 'round', 'typical', 'carbon', 'massive', 'desire', 'acknowledge', 'motorcycle', 'bfhttheoryautotldrconcept', 'chrome', 'powerful']]
+Coh_type:c_v  Topic Num:88 COH score:0.6702033894751802
+top_n: 10 Topic Num: 89 
+Topic Words: [['ride', 'block', 'current', 'typical', 'powerful', 'picture', 'bfhttheoryautotldrconcept', 'cross', 'sentence', 'exist']]
+Coh_type:c_v  Topic Num:89 COH score:0.6159037271455396
+top_n: 20 Topic Num: 89 
+Topic Words: [['ride', 'block', 'current', 'typical', 'powerful', 'picture', 'bfhttheoryautotldrconcept', 'cross', 'sentence', 'exist', 'animal', 'color', 'reduce', 'public', 'group', 'fmfaqautotldrbot', 'carbon', 'form', 'circuit', 'function']]
+Coh_type:c_v  Topic Num:89 COH score:0.580306774066228
+top_n: 10 Topic Num: 90 
+Topic Words: [['pull', 'ride', 'send', 'picture', 'letter', 'circuit', 'block', 'thought', 'incredibly', 'current']]
+Coh_type:c_v  Topic Num:90 COH score:0.49380908856156713
+top_n: 20 Topic Num: 90 
+Topic Words: [['pull', 'ride', 'send', 'picture', 'letter', 'circuit', 'block', 'thought', 'incredibly', 'current', 'round', 'typical', 'carbon', 'massive', 'desire', 'acknowledge', 'motorcycle', 'bfhttheoryautotldrconcept', 'chrome', 'wear']]
+Coh_type:c_v  Topic Num:90 COH score:0.6637577957824238
+top_n: 10 Topic Num: 91 
+Topic Words: [['pull', 'ride', 'send', 'picture', 'letter', 'circuit', 'block', 'thought', 'incredibly', 'typical']]
+Coh_type:c_v  Topic Num:91 COH score:0.5764875502311955
+top_n: 20 Topic Num: 91 
+Topic Words: [['pull', 'ride', 'send', 'picture', 'letter', 'circuit', 'block', 'thought', 'incredibly', 'typical', 'current', 'carbon', 'round', 'acknowledge', 'desire', 'massive', 'motorcycle', 'powerful', 'bfhttheoryautotldrconcept', 'chrome']]
+Coh_type:c_v  Topic Num:91 COH score:0.6702033894751802
+top_n: 10 Topic Num: 92 
+Topic Words: [['group', 'current', 'different', 'picture', 'tldr', 'special', 'keyword', 'core', 'arm', 'ride']]
+Coh_type:c_v  Topic Num:92 COH score:0.38811568997109547
+top_n: 20 Topic Num: 92 
+Topic Words: [['group', 'current', 'different', 'picture', 'tldr', 'special', 'keyword', 'core', 'arm', 'ride', 'consider', 'bfhttheoryautotldrconcept', 'block', 'generate', 'cross', 'public', 'circuit', 'ask', 'loss', 'send']]
+Coh_type:c_v  Topic Num:92 COH score:0.47239732388485123
+top_n: 10 Topic Num: 93 
+Topic Words: [['public', 'ride', 'picture', 'keyword', 'group', 'block', 'tldr', 'current', 'typical', 'circuit']]
+Coh_type:c_v  Topic Num:93 COH score:0.42051606401605096
+top_n: 20 Topic Num: 93 
+Topic Words: [['public', 'ride', 'picture', 'keyword', 'group', 'block', 'tldr', 'current', 'typical', 'circuit', 'strike', 'send', 'sentence', 'pull', 'function', 'bfhttheoryautotldrconcept', 'cross', 'consider', 'powerful', 'arm']]
+Coh_type:c_v  Topic Num:93 COH score:0.5684342297631079
+top_n: 10 Topic Num: 94 
+Topic Words: [['ride', 'tldr', 'block', 'current', 'massive', 'group', 'software', 'strike', 'circuit', 'public']]
+Coh_type:c_v  Topic Num:94 COH score:0.39028243584715805
+top_n: 20 Topic Num: 94 
+Topic Words: [['ride', 'tldr', 'block', 'current', 'massive', 'group', 'software', 'strike', 'circuit', 'public', 'affect', 'bfhttheoryautotldrconcept', 'consider', 'acknowledge', 'phase', 'carbon', 'mm', 'keyword', 'output', 'reasoning']]
+Coh_type:c_v  Topic Num:94 COH score:0.5966088291060408
+top_n: 10 Topic Num: 95 
+Topic Words: [['block', 'tldr', 'group', 'sentence', 'generate', 'current', 'find', 'circuit', 'carbon', 'massive']]
+Coh_type:c_v  Topic Num:95 COH score:0.4443701359654558
+top_n: 20 Topic Num: 95 
+Topic Words: [['block', 'tldr', 'group', 'sentence', 'generate', 'current', 'find', 'circuit', 'carbon', 'massive', 'strike', 'typical', 'pull', 'agenda', 'bfhttheoryautotldrconcept', 'suck', 'phase', 'different', 'animal', 'cross']]
+Coh_type:c_v  Topic Num:95 COH score:0.5978019208527565
+top_n: 10 Topic Num: 96 
+Topic Words: [['tldr', 'ride', 'special', 'bfhttheoryautotldrconcept', 'typical', 'carbon', 'block', 'affect', 'output', 'current']]
+Coh_type:c_v  Topic Num:96 COH score:0.5460057154044504
+top_n: 20 Topic Num: 96 
+Topic Words: [['tldr', 'ride', 'special', 'bfhttheoryautotldrconcept', 'typical', 'carbon', 'block', 'affect', 'output', 'current', 'consider', 'reduce', 'group', 'keyword', 'sentence', 'core', 'circuit', 'cable', 'turbo', 'ring']]
+Coh_type:c_v  Topic Num:96 COH score:0.608269242053488
+top_n: 10 Topic Num: 97 
+Topic Words: [['tldr', 'current', 'ride', 'block', 'special', 'bfhttheoryautotldrconcept', 'typical', 'circuit', 'consider', 'pull']]
+Coh_type:c_v  Topic Num:97 COH score:0.44812127121399187
+top_n: 20 Topic Num: 97 
+Topic Words: [['tldr', 'current', 'ride', 'block', 'special', 'bfhttheoryautotldrconcept', 'typical', 'circuit', 'consider', 'pull', 'carbon', 'core', 'keyword', 'group', 'affect', 'contain', 'reduce', 'sentence', 'output', 'turbo']]
+Coh_type:c_v  Topic Num:97 COH score:0.5886977930770754
+top_n: 10 Topic Num: 98 
+Topic Words: [['pull', 'ride', 'send', 'picture', 'letter', 'circuit', 'thought', 'block', 'incredibly', 'typical']]
+Coh_type:c_v  Topic Num:98 COH score:0.5764875502311955
+top_n: 20 Topic Num: 98 
+Topic Words: [['pull', 'ride', 'send', 'picture', 'letter', 'circuit', 'thought', 'block', 'incredibly', 'typical', 'carbon', 'current', 'round', 'acknowledge', 'desire', 'motorcycle', 'massive', 'powerful', 'bfhttheoryautotldrconcept', 'chrome']]
+Coh_type:c_v  Topic Num:98 COH score:0.6702033894751802
+top_n: 10 Topic Num: 99 
+Topic Words: [['pull', 'ride', 'send', 'picture', 'letter', 'circuit', 'block', 'thought', 'incredibly', 'current']]
+Coh_type:c_v  Topic Num:99 COH score:0.49380908856156713
+top_n: 20 Topic Num: 99 
+Topic Words: [['pull', 'ride', 'send', 'picture', 'letter', 'circuit', 'block', 'thought', 'incredibly', 'current', 'round', 'typical', 'carbon', 'massive', 'desire', 'acknowledge', 'motorcycle', 'bfhttheoryautotldrconcept', 'chrome', 'powerful']]
+Coh_type:c_v  Topic Num:99 COH score:0.6702033894751802
+top_n: 10 Topic Num: 100 
+Topic Words: [['bfhttheoryautotldrconcept', 'keyword', 'picture', 'public', 'current', 'color', 'ride', 'white', 'special', 'tldr']]
+Coh_type:c_v  Topic Num:100 COH score:0.3719748627879718
+top_n: 20 Topic Num: 100 
+Topic Words: [['bfhttheoryautotldrconcept', 'keyword', 'picture', 'public', 'current', 'color', 'ride', 'white', 'special', 'tldr', 'welcome', 'group', 'desire', 'typical', 'policy', 'different', 'pick', 'send', 'carbon', 'reduce']]
+Coh_type:c_v  Topic Num:100 COH score:0.46203851455641665
+top_n: 10 Topic Num: 101 
+Topic Words: [['pull', 'ride', 'send', 'picture', 'letter', 'circuit', 'block', 'thought', 'incredibly', 'typical']]
+Coh_type:c_v  Topic Num:101 COH score:0.5764875502311955
+top_n: 20 Topic Num: 101 
+Topic Words: [['pull', 'ride', 'send', 'picture', 'letter', 'circuit', 'block', 'thought', 'incredibly', 'typical', 'current', 'carbon', 'round', 'acknowledge', 'desire', 'massive', 'motorcycle', 'powerful', 'bfhttheoryautotldrconcept', 'chrome']]
+Coh_type:c_v  Topic Num:101 COH score:0.6702033894751802
+top_n: 10 Topic Num: 102 
+Topic Words: [['current', 'block', 'find', 'special', 'cross', 'consider', 'theory', 'sin', 'color', 'public']]
+Coh_type:c_v  Topic Num:102 COH score:0.349843800311931
+top_n: 20 Topic Num: 102 
+Topic Words: [['current', 'block', 'find', 'special', 'cross', 'consider', 'theory', 'sin', 'color', 'public', 'bfhttheoryautotldrconcept', 'fmfaqautotldrbot', 'paper', 'picture', 'pull', 'peak', 'analog', 'foul', 'rule', 'circuit']]
+Coh_type:c_v  Topic Num:102 COH score:0.5776050352232978
+top_n: 10 Topic Num: 103 
+Topic Words: [['special', 'tldr', 'current', 'bfhttheoryautotldrconcept', 'ride', 'welcome', 'consider', 'keyword', 'block', 'typical']]
+Coh_type:c_v  Topic Num:103 COH score:0.36759838505287346
+top_n: 20 Topic Num: 103 
+Topic Words: [['special', 'tldr', 'current', 'bfhttheoryautotldrconcept', 'ride', 'welcome', 'consider', 'keyword', 'block', 'typical', 'group', 'morality', 'affect', 'color', 'reasoning', 'desire', 'output', 'strike', 'find', 'circuit']]
+Coh_type:c_v  Topic Num:103 COH score:0.477815055733804
+top_n: 10 Topic Num: 104 
+Topic Words: [['consider', 'white', 'picture', 'special', 'group', 'current', 'sun', 'fellow', 'typical', 'loss']]
+Coh_type:c_v  Topic Num:104 COH score:0.44035481003414834
+top_n: 20 Topic Num: 104 
+Topic Words: [['consider', 'white', 'picture', 'special', 'group', 'current', 'sun', 'fellow', 'typical', 'loss', 'massive', 'carbon', 'theory', 'color', 'tldr', 'ask', 'powerful', 'ride', 'find', 'send']]
+Coh_type:c_v  Topic Num:104 COH score:0.4985683488593913
+top_n: 10 Topic Num: 105 
+Topic Words: [['pull', 'ride', 'send', 'picture', 'letter', 'circuit', 'block', 'thought', 'incredibly', 'current']]
+Coh_type:c_v  Topic Num:105 COH score:0.49380908856156713
+top_n: 20 Topic Num: 105 
+Topic Words: [['pull', 'ride', 'send', 'picture', 'letter', 'circuit', 'block', 'thought', 'incredibly', 'current', 'round', 'typical', 'carbon', 'massive', 'desire', 'acknowledge', 'motorcycle', 'bfhttheoryautotldrconcept', 'chrome', 'powerful']]
+Coh_type:c_v  Topic Num:105 COH score:0.6702033894751802
+top_n: 10 Topic Num: 106 
+Topic Words: [['current', 'ride', 'bfhttheoryautotldrconcept', 'block', 'special', 'tldr', 'group', 'typical', 'public', 'strike']]
+Coh_type:c_v  Topic Num:106 COH score:0.4150918559544582
+top_n: 20 Topic Num: 106 
+Topic Words: [['current', 'ride', 'bfhttheoryautotldrconcept', 'block', 'special', 'tldr', 'group', 'typical', 'public', 'strike', 'keyword', 'welcome', 'carbon', 'circuit', 'picture', 'cut', 'sentence', 'color', 'phase', 'pull']]
+Coh_type:c_v  Topic Num:106 COH score:0.5861899716594838
+top_n: 10 Topic Num: 107 
+Topic Words: [['keyword', 'picture', 'public', 'current', 'block', 'consider', 'group', 'find', 'theory', 'ride']]
+Coh_type:c_v  Topic Num:107 COH score:0.2413513408060813
+top_n: 20 Topic Num: 107 
+Topic Words: [['keyword', 'picture', 'public', 'current', 'block', 'consider', 'group', 'find', 'theory', 'ride', 'color', 'circuit', 'bfhttheoryautotldrconcept', 'software', 'welcome', 'incredibly', 'powerful', 'plate', 'arm', 'phase']]
+Coh_type:c_v  Topic Num:107 COH score:0.520598009488663
+top_n: 10 Topic Num: 108 
+Topic Words: [['pull', 'ride', 'picture', 'carbon', 'circuit', 'typical', 'thought', 'send', 'incredibly', 'letter']]
+Coh_type:c_v  Topic Num:108 COH score:0.6287050358717059
+top_n: 20 Topic Num: 108 
+Topic Words: [['pull', 'ride', 'picture', 'carbon', 'circuit', 'typical', 'thought', 'send', 'incredibly', 'letter', 'block', 'acknowledge', 'current', 'powerful', 'round', 'mm', 'desire', 'motorcycle', 'tldr', 'chrome']]
+Coh_type:c_v  Topic Num:108 COH score:0.6849109518916763
+top_n: 10 Topic Num: 109 
+Topic Words: [['pull', 'ride', 'send', 'picture', 'letter', 'circuit', 'thought', 'block', 'incredibly', 'typical']]
+Coh_type:c_v  Topic Num:109 COH score:0.5764875502311955
+top_n: 20 Topic Num: 109 
+Topic Words: [['pull', 'ride', 'send', 'picture', 'letter', 'circuit', 'thought', 'block', 'incredibly', 'typical', 'carbon', 'current', 'round', 'acknowledge', 'desire', 'motorcycle', 'massive', 'powerful', 'chrome', 'bfhttheoryautotldrconcept']]
+Coh_type:c_v  Topic Num:109 COH score:0.6702033894751802
+top_n: 10 Topic Num: 110 
+Topic Words: [['pull', 'ride', 'send', 'picture', 'letter', 'circuit', 'thought', 'block', 'incredibly', 'typical']]
+Coh_type:c_v  Topic Num:110 COH score:0.5764875502311955
+top_n: 20 Topic Num: 110 
+Topic Words: [['pull', 'ride', 'send', 'picture', 'letter', 'circuit', 'thought', 'block', 'incredibly', 'typical', 'carbon', 'current', 'round', 'acknowledge', 'desire', 'motorcycle', 'massive', 'powerful', 'bfhttheoryautotldrconcept', 'chrome']]
+Coh_type:c_v  Topic Num:110 COH score:0.6702033894751802
+top_n: 10 Topic Num: 111 
+Topic Words: [['thread', 'white', 'cross', 'terminal', 'cable', 'exist', 'perform', 'paper', 'wheel', 'puwhatisautomoderator']]
+Coh_type:c_v  Topic Num:111 COH score:0.6392037277275404
+top_n: 20 Topic Num: 111 
+Topic Words: [['thread', 'white', 'cross', 'terminal', 'cable', 'exist', 'perform', 'paper', 'wheel', 'puwhatisautomoderator', 'cpu', 'able', 'personally', 'charge', 'church', 'engage', 'humanity', 'rate', 'picture', 'beat']]
+Coh_type:c_v  Topic Num:111 COH score:0.6925160404140487
+top_n: 10 Topic Num: 112 
+Topic Words: [['pull', 'ride', 'send', 'picture', 'letter', 'circuit', 'block', 'incredibly', 'thought', 'current']]
+Coh_type:c_v  Topic Num:112 COH score:0.49380908856156713
+top_n: 20 Topic Num: 112 
+Topic Words: [['pull', 'ride', 'send', 'picture', 'letter', 'circuit', 'block', 'incredibly', 'thought', 'current', 'round', 'typical', 'carbon', 'massive', 'desire', 'acknowledge', 'motorcycle', 'bfhttheoryautotldrconcept', 'perform', 'chrome']]
+Coh_type:c_v  Topic Num:112 COH score:0.6766683246824687
+top_n: 10 Topic Num: 113 
+Topic Words: [['pull', 'picture', 'ride', 'carbon', 'typical', 'circuit', 'block', 'acknowledge', 'incredibly', 'thought']]
+Coh_type:c_v  Topic Num:113 COH score:0.6282235473736011
+top_n: 20 Topic Num: 113 
+Topic Words: [['pull', 'picture', 'ride', 'carbon', 'typical', 'circuit', 'block', 'acknowledge', 'incredibly', 'thought', 'powerful', 'letter', 'current', 'tldr', 'consider', 'send', 'desire', 'wear', 'round', 'chrome']]
+Coh_type:c_v  Topic Num:113 COH score:0.648542970567511
+top_n: 10 Topic Num: 114 
+Topic Words: [['pull', 'picture', 'ride', 'carbon', 'circuit', 'typical', 'thought', 'block', 'incredibly', 'acknowledge']]
+Coh_type:c_v  Topic Num:114 COH score:0.6282235473736011
+top_n: 20 Topic Num: 114 
+Topic Words: [['pull', 'picture', 'ride', 'carbon', 'circuit', 'typical', 'thought', 'block', 'incredibly', 'acknowledge', 'powerful', 'letter', 'current', 'send', 'round', 'mm', 'desire', 'tldr', 'consider', 'chrome']]
+Coh_type:c_v  Topic Num:114 COH score:0.660798510735243
+top_n: 10 Topic Num: 115 
+Topic Words: [['pull', 'ride', 'send', 'picture', 'letter', 'circuit', 'block', 'thought', 'incredibly', 'current']]
+Coh_type:c_v  Topic Num:115 COH score:0.49380908856156713
+top_n: 20 Topic Num: 115 
+Topic Words: [['pull', 'ride', 'send', 'picture', 'letter', 'circuit', 'block', 'thought', 'incredibly', 'current', 'round', 'typical', 'carbon', 'massive', 'desire', 'acknowledge', 'motorcycle', 'bfhttheoryautotldrconcept', 'chrome', 'perform']]
+Coh_type:c_v  Topic Num:115 COH score:0.6766683246824687
+top_n: 10 Topic Num: 116 
+Topic Words: [['pull', 'ride', 'picture', 'carbon', 'circuit', 'typical', 'thought', 'incredibly', 'block', 'send']]
+Coh_type:c_v  Topic Num:116 COH score:0.6141231442678954
+top_n: 20 Topic Num: 116 
+Topic Words: [['pull', 'ride', 'picture', 'carbon', 'circuit', 'typical', 'thought', 'incredibly', 'block', 'send', 'letter', 'acknowledge', 'current', 'powerful', 'mm', 'round', 'desire', 'motorcycle', 'tldr', 'chrome']]
+Coh_type:c_v  Topic Num:116 COH score:0.6849109518916764
+top_n: 10 Topic Num: 117 
+Topic Words: [['tldr', 'block', 'ride', 'consider', 'bfhttheoryautotldrconcept', 'current', 'keyword', 'special', 'typical', 'circuit']]
+Coh_type:c_v  Topic Num:117 COH score:0.37844856716694864
+top_n: 20 Topic Num: 117 
+Topic Words: [['tldr', 'block', 'ride', 'consider', 'bfhttheoryautotldrconcept', 'current', 'keyword', 'special', 'typical', 'circuit', 'group', 'theory', 'sentence', 'carbon', 'jewish', 'welcome', 'acknowledge', 'affect', 'contain', 'core']]
+Coh_type:c_v  Topic Num:117 COH score:0.5827193171971321
+top_n: 10 Topic Num: 118 
+Topic Words: [['pull', 'picture', 'ride', 'carbon', 'typical', 'circuit', 'block', 'acknowledge', 'thought', 'incredibly']]
+Coh_type:c_v  Topic Num:118 COH score:0.6282235473736011
+top_n: 20 Topic Num: 118 
+Topic Words: [['pull', 'picture', 'ride', 'carbon', 'typical', 'circuit', 'block', 'acknowledge', 'thought', 'incredibly', 'powerful', 'wear', 'consider', 'letter', 'current', 'tldr', 'desire', 'round', 'ask', 'chrome']]
+Coh_type:c_v  Topic Num:118 COH score:0.6347883863348255
+top_n: 10 Topic Num: 119 
+Topic Words: [['ride', 'public', 'keyword', 'picture', 'bfhttheoryautotldrconcept', 'group', 'tldr', 'gt', 'send', 'cross']]
+Coh_type:c_v  Topic Num:119 COH score:0.2837582636467283
+top_n: 20 Topic Num: 119 
+Topic Words: [['ride', 'public', 'keyword', 'picture', 'bfhttheoryautotldrconcept', 'group', 'tldr', 'gt', 'send', 'cross', 'block', 'sentence', 'strike', 'arm', 'current', 'typical', 'cut', 'powerful', 'welcome', 'circuit']]
+Coh_type:c_v  Topic Num:119 COH score:0.4986434188443075
+top_n: 10 Topic Num: 120 
+Topic Words: [['form', 'typical', 'pull', 'theory', 'purpose', 'ride', 'consider', 'animal', 'special', 'circuit']]
+Coh_type:c_v  Topic Num:120 COH score:0.4333241314119601
+top_n: 20 Topic Num: 120 
+Topic Words: [['form', 'typical', 'pull', 'theory', 'purpose', 'ride', 'consider', 'animal', 'special', 'circuit', 'carbon', 'analog', 'agenda', 'contain', 'keyword', 'territory', 'tldr', 'color', 'acknowledge', 'block']]
+Coh_type:c_v  Topic Num:120 COH score:0.6235058649344065
+top_n: 10 Topic Num: 121 
+Topic Words: [['current', 'color', 'bfhttheoryautotldrconcept', 'group', 'public', 'keyword', 'tldr', 'block', 'circuit', 'liberal']]
+Coh_type:c_v  Topic Num:121 COH score:0.3476269182007295
+top_n: 20 Topic Num: 121 
+Topic Words: [['current', 'color', 'bfhttheoryautotldrconcept', 'group', 'public', 'keyword', 'tldr', 'block', 'circuit', 'liberal', 'white', 'suck', 'consider', 'ride', 'strike', 'powerful', 'typical', 'present', 'sun', 'special']]
+Coh_type:c_v  Topic Num:121 COH score:0.5605474661863418
+top_n: 10 Topic Num: 122 
+Topic Words: [['block', 'different', 'carbon', 'current', 'public', 'picture', 'pull', 'analog', 'arm', 'core']]
+Coh_type:c_v  Topic Num:122 COH score:0.4183425326802168
+top_n: 20 Topic Num: 122 
+Topic Words: [['block', 'different', 'carbon', 'current', 'public', 'picture', 'pull', 'analog', 'arm', 'core', 'form', 'tldr', 'sentence', 'cross', 'group', 'color', 'powerful', 'ride', 'throttle', 'special']]
+Coh_type:c_v  Topic Num:122 COH score:0.6032566915103781
+top_n: 10 Topic Num: 123 
+Topic Words: [['current', 'tldr', 'ride', 'consider', 'block', 'bfhttheoryautotldrconcept', 'keyword', 'special', 'group', 'carbon']]
+Coh_type:c_v  Topic Num:123 COH score:0.3513927381542109
+top_n: 20 Topic Num: 123 
+Topic Words: [['current', 'tldr', 'ride', 'consider', 'block', 'bfhttheoryautotldrconcept', 'keyword', 'special', 'group', 'carbon', 'reduce', 'theory', 'typical', 'circuit', 'individual', 'pull', 'contain', 'affect', 'core', 'acknowledge']]
+Coh_type:c_v  Topic Num:123 COH score:0.526278486438694
+top_n: 10 Topic Num: 124 
+Topic Words: [['tldr', 'ride', 'special', 'bfhttheoryautotldrconcept', 'typical', 'carbon', 'block', 'affect', 'output', 'consider']]
+Coh_type:c_v  Topic Num:124 COH score:0.528370026945373
+top_n: 20 Topic Num: 124 
+Topic Words: [['tldr', 'ride', 'special', 'bfhttheoryautotldrconcept', 'typical', 'carbon', 'block', 'affect', 'output', 'consider', 'reduce', 'group', 'core', 'current', 'sentence', 'keyword', 'circuit', 'cable', 'turbo', 'ring']]
+Coh_type:c_v  Topic Num:124 COH score:0.608269242053488
+top_n: 10 Topic Num: 125 
+Topic Words: [['current', 'ride', 'bfhttheoryautotldrconcept', 'block', 'tldr', 'gt', 'circuit', 'welcome', 'typical', 'massive']]
+Coh_type:c_v  Topic Num:125 COH score:0.3195935141637942
+top_n: 20 Topic Num: 125 
+Topic Words: [['current', 'ride', 'bfhttheoryautotldrconcept', 'block', 'tldr', 'gt', 'circuit', 'welcome', 'typical', 'massive', 'reasoning', 'white', 'sentence', 'public', 'group', 'keyword', 'different', 'carbon', 'policy', 'core']]
+Coh_type:c_v  Topic Num:125 COH score:0.5302763995467579
+top_n: 10 Topic Num: 126 
+Topic Words: [['consider', 'white', 'picture', 'special', 'group', 'current', 'sun', 'fellow', 'typical', 'carbon']]
+Coh_type:c_v  Topic Num:126 COH score:0.3813156141313715
+top_n: 20 Topic Num: 126 
+Topic Words: [['consider', 'white', 'picture', 'special', 'group', 'current', 'sun', 'fellow', 'typical', 'carbon', 'loss', 'massive', 'color', 'tldr', 'ask', 'theory', 'powerful', 'find', 'ride', 'send']]
+Coh_type:c_v  Topic Num:126 COH score:0.4985683488593914
+top_n: 10 Topic Num: 127 
+Topic Words: [['current', 'special', 'tldr', 'bfhttheoryautotldrconcept', 'block', 'ride', 'morality', 'typical', 'reduce', 'welcome']]
+Coh_type:c_v  Topic Num:127 COH score:0.44746627311619563
+top_n: 20 Topic Num: 127 
+Topic Words: [['current', 'special', 'tldr', 'bfhttheoryautotldrconcept', 'block', 'ride', 'morality', 'typical', 'reduce', 'welcome', 'keyword', 'group', 'affect', 'color', 'desire', 'strike', 'core', 'circuit', 'clinical', 'sentence']]
+Coh_type:c_v  Topic Num:127 COH score:0.5726754918221693
+top_n: 10 Topic Num: 128 
+Topic Words: [['pull', 'ride', 'picture', 'carbon', 'circuit', 'typical', 'thought', 'incredibly', 'block', 'acknowledge']]
+Coh_type:c_v  Topic Num:128 COH score:0.6282235473736011
+top_n: 20 Topic Num: 128 
+Topic Words: [['pull', 'ride', 'picture', 'carbon', 'circuit', 'typical', 'thought', 'incredibly', 'block', 'acknowledge', 'letter', 'powerful', 'current', 'send', 'mm', 'round', 'desire', 'tldr', 'chrome', 'wear']]
+Coh_type:c_v  Topic Num:128 COH score:0.681232045987358
+top_n: 10 Topic Num: 129 
+Topic Words: [['consider', 'pull', 'block', 'current', 'ride', 'keyword', 'tldr', 'special', 'public', 'group']]
+Coh_type:c_v  Topic Num:129 COH score:0.36296009035592236
+top_n: 20 Topic Num: 129 
+Topic Words: [['consider', 'pull', 'block', 'current', 'ride', 'keyword', 'tldr', 'special', 'public', 'group', 'bfhttheoryautotldrconcept', 'analog', 'circuit', 'core', 'individual', 'fmfaqautotldrbot', 'reduce', 'output', 'territory', 'typical']]
+Coh_type:c_v  Topic Num:129 COH score:0.47697813007765355
+top_n: 10 Topic Num: 130 
+Topic Words: [['pull', 'ride', 'picture', 'send', 'circuit', 'thought', 'letter', 'incredibly', 'typical', 'carbon']]
+Coh_type:c_v  Topic Num:130 COH score:0.628705035871706
+top_n: 20 Topic Num: 130 
+Topic Words: [['pull', 'ride', 'picture', 'send', 'circuit', 'thought', 'letter', 'incredibly', 'typical', 'carbon', 'block', 'current', 'acknowledge', 'desire', 'powerful', 'motorcycle', 'round', 'tldr', 'chrome', 'rule']]
+Coh_type:c_v  Topic Num:130 COH score:0.6715672239015729
+top_n: 10 Topic Num: 131 
+Topic Words: [['pull', 'ride', 'send', 'picture', 'letter', 'circuit', 'thought', 'block', 'incredibly', 'typical']]
+Coh_type:c_v  Topic Num:131 COH score:0.5764875502311955
+top_n: 20 Topic Num: 131 
+Topic Words: [['pull', 'ride', 'send', 'picture', 'letter', 'circuit', 'thought', 'block', 'incredibly', 'typical', 'current', 'carbon', 'round', 'acknowledge', 'desire', 'massive', 'motorcycle', 'powerful', 'bfhttheoryautotldrconcept', 'chrome']]
+Coh_type:c_v  Topic Num:131 COH score:0.6702033894751802
+top_n: 10 Topic Num: 132 
+Topic Words: [['current', 'special', 'ride', 'block', 'consider', 'tldr', 'typical', 'bfhttheoryautotldrconcept', 'affect', 'group']]
+Coh_type:c_v  Topic Num:132 COH score:0.412684378501471
+top_n: 20 Topic Num: 132 
+Topic Words: [['current', 'special', 'ride', 'block', 'consider', 'tldr', 'typical', 'bfhttheoryautotldrconcept', 'affect', 'group', 'carbon', 'core', 'theory', 'keyword', 'sentence', 'federal', 'contain', 'jewish', 'find', 'welcome']]
+Coh_type:c_v  Topic Num:132 COH score:0.538739407589836
+top_n: 10 Topic Num: 133 
+Topic Words: [['pull', 'ride', 'send', 'picture', 'letter', 'circuit', 'thought', 'block', 'incredibly', 'typical']]
+Coh_type:c_v  Topic Num:133 COH score:0.5764875502311955
+top_n: 20 Topic Num: 133 
+Topic Words: [['pull', 'ride', 'send', 'picture', 'letter', 'circuit', 'thought', 'block', 'incredibly', 'typical', 'carbon', 'current', 'round', 'acknowledge', 'desire', 'motorcycle', 'massive', 'powerful', 'tldr', 'chrome']]
+Coh_type:c_v  Topic Num:133 COH score:0.6677847907572743
+top_n: 10 Topic Num: 134 
+Topic Words: [['consider', 'current', 'theory', 'ride', 'block', 'public', 'special', 'powerful', 'keyword', 'group']]
+Coh_type:c_v  Topic Num:134 COH score:0.362068126089827
+top_n: 20 Topic Num: 134 
+Topic Words: [['consider', 'current', 'theory', 'ride', 'block', 'public', 'special', 'powerful', 'keyword', 'group', 'bfhttheoryautotldrconcept', 'output', 'picture', 'carbon', 'pull', 'typical', 'mm', 'reduce', 'circuit', 'phase']]
+Coh_type:c_v  Topic Num:134 COH score:0.563269345585328
+top_n: 10 Topic Num: 135 
+Topic Words: [['pull', 'ride', 'picture', 'send', 'circuit', 'letter', 'thought', 'incredibly', 'block', 'typical']]
+Coh_type:c_v  Topic Num:135 COH score:0.5764875502311955
+top_n: 20 Topic Num: 135 
+Topic Words: [['pull', 'ride', 'picture', 'send', 'circuit', 'letter', 'thought', 'incredibly', 'block', 'typical', 'carbon', 'current', 'acknowledge', 'round', 'desire', 'motorcycle', 'powerful', 'tldr', 'massive', 'chrome']]
+Coh_type:c_v  Topic Num:135 COH score:0.6677847907572744
+top_n: 10 Topic Num: 136 
+Topic Words: [['thread', 'white', 'terminal', 'exist', 'cross', 'wheel', 'unit', 'perform', 'rate', 'analog']]
+Coh_type:c_v  Topic Num:136 COH score:0.64389661445146
+top_n: 20 Topic Num: 136 
+Topic Words: [['thread', 'white', 'terminal', 'exist', 'cross', 'wheel', 'unit', 'perform', 'rate', 'analog', 'desire', 'society', 'equivalent', 'hospital', 'consider', 'personally', 'policy', 'engage', 'current', 'strike']]
+Coh_type:c_v  Topic Num:136 COH score:0.685032400218207
+top_n: 10 Topic Num: 137 
+Topic Words: [['thread', 'consider', 'charge', 'signal', 'cpu', 'spread', 'simply', 'pic', 'paper', 'puwhatisautomoderator']]
+Coh_type:c_v  Topic Num:137 COH score:0.5653673133707879
+top_n: 20 Topic Num: 137 
+Topic Words: [['thread', 'consider', 'charge', 'signal', 'cpu', 'spread', 'simply', 'pic', 'paper', 'puwhatisautomoderator', 'produce', 'goal', 'wheel', 'staff', 'touch', 'shooter', 'face', 'engage', 'drop', 'strike']]
+Coh_type:c_v  Topic Num:137 COH score:0.6708819118996634
+top_n: 10 Topic Num: 138 
+Topic Words: [['pull', 'ride', 'send', 'picture', 'letter', 'circuit', 'block', 'thought', 'incredibly', 'current']]
+Coh_type:c_v  Topic Num:138 COH score:0.49380908856156713
+top_n: 20 Topic Num: 138 
+Topic Words: [['pull', 'ride', 'send', 'picture', 'letter', 'circuit', 'block', 'thought', 'incredibly', 'current', 'typical', 'round', 'carbon', 'acknowledge', 'desire', 'massive', 'motorcycle', 'bfhttheoryautotldrconcept', 'chrome', 'powerful']]
+Coh_type:c_v  Topic Num:138 COH score:0.6702033894751802
+top_n: 10 Topic Num: 139 
+Topic Words: [['thread', 'white', 'terminal', 'paper', 'cross', 'cable', 'exist', 'wheel', 'perform', 'animal']]
+Coh_type:c_v  Topic Num:139 COH score:0.651252019480381
+top_n: 20 Topic Num: 139 
+Topic Words: [['thread', 'white', 'terminal', 'paper', 'cross', 'cable', 'exist', 'wheel', 'perform', 'animal', 'equivalent', 'desire', 'picture', 'analog', 'humanity', 'rate', 'stutter', 'current', 'able', 'personally']]
+Coh_type:c_v  Topic Num:139 COH score:0.6808121976892862
+top_n: 10 Topic Num: 140 
+Topic Words: [['ride', 'current', 'block', 'public', 'powerful', 'circuit', 'typical', 'group', 'bfhttheoryautotldrconcept', 'cross']]
+Coh_type:c_v  Topic Num:140 COH score:0.47617854431914014
+top_n: 20 Topic Num: 140 
+Topic Words: [['ride', 'current', 'block', 'public', 'powerful', 'circuit', 'typical', 'group', 'bfhttheoryautotldrconcept', 'cross', 'picture', 'acknowledge', 'phase', 'carbon', 'beat', 'analog', 'sentence', 'form', 'core', 'consider']]
+Coh_type:c_v  Topic Num:140 COH score:0.6262748872921773
+top_n: 10 Topic Num: 141 
+Topic Words: [['thread', 'white', 'exist', 'terminal', 'analog', 'group', 'circuit', 'wheel', 'unit', 'tool']]
+Coh_type:c_v  Topic Num:141 COH score:0.5855396278688956
+top_n: 20 Topic Num: 141 
+Topic Words: [['thread', 'white', 'exist', 'terminal', 'analog', 'group', 'circuit', 'wheel', 'unit', 'tool', 'humanity', 'desire', 'special', 'perform', 'form', 'face', 'hospital', 'rate', 'cross', 'goal']]
+Coh_type:c_v  Topic Num:141 COH score:0.5966372471334781
+top_n: 10 Topic Num: 142 
+Topic Words: [['consider', 'find', 'ride', 'public', 'picture', 'different', 'block', 'software', 'special', 'ask']]
+Coh_type:c_v  Topic Num:142 COH score:0.2381469721818606
+top_n: 20 Topic Num: 142 
+Topic Words: [['consider', 'find', 'ride', 'public', 'picture', 'different', 'block', 'software', 'special', 'ask', 'arm', 'cross', 'strip', 'group', 'typical', 'unique', 'powerful', 'kill', 'strike', 'current']]
+Coh_type:c_v  Topic Num:142 COH score:0.5225102360703474
+top_n: 10 Topic Num: 143 
+Topic Words: [['special', 'tldr', 'current', 'ride', 'bfhttheoryautotldrconcept', 'animal', 'typical', 'affect', 'morality', 'group']]
+Coh_type:c_v  Topic Num:143 COH score:0.45621548641062104
+top_n: 20 Topic Num: 143 
+Topic Words: [['special', 'tldr', 'current', 'ride', 'bfhttheoryautotldrconcept', 'animal', 'typical', 'affect', 'morality', 'group', 'strike', 'keyword', 'theory', 'find', 'switch', 'block', 'purpose', 'welcome', 'spread', 'aspect']]
+Coh_type:c_v  Topic Num:143 COH score:0.4841655829507238
+top_n: 10 Topic Num: 144 
+Topic Words: [['current', 'special', 'consider', 'tldr', 'bfhttheoryautotldrconcept', 'ride', 'block', 'keyword', 'welcome', 'find']]
+Coh_type:c_v  Topic Num:144 COH score:0.3053368039577115
+top_n: 20 Topic Num: 144 
+Topic Words: [['current', 'special', 'consider', 'tldr', 'bfhttheoryautotldrconcept', 'ride', 'block', 'keyword', 'welcome', 'find', 'typical', 'group', 'affect', 'reasoning', 'output', 'goal', 'foul', 'rule', 'core', 'sentence']]
+Coh_type:c_v  Topic Num:144 COH score:0.5315483364614033
+top_n: 10 Topic Num: 145 
+Topic Words: [['current', 'tldr', 'benefit', 'block', 'special', 'group', 'ride', 'bfhttheoryautotldrconcept', 'carbon', 'affect']]
+Coh_type:c_v  Topic Num:145 COH score:0.45614029109670584
+top_n: 20 Topic Num: 145 
+Topic Words: [['current', 'tldr', 'benefit', 'block', 'special', 'group', 'ride', 'bfhttheoryautotldrconcept', 'carbon', 'affect', 'core', 'typical', 'pull', 'theory', 'consider', 'animal', 'sentence', 'desire', 'individual', 'ring']]
+Coh_type:c_v  Topic Num:145 COH score:0.5887632240599903
+top_n: 10 Topic Num: 146 
+Topic Words: [['send', 'ride', 'current', 'deliver', 'kill', 'picture', 'public', 'color', 'cross', 'bfhttheoryautotldrconcept']]
+Coh_type:c_v  Topic Num:146 COH score:0.39181884745689766
+top_n: 20 Topic Num: 146 
+Topic Words: [['send', 'ride', 'current', 'deliver', 'kill', 'picture', 'public', 'color', 'cross', 'bfhttheoryautotldrconcept', 'cut', 'group', 'red', 'white', 'wear', 'paint', 'guide', 'powerful', 'special', 'strike']]
+Coh_type:c_v  Topic Num:146 COH score:0.5048603191809915
+top_n: 10 Topic Num: 147 
+Topic Words: [['white', 'thread', 'terminal', 'circuit', 'wheel', 'analog', 'perform', 'consider', 'personally', 'desire']]
+Coh_type:c_v  Topic Num:147 COH score:0.5810618852150641
+top_n: 20 Topic Num: 147 
+Topic Words: [['white', 'thread', 'terminal', 'circuit', 'wheel', 'analog', 'perform', 'consider', 'personally', 'desire', 'unit', 'stutter', 'block', 'equivalent', 'strike', 'acknowledge', 'society', 'cross', 'dark', 'rate']]
+Coh_type:c_v  Topic Num:147 COH score:0.7100959191430329
+top_n: 10 Topic Num: 148 
+Topic Words: [['current', 'public', 'picture', 'ride', 'keyword', 'tldr', 'block', 'typical', 'pull', 'group']]
+Coh_type:c_v  Topic Num:148 COH score:0.452150505670435
+top_n: 20 Topic Num: 148 
+Topic Words: [['current', 'public', 'picture', 'ride', 'keyword', 'tldr', 'block', 'typical', 'pull', 'group', 'circuit', 'send', 'find', 'sentence', 'carbon', 'bfhttheoryautotldrconcept', 'color', 'beginning', 'phase', 'benefit']]
+Coh_type:c_v  Topic Num:148 COH score:0.589128983164667
+top_n: 10 Topic Num: 149 
+Topic Words: [['pull', 'consider', 'wear', 'picture', 'carbon', 'ride', 'bfhttheoryautotldrconcept', 'mm', 'send', 'strip']]
+Coh_type:c_v  Topic Num:149 COH score:0.5520013179183982
+top_n: 20 Topic Num: 149 
+Topic Words: [['pull', 'consider', 'wear', 'picture', 'carbon', 'ride', 'bfhttheoryautotldrconcept', 'mm', 'send', 'strip', 'content', 'block', 'core', 'thought', 'circuit', 'turbo', 'suck', 'sentence', 'special', 'round']]
+Coh_type:c_v  Topic Num:149 COH score:0.7101399179923207
+top_n: 10 Topic Num: 150 
+Topic Words: [['benefit', 'special', 'tldr', 'current', 'ride', 'bfhttheoryautotldrconcept', 'group', 'animal', 'block', 'typical']]
+Coh_type:c_v  Topic Num:150 COH score:0.44199348177368564
+top_n: 20 Topic Num: 150 
+Topic Words: [['benefit', 'special', 'tldr', 'current', 'ride', 'bfhttheoryautotldrconcept', 'group', 'animal', 'block', 'typical', 'acknowledge', 'carbon', 'red', 'pull', 'affect', 'core', 'desire', 'consider', 'aspect', 'sentence']]
+Coh_type:c_v  Topic Num:150 COH score:0.6012824132253627
+top_n: 10 Topic Num: 151 
+Topic Words: [['thread', 'white', 'terminal', 'paper', 'wheel', 'cable', 'cross', 'exist', 'personally', 'perform']]
+Coh_type:c_v  Topic Num:151 COH score:0.6379329169485624
+top_n: 20 Topic Num: 151 
+Topic Words: [['thread', 'white', 'terminal', 'paper', 'wheel', 'cable', 'cross', 'exist', 'personally', 'perform', 'equivalent', 'picture', 'analog', 'loop', 'desire', 'stutter', 'ask', 'society', 'cpu', 'humanity']]
+Coh_type:c_v  Topic Num:151 COH score:0.7012743237000206
+top_n: 10 Topic Num: 152 
+Topic Words: [['current', 'component', 'analog', 'wheel', 'special', 'pull', 'carbon', 'output', 'keyword', 'theory']]
+Coh_type:c_v  Topic Num:152 COH score:0.5676189522140322
+top_n: 20 Topic Num: 152 
+Topic Words: [['current', 'component', 'analog', 'wheel', 'special', 'pull', 'carbon', 'output', 'keyword', 'theory', 'tldr', 'desire', 'ride', 'consider', 'animal', 'assembly', 'foot', 'dark', 'territory', 'fellow']]
+Coh_type:c_v  Topic Num:152 COH score:0.6364926553437183
+top_n: 10 Topic Num: 153 
+Topic Words: [['current', 'consider', 'find', 'animal', 'cross', 'picture', 'block', 'ride', 'bfhttheoryautotldrconcept', 'send']]
+Coh_type:c_v  Topic Num:153 COH score:0.35423801180363834
+top_n: 20 Topic Num: 153 
+Topic Words: [['current', 'consider', 'find', 'animal', 'cross', 'picture', 'block', 'ride', 'bfhttheoryautotldrconcept', 'send', 'powerful', 'public', 'territory', 'typical', 'muslim', 'letter', 'form', 'event', 'carbon', 'group']]
+Coh_type:c_v  Topic Num:153 COH score:0.49748588089604945
+top_n: 10 Topic Num: 154 
+Topic Words: [['pull', 'ride', 'picture', 'send', 'letter', 'circuit', 'thought', 'incredibly', 'block', 'typical']]
+Coh_type:c_v  Topic Num:154 COH score:0.5764875502311956
+top_n: 20 Topic Num: 154 
+Topic Words: [['pull', 'ride', 'picture', 'send', 'letter', 'circuit', 'thought', 'incredibly', 'block', 'typical', 'carbon', 'current', 'round', 'acknowledge', 'desire', 'motorcycle', 'massive', 'powerful', 'tldr', 'chrome']]
+Coh_type:c_v  Topic Num:154 COH score:0.6677847907572743
+top_n: 10 Topic Num: 155 
+Topic Words: [['ride', 'typical', 'powerful', 'animal', 'current', 'bfhttheoryautotldrconcept', 'group', 'public', 'block', 'picture']]
+Coh_type:c_v  Topic Num:155 COH score:0.5019626691272693
+top_n: 20 Topic Num: 155 
+Topic Words: [['ride', 'typical', 'powerful', 'animal', 'current', 'bfhttheoryautotldrconcept', 'group', 'public', 'block', 'picture', 'carbon', 'cross', 'analog', 'reduce', 'form', 'reflect', 'circuit', 'letter', 'exist', 'sentence']]
+Coh_type:c_v  Topic Num:155 COH score:0.6155636272389187
+top_n: 10 Topic Num: 156 
+Topic Words: [['current', 'tldr', 'block', 'ride', 'consider', 'bfhttheoryautotldrconcept', 'special', 'group', 'keyword', 'theory']]
+Coh_type:c_v  Topic Num:156 COH score:0.3287944438719156
+top_n: 20 Topic Num: 156 
+Topic Words: [['current', 'tldr', 'block', 'ride', 'consider', 'bfhttheoryautotldrconcept', 'special', 'group', 'keyword', 'theory', 'carbon', 'reduce', 'typical', 'acknowledge', 'core', 'contain', 'welcome', 'circuit', 'jewish', 'affect']]
+Coh_type:c_v  Topic Num:156 COH score:0.5265887279672345
+top_n: 10 Topic Num: 157 
+Topic Words: [['picture', 'public', 'current', 'keyword', 'color', 'consider', 'bfhttheoryautotldrconcept', 'block', 'find', 'group']]
+Coh_type:c_v  Topic Num:157 COH score:0.1895479596406574
+top_n: 20 Topic Num: 157 
+Topic Words: [['picture', 'public', 'current', 'keyword', 'color', 'consider', 'bfhttheoryautotldrconcept', 'block', 'find', 'group', 'special', 'welcome', 'cross', 'powerful', 'typical', 'incredibly', 'software', 'ride', 'ability', 'arm']]
+Coh_type:c_v  Topic Num:157 COH score:0.4913938279182017
+top_n: 10 Topic Num: 158 
+Topic Words: [['consider', 'public', 'block', 'group', 'powerful', 'keyword', 'picture', 'find', 'arm', 'theory']]
+Coh_type:c_v  Topic Num:158 COH score:0.20399169751153612
+top_n: 20 Topic Num: 158 
+Topic Words: [['consider', 'public', 'block', 'group', 'powerful', 'keyword', 'picture', 'find', 'arm', 'theory', 'bfhttheoryautotldrconcept', 'ride', 'dark', 'incredibly', 'special', 'pull', 'current', 'acknowledge', 'territory', 'tldr']]
+Coh_type:c_v  Topic Num:158 COH score:0.513353932809655
+top_n: 10 Topic Num: 159 
+Topic Words: [['pull', 'ride', 'picture', 'carbon', 'circuit', 'typical', 'thought', 'send', 'incredibly', 'letter']]
+Coh_type:c_v  Topic Num:159 COH score:0.6287050358717059
+top_n: 20 Topic Num: 159 
+Topic Words: [['pull', 'ride', 'picture', 'carbon', 'circuit', 'typical', 'thought', 'send', 'incredibly', 'letter', 'block', 'acknowledge', 'current', 'powerful', 'round', 'mm', 'desire', 'motorcycle', 'tldr', 'chrome']]
+Coh_type:c_v  Topic Num:159 COH score:0.6849109518916763
+top_n: 10 Topic Num: 160 
+Topic Words: [['pull', 'picture', 'ride', 'typical', 'carbon', 'circuit', 'block', 'acknowledge', 'incredibly', 'thought']]
+Coh_type:c_v  Topic Num:160 COH score:0.6282235473736011
+top_n: 20 Topic Num: 160 
+Topic Words: [['pull', 'picture', 'ride', 'typical', 'carbon', 'circuit', 'block', 'acknowledge', 'incredibly', 'thought', 'powerful', 'letter', 'tldr', 'consider', 'current', 'desire', 'wear', 'send', 'round', 'chrome']]
+Coh_type:c_v  Topic Num:160 COH score:0.648542970567511
+top_n: 10 Topic Num: 161 
+Topic Words: [['thread', 'consider', 'z', 'personally', 'different', 'face', 'wheel', 'unit', 'charge', 'analog']]
+Coh_type:c_v  Topic Num:161 COH score:0.4836897685121239
+top_n: 20 Topic Num: 161 
+Topic Words: [['thread', 'consider', 'z', 'personally', 'different', 'face', 'wheel', 'unit', 'charge', 'analog', 'white', 'terminal', 'society', 'direction', 'component', 'engage', 'keyword', 'cable', 'group', 'drop']]
+Coh_type:c_v  Topic Num:161 COH score:0.6049707955695938
+top_n: 10 Topic Num: 162 
+Topic Words: [['pull', 'ride', 'picture', 'carbon', 'circuit', 'typical', 'thought', 'incredibly', 'block', 'acknowledge']]
+Coh_type:c_v  Topic Num:162 COH score:0.6282235473736011
+top_n: 20 Topic Num: 162 
+Topic Words: [['pull', 'ride', 'picture', 'carbon', 'circuit', 'typical', 'thought', 'incredibly', 'block', 'acknowledge', 'letter', 'powerful', 'current', 'send', 'mm', 'round', 'desire', 'tldr', 'chrome', 'wear']]
+Coh_type:c_v  Topic Num:162 COH score:0.681232045987358
+top_n: 10 Topic Num: 163 
+Topic Words: [['thread', 'consider', 'z', 'personally', 'exist', 'white', 'public', 'terminal', 'face', 'short']]
+Coh_type:c_v  Topic Num:163 COH score:0.5159490185206659
+top_n: 20 Topic Num: 163 
+Topic Words: [['thread', 'consider', 'z', 'personally', 'exist', 'white', 'public', 'terminal', 'face', 'short', 'cross', 'constructive', 'analog', 'regard', 'respect', 'produce', 'wheel', 'send', 'puwhatisautomoderator', 'cable']]
+Coh_type:c_v  Topic Num:163 COH score:0.6227531912356074
+top_n: 10 Topic Num: 164 
+Topic Words: [['form', 'pull', 'consider', 'current', 'animal', 'special', 'rule', 'keyword', 'block', 'bfhttheoryautotldrconcept']]
+Coh_type:c_v  Topic Num:164 COH score:0.36359884043083823
+top_n: 20 Topic Num: 164 
+Topic Words: [['form', 'pull', 'consider', 'current', 'animal', 'special', 'rule', 'keyword', 'block', 'bfhttheoryautotldrconcept', 'analog', 'picture', 'typical', 'territory', 'tldr', 'fmfaqautotldrbot', 'ride', 'mm', 'contain', 'cross']]
+Coh_type:c_v  Topic Num:164 COH score:0.5747671146899817
+top_n: 10 Topic Num: 165 
+Topic Words: [['pull', 'ride', 'send', 'picture', 'letter', 'circuit', 'block', 'incredibly', 'current', 'thought']]
+Coh_type:c_v  Topic Num:165 COH score:0.49380908856156713
+top_n: 20 Topic Num: 165 
+Topic Words: [['pull', 'ride', 'send', 'picture', 'letter', 'circuit', 'block', 'incredibly', 'current', 'thought', 'round', 'carbon', 'typical', 'massive', 'desire', 'acknowledge', 'perform', 'bfhttheoryautotldrconcept', 'motorcycle', 'chrome']]
+Coh_type:c_v  Topic Num:165 COH score:0.6766683246824686
+top_n: 10 Topic Num: 166 
+Topic Words: [['pull', 'ride', 'picture', 'carbon', 'circuit', 'typical', 'thought', 'incredibly', 'block', 'letter']]
+Coh_type:c_v  Topic Num:166 COH score:0.6231880974337243
+top_n: 20 Topic Num: 166 
+Topic Words: [['pull', 'ride', 'picture', 'carbon', 'circuit', 'typical', 'thought', 'incredibly', 'block', 'letter', 'acknowledge', 'send', 'current', 'powerful', 'mm', 'round', 'desire', 'tldr', 'chrome', 'motorcycle']]
+Coh_type:c_v  Topic Num:166 COH score:0.6849109518916763
+top_n: 10 Topic Num: 167 
+Topic Words: [['current', 'analog', 'block', 'group', 'keyword', 'ride', 'theory', 'special', 'bfhttheoryautotldrconcept', 'carbon']]
+Coh_type:c_v  Topic Num:167 COH score:0.4993248445074454
+top_n: 20 Topic Num: 167 
+Topic Words: [['current', 'analog', 'block', 'group', 'keyword', 'ride', 'theory', 'special', 'bfhttheoryautotldrconcept', 'carbon', 'animal', 'output', 'tldr', 'consider', 'fmfaqautotldrbot', 'reduce', 'ability', 'comparison', 'cross', 'pick']]
+Coh_type:c_v  Topic Num:167 COH score:0.5167273099913623
+top_n: 10 Topic Num: 168 
+Topic Words: [['thread', 'consider', 'analog', 'z', 'face', 'different', 'personally', 'exist', 'wheel', 'direction']]
+Coh_type:c_v  Topic Num:168 COH score:0.49840772613706774
+top_n: 20 Topic Num: 168 
+Topic Words: [['thread', 'consider', 'analog', 'z', 'face', 'different', 'personally', 'exist', 'wheel', 'direction', 'spread', 'drop', 'simply', 'engage', 'public', 'cross', 'beat', 'group', 'white', 'pipe']]
+Coh_type:c_v  Topic Num:168 COH score:0.611435837435215
+top_n: 10 Topic Num: 169 
+Topic Words: [['current', 'special', 'cross', 'ride', 'picture', 'theory', 'block', 'consider', 'typical', 'bfhttheoryautotldrconcept']]
+Coh_type:c_v  Topic Num:169 COH score:0.5094001005883296
+top_n: 20 Topic Num: 169 
+Topic Words: [['current', 'special', 'cross', 'ride', 'picture', 'theory', 'block', 'consider', 'typical', 'bfhttheoryautotldrconcept', 'simply', 'acknowledge', 'unique', 'issue', 'pull', 'public', 'group', 'rule', 'reflect', 'event']]
+Coh_type:c_v  Topic Num:169 COH score:0.5404718765971855
+top_n: 10 Topic Num: 170 
+Topic Words: [['ride', 'cross', 'form', 'keyword', 'pull', 'analog', 'theory', 'special', 'carbon', 'block']]
+Coh_type:c_v  Topic Num:170 COH score:0.5820618419817662
+top_n: 20 Topic Num: 170 
+Topic Words: [['ride', 'cross', 'form', 'keyword', 'pull', 'analog', 'theory', 'special', 'carbon', 'block', 'wheel', 'desire', 'group', 'current', 'white', 'typical', 'animal', 'acknowledge', 'islamic', 'humanity']]
+Coh_type:c_v  Topic Num:170 COH score:0.6514262635960719
+top_n: 10 Topic Num: 171 
+Topic Words: [['block', 'current', 'group', 'special', 'different', 'pull', 'theory', 'tldr', 'letter', 'analog']]
+Coh_type:c_v  Topic Num:171 COH score:0.42337122116432013
+top_n: 20 Topic Num: 171 
+Topic Words: [['block', 'current', 'group', 'special', 'different', 'pull', 'theory', 'tldr', 'letter', 'analog', 'carbon', 'paint', 'consider', 'sentence', 'muslim', 'research', 'source', 'keyword', 'mm', 'terminal']]
+Coh_type:c_v  Topic Num:171 COH score:0.6004341529424689
+top_n: 10 Topic Num: 172 
+Topic Words: [['pull', 'ride', 'picture', 'carbon', 'circuit', 'typical', 'thought', 'incredibly', 'block', 'letter']]
+Coh_type:c_v  Topic Num:172 COH score:0.6231880974337243
+top_n: 20 Topic Num: 172 
+Topic Words: [['pull', 'ride', 'picture', 'carbon', 'circuit', 'typical', 'thought', 'incredibly', 'block', 'letter', 'send', 'acknowledge', 'current', 'powerful', 'mm', 'round', 'desire', 'motorcycle', 'tldr', 'chrome']]
+Coh_type:c_v  Topic Num:172 COH score:0.6849109518916764
+top_n: 10 Topic Num: 173 
+Topic Words: [['current', 'tldr', 'group', 'special', 'block', 'typical', 'ride', 'strike', 'bfhttheoryautotldrconcept', 'core']]
+Coh_type:c_v  Topic Num:173 COH score:0.47759810323097024
+top_n: 20 Topic Num: 173 
+Topic Words: [['current', 'tldr', 'group', 'special', 'block', 'typical', 'ride', 'strike', 'bfhttheoryautotldrconcept', 'core', 'acknowledge', 'color', 'benefit', 'affect', 'contain', 'theory', 'sentence', 'circuit', 'carbon', 'consider']]
+Coh_type:c_v  Topic Num:173 COH score:0.593881482200109
+top_n: 10 Topic Num: 174 
+Topic Words: [['thread', 'white', 'terminal', 'wheel', 'cross', 'unit', 'exist', 'perform', 'rate', 'desire']]
+Coh_type:c_v  Topic Num:174 COH score:0.6825261638868105
+top_n: 20 Topic Num: 174 
+Topic Words: [['thread', 'white', 'terminal', 'wheel', 'cross', 'unit', 'exist', 'perform', 'rate', 'desire', 'analog', 'society', 'consider', 'hospital', 'personally', 'equivalent', 'engage', 'policy', 'strike', 'infortotesmessengerwiki']]
+Coh_type:c_v  Topic Num:174 COH score:0.7069732127311184
+top_n: 10 Topic Num: 175 
+Topic Words: [['thread', 'consider', 'signal', 'cpu', 'transistor', 'charge', 'goal', 'produce', 'simply', 'drop']]
+Coh_type:c_v  Topic Num:175 COH score:0.4500457130794769
+top_n: 20 Topic Num: 175 
+Topic Words: [['thread', 'consider', 'signal', 'cpu', 'transistor', 'charge', 'goal', 'produce', 'simply', 'drop', 'spread', 'pic', 'wheel', 'paper', 'different', 'puwhatisautomoderator', 'face', 'generate', 'staff', 'shooter']]
+Coh_type:c_v  Topic Num:175 COH score:0.6461561620860377
+top_n: 10 Topic Num: 176 
+Topic Words: [['pull', 'picture', 'ride', 'typical', 'carbon', 'circuit', 'acknowledge', 'block', 'incredibly', 'thought']]
+Coh_type:c_v  Topic Num:176 COH score:0.6282235473736009
+top_n: 20 Topic Num: 176 
+Topic Words: [['pull', 'picture', 'ride', 'typical', 'carbon', 'circuit', 'acknowledge', 'block', 'incredibly', 'thought', 'powerful', 'letter', 'tldr', 'current', 'consider', 'desire', 'send', 'wear', 'round', 'chrome']]
+Coh_type:c_v  Topic Num:176 COH score:0.648542970567511
+top_n: 10 Topic Num: 177 
+Topic Words: [['pull', 'ride', 'picture', 'carbon', 'circuit', 'typical', 'thought', 'incredibly', 'block', 'acknowledge']]
+Coh_type:c_v  Topic Num:177 COH score:0.6282235473736011
+top_n: 20 Topic Num: 177 
+Topic Words: [['pull', 'ride', 'picture', 'carbon', 'circuit', 'typical', 'thought', 'incredibly', 'block', 'acknowledge', 'letter', 'powerful', 'current', 'send', 'mm', 'round', 'desire', 'tldr', 'chrome', 'wear']]
+Coh_type:c_v  Topic Num:177 COH score:0.681232045987358
+top_n: 10 Topic Num: 178 
+Topic Words: [['pull', 'ride', 'picture', 'carbon', 'circuit', 'typical', 'thought', 'incredibly', 'block', 'acknowledge']]
+Coh_type:c_v  Topic Num:178 COH score:0.6282235473736011
+top_n: 20 Topic Num: 178 
+Topic Words: [['pull', 'ride', 'picture', 'carbon', 'circuit', 'typical', 'thought', 'incredibly', 'block', 'acknowledge', 'letter', 'send', 'powerful', 'current', 'mm', 'round', 'desire', 'chrome', 'tldr', 'wear']]
+Coh_type:c_v  Topic Num:178 COH score:0.6812320459873579
+top_n: 10 Topic Num: 179 
+Topic Words: [['pull', 'ride', 'picture', 'carbon', 'circuit', 'typical', 'thought', 'incredibly', 'block', 'acknowledge']]
+Coh_type:c_v  Topic Num:179 COH score:0.6282235473736011
+top_n: 20 Topic Num: 179 
+Topic Words: [['pull', 'ride', 'picture', 'carbon', 'circuit', 'typical', 'thought', 'incredibly', 'block', 'acknowledge', 'letter', 'send', 'current', 'powerful', 'mm', 'round', 'desire', 'tldr', 'chrome', 'wear']]
+Coh_type:c_v  Topic Num:179 COH score:0.681232045987358
+top_n: 10 Topic Num: 180 
+Topic Words: [['tldr', 'special', 'bfhttheoryautotldrconcept', 'typical', 'ride', 'purpose', 'group', 'carbon', 'affect', 'ring']]
+Coh_type:c_v  Topic Num:180 COH score:0.5431753200401636
+top_n: 20 Topic Num: 180 
+Topic Words: [['tldr', 'special', 'bfhttheoryautotldrconcept', 'typical', 'ride', 'purpose', 'group', 'carbon', 'affect', 'ring', 'core', 'theory', 'current', 'arm', 'block', 'object', 'sentence', 'benefit', 'analog', 'contain']]
+Coh_type:c_v  Topic Num:180 COH score:0.6620370888184925
+top_n: 10 Topic Num: 181 
+Topic Words: [['form', 'theory', 'ride', 'typical', 'pull', 'white', 'carbon', 'analog', 'purpose', 'circuit']]
+Coh_type:c_v  Topic Num:181 COH score:0.5813829628869883
+top_n: 20 Topic Num: 181 
+Topic Words: [['form', 'theory', 'ride', 'typical', 'pull', 'white', 'carbon', 'analog', 'purpose', 'circuit', 'keyword', 'foul', 'acknowledge', 'tldr', 'islamic', 'block', 'animal', 'core', 'reflect', 'wire']]
+Coh_type:c_v  Topic Num:181 COH score:0.6826197989433492
+top_n: 10 Topic Num: 182 
+Topic Words: [['pull', 'ride', 'picture', 'carbon', 'circuit', 'typical', 'thought', 'incredibly', 'send', 'block']]
+Coh_type:c_v  Topic Num:182 COH score:0.6141231442678954
+top_n: 20 Topic Num: 182 
+Topic Words: [['pull', 'ride', 'picture', 'carbon', 'circuit', 'typical', 'thought', 'incredibly', 'send', 'block', 'letter', 'acknowledge', 'current', 'powerful', 'mm', 'round', 'desire', 'motorcycle', 'tldr', 'chrome']]
+Coh_type:c_v  Topic Num:182 COH score:0.6849109518916763
+top_n: 10 Topic Num: 183 
+Topic Words: [['pull', 'picture', 'ride', 'carbon', 'typical', 'circuit', 'block', 'acknowledge', 'incredibly', 'thought']]
+Coh_type:c_v  Topic Num:183 COH score:0.6282235473736011
+top_n: 20 Topic Num: 183 
+Topic Words: [['pull', 'picture', 'ride', 'carbon', 'typical', 'circuit', 'block', 'acknowledge', 'incredibly', 'thought', 'powerful', 'letter', 'current', 'tldr', 'consider', 'send', 'desire', 'wear', 'round', 'chrome']]
+Coh_type:c_v  Topic Num:183 COH score:0.648542970567511
+top_n: 10 Topic Num: 184 
+Topic Words: [['suck', 'group', 'tldr', 'current', 'red', 'special', 'circuit', 'loss', 'pull', 'sun']]
+Coh_type:c_v  Topic Num:184 COH score:0.5266286152448763
+top_n: 20 Topic Num: 184 
+Topic Words: [['suck', 'group', 'tldr', 'current', 'red', 'special', 'circuit', 'loss', 'pull', 'sun', 'block', 'consider', 'strip', 'generate', 'dark', 'wrong', 'console', 'analog', 'wheel', 'lock']]
+Coh_type:c_v  Topic Num:184 COH score:0.6412121377459606
+top_n: 10 Topic Num: 185 
+Topic Words: [['typical', 'form', 'theory', 'ride', 'pull', 'block', 'carbon', 'analog', 'female', 'acknowledge']]
+Coh_type:c_v  Topic Num:185 COH score:0.6174147771054687
+top_n: 20 Topic Num: 185 
+Topic Words: [['typical', 'form', 'theory', 'ride', 'pull', 'block', 'carbon', 'analog', 'female', 'acknowledge', 'circuit', 'foot', 'consider', 'wire', 'turbo', 'purpose', 'keyword', 'desire', 'mm', 'core']]
+Coh_type:c_v  Topic Num:185 COH score:0.6617931839674792
+top_n: 10 Topic Num: 186 
+Topic Words: [['analog', 'component', 'cross', 'ride', 'tldr', 'white', 'pull', 'keyword', 'wheel', 'islamic']]
+Coh_type:c_v  Topic Num:186 COH score:0.5756524370898475
+top_n: 20 Topic Num: 186 
+Topic Words: [['analog', 'component', 'cross', 'ride', 'tldr', 'white', 'pull', 'keyword', 'wheel', 'islamic', 'current', 'typical', 'reflect', 'bfhttheoryautotldrconcept', 'affect', 'policy', 'carbon', 'core', 'picture', 'arm']]
+Coh_type:c_v  Topic Num:186 COH score:0.6380914839248876
+top_n: 10 Topic Num: 187 
+Topic Words: [['pull', 'ride', 'send', 'picture', 'letter', 'circuit', 'block', 'thought', 'incredibly', 'current']]
+Coh_type:c_v  Topic Num:187 COH score:0.49380908856156713
+top_n: 20 Topic Num: 187 
+Topic Words: [['pull', 'ride', 'send', 'picture', 'letter', 'circuit', 'block', 'thought', 'incredibly', 'current', 'typical', 'round', 'carbon', 'acknowledge', 'desire', 'massive', 'motorcycle', 'bfhttheoryautotldrconcept', 'chrome', 'powerful']]
+Coh_type:c_v  Topic Num:187 COH score:0.6702033894751802
+top_n: 10 Topic Num: 188 
+Topic Words: [['analog', 'animal', 'ride', 'typical', 'group', 'form', 'color', 'public', 'block', 'aspect']]
+Coh_type:c_v  Topic Num:188 COH score:0.4892032481534957
+top_n: 20 Topic Num: 188 
+Topic Words: [['analog', 'animal', 'ride', 'typical', 'group', 'form', 'color', 'public', 'block', 'aspect', 'current', 'consider', 'sentence', 'powerful', 'carbon', 'circuit', 'core', 'mm', 'pull', 'picture']]
+Coh_type:c_v  Topic Num:188 COH score:0.5999297665276401
+top_n: 10 Topic Num: 189 
+Topic Words: [['current', 'public', 'bfhttheoryautotldrconcept', 'keyword', 'ride', 'picture', 'desire', 'color', 'benefit', 'group']]
+Coh_type:c_v  Topic Num:189 COH score:0.35331168197613805
+top_n: 20 Topic Num: 189 
+Topic Words: [['current', 'public', 'bfhttheoryautotldrconcept', 'keyword', 'ride', 'picture', 'desire', 'color', 'benefit', 'group', 'reduce', 'tldr', 'typical', 'block', 'special', 'find', 'circuit', 'welcome', 'powerful', 'phase']]
+Coh_type:c_v  Topic Num:189 COH score:0.4911845280223389
+top_n: 10 Topic Num: 190 
+Topic Words: [['thread', 'consider', 'signal', 'charge', 'cpu', 'produce', 'simply', 'spread', 'paper', 'pic']]
+Coh_type:c_v  Topic Num:190 COH score:0.48888424642971173
+top_n: 20 Topic Num: 190 
+Topic Words: [['thread', 'consider', 'signal', 'charge', 'cpu', 'produce', 'simply', 'spread', 'paper', 'pic', 'goal', 'puwhatisautomoderator', 'drop', 'transistor', 'wheel', 'face', 'generate', 'shooter', 'touch', 'different']]
+Coh_type:c_v  Topic Num:190 COH score:0.603058727082757
+top_n: 10 Topic Num: 191 
+Topic Words: [['current', 'tldr', 'ride', 'special', 'block', 'consider', 'bfhttheoryautotldrconcept', 'typical', 'welcome', 'affect']]
+Coh_type:c_v  Topic Num:191 COH score:0.4215140182826251
+top_n: 20 Topic Num: 191 
+Topic Words: [['current', 'tldr', 'ride', 'special', 'block', 'consider', 'bfhttheoryautotldrconcept', 'typical', 'welcome', 'affect', 'keyword', 'carbon', 'theory', 'group', 'core', 'reduce', 'sentence', 'contain', 'jewish', 'ring']]
+Coh_type:c_v  Topic Num:191 COH score:0.5703382644904551
+top_n: 10 Topic Num: 192 
+Topic Words: [['current', 'consider', 'sin', 'cross', 'find', 'ride', 'send', 'form', 'suck', 'typical']]
+Coh_type:c_v  Topic Num:192 COH score:0.42295475740078964
+top_n: 20 Topic Num: 192 
+Topic Words: [['current', 'consider', 'sin', 'cross', 'find', 'ride', 'send', 'form', 'suck', 'typical', 'bfhttheoryautotldrconcept', 'picture', 'strip', 'round', 'pull', 'touch', 'rule', 'circuit', 'sentence', 'special']]
+Coh_type:c_v  Topic Num:192 COH score:0.6042900499415327
+top_n: 10 Topic Num: 193 
+Topic Words: [['consider', 'current', 'special', 'tldr', 'bfhttheoryautotldrconcept', 'block', 'keyword', 'ride', 'group', 'typical']]
+Coh_type:c_v  Topic Num:193 COH score:0.3575531508389297
+top_n: 20 Topic Num: 193 
+Topic Words: [['consider', 'current', 'special', 'tldr', 'bfhttheoryautotldrconcept', 'block', 'keyword', 'ride', 'group', 'typical', 'find', 'circuit', 'switch', 'aspect', 'rule', 'theory', 'goal', 'territory', 'contain', 'reasoning']]
+Coh_type:c_v  Topic Num:193 COH score:0.4767618661943219
+top_n: 10 Topic Num: 194 
+Topic Words: [['picture', 'cross', 'consider', 'ride', 'white', 'unique', 'group', 'powerful', 'arm', 'thread']]
+Coh_type:c_v  Topic Num:194 COH score:0.5199910851286063
+top_n: 20 Topic Num: 194 
+Topic Words: [['picture', 'cross', 'consider', 'ride', 'white', 'unique', 'group', 'powerful', 'arm', 'thread', 'block', 'color', 'beat', 'regard', 'public', 'hospital', 'jewish', 'different', 'ask', 'software']]
+Coh_type:c_v  Topic Num:194 COH score:0.5572299654279708
+top_n: 10 Topic Num: 195 
+Topic Words: [['picture', 'thread', 'current', 'cross', 'block', 'consider', 'theory', 'white', 'humanity', 'improvement']]
+Coh_type:c_v  Topic Num:195 COH score:0.536353341431083
+top_n: 20 Topic Num: 195 
+Topic Words: [['picture', 'thread', 'current', 'cross', 'block', 'consider', 'theory', 'white', 'humanity', 'improvement', 'simply', 'staff', 'regard', 'perform', 'circuit', 'setup', 'gray', 'group', 'beat', 'public']]
+Coh_type:c_v  Topic Num:195 COH score:0.6018737394491602
+top_n: 10 Topic Num: 196 
+Topic Words: [['pull', 'ride', 'send', 'picture', 'letter', 'circuit', 'block', 'thought', 'incredibly', 'current']]
+Coh_type:c_v  Topic Num:196 COH score:0.49380908856156713
+top_n: 20 Topic Num: 196 
+Topic Words: [['pull', 'ride', 'send', 'picture', 'letter', 'circuit', 'block', 'thought', 'incredibly', 'current', 'typical', 'round', 'carbon', 'acknowledge', 'desire', 'massive', 'motorcycle', 'bfhttheoryautotldrconcept', 'chrome', 'powerful']]
+Coh_type:c_v  Topic Num:196 COH score:0.6702033894751802
+top_n: 10 Topic Num: 197 
+Topic Words: [['ride', 'bfhttheoryautotldrconcept', 'typical', 'current', 'group', 'picture', 'special', 'territory', 'public', 'circuit']]
+Coh_type:c_v  Topic Num:197 COH score:0.4254882850927764
+top_n: 20 Topic Num: 197 
+Topic Words: [['ride', 'bfhttheoryautotldrconcept', 'typical', 'current', 'group', 'picture', 'special', 'territory', 'public', 'circuit', 'analog', 'switch', 'animal', 'carbon', 'consider', 'cross', 'form', 'white', 'ability', 'block']]
+Coh_type:c_v  Topic Num:197 COH score:0.5595366644851405
+top_n: 10 Topic Num: 198 
+Topic Words: [['consider', 'picture', 'theory', 'pull', 'animal', 'wear', 'carbon', 'group', 'block', 'send']]
+Coh_type:c_v  Topic Num:198 COH score:0.3899526717878744
+top_n: 20 Topic Num: 198 
+Topic Words: [['consider', 'picture', 'theory', 'pull', 'animal', 'wear', 'carbon', 'group', 'block', 'send', 'public', 'ask', 'body', 'powerful', 'wrong', 'mm', 'sign', 'little', 'lock', 'female']]
+Coh_type:c_v  Topic Num:198 COH score:0.5276381545832022
+top_n: 10 Topic Num: 199 
+Topic Words: [['consider', 'block', 'current', 'theory', 'ride', 'keyword', 'group', 'wire', 'public', 'bfhttheoryautotldrconcept']]
+Coh_type:c_v  Topic Num:199 COH score:0.3175896174916029
+top_n: 20 Topic Num: 199 
+Topic Words: [['consider', 'block', 'current', 'theory', 'ride', 'keyword', 'group', 'wire', 'public', 'bfhttheoryautotldrconcept', 'individual', 'picture', 'carbon', 'special', 'territory', 'dark', 'output', 'typical', 'pull', 'mm']]
+Coh_type:c_v  Topic Num:199 COH score:0.5734564831561375
+top_n: 10 Topic Num: 200 
+Topic Words: [['white', 'thread', 'analog', 'wheel', 'tldr', 'affect', 'cross', 'perform', 'bfhttheoryautotldrconcept', 'exist']]
+Coh_type:c_v  Topic Num:200 COH score:0.5815789864941869
+top_n: 20 Topic Num: 200 
+Topic Words: [['white', 'thread', 'analog', 'wheel', 'tldr', 'affect', 'cross', 'perform', 'bfhttheoryautotldrconcept', 'exist', 'keyword', 'consider', 'terminal', 'special', 'picture', 'desire', 'fully', 'personally', 'spread', 'group']]
+Coh_type:c_v  Topic Num:200 COH score:0.6106789423886141
+top scores for top_10:[0.6825261638868105, 10, [['thread', 'white', 'terminal', 'wheel', 'cross', 'unit', 'exist', 'perform', 'rate', 'desire']]]
+-------------------------------------------------------------------
+top scores for top_20:[0.7101399179923207, 20, [['pull', 'consider', 'wear', 'picture', 'carbon', 'ride', 'bfhttheoryautotldrconcept', 'mm', 'send', 'strip', 'content', 'block', 'core', 'thought', 'circuit', 'turbo', 'suck', 'sentence', 'special', 'round']]]
+-------------------------------------------------------------------
+Avg COH for top_10 topic words: 0.47966131381848015
+-------------------------------------------------------------------
+Avg COH for top_20 topic words: 0.5972248926881608
+-------------------------------------------------------------------
