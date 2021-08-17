@@ -1,0 +1,608 @@
+top_n: 10 Topic Num: 1 
+Topic Words: [['driver', 'enterpoopmitedu', 'anybody', 'condition', 'motif', 'mailing', 'appreciate', 'ship', 'site', 'interested']]
+Coh_type:c_v  Topic Num:1 COH score:0.15777481877494043
+top_n: 20 Topic Num: 1 
+Topic Words: [['driver', 'enterpoopmitedu', 'anybody', 'condition', 'motif', 'mailing', 'appreciate', 'ship', 'site', 'interested', 'excellent', 'great', 'know', 'viewer', 'contact', 'sale', 'gcc', 'convert', 'public', 'somebody']]
+Coh_type:c_v  Topic Num:1 COH score:0.20107534188263157
+top_n: 10 Topic Num: 2 
+Topic Words: [['xterm', 'meg', 'shipping', 'mouse', 'hi', 'motorcycle', 'playoff', 'motherboard', 'appreciate', 'doctrine']]
+Coh_type:c_v  Topic Num:2 COH score:0.48939258202767155
+top_n: 20 Topic Num: 2 
+Topic Words: [['xterm', 'meg', 'shipping', 'mouse', 'hi', 'motorcycle', 'playoff', 'motherboard', 'appreciate', 'doctrine', 'cap', 'graphic', 'dialog', 'broadcast', 'display', 'internal', 'oo', 'dod', 'simm', 'configure']]
+Coh_type:c_v  Topic Num:2 COH score:0.47462980989105985
+top_n: 10 Topic Num: 3 
+Topic Words: [['longer', 'turkish', 'extermination', 'proceed', 'mountain', 'armenian', 'void', 'muslim', 'pp', 'gcc']]
+Coh_type:c_v  Topic Num:3 COH score:0.510092444852521
+top_n: 20 Topic Num: 3 
+Topic Words: [['longer', 'turkish', 'extermination', 'proceed', 'mountain', 'armenian', 'void', 'muslim', 'pp', 'gcc', 'pass', 'escape', 'e', 'pit', 've', 'soul', 'int', 'republic', 'scholar', 'proceeding']]
+Coh_type:c_v  Topic Num:3 COH score:0.4413546234124337
+top_n: 10 Topic Num: 4 
+Topic Words: [['setting', 'condition', 'meg', 'thank', 'advance', 'configsys', 'sale', 'reply', 'utility', 'jumper']]
+Coh_type:c_v  Topic Num:4 COH score:0.2126319191567032
+top_n: 20 Topic Num: 4 
+Topic Words: [['setting', 'condition', 'meg', 'thank', 'advance', 'configsys', 'sale', 'reply', 'utility', 'jumper', 'mouse', 'bio', 'icon', 'cache', 'dod', 'irq', 'oo', 'routine', 'monitor', 'hi']]
+Coh_type:c_v  Topic Num:4 COH score:0.25680043156344606
+top_n: 10 Topic Num: 5 
+Topic Words: [['mailing', 'jumper', 'driver', 'address', 'sale', 'construction', 'enterpoopmitedu', 'card', 'appreciate', 'site']]
+Coh_type:c_v  Topic Num:5 COH score:0.1668898491082391
+top_n: 20 Topic Num: 5 
+Topic Words: [['mailing', 'jumper', 'driver', 'address', 'sale', 'construction', 'enterpoopmitedu', 'card', 'appreciate', 'site', 'anybody', 'viewer', 'condition', 'obtain', 'setting', 'playoff', 'icon', 'base', 'mode', 'willing']]
+Coh_type:c_v  Topic Num:5 COH score:0.2557579496728173
+top_n: 10 Topic Num: 6 
+Topic Words: [['circuit', 'led', 'bus', 'amp', 'detector', 'board', 'volt', 'mission', 'band', 'escrow']]
+Coh_type:c_v  Topic Num:6 COH score:0.39439427994993315
+top_n: 20 Topic Num: 6 
+Topic Words: [['circuit', 'led', 'bus', 'amp', 'detector', 'board', 'volt', 'mission', 'band', 'escrow', 'clipper', 'wire', 'slow', 'pat', 'array', 'bis', 'session', 'key', 'serial', 'jack']]
+Coh_type:c_v  Topic Num:6 COH score:0.33128965635820073
+top_n: 10 Topic Num: 7 
+Topic Words: [['civilian', 'algorithm', 'arm', 'right', 'armenian', 'crypto', 'story', 'extermination', 'stop', 'clipper']]
+Coh_type:c_v  Topic Num:7 COH score:0.2618524557931571
+top_n: 20 Topic Num: 7 
+Topic Words: [['civilian', 'algorithm', 'arm', 'right', 'armenian', 'crypto', 'story', 'extermination', 'stop', 'clipper', 'fund', 'politic', 'rocket', 'moon', 'village', 'firearm', 'launch', 'escrow', 'domain', 'lunar']]
+Coh_type:c_v  Topic Num:7 COH score:0.2900514619360034
+top_n: 10 Topic Num: 8 
+Topic Words: [['partner', 'keith', 'objective', 'gay', 'jon', 'sgi', 'homosexual', 'morality', 'war', 'mutual']]
+Coh_type:c_v  Topic Num:8 COH score:0.2742000857129204
+top_n: 20 Topic Num: 8 
+Topic Words: [['partner', 'keith', 'objective', 'gay', 'jon', 'sgi', 'homosexual', 'morality', 'war', 'mutual', 'homosexuality', 'sex', 'sexual', 'marriage', 'arrogance', 'base', 'atom', 'moral', 'absolute', 'clh']]
+Coh_type:c_v  Topic Num:8 COH score:0.3202420730447293
+top_n: 10 Topic Num: 9 
+Topic Words: [['condition', 'shipping', 'forsale', 'anybody', 'internal', 'engine', 'order', 'meg', 'motif', 'socket']]
+Coh_type:c_v  Topic Num:9 COH score:0.23052027707919648
+top_n: 20 Topic Num: 9 
+Topic Words: [['condition', 'shipping', 'forsale', 'anybody', 'internal', 'engine', 'order', 'meg', 'motif', 'socket', 'hear', 'jumper', 'drain', 'oil', 'routine', 'interested', 'obo', 'sale', 'cache', 'pin']]
+Coh_type:c_v  Topic Num:9 COH score:0.2497694880018973
+top_n: 10 Topic Num: 10 
+Topic Words: [['setting', 'anybody', 'greatly', 'driver', 'mailing', 'card', 'appreciate', 'goalie', 'brain', 'playoff']]
+Coh_type:c_v  Topic Num:10 COH score:0.3166280908672231
+top_n: 20 Topic Num: 10 
+Topic Words: [['setting', 'anybody', 'greatly', 'driver', 'mailing', 'card', 'appreciate', 'goalie', 'brain', 'playoff', 'viewer', 'enterpoopmitedu', 'advance', 'utility', 'accelerator', 'jumper', 'response', 'conflict', 'mask', 'bmp']]
+Coh_type:c_v  Topic Num:10 COH score:0.43716046364401073
+top_n: 10 Topic Num: 11 
+Topic Words: [['bio', 'serial', 'configsys', 'card', 'irq', 'bus', 'controller', 'ultra', 'jumper', 'com']]
+Coh_type:c_v  Topic Num:11 COH score:0.4493354890708015
+top_n: 20 Topic Num: 11 
+Topic Words: [['bio', 'serial', 'configsys', 'card', 'irq', 'bus', 'controller', 'ultra', 'jumper', 'com', 'setting', 'viewer', 'device', 'accelerator', 'somebody', 'key', 'tech', 'motif', 'fine', 'shell']]
+Coh_type:c_v  Topic Num:11 COH score:0.34306117746573545
+top_n: 10 Topic Num: 12 
+Topic Words: [['israeli', 'arab', 'turkish', 'lebanese', 'island', 'soldier', 'partner', 'canon', 'p', 'mutual']]
+Coh_type:c_v  Topic Num:12 COH score:0.35408554158396016
+top_n: 20 Topic Num: 12 
+Topic Words: [['israeli', 'arab', 'turkish', 'lebanese', 'island', 'soldier', 'partner', 'canon', 'p', 'mutual', 'village', 'man', 'quack', 'homosexual', 'ethnic', 'marriage', 'occupation', 'massacre', 'jon', 'prince']]
+Coh_type:c_v  Topic Num:12 COH score:0.43777274371114555
+top_n: 10 Topic Num: 13 
+Topic Words: [['dx', 'sale', 'offer', 'connector', 'ask', 'engine', 'cable', 'com', 'slot', 'card']]
+Coh_type:c_v  Topic Num:13 COH score:0.3042590632198762
+top_n: 20 Topic Num: 13 
+Topic Words: [['dx', 'sale', 'offer', 'connector', 'ask', 'engine', 'cable', 'com', 'slot', 'card', 'email', 'irq', 'speaker', 'excellent', 'remove', 'shed', 'oil', 'condition', 'curious', 'socket']]
+Coh_type:c_v  Topic Num:13 COH score:0.30663185670578236
+top_n: 10 Topic Num: 14 
+Topic Words: [['session', 'wiretap', 'conversation', 'key', 'spacecraft', 'court', 'plaintext', 'khz', 'agency', 'decrypt']]
+Coh_type:c_v  Topic Num:14 COH score:0.5144033874219951
+top_n: 20 Topic Num: 14 
+Topic Words: [['session', 'wiretap', 'conversation', 'key', 'spacecraft', 'court', 'plaintext', 'khz', 'agency', 'decrypt', 'device', 'mission', 'bay', 'chip', 'duty', 'stream', 'escrow', 'armenian', 'transmit', 'ciphertext']]
+Coh_type:c_v  Topic Num:14 COH score:0.4107380098348778
+top_n: 10 Topic Num: 15 
+Topic Words: [['anybody', 'exist', 'turn', 'support', 'effect', 'maybe', 'right', 'experience', 'ticket', 'allow']]
+Coh_type:c_v  Topic Num:15 COH score:0.3064914259139088
+top_n: 20 Topic Num: 15 
+Topic Words: [['anybody', 'exist', 'turn', 'support', 'effect', 'maybe', 'right', 'experience', 'ticket', 'allow', 'state', 'let', 'conversion', 'routine', 'leak', 'power', 'dead', 'old', 'bit', 'wrong']]
+Coh_type:c_v  Topic Num:15 COH score:0.21137794005036525
+top_n: 10 Topic Num: 16 
+Topic Words: [['card', 'day', 'happen', 'second', 'run', 'mac', 'drive', 'opinion', 'case', 'leave']]
+Coh_type:c_v  Topic Num:16 COH score:0.3070911002846265
+top_n: 20 Topic Num: 16 
+Topic Words: [['card', 'day', 'happen', 'second', 'run', 'mac', 'drive', 'opinion', 'case', 'leave', 'work', 'near', 'experience', 'condition', 'important', 'money', 'great', 'dx', 'hit', 'internal']]
+Coh_type:c_v  Topic Num:16 COH score:0.23823733818566167
+top_n: 10 Topic Num: 17 
+Topic Words: [['hi', 'clh', 'broadcast', 'morality', 'atheism', 'atheist', 'theist', 'converter', 'motorcycle', 'driver']]
+Coh_type:c_v  Topic Num:17 COH score:0.4022381908589875
+top_n: 20 Topic Num: 17 
+Topic Words: [['hi', 'clh', 'broadcast', 'morality', 'atheism', 'atheist', 'theist', 'converter', 'motorcycle', 'driver', 'marriage', 'keith', 'homosexual', 'sea', 'capital', 'window', 'utility', 'medium', 'homosexuality', 'conversion']]
+Coh_type:c_v  Topic Num:17 COH score:0.44213255321223627
+top_n: 10 Topic Num: 18 
+Topic Words: [['led', 'battery', 'xterm', 'jumper', 'amp', 'circuit', 'monitor', 'client', 'bis', 'setting']]
+Coh_type:c_v  Topic Num:18 COH score:0.32235371532213447
+top_n: 20 Topic Num: 18 
+Topic Words: [['led', 'battery', 'xterm', 'jumper', 'amp', 'circuit', 'monitor', 'client', 'bis', 'setting', 'motherboard', 'pin', 'serial', 'irq', 'connector', 'board', 'array', 'routine', 'session', 'comp']]
+Coh_type:c_v  Topic Num:18 COH score:0.35997720604613226
+top_n: 10 Topic Num: 19 
+Topic Words: [['bio', 'meg', 'jumper', 'playoff', 'hockey', 'xterm', 'hi', 'install', 'simm', 'goalie']]
+Coh_type:c_v  Topic Num:19 COH score:0.43237327244199736
+top_n: 20 Topic Num: 19 
+Topic Words: [['bio', 'meg', 'jumper', 'playoff', 'hockey', 'xterm', 'hi', 'install', 'simm', 'goalie', 'setting', 'atheist', 'configsys', 'routine', 'mouse', 'greatly', 'cache', 'eternal', 'client', 'window']]
+Coh_type:c_v  Topic Num:19 COH score:0.5513094846220385
+top_n: 10 Topic Num: 20 
+Topic Words: [['bd', 'meg', 'amp', 'dod', 'na', 'compound', 'motherboard', 'ide', 'dx', 'sale']]
+Coh_type:c_v  Topic Num:20 COH score:0.3822868196385063
+top_n: 20 Topic Num: 20 
+Topic Words: [['bd', 'meg', 'amp', 'dod', 'na', 'compound', 'motherboard', 'ide', 'dx', 'sale', 'weapon', 'bio', 'connector', 'upgrade', 'irq', 'fan', 'drain', 'tank', 'card', 'survivor']]
+Coh_type:c_v  Topic Num:20 COH score:0.41585837760391586
+top_n: 10 Topic Num: 21 
+Topic Words: [['ide', 'mhz', 'controller', 'stat', 'runner', 'lane', 'clutch', 'slot', 'pp', 'captain']]
+Coh_type:c_v  Topic Num:21 COH score:0.5328776340154002
+top_n: 20 Topic Num: 21 
+Topic Words: [['ide', 'mhz', 'controller', 'stat', 'runner', 'lane', 'clutch', 'slot', 'pp', 'captain', 'e', 'civilian', 'review', 'armenian', 'bus', 'staff', 'republic', 'cache', 'slave', 'shift']]
+Coh_type:c_v  Topic Num:21 COH score:0.5163182340794725
+top_n: 10 Topic Num: 22 
+Topic Words: [['subscribe', 'medium', 'enterpoopmitedu', 'bmp', 'sea', 'algorithm', 'converter', 'tap', 'agency', 'sound']]
+Coh_type:c_v  Topic Num:22 COH score:0.38785170165175814
+top_n: 20 Topic Num: 22 
+Topic Words: [['subscribe', 'medium', 'enterpoopmitedu', 'bmp', 'sea', 'algorithm', 'converter', 'tap', 'agency', 'sound', 'teaching', 'familiar', 'plane', 'logic', 'long', 'pc', 'mailing', 'handle', 'inreplyto', 'uucp']]
+Coh_type:c_v  Topic Num:22 COH score:0.4083808721141124
+top_n: 10 Topic Num: 23 
+Topic Words: [['engine', 'algorithm', 'keith', 'ftp', 'sky', 'th', 'pl', 'ticket', 'electric', 'cop']]
+Coh_type:c_v  Topic Num:23 COH score:0.3695628934647131
+top_n: 20 Topic Num: 23 
+Topic Words: [['engine', 'algorithm', 'keith', 'ftp', 'sky', 'th', 'pl', 'ticket', 'electric', 'cop', 'allow', 'crap', 'big', 'candida', 'mans', 'ray', 'yeast', 'medium', 'polygon', 'subscribe']]
+Coh_type:c_v  Topic Num:23 COH score:0.5133335520519278
+top_n: 10 Topic Num: 24 
+Topic Words: [['flame', 'eternal', 'jewish', 'font', 'tank', 'medium', 'thread', 'engine', 'w', 'peace']]
+Coh_type:c_v  Topic Num:24 COH score:0.30629137792349825
+top_n: 20 Topic Num: 24 
+Topic Words: [['flame', 'eternal', 'jewish', 'font', 'tank', 'medium', 'thread', 'engine', 'w', 'peace', 'inreplyto', 'sound', 'email', 'weapon', 'screw', 'sx', 'pen', 'bastard', 'method', 'heaven']]
+Coh_type:c_v  Topic Num:24 COH score:0.3305561590025572
+top_n: 10 Topic Num: 25 
+Topic Words: [['crypto', 'clipper', 'serial', 'amp', 'escrow', 'keyescrow', 'pat', 'quack', 'band', 'tap']]
+Coh_type:c_v  Topic Num:25 COH score:0.5011502317958646
+top_n: 20 Topic Num: 25 
+Topic Words: [['crypto', 'clipper', 'serial', 'amp', 'escrow', 'keyescrow', 'pat', 'quack', 'band', 'tap', 'encrypt', 'jack', 'payload', 'wiretap', 'moral', 'insurance', 'session', 'chip', 'bis', 'led']]
+Coh_type:c_v  Topic Num:25 COH score:0.5197872371807628
+top_n: 10 Topic Num: 26 
+Topic Words: [['pp', 'armenian', 'republic', 'muslim', 've', 'turkish', 'longer', 'participate', 'extermination', 'publish']]
+Coh_type:c_v  Topic Num:26 COH score:0.6437043863622234
+top_n: 20 Topic Num: 26 
+Topic Words: [['pp', 'armenian', 'republic', 'muslim', 've', 'turkish', 'longer', 'participate', 'extermination', 'publish', 'stream', 'spacecraft', 'fake', 'percent', 'result', 'intellect', 'proceed', 'chastity', 'list', 'property']]
+Coh_type:c_v  Topic Num:26 COH score:0.39717774819231055
+top_n: 10 Topic Num: 27 
+Topic Words: [['intellect', 'anybody', 'subscribe', 'appreciate', 'partner', 'preferably', 'shameful', 'gif', 'converter', 'animation']]
+Coh_type:c_v  Topic Num:27 COH score:0.34927508113157885
+top_n: 20 Topic Num: 27 
+Topic Words: [['intellect', 'anybody', 'subscribe', 'appreciate', 'partner', 'preferably', 'shameful', 'gif', 'converter', 'animation', 'mailing', 'chastity', 'school', 'hockey', 'sex', 'contact', 'brain', 'list', 'captain', 'skepticism']]
+Coh_type:c_v  Topic Num:27 COH score:0.39503191195756177
+top_n: 10 Topic Num: 28 
+Topic Words: [['armenian', 'turkish', 'pp', 'arab', 'civilian', 'jewish', 'extermination', 'troop', 'proceed', 'village']]
+Coh_type:c_v  Topic Num:28 COH score:0.5531497149848755
+top_n: 20 Topic Num: 28 
+Topic Words: [['armenian', 'turkish', 'pp', 'arab', 'civilian', 'jewish', 'extermination', 'troop', 'proceed', 'village', 'muslim', 'corpse', 'body', 'flee', 'international', 'homosexuality', 'address', 'cry', 'senate', 'islamic']]
+Coh_type:c_v  Topic Num:28 COH score:0.47400692614562157
+top_n: 10 Topic Num: 29 
+Topic Words: [['meg', 'shameful', 'setting', 'chastity', 'key', 'serial', 'field', 'icon', 'jumper', 'literature']]
+Coh_type:c_v  Topic Num:29 COH score:0.2845658674932767
+top_n: 20 Topic Num: 29 
+Topic Words: [['meg', 'shameful', 'setting', 'chastity', 'key', 'serial', 'field', 'icon', 'jumper', 'literature', 'board', 'sale', 'seriously', 'mouse', 'download', 'com', 'bio', 'somebody', 'led', 'clutch']]
+Coh_type:c_v  Topic Num:29 COH score:0.4450966971117388
+top_n: 10 Topic Num: 30 
+Topic Words: [['enterpoopmitedu', 'image', 'subscribe', 'argument', 'area', 'plot', 'wrong', 'waste', 'dod', 'package']]
+Coh_type:c_v  Topic Num:30 COH score:0.19017189636956974
+top_n: 20 Topic Num: 30 
+Topic Words: [['enterpoopmitedu', 'image', 'subscribe', 'argument', 'area', 'plot', 'wrong', 'waste', 'dod', 'package', 'hi', 'converter', 'conversion', 'utility', 'manipulation', 'orient', 'week', 'anybody', 'r', 'right']]
+Coh_type:c_v  Topic Num:30 COH score:0.17158744450236377
+top_n: 10 Topic Num: 31 
+Topic Words: [['captain', 'subscribe', 'enterpoopmitedu', 'pit', 'chastity', 'pt', 'intellect', 'expose', 'phi', 'impression']]
+Coh_type:c_v  Topic Num:31 COH score:0.5612258955466939
+top_n: 20 Topic Num: 31 
+Topic Words: [['captain', 'subscribe', 'enterpoopmitedu', 'pit', 'chastity', 'pt', 'intellect', 'expose', 'phi', 'impression', 'education', 'keyboard', 'game', 'pitching', 'period', 'crash', 'stock', 'duo', 'ethernet', 'account']]
+Coh_type:c_v  Topic Num:31 COH score:0.6150188421605791
+top_n: 10 Topic Num: 32 
+Topic Words: [['amp', 'tire', 'weapon', 'insurance', 'drain', 'shameful', 'paint', 'biker', 'car', 'condition']]
+Coh_type:c_v  Topic Num:32 COH score:0.36528679047029133
+top_n: 20 Topic Num: 32 
+Topic Words: [['amp', 'tire', 'weapon', 'insurance', 'drain', 'shameful', 'paint', 'biker', 'car', 'condition', 'raid', 'mile', 'society', 'relation', 'firearm', 'floor', 'jack', 'dealer', 'warm', 'mph']]
+Coh_type:c_v  Topic Num:32 COH score:0.43249485540682187
+top_n: 10 Topic Num: 33 
+Topic Words: [['irq', 'bus', 'controller', 'com', 'swap', 'cable', 'slave', 'pin', 'board', 'circuit']]
+Coh_type:c_v  Topic Num:33 COH score:0.38310058370495526
+top_n: 20 Topic Num: 33 
+Topic Words: [['irq', 'bus', 'controller', 'com', 'swap', 'cable', 'slave', 'pin', 'board', 'circuit', 'hook', 'meg', 'thank', 'ms', 'memory', 'max', 'adapter', 'cache', 'colour', 'cursor']]
+Coh_type:c_v  Topic Num:33 COH score:0.32587094319170007
+top_n: 10 Topic Num: 34 
+Topic Words: [['medical', 'seat', 'monitor', 'need', 'pt', 'cylinder', 'captain', 'drug', 'guess', 'center']]
+Coh_type:c_v  Topic Num:34 COH score:0.3148616604502282
+top_n: 20 Topic Num: 34 
+Topic Words: [['medical', 'seat', 'monitor', 'need', 'pt', 'cylinder', 'captain', 'drug', 'guess', 'center', 'program', 'info', 'conversion', 'proof', 'bar', 'calculate', 'rule', 'server', 'kill', 'nntppostinghost']]
+Coh_type:c_v  Topic Num:34 COH score:0.3406789830302856
+top_n: 10 Topic Num: 35 
+Topic Words: [['algorithm', 'clipper', 'escrow', 'encrypt', 'crypto', 'wiretap', 'morality', 'secure', 'encryption', 'decrypt']]
+Coh_type:c_v  Topic Num:35 COH score:0.6809454666627758
+top_n: 20 Topic Num: 35 
+Topic Words: [['algorithm', 'clipper', 'escrow', 'encrypt', 'crypto', 'wiretap', 'morality', 'secure', 'encryption', 'decrypt', 'sgi', 'jon', 'traffic', 'polygon', 'partner', 'security', 'ensure', 'xv', 'atom', 'key']]
+Coh_type:c_v  Topic Num:35 COH score:0.4679184341272767
+top_n: 10 Topic Num: 36 
+Topic Words: [['jumper', 'icon', 'port', 'xterm', 'xv', 'controller', 'bus', 'utility', 'bio', 'widget']]
+Coh_type:c_v  Topic Num:36 COH score:0.2962294156680302
+top_n: 20 Topic Num: 36 
+Topic Words: [['jumper', 'icon', 'port', 'xterm', 'xv', 'controller', 'bus', 'utility', 'bio', 'widget', 'enterpoopmitedu', 'pin', 'meg', 'xdm', 'routine', 'font', 'serial', 'directory', 'com', 'configsys']]
+Coh_type:c_v  Topic Num:36 COH score:0.31912511896366624
+top_n: 10 Topic Num: 37 
+Topic Words: [['stat', 'dod', 'bd', 'playoff', 'homosexual', 'stove', 'ride', 'firearm', 'building', 'weapon']]
+Coh_type:c_v  Topic Num:37 COH score:0.41777882357013835
+top_n: 20 Topic Num: 37 
+Topic Words: [['stat', 'dod', 'bd', 'playoff', 'homosexual', 'stove', 'ride', 'firearm', 'building', 'weapon', 'muslim', 'blood', 'coach', 'angel', 'relation', 'pitcher', 'marriage', 'arab', 'turkish', 'armenian']]
+Coh_type:c_v  Topic Num:37 COH score:0.5601827498209867
+top_n: 10 Topic Num: 38 
+Topic Words: [['driver', 'compile', 'board', 'battery', 'xterm', 'led', 'setting', 'colormap', 'client', 'project']]
+Coh_type:c_v  Topic Num:38 COH score:0.2760935420552649
+top_n: 20 Topic Num: 38 
+Topic Words: [['driver', 'compile', 'board', 'battery', 'xterm', 'led', 'setting', 'colormap', 'client', 'project', 'discharge', 'help', 'jumper', 'colour', 'card', 'postscript', 'resolution', 'routine', 'program', 'output']]
+Coh_type:c_v  Topic Num:38 COH score:0.28440869801603164
+top_n: 10 Topic Num: 39 
+Topic Words: [['armenian', 'pp', 'turkish', 'troop', 'civilian', 'fight', 'escape', 'longer', 'finally', 'exist']]
+Coh_type:c_v  Topic Num:39 COH score:0.5462606495878948
+top_n: 20 Topic Num: 39 
+Topic Words: [['armenian', 'pp', 'turkish', 'troop', 'civilian', 'fight', 'escape', 'longer', 'finally', 'exist', 'soldier', 'proceed', 'p', 'republic', 'refugee', 'wound', 'muslim', 'extermination', 'bullet', 'serve']]
+Coh_type:c_v  Topic Num:39 COH score:0.6624920509674089
+top_n: 10 Topic Num: 40 
+Topic Words: [['israeli', 'bd', 'keith', 'clh', 'turkish', 'arab', 'atheism', 'troop', 'sgi', 'jon']]
+Coh_type:c_v  Topic Num:40 COH score:0.5233674281364692
+top_n: 20 Topic Num: 40 
+Topic Words: [['israeli', 'bd', 'keith', 'clh', 'turkish', 'arab', 'atheism', 'troop', 'sgi', 'jon', 'atheist', 'bullet', 'islamic', 'revelation', 'angel', 'building', 'sin', 'civilian', 'authority', 'agent']]
+Coh_type:c_v  Topic Num:40 COH score:0.46933689091322056
+top_n: 10 Topic Num: 41 
+Topic Words: [['anybody', 'near', 'mailing', 'jumper', 'greatly', 'flame', 'conference', 'compound', 'enterpoopmitedu', 'shipping']]
+Coh_type:c_v  Topic Num:41 COH score:0.3021898191316031
+top_n: 20 Topic Num: 41 
+Topic Words: [['anybody', 'near', 'mailing', 'jumper', 'greatly', 'flame', 'conference', 'compound', 'enterpoopmitedu', 'shipping', 'loser', 'insurance', 'gateway', 'appreciate', 'archie', 'gif', 'brain', 'viewer', 'thank', 'old']]
+Coh_type:c_v  Topic Num:41 COH score:0.3780538581663392
+top_n: 10 Topic Num: 42 
+Topic Words: [['message', 'crypto', 'na', 'tap', 'serial', 'meg', 'clipper', 'thank', 'split', 'articleid']]
+Coh_type:c_v  Topic Num:42 COH score:0.30397808740253296
+top_n: 20 Topic Num: 42 
+Topic Words: [['message', 'crypto', 'na', 'tap', 'serial', 'meg', 'clipper', 'thank', 'split', 'articleid', 'somebody', 'escrow', 'enterpoopmitedu', 'baseball', 'cache', 'thanks', 'instal', 'key', 'greatly', 'suggestion']]
+Coh_type:c_v  Topic Num:42 COH score:0.2748056240325293
+top_n: 10 Topic Num: 43 
+Topic Words: [['wing', 'score', 'arrogance', 'series', 'playoff', 'command', 'private', 'direct', 'gift', 'trade']]
+Coh_type:c_v  Topic Num:43 COH score:0.222338474259515
+top_n: 20 Topic Num: 43 
+Topic Words: [['wing', 'score', 'arrogance', 'series', 'playoff', 'command', 'private', 'direct', 'gift', 'trade', 'setting', 'angel', 'scripture', 'pitch', 'important', 'willing', 'doctrine', 'waste', 'faith', 'pen']]
+Coh_type:c_v  Topic Num:43 COH score:0.2637382010720452
+top_n: 10 Topic Num: 44 
+Topic Words: [['dod', 'shameful', 'skepticism', 'mph', 'chastity', 'bike', 'rider', 'biker', 'intellect', 'car']]
+Coh_type:c_v  Topic Num:44 COH score:0.1824808709941402
+top_n: 20 Topic Num: 44 
+Topic Words: [['dod', 'shameful', 'skepticism', 'mph', 'chastity', 'bike', 'rider', 'biker', 'intellect', 'car', 'motorcycle', 'auto', 'brake', 'corn', 'tire', 'shift', 'food', 'migraine', 'bury', 'battery']]
+Coh_type:c_v  Topic Num:44 COH score:0.3974491735117875
+top_n: 10 Topic Num: 45 
+Topic Words: [['ide', 'clutch', 'mb', 'cache', 'runner', 'meg', 'dx', 'shift', 'stat', 'suck']]
+Coh_type:c_v  Topic Num:45 COH score:0.3223082185108696
+top_n: 20 Topic Num: 45 
+Topic Words: [['ide', 'clutch', 'mb', 'cache', 'runner', 'meg', 'dx', 'shift', 'stat', 'suck', 'tire', 'email', 'transmission', 'controller', 'player', 'accelerate', 'pen', 'score', 'gear', 'watch']]
+Coh_type:c_v  Topic Num:45 COH score:0.31848209548902673
+top_n: 10 Topic Num: 46 
+Topic Words: [['condition', 'shipping', 'sale', 'forsale', 'jumper', 'setting', 'reply', 'internal', 'interested', 'simms']]
+Coh_type:c_v  Topic Num:46 COH score:0.1774081934036091
+top_n: 20 Topic Num: 46 
+Topic Words: [['condition', 'shipping', 'sale', 'forsale', 'jumper', 'setting', 'reply', 'internal', 'interested', 'simms', 'obo', 'address', 'speaker', 'thank', 'excellent', 'response', 'anybody', 'motherboard', 'drive', 'paint']]
+Coh_type:c_v  Topic Num:46 COH score:0.2189807374706664
+top_n: 10 Topic Num: 47 
+Topic Words: [['dx', 'sale', 'motherboard', 'slot', 'meg', 'ide', 'simms', 'cache', 'controller', 'hd']]
+Coh_type:c_v  Topic Num:47 COH score:0.4202836537435918
+top_n: 20 Topic Num: 47 
+Topic Words: [['dx', 'sale', 'motherboard', 'slot', 'meg', 'ide', 'simms', 'cache', 'controller', 'hd', 'bio', 'share', 'irq', 'stat', 'shift', 'com', 'card', 'jumper', 'simm', 'gear']]
+Coh_type:c_v  Topic Num:47 COH score:0.4219839255042867
+top_n: 10 Topic Num: 48 
+Topic Words: [['internet', 'soon', 'mailing', 'chastity', 'converter', 'turkish', 'pt', 'ls', 'articleid', 'seat']]
+Coh_type:c_v  Topic Num:48 COH score:0.3701674394767454
+top_n: 20 Topic Num: 48 
+Topic Words: [['internet', 'soon', 'mailing', 'chastity', 'converter', 'turkish', 'pt', 'ls', 'articleid', 'seat', 'center', 'depth', 'old', 'subscribe', 'music', 'standing', 'mask', 'normal', 'smoke', 'request']]
+Coh_type:c_v  Topic Num:48 COH score:0.40113922937645563
+top_n: 10 Topic Num: 49 
+Topic Words: [['led', 'amp', 'circuit', 'bus', 'green', 'board', 'mission', 'wiring', 'resistor', 'irq']]
+Coh_type:c_v  Topic Num:49 COH score:0.34523867670050357
+top_n: 20 Topic Num: 49 
+Topic Words: [['led', 'amp', 'circuit', 'bus', 'green', 'board', 'mission', 'wiring', 'resistor', 'irq', 'probe', 'voltage', 'mhz', 'slot', 'interface', 'resolution', 'battery', 'burst', 'shift', 'amplifier']]
+Coh_type:c_v  Topic Num:49 COH score:0.3110149177194593
+top_n: 10 Topic Num: 50 
+Topic Words: [['jumper', 'condition', 'gateway', 'surrender', 'quack', 'slave', 'area', 'controller', 'blow', 'accelerator']]
+Coh_type:c_v  Topic Num:50 COH score:0.34197110252090307
+top_n: 20 Topic Num: 50 
+Topic Words: [['jumper', 'condition', 'gateway', 'surrender', 'quack', 'slave', 'area', 'controller', 'blow', 'accelerator', 'shameful', 'pin', 'desire', 'serial', 'patient', 'left', 'de', 'want', 'setting', 'road']]
+Coh_type:c_v  Topic Num:50 COH score:0.3474692441573396
+top_n: 10 Topic Num: 51 
+Topic Words: [['xterm', 'bus', 'setting', 'client', 'jumper', 'com', 'driver', 'compile', 'gcc', 'fine']]
+Coh_type:c_v  Topic Num:51 COH score:0.15805556276332125
+top_n: 20 Topic Num: 51 
+Topic Words: [['xterm', 'bus', 'setting', 'client', 'jumper', 'com', 'driver', 'compile', 'gcc', 'fine', 'convert', 'option', 'bio', 'cursor', 'display', 'program', 'irq', 'implement', 'routine', 'colormap']]
+Coh_type:c_v  Topic Num:51 COH score:0.21924673990979957
+top_n: 10 Topic Num: 52 
+Topic Words: [['armenian', 'launch', 'payload', 'pat', 'longer', 'pp', 'shuttle', 'satellite', 'schedule', 'chastity']]
+Coh_type:c_v  Topic Num:52 COH score:0.3418301534180273
+top_n: 20 Topic Num: 52 
+Topic Words: [['armenian', 'launch', 'payload', 'pat', 'longer', 'pp', 'shuttle', 'satellite', 'schedule', 'chastity', 'mountain', 'extermination', 'massacre', 'shameful', 'turkish', 'intellect', 'mission', 'paragraph', 'escape', 'atmosphere']]
+Coh_type:c_v  Topic Num:52 COH score:0.2911669252416138
+top_n: 10 Topic Num: 53 
+Topic Words: [['led', 'pixmap', 'anybody', 'help', 'routine', 'widget', 'display', 'circuit', 'appreciate', 'comp']]
+Coh_type:c_v  Topic Num:53 COH score:0.19224664230793803
+top_n: 20 Topic Num: 53 
+Topic Words: [['led', 'pixmap', 'anybody', 'help', 'routine', 'widget', 'display', 'circuit', 'appreciate', 'comp', 'map', 'conversion', 'thank', 'surrender', 'converter', 'image', 'pointer', 'green', 'event', 'voltage']]
+Coh_type:c_v  Topic Num:53 COH score:0.302890471251024
+top_n: 10 Topic Num: 54 
+Topic Words: [['xterm', 'jumper', 'driver', 'bus', 'routine', 'cursor', 'xdm', 'pixmap', 'slow', 'anybody']]
+Coh_type:c_v  Topic Num:54 COH score:0.26639994323860205
+top_n: 20 Topic Num: 54 
+Topic Words: [['xterm', 'jumper', 'driver', 'bus', 'routine', 'cursor', 'xdm', 'pixmap', 'slow', 'anybody', 'svga', 'motif', 'irq', 'setting', 'bio', 'icon', 'led', 'client', 'non', 'horizontal']]
+Coh_type:c_v  Topic Num:54 COH score:0.3410438839915233
+top_n: 10 Topic Num: 55 
+Topic Words: [['delete', 'gear', 'compound', 'logic', 'study', 'basis', 'automatic', 'reply', 'et', 'dealer']]
+Coh_type:c_v  Topic Num:55 COH score:0.1442552742293128
+top_n: 20 Topic Num: 55 
+Topic Words: [['delete', 'gear', 'compound', 'logic', 'study', 'basis', 'automatic', 'reply', 'et', 'dealer', 'imo', 'd', 'playoff', 'btw', 's', 'suicide', 'pl', 'qualify', 'tv', 'fan']]
+Coh_type:c_v  Topic Num:55 COH score:0.1932358580233437
+top_n: 10 Topic Num: 56 
+Topic Words: [['pt', 'mask', 'degree', 'ls', 'unto', 'captain', 'engine', 'standing', 'paper', 'effective']]
+Coh_type:c_v  Topic Num:56 COH score:0.46188999275975806
+top_n: 20 Topic Num: 56 
+Topic Words: [['pt', 'mask', 'degree', 'ls', 'unto', 'captain', 'engine', 'standing', 'paper', 'effective', 'list', 'identify', 'bug', 'fast', 'lose', 'commitment', 'nntppostinghost', 'laugh', 'prediction', 'cylinder']]
+Coh_type:c_v  Topic Num:56 COH score:0.48950706562646706
+top_n: 10 Topic Num: 57 
+Topic Words: [['dod', 'ride', 'reply', 'bike', 'hockey', 'rider', 'church', 'info', 'company', 'dangerous']]
+Coh_type:c_v  Topic Num:57 COH score:0.2502375372195468
+top_n: 20 Topic Num: 57 
+Topic Words: [['dod', 'ride', 'reply', 'bike', 'hockey', 'rider', 'church', 'info', 'company', 'dangerous', 'hi', 'theist', 'laugh', 'shipping', 'delete', 'dog', 'motorcycle', 'de', 'cult', 'thread']]
+Coh_type:c_v  Topic Num:57 COH score:0.33394059052360586
+top_n: 10 Topic Num: 58 
+Topic Words: [['sale', 'utility', 'ship', 'conversion', 'hockey', 'driver', 'binary', 'copy', 'sea', 'shipping']]
+Coh_type:c_v  Topic Num:58 COH score:0.30388652621034984
+top_n: 20 Topic Num: 58 
+Topic Words: [['sale', 'utility', 'ship', 'conversion', 'hockey', 'driver', 'binary', 'copy', 'sea', 'shipping', 'package', 'excellent', 'subscribe', 'chemical', 'contact', 'blood', 'market', 'sleep', 'converter', 'challenge']]
+Coh_type:c_v  Topic Num:58 COH score:0.3107012859464765
+top_n: 10 Topic Num: 59 
+Topic Words: [['thread', 'screw', 'political', 'utility', 'jewish', 'sound', 'algorithm', 'medium', 'postscript', 'format']]
+Coh_type:c_v  Topic Num:59 COH score:0.20780862553310714
+top_n: 20 Topic Num: 59 
+Topic Words: [['thread', 'screw', 'political', 'utility', 'jewish', 'sound', 'algorithm', 'medium', 'postscript', 'format', 'mirror', 'program', 'observation', 'peace', 'sgi', 'personal', 'sea', 'distribution', 'ring', 'brain']]
+Coh_type:c_v  Topic Num:59 COH score:0.3327657991080732
+top_n: 10 Topic Num: 60 
+Topic Words: [['converter', 'ticket', 'study', 'mailing', 'jewish', 'jet', 'contact', 'size', 'postscript', 'driver']]
+Coh_type:c_v  Topic Num:60 COH score:0.25352182914893495
+top_n: 20 Topic Num: 60 
+Topic Words: [['converter', 'ticket', 'study', 'mailing', 'jewish', 'jet', 'contact', 'size', 'postscript', 'driver', 'ship', 'bitmap', 'app', 'medical', 'playoff', 'campaign', 'atheism', 'capital', 'night', 'thread']]
+Coh_type:c_v  Topic Num:60 COH score:0.43589014326684483
+top_n: 10 Topic Num: 61 
+Topic Words: [['shipping', 'crypto', 'place', 'forsale', 'illegal', 'registration', 'package', 'address', 'rs', 'market']]
+Coh_type:c_v  Topic Num:61 COH score:0.1698405533356963
+top_n: 20 Topic Num: 61 
+Topic Words: [['shipping', 'crypto', 'place', 'forsale', 'illegal', 'registration', 'package', 'address', 'rs', 'market', 'detector', 'gif', 'sun', 'sale', 'password', 'look', 'glass', 'surface', 'israeli', 'rocket']]
+Coh_type:c_v  Topic Num:61 COH score:0.32607479223168373
+top_n: 10 Topic Num: 62 
+Topic Words: [['hd', 'insurance', 'jumper', 'dod', 'yeast', 'greatly', 'ride', 'thanks', 'net', 'sx']]
+Coh_type:c_v  Topic Num:62 COH score:0.3217374709257645
+top_n: 20 Topic Num: 62 
+Topic Words: [['hd', 'insurance', 'jumper', 'dod', 'yeast', 'greatly', 'ride', 'thanks', 'net', 'sx', 'drive', 'bike', 'email', 'radar', 'interest', 'road', 'disk', 'company', 'highway', 'biker']]
+Coh_type:c_v  Topic Num:62 COH score:0.29070441174509465
+top_n: 10 Topic Num: 63 
+Topic Words: [['dod', 'bike', 'clutch', 'hitter', 'compound', 'cable', 'pin', 'radar', 'survivor', 'ide']]
+Coh_type:c_v  Topic Num:63 COH score:0.4517117099047866
+top_n: 20 Topic Num: 63 
+Topic Words: [['dod', 'bike', 'clutch', 'hitter', 'compound', 'cable', 'pin', 'radar', 'survivor', 'ide', 'motherboard', 'slot', 'detector', 'forsale', 'pitch', 'connector', 'obo', 'brake', 'simm', 'st']]
+Coh_type:c_v  Topic Num:63 COH score:0.48743732768894354
+top_n: 10 Topic Num: 64 
+Topic Words: [['bd', 'compound', 'sin', 'pen', 'pitcher', 'logic', 'survivor', 'marriage', 'building', 'fire']]
+Coh_type:c_v  Topic Num:64 COH score:0.36758169003956725
+top_n: 20 Topic Num: 64 
+Topic Words: [['bd', 'compound', 'sin', 'pen', 'pitcher', 'logic', 'survivor', 'marriage', 'building', 'fire', 'broadcast', 'team', 'follower', 'allow', 'investor', 'player', 'homosexuality', 'coach', 'stat', 'suicide']]
+Coh_type:c_v  Topic Num:64 COH score:0.29377824251437457
+top_n: 10 Topic Num: 65 
+Topic Words: [['na', 'car', 'product', 'tap', 'agency', 'money', 'crypto', 'general', 'easy', 'article']]
+Coh_type:c_v  Topic Num:65 COH score:0.3243145801775069
+top_n: 20 Topic Num: 65 
+Topic Words: [['na', 'car', 'product', 'tap', 'agency', 'money', 'crypto', 'general', 'easy', 'article', 'study', 'effective', 'steal', 'posting', 'logic', 'advice', 'inet', 'patent', 'personal', 'oppose']]
+Coh_type:c_v  Topic Num:65 COH score:0.21877542166273645
+top_n: 10 Topic Num: 66 
+Topic Words: [['flame', 'atheist', 'advance', 'sale', 'format', 'na', 'crash', 'tap', 'k', 'netter']]
+Coh_type:c_v  Topic Num:66 COH score:0.29324598988818334
+top_n: 20 Topic Num: 66 
+Topic Words: [['flame', 'atheist', 'advance', 'sale', 'format', 'na', 'crash', 'tap', 'k', 'netter', 'viewer', 'forsale', 'hockey', 'gif', 'price', 'net', 'thanks', 'laser', 'clipper', 'crypto']]
+Coh_type:c_v  Topic Num:66 COH score:0.3644391708559068
+top_n: 10 Topic Num: 67 
+Topic Words: [['meg', 'ship', 'monitor', 'jumper', 'clipper', 'crypto', 'theist', 'app', 'shipping', 'tap']]
+Coh_type:c_v  Topic Num:67 COH score:0.4274835608521371
+top_n: 20 Topic Num: 67 
+Topic Words: [['meg', 'ship', 'monitor', 'jumper', 'clipper', 'crypto', 'theist', 'app', 'shipping', 'tap', 'bio', 'inet', 'motherboard', 'request', 'screen', 'encryption', 'upgrade', 'faq', 'board', 'interested']]
+Coh_type:c_v  Topic Num:67 COH score:0.3443257830377099
+top_n: 10 Topic Num: 68 
+Topic Words: [['led', 'insurance', 'circuit', 'detector', 'amp', 'dx', 'controller', 'literature', 'card', 'forsale']]
+Coh_type:c_v  Topic Num:68 COH score:0.3449795768141071
+top_n: 20 Topic Num: 68 
+Topic Words: [['led', 'insurance', 'circuit', 'detector', 'amp', 'dx', 'controller', 'literature', 'card', 'forsale', 'cache', 'pin', 'irq', 'bus', 'battery', 'connector', 'slot', 'monitor', 'cycle', 'atmosphere']]
+Coh_type:c_v  Topic Num:68 COH score:0.4036744306105492
+top_n: 10 Topic Num: 69 
+Topic Words: [['site', 'ship', 'viewer', 'contact', 'mailing', 'enterpoopmitedu', 'driver', 'anybody', 'convert', 'price']]
+Coh_type:c_v  Topic Num:69 COH score:0.20721299637182106
+top_n: 20 Topic Num: 69 
+Topic Words: [['site', 'ship', 'viewer', 'contact', 'mailing', 'enterpoopmitedu', 'driver', 'anybody', 'convert', 'price', 'domain', 'mode', 'accelerator', 'direct', 'routine', 'line', 'let', 'svga', 'near', 'card']]
+Coh_type:c_v  Topic Num:69 COH score:0.21035367671372854
+top_n: 10 Topic Num: 70 
+Topic Words: [['escrow', 'wiretap', 'firearm', 'crypto', 'sky', 'clipper', 'satellite', 'orbit', 'israeli', 'yeast']]
+Coh_type:c_v  Topic Num:70 COH score:0.5067480504851922
+top_n: 20 Topic Num: 70 
+Topic Words: [['escrow', 'wiretap', 'firearm', 'crypto', 'sky', 'clipper', 'satellite', 'orbit', 'israeli', 'yeast', 'arab', 'encryption', 'keith', 'shuttle', 'plaintext', 'gun', 'moon', 'keyescrow', 'cryptosystem', 'decrypt']]
+Coh_type:c_v  Topic Num:70 COH score:0.5602618509883569
+top_n: 10 Topic Num: 71 
+Topic Words: [['v', 'card', 'bd', 'usa', 'na', 'dod', 'meg', 'bio', 'forsale', 'sale']]
+Coh_type:c_v  Topic Num:71 COH score:0.28899088890577956
+top_n: 20 Topic Num: 71 
+Topic Words: [['v', 'card', 'bd', 'usa', 'na', 'dod', 'meg', 'bio', 'forsale', 'sale', 'po', 'dx', 'slot', 'hd', 'compound', 'ide', 'connector', 'pen', 'thanx', 'pin']]
+Coh_type:c_v  Topic Num:71 COH score:0.3503813240483294
+top_n: 10 Topic Num: 72 
+Topic Words: [['meg', 'dod', 'led', 'cursor', 'xterm', 'amp', 'shift', 'setting', 'skepticism', 'mhz']]
+Coh_type:c_v  Topic Num:72 COH score:0.5041923927935942
+top_n: 20 Topic Num: 72 
+Topic Words: [['meg', 'dod', 'led', 'cursor', 'xterm', 'amp', 'shift', 'setting', 'skepticism', 'mhz', 'pin', 'motherboard', 'cache', 'resistor', 'board', 'connector', 'jumper', 'application', 'problem', 'chain']]
+Coh_type:c_v  Topic Num:72 COH score:0.4033047865912418
+top_n: 10 Topic Num: 73 
+Topic Words: [['condition', 'shipping', 'sale', 'driver', 'excellent', 'printer', 'obo', 'anybody', 'mouse', 'setting']]
+Coh_type:c_v  Topic Num:73 COH score:0.20008055312870904
+top_n: 20 Topic Num: 73 
+Topic Words: [['condition', 'shipping', 'sale', 'driver', 'excellent', 'printer', 'obo', 'anybody', 'mouse', 'setting', 'trade', 'meg', 'advance', 'forsale', 'jumper', 'manual', 'viewer', 'know', 'baseball', 'thank']]
+Coh_type:c_v  Topic Num:73 COH score:0.22545543609674926
+top_n: 10 Topic Num: 74 
+Topic Words: [['circuit', 'window', 'event', 'hi', 'picture', 'led', 'travel', 'compile', 'default', 'battery']]
+Coh_type:c_v  Topic Num:74 COH score:0.21918548223266168
+top_n: 20 Topic Num: 74 
+Topic Words: [['circuit', 'window', 'event', 'hi', 'picture', 'led', 'travel', 'compile', 'default', 'battery', 'migraine', 'photography', 'electronic', 'pixmap', 'skepticism', 'help', 'discharge', 'pp', 'manager', 'switch']]
+Coh_type:c_v  Topic Num:74 COH score:0.42750640882349267
+top_n: 10 Topic Num: 75 
+Topic Words: [['turkish', 'armenian', 'copyright', 'pp', 'azeri', 'civilian', 'sky', 'republic', 'muslim', 'witness']]
+Coh_type:c_v  Topic Num:75 COH score:0.4396910353070142
+top_n: 20 Topic Num: 75 
+Topic Words: [['turkish', 'armenian', 'copyright', 'pp', 'azeri', 'civilian', 'sky', 'republic', 'muslim', 'witness', 'helmet', 'telescope', 'mountain', 'pit', 'shoot', 'tom', 'politic', 'baby', 'extermination', 'corpse']]
+Coh_type:c_v  Topic Num:75 COH score:0.4724400484157029
+top_n: 10 Topic Num: 76 
+Topic Words: [['sale', 'clutch', 'oil', 'meg', 'cop', 'seat', 'bike', 'dod', 'jumper', 'external']]
+Coh_type:c_v  Topic Num:76 COH score:0.33232566424453414
+top_n: 20 Topic Num: 76 
+Topic Words: [['sale', 'clutch', 'oil', 'meg', 'cop', 'seat', 'bike', 'dod', 'jumper', 'external', 'ticket', 'computer', 'drain', 'tire', 'student', 'pen', 'trade', 'info', 'cache', 'biker']]
+Coh_type:c_v  Topic Num:76 COH score:0.35241415798332304
+top_n: 10 Topic Num: 77 
+Topic Words: [['armenian', 'dog', 'extermination', 'clutch', 'hitter', 'survivor', 'runner', 'tire', 'shift', 'tank']]
+Coh_type:c_v  Topic Num:77 COH score:0.3508146605003446
+top_n: 20 Topic Num: 77 
+Topic Words: [['armenian', 'dog', 'extermination', 'clutch', 'hitter', 'survivor', 'runner', 'tire', 'shift', 'tank', 'brake', 'pitch', 'oil', 'mph', 'score', 'fan', 'compound', 'turkish', 'longer', 'prediction']]
+Coh_type:c_v  Topic Num:77 COH score:0.3764254894628839
+top_n: 10 Topic Num: 78 
+Topic Words: [['escrow', 'crypto', 'circuit', 'wiretap', 'clipper', 'civilian', 'tap', 'pp', 'payload', 'bullet']]
+Coh_type:c_v  Topic Num:78 COH score:0.4421667750415204
+top_n: 20 Topic Num: 78 
+Topic Words: [['escrow', 'crypto', 'circuit', 'wiretap', 'clipper', 'civilian', 'tap', 'pp', 'payload', 'bullet', 'international', 'orbit', 'amp', 'turkish', 'armenian', 'array', 'burst', 'keyescrow', 'terrorist', 'citizen']]
+Coh_type:c_v  Topic Num:78 COH score:0.46828158166567635
+top_n: 10 Topic Num: 79 
+Topic Words: [['format', 'gif', 'utility', 'clipper', 'enterpoopmitedu', 'subscribe', 'anybody', 'conversion', 'scicrypt', 'xv']]
+Coh_type:c_v  Topic Num:79 COH score:0.3319636155828408
+top_n: 20 Topic Num: 79 
+Topic Words: [['format', 'gif', 'utility', 'clipper', 'enterpoopmitedu', 'subscribe', 'anybody', 'conversion', 'scicrypt', 'xv', 'company', 'convert', 'encryption', 'image', 'converter', 'encrypt', 'announcement', 'viewer', 'algorithm', 'polygon']]
+Coh_type:c_v  Topic Num:79 COH score:0.26294685486606273
+top_n: 10 Topic Num: 80 
+Topic Words: [['driver', 'happen', 'download', 'trade', 'irq', 'configsys', 'utility', 'com', 'convert', 'menu']]
+Coh_type:c_v  Topic Num:80 COH score:0.27795780466485975
+top_n: 20 Topic Num: 80 
+Topic Words: [['driver', 'happen', 'download', 'trade', 'irq', 'configsys', 'utility', 'com', 'convert', 'menu', 'right', 'sale', 'problem', 'bmp', 'keyword', 'option', 'effect', 'oo', 'network', 'gif']]
+Coh_type:c_v  Topic Num:80 COH score:0.25713088190172245
+top_n: 10 Topic Num: 81 
+Topic Words: [['na', 'bike', 'logic', 'article', 'love', 'thread', 'medium', 'jewish', 'dod', 'model']]
+Coh_type:c_v  Topic Num:81 COH score:0.22073376742460254
+top_n: 20 Topic Num: 81 
+Topic Words: [['na', 'bike', 'logic', 'article', 'love', 'thread', 'medium', 'jewish', 'dod', 'model', 'score', 'sea', 'tank', 'stat', 'basis', 'intelligent', 'pen', 'ot', 'fan', 'ride']]
+Coh_type:c_v  Topic Num:81 COH score:0.21423825622292658
+top_n: 10 Topic Num: 82 
+Topic Words: [['turkish', 'mailing', 'armenian', 'muslim', 'pp', 'publish', 'authority', 'wound', 'longer', 'list']]
+Coh_type:c_v  Topic Num:82 COH score:0.367288186220464
+top_n: 20 Topic Num: 82 
+Topic Words: [['turkish', 'mailing', 'armenian', 'muslim', 'pp', 'publish', 'authority', 'wound', 'longer', 'list', 'body', 'schedule', 'soul', 'british', 'proceed', 'address', 'subscribe', 'scholar', 'paragraph', 'close']]
+Coh_type:c_v  Topic Num:82 COH score:0.3029296734642614
+top_n: 10 Topic Num: 83 
+Topic Words: [['connector', 'led', 'slot', 'bike', 'pin', 'coprocessor', 'dod', 'simm', 'amp', 'simms']]
+Coh_type:c_v  Topic Num:83 COH score:0.36131068112662346
+top_n: 20 Topic Num: 83 
+Topic Words: [['connector', 'led', 'slot', 'bike', 'pin', 'coprocessor', 'dod', 'simm', 'amp', 'simms', 'ide', 'motherboard', 'floor', 'shameful', 'oil', 'hook', 'dealer', 'biker', 'cycle', 'yeast']]
+Coh_type:c_v  Topic Num:83 COH score:0.5277825698348331
+top_n: 10 Topic Num: 84 
+Topic Words: [['yeast', 'moral', 'society', 'private', 'sexual', 'want', 'punishment', 'escrow', 'death', 'cup']]
+Coh_type:c_v  Topic Num:84 COH score:0.34097215805192277
+top_n: 20 Topic Num: 84 
+Topic Words: [['yeast', 'moral', 'society', 'private', 'sexual', 'want', 'punishment', 'escrow', 'death', 'cup', 'national', 'study', 'agency', 'run', 'village', 'candida', 'emergency', 'letter', 'religious', 'distinguish']]
+Coh_type:c_v  Topic Num:84 COH score:0.3373471623880268
+top_n: 10 Topic Num: 85 
+Topic Words: [['team', 'disk', 'flame', 'pen', 'religion', 'clipper', 'utility', 'tap', 'crypto', 'format']]
+Coh_type:c_v  Topic Num:85 COH score:0.18516952190864885
+top_n: 20 Topic Num: 85 
+Topic Words: [['team', 'disk', 'flame', 'pen', 'religion', 'clipper', 'utility', 'tap', 'crypto', 'format', 'medium', 'atheist', 'game', 'cellular', 'floppy', 'society', 'compound', 'ice', 'crash', 'modem']]
+Coh_type:c_v  Topic Num:85 COH score:0.3248501040919846
+top_n: 10 Topic Num: 86 
+Topic Words: [['led', 'crypto', 'morality', 'enterpoopmitedu', 'algorithm', 'yeast', 'moon', 'al', 'site', 'disk']]
+Coh_type:c_v  Topic Num:86 COH score:0.5030746629370284
+top_n: 20 Topic Num: 86 
+Topic Words: [['led', 'crypto', 'morality', 'enterpoopmitedu', 'algorithm', 'yeast', 'moon', 'al', 'site', 'disk', 'insurance', 'chip', 'straight', 'true', 'literature', 'mile', 'slc', 'forsale', 'ftp', 'militia']]
+Coh_type:c_v  Topic Num:86 COH score:0.5428391250161566
+top_n: 10 Topic Num: 87 
+Topic Words: [['serial', 'kind', 'internal', 'reasonable', 'resolution', 'double', 'bis', 'escape', 'status', 'loser']]
+Coh_type:c_v  Topic Num:87 COH score:0.19499134993047088
+top_n: 20 Topic Num: 87 
+Topic Words: [['serial', 'kind', 'internal', 'reasonable', 'resolution', 'double', 'bis', 'escape', 'status', 'loser', 'simms', 'account', 'jumper', 'number', 'view', 'detail', 'convert', 'need', 'hear', 'blue']]
+Coh_type:c_v  Topic Num:87 COH score:0.21977854154935064
+top_n: 10 Topic Num: 88 
+Topic Words: [['cache', 'dx', 'motherboard', 'ide', 'controller', 'connector', 'player', 'dod', 'board', 'drain']]
+Coh_type:c_v  Topic Num:88 COH score:0.4083323644823443
+top_n: 20 Topic Num: 88 
+Topic Words: [['cache', 'dx', 'motherboard', 'ide', 'controller', 'connector', 'player', 'dod', 'board', 'drain', 'clutch', 'card', 'playoff', 'led', 'slot', 'fan', 'coprocessor', 'brand', 'k', 'stat']]
+Coh_type:c_v  Topic Num:88 COH score:0.36376786095097635
+top_n: 10 Topic Num: 89 
+Topic Words: [['atheist', 'crypto', 'flame', 'sale', 'na', 's', 'insurance', 'jumper', 'advance', 'fund']]
+Coh_type:c_v  Topic Num:89 COH score:0.26182396372800726
+top_n: 20 Topic Num: 89 
+Topic Words: [['atheist', 'crypto', 'flame', 'sale', 'na', 's', 'insurance', 'jumper', 'advance', 'fund', 'clipper', 'gateway', 'yeast', 'theist', 'straight', 'forsale', 'usa', 'monitor', 'society', 'tap']]
+Coh_type:c_v  Topic Num:89 COH score:0.385777905025223
+top_n: 10 Topic Num: 90 
+Topic Words: [['bus', 'payload', 'output', 'circuit', 'mission', 'sail', 'government', 'amp', 'develop', 'design']]
+Coh_type:c_v  Topic Num:90 COH score:0.2418440448888619
+top_n: 20 Topic Num: 90 
+Topic Words: [['bus', 'payload', 'output', 'circuit', 'mission', 'sail', 'government', 'amp', 'develop', 'design', 'launch', 'flight', 'bit', 'thousand', 'wiretap', 'volt', 'classify', 'mass', 'device', 'interface']]
+Coh_type:c_v  Topic Num:90 COH score:0.24081704238519963
+top_n: 10 Topic Num: 91 
+Topic Words: [['payload', 'homosexual', 'yes', 'morality', 'launch', 'yeast', 'infection', 'led', 'migraine', 'quack']]
+Coh_type:c_v  Topic Num:91 COH score:0.47243680239787256
+top_n: 20 Topic Num: 91 
+Topic Words: [['payload', 'homosexual', 'yes', 'morality', 'launch', 'yeast', 'infection', 'led', 'migraine', 'quack', 'circuit', 'object', 'shameful', 'galaxy', 'symptom', 'solar', 'scientific', 'chastity', 'pat', 'candida']]
+Coh_type:c_v  Topic Num:91 COH score:0.5007371302090939
+top_n: 10 Topic Num: 92 
+Topic Words: [['sale', 'shameful', 'surrender', 'viewer', 'anybody', 'college', 'conversion', 'pro', 'price', 'response']]
+Coh_type:c_v  Topic Num:92 COH score:0.34243205727246945
+top_n: 20 Topic Num: 92 
+Topic Words: [['sale', 'shameful', 'surrender', 'viewer', 'anybody', 'college', 'conversion', 'pro', 'price', 'response', 'thanks', 'gif', 'superstition', 'package', 'intellect', 'hello', 'converter', 'chastity', 'thank', 'preferably']]
+Coh_type:c_v  Topic Num:92 COH score:0.4017470517954207
+top_n: 10 Topic Num: 93 
+Topic Words: [['night', 'oil', 'score', 'e', 'blue', 'gateway', 'mailing', 'trade', 'response', 'condition']]
+Coh_type:c_v  Topic Num:93 COH score:0.252912691132526
+top_n: 20 Topic Num: 93 
+Topic Words: [['night', 'oil', 'score', 'e', 'blue', 'gateway', 'mailing', 'trade', 'response', 'condition', 'playoff', 'motherboard', 'nntppostinghost', 'card', 'regularly', 'cache', 'nd', 'meg', 'series', 'l']]
+Coh_type:c_v  Topic Num:93 COH score:0.2544005537584971
+top_n: 10 Topic Num: 94 
+Topic Words: [['amp', 'chastity', 'escrow', 'circuit', 'migraine', 'flight', 'burst', 'orbit', 'pat', 'acid']]
+Coh_type:c_v  Topic Num:94 COH score:0.539089509485265
+top_n: 20 Topic Num: 94 
+Topic Words: [['amp', 'chastity', 'escrow', 'circuit', 'migraine', 'flight', 'burst', 'orbit', 'pat', 'acid', 'khz', 'shameful', 'led', 'array', 'infection', 'payload', 'mission', 'wiretap', 'atmosphere', 'volt']]
+Coh_type:c_v  Topic Num:94 COH score:0.5949988914725186
+top_n: 10 Topic Num: 95 
+Topic Words: [['clipper', 'algorithm', 'encryption', 'encrypt', 'crypto', 'tap', 'widget', 'security', 'escrow', 'traffic']]
+Coh_type:c_v  Topic Num:95 COH score:0.5968816054715973
+top_n: 20 Topic Num: 95 
+Topic Words: [['clipper', 'algorithm', 'encryption', 'encrypt', 'crypto', 'tap', 'widget', 'security', 'escrow', 'traffic', 'enterpoopmitedu', 'partner', 'wiretap', 'proposal', 'jon', 'homosexual', 'keyescrow', 'xv', 'atom', 'gay']]
+Coh_type:c_v  Topic Num:95 COH score:0.49291214550546963
+top_n: 10 Topic Num: 96 
+Topic Words: [['gif', 'pc', 'station', 'format', 'net', 'engine', 'subscribe', 'converter', 'x', 'thanks']]
+Coh_type:c_v  Topic Num:96 COH score:0.21904505448243702
+top_n: 20 Topic Num: 96 
+Topic Words: [['gif', 'pc', 'station', 'format', 'net', 'engine', 'subscribe', 'converter', 'x', 'thanks', 'medium', 'd', 'algorithm', 'ftp', 'israeli', 'input', 'commercial', 'reach', 'base', 'reply']]
+Coh_type:c_v  Topic Num:96 COH score:0.2761379521187545
+top_n: 10 Topic Num: 97 
+Topic Words: [['dod', 'insurance', 'chastity', 'doctor', 'event', 'motorcycle', 'sgi', 'food', 'car', 'objective']]
+Coh_type:c_v  Topic Num:97 COH score:0.3666580237498443
+top_n: 20 Topic Num: 97 
+Topic Words: [['dod', 'insurance', 'chastity', 'doctor', 'event', 'motorcycle', 'sgi', 'food', 'car', 'objective', 'shameful', 'gay', 'thread', 'skepticism', 'radar', 'eternal', 'medical', 'wife', 'surrender', 'sig']]
+Coh_type:c_v  Topic Num:97 COH score:0.4410421044665676
+top_n: 10 Topic Num: 98 
+Topic Words: [['image', 'converter', 'gif', 'radio', 'theist', 'company', 'convert', 'orient', 'bd', 'associate']]
+Coh_type:c_v  Topic Num:98 COH score:0.36249306727079783
+top_n: 20 Topic Num: 98 
+Topic Words: [['image', 'converter', 'gif', 'radio', 'theist', 'company', 'convert', 'orient', 'bd', 'associate', 'probably', 'display', 'bitmap', 'taxis', 'chemical', 'precisely', 'society', 'raid', 'point', 'fan']]
+Coh_type:c_v  Topic Num:98 COH score:0.3043565414618474
+top_n: 10 Topic Num: 99 
+Topic Words: [['crypto', 'sale', 'tap', 'escrow', 'obo', 'forsale', 'keyescrow', 'assault', 'clipper', 'jack']]
+Coh_type:c_v  Topic Num:99 COH score:0.3534825622136139
+top_n: 20 Topic Num: 99 
+Topic Words: [['crypto', 'sale', 'tap', 'escrow', 'obo', 'forsale', 'keyescrow', 'assault', 'clipper', 'jack', 'criminal', 'police', 'govt', 'protect', 'algorithm', 'dealer', 'orbit', 'insurance', 'na', 'fed']]
+Coh_type:c_v  Topic Num:99 COH score:0.40081918818010187
+top_n: 10 Topic Num: 100 
+Topic Words: [['clipper', 'crypto', 'ide', 'tap', 'bio', 'jumper', 'atheist', 'serial', 'bus', 'fine']]
+Coh_type:c_v  Topic Num:100 COH score:0.30710147090916934
+top_n: 20 Topic Num: 100 
+Topic Words: [['clipper', 'crypto', 'ide', 'tap', 'bio', 'jumper', 'atheist', 'serial', 'bus', 'fine', 'slave', 'controller', 'com', 'irq', 'escrow', 'shell', 'hockey', 'configsys', 'port', 'program']]
+Coh_type:c_v  Topic Num:100 COH score:0.4341446000465411
+top scores for top_10:[0.6809454666627758, 10, [['algorithm', 'clipper', 'escrow', 'encrypt', 'crypto', 'wiretap', 'morality', 'secure', 'encryption', 'decrypt']]]
+-------------------------------------------------------------------
+top scores for top_20:[0.6624920509674089, 20, [['armenian', 'pp', 'turkish', 'troop', 'civilian', 'fight', 'escape', 'longer', 'finally', 'exist', 'soldier', 'proceed', 'p', 'republic', 'refugee', 'wound', 'muslim', 'extermination', 'bullet', 'serve']]]
+-------------------------------------------------------------------
+Avg COH for top_10 topic words: 0.345418410693789
+-------------------------------------------------------------------
+Avg COH for top_20 topic words: 0.36865074583018265
+-------------------------------------------------------------------
