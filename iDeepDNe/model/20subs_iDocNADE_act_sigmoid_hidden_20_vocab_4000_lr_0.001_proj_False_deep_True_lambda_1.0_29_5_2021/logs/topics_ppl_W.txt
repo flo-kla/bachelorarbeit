@@ -1,0 +1,100 @@
+h_num: 0
+w_h_top_words_indx: [1949 3787 1758 2553 2101 3507  337 1583 1226 3069 3013  721 1716 2876
+ 2791 2287 2829  152 2689 3463]
+w_h_top_words:['karma', 'username', 'immediate', 'partner', 'lt', 'swap', 'behance', 'guarantee', 'excite', 'rtechsupport', 'resubmit', 'congrats', 'huh', 'rbuildapc', 'prophecy', 'modshttpwwwredditcommessagecomposeto', 'puwhatisautomoderator', 'anki', 'potential', 'successful']
+----------------------------------------------------------------------
+h_num: 1
+w_h_top_words_indx: [1949 3787 1758 2553 3507 2101 1806 1226  337 2829 2676 1716  152 3013
+ 3069 1583 1379  718 2219  721]
+w_h_top_words:['karma', 'username', 'immediate', 'partner', 'swap', 'lt', 'information', 'excite', 'behance', 'puwhatisautomoderator', 'portfolio', 'huh', 'anki', 'resubmit', 'rtechsupport', 'guarantee', 'following', 'confused', 'menu', 'congrats']
+----------------------------------------------------------------------
+h_num: 2
+w_h_top_words_indx: [1949 3787 1758 2553 2101 3507 1583 2689 1928 2791  337 3463 1716 1226
+  721 3539 3069  152 1116 1139]
+w_h_top_words:['karma', 'username', 'immediate', 'partner', 'lt', 'swap', 'guarantee', 'potential', 'join', 'prophecy', 'behance', 'successful', 'huh', 'excite', 'congrats', 'tea', 'rtechsupport', 'anki', 'eh', 'employ']
+----------------------------------------------------------------------
+h_num: 3
+w_h_top_words_indx: [1949 3787 1758 2553 3507 2101 1806 2829 1583 2676 1226  337  152 1716
+ 3013 3069  718 2219  952 2079]
+w_h_top_words:['karma', 'username', 'immediate', 'partner', 'swap', 'lt', 'information', 'puwhatisautomoderator', 'guarantee', 'portfolio', 'excite', 'behance', 'anki', 'huh', 'resubmit', 'rtechsupport', 'confused', 'menu', 'desktop', 'log']
+----------------------------------------------------------------------
+h_num: 4
+w_h_top_words_indx: [1949 3787 1758 2553 3507 2101 1806 1226  337 2829 3013 1716 3069 2676
+  152 1379 1583  718 2219  721]
+w_h_top_words:['karma', 'username', 'immediate', 'partner', 'swap', 'lt', 'information', 'excite', 'behance', 'puwhatisautomoderator', 'resubmit', 'huh', 'rtechsupport', 'portfolio', 'anki', 'following', 'guarantee', 'confused', 'menu', 'congrats']
+----------------------------------------------------------------------
+h_num: 5
+w_h_top_words_indx: [1949 3787 1758 2553 2101 3507 1583 2689  337 2791 1928 3463 1716  721
+ 1226 3539  152 3069 1139 2876]
+w_h_top_words:['karma', 'username', 'immediate', 'partner', 'lt', 'swap', 'guarantee', 'potential', 'behance', 'prophecy', 'join', 'successful', 'huh', 'congrats', 'excite', 'tea', 'anki', 'rtechsupport', 'employ', 'rbuildapc']
+----------------------------------------------------------------------
+h_num: 6
+w_h_top_words_indx: [1949 3787 1758 2553 2101 3507 1583 2689 1928 2791 3463 1716  337 1226
+  721 3539 3069 1116  152 2940]
+w_h_top_words:['karma', 'username', 'immediate', 'partner', 'lt', 'swap', 'guarantee', 'potential', 'join', 'prophecy', 'successful', 'huh', 'behance', 'excite', 'congrats', 'tea', 'rtechsupport', 'eh', 'anki', 'reinstall']
+----------------------------------------------------------------------
+h_num: 7
+w_h_top_words_indx: [1949 3787 1758 2553 2101 3507 2689 2829 1583 3132 3013  952 3405 2079
+ 2605 3539 2791 1716 2940 3547]
+w_h_top_words:['karma', 'username', 'immediate', 'partner', 'lt', 'swap', 'potential', 'puwhatisautomoderator', 'guarantee', 'screen', 'resubmit', 'desktop', 'steam', 'log', 'phone', 'tea', 'prophecy', 'huh', 'reinstall', 'technically']
+----------------------------------------------------------------------
+h_num: 8
+w_h_top_words_indx: [1949 3787 1758 2553 2101 3507  337 1583 3069 3013 1226  721 1716 2876
+ 2791 2287 2689 3463 2829  152]
+w_h_top_words:['karma', 'username', 'immediate', 'partner', 'lt', 'swap', 'behance', 'guarantee', 'rtechsupport', 'resubmit', 'excite', 'congrats', 'huh', 'rbuildapc', 'prophecy', 'modshttpwwwredditcommessagecomposeto', 'potential', 'successful', 'puwhatisautomoderator', 'anki']
+----------------------------------------------------------------------
+h_num: 9
+w_h_top_words_indx: [1949 3787 1758 2553 3507 2101 1806 2829 1583 1226  152  337 1716 3013
+ 2079 3069 2676  718  952 2219]
+w_h_top_words:['karma', 'username', 'immediate', 'partner', 'swap', 'lt', 'information', 'puwhatisautomoderator', 'guarantee', 'excite', 'anki', 'behance', 'huh', 'resubmit', 'log', 'rtechsupport', 'portfolio', 'confused', 'desktop', 'menu']
+----------------------------------------------------------------------
+h_num: 10
+w_h_top_words_indx: [1949 3787 1758 2553 2101 3507 2689 2829 1583 3132 3013 3405 2605  952
+ 2079 3539 2791 1716 3547 2940]
+w_h_top_words:['karma', 'username', 'immediate', 'partner', 'lt', 'swap', 'potential', 'puwhatisautomoderator', 'guarantee', 'screen', 'resubmit', 'steam', 'phone', 'desktop', 'log', 'tea', 'prophecy', 'huh', 'technically', 'reinstall']
+----------------------------------------------------------------------
+h_num: 11
+w_h_top_words_indx: [1949 3787 1758 2553 2101 3507 1583  337 3069  721 1226 1716 3013 2791
+ 2689 2876 3463 2287 1928 3539]
+w_h_top_words:['karma', 'username', 'immediate', 'partner', 'lt', 'swap', 'guarantee', 'behance', 'rtechsupport', 'congrats', 'excite', 'huh', 'resubmit', 'prophecy', 'potential', 'rbuildapc', 'successful', 'modshttpwwwredditcommessagecomposeto', 'join', 'tea']
+----------------------------------------------------------------------
+h_num: 12
+w_h_top_words_indx: [1949 3787 1758 2553 2101 3507 1583  337  721 2689 1716 2791 1226 3463
+ 3069 1928 2876 3539 3013 2287]
+w_h_top_words:['karma', 'username', 'immediate', 'partner', 'lt', 'swap', 'guarantee', 'behance', 'congrats', 'potential', 'huh', 'prophecy', 'excite', 'successful', 'rtechsupport', 'join', 'rbuildapc', 'tea', 'resubmit', 'modshttpwwwredditcommessagecomposeto']
+----------------------------------------------------------------------
+h_num: 13
+w_h_top_words_indx: [1949 3787 1758 2553 2101 3507 1583  337 2689 2791  721 3463 1716 1928
+ 1226 3539 3069  152 2876 1139]
+w_h_top_words:['karma', 'username', 'immediate', 'partner', 'lt', 'swap', 'guarantee', 'behance', 'potential', 'prophecy', 'congrats', 'successful', 'huh', 'join', 'excite', 'tea', 'rtechsupport', 'anki', 'rbuildapc', 'employ']
+----------------------------------------------------------------------
+h_num: 14
+w_h_top_words_indx: [1949 3787 1758 2553 2101 3507  952 1583 2689 2829 2079 3013 1716 1806
+ 2940  152 3405 3539 1226 3132]
+w_h_top_words:['karma', 'username', 'immediate', 'partner', 'lt', 'swap', 'desktop', 'guarantee', 'potential', 'puwhatisautomoderator', 'log', 'resubmit', 'huh', 'information', 'reinstall', 'anki', 'steam', 'tea', 'excite', 'screen']
+----------------------------------------------------------------------
+h_num: 15
+w_h_top_words_indx: [1949 3787 1758 2553 2101 3507  337 1583 1226 3013 3069  721 1716 2876
+ 2829 2791 2287  152 1379 2689]
+w_h_top_words:['karma', 'username', 'immediate', 'partner', 'lt', 'swap', 'behance', 'guarantee', 'excite', 'resubmit', 'rtechsupport', 'congrats', 'huh', 'rbuildapc', 'puwhatisautomoderator', 'prophecy', 'modshttpwwwredditcommessagecomposeto', 'anki', 'following', 'potential']
+----------------------------------------------------------------------
+h_num: 16
+w_h_top_words_indx: [1949 3787 1758 2553 2101 3507 2689 2829 1583 3132 3013  952 3405 2079
+ 3539 2605 2791 1716 2940 3547]
+w_h_top_words:['karma', 'username', 'immediate', 'partner', 'lt', 'swap', 'potential', 'puwhatisautomoderator', 'guarantee', 'screen', 'resubmit', 'desktop', 'steam', 'log', 'tea', 'phone', 'prophecy', 'huh', 'reinstall', 'technically']
+----------------------------------------------------------------------
+h_num: 17
+w_h_top_words_indx: [1949 3787 1758 2553 2101 3507  952 1583 2829 2689 2079 3013 1806 1716
+  152 2940 3405 1226 3539  337]
+w_h_top_words:['karma', 'username', 'immediate', 'partner', 'lt', 'swap', 'desktop', 'guarantee', 'puwhatisautomoderator', 'potential', 'log', 'resubmit', 'information', 'huh', 'anki', 'reinstall', 'steam', 'excite', 'tea', 'behance']
+----------------------------------------------------------------------
+h_num: 18
+w_h_top_words_indx: [1949 3787 1758 2553 2101 3507 1583 2689  337 2791 1928 3463 1716  721
+ 1226 3539  152 3069 1139 2876]
+w_h_top_words:['karma', 'username', 'immediate', 'partner', 'lt', 'swap', 'guarantee', 'potential', 'behance', 'prophecy', 'join', 'successful', 'huh', 'congrats', 'excite', 'tea', 'anki', 'rtechsupport', 'employ', 'rbuildapc']
+----------------------------------------------------------------------
+h_num: 19
+w_h_top_words_indx: [1949 3787 1758 2553 2101 3507 2689 2829 1583 3132 3013 3405  952 2605
+ 2079 3539 2791 1716 3547 2940]
+w_h_top_words:['karma', 'username', 'immediate', 'partner', 'lt', 'swap', 'potential', 'puwhatisautomoderator', 'guarantee', 'screen', 'resubmit', 'steam', 'desktop', 'phone', 'log', 'tea', 'prophecy', 'huh', 'technically', 'reinstall']
+----------------------------------------------------------------------

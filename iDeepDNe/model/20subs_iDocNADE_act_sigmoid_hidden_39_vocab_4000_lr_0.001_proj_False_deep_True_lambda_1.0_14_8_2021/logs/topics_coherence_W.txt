@@ -1,0 +1,242 @@
+top_n: 10 Topic Num: 1 
+Topic Words: [['ah', 'solely', 'guarantee', 'lt', 'anki', 'leader', 'huh', 'tax', 'slave', 'wan']]
+Coh_type:c_v  Topic Num:1 COH score:0.6337126769276555
+top_n: 20 Topic Num: 1 
+Topic Words: [['ah', 'solely', 'guarantee', 'lt', 'anki', 'leader', 'huh', 'tax', 'slave', 'wan', 'karma', 'buddy', 'reinstall', 'na', 'immediate', 'passion', 'mirror', 'potential', 'dead', 'underestimate']]
+Coh_type:c_v  Topic Num:1 COH score:0.7063853765288366
+top_n: 10 Topic Num: 2 
+Topic Words: [['reflect', 'accurate', 'special', 'water', 'console', 'circuit', 'form', 'additionally', 'match', 'operation']]
+Coh_type:c_v  Topic Num:2 COH score:0.5479790975789813
+top_n: 20 Topic Num: 2 
+Topic Words: [['reflect', 'accurate', 'special', 'water', 'console', 'circuit', 'form', 'additionally', 'match', 'operation', 'considerably', 'steel', 'aspect', 'perspective', 'writing', 'color', 'dominate', 'group', 'whatsoever', 'reproduce']]
+Coh_type:c_v  Topic Num:2 COH score:0.674890820236695
+top_n: 10 Topic Num: 3 
+Topic Words: [['form', 'accurate', 'group', 'water', 'circuit', 'special', 'perspective', 'aspect', 'reflect', 'permanent']]
+Coh_type:c_v  Topic Num:3 COH score:0.3990082296335487
+top_n: 20 Topic Num: 3 
+Topic Words: [['form', 'accurate', 'group', 'water', 'circuit', 'special', 'perspective', 'aspect', 'reflect', 'permanent', 'regard', 'bfhttheoryautotldrconcept', 'order', 'ability', 'console', 'fps', 'color', 'additionally', 'resistance', 'dot']]
+Coh_type:c_v  Topic Num:3 COH score:0.6177908466082064
+top_n: 10 Topic Num: 4 
+Topic Words: [['guarantee', 'ah', 'karma', 'solely', 'huh', 'anki', 'wan', 'partner', 'potential', 'slave']]
+Coh_type:c_v  Topic Num:4 COH score:0.5447670967744181
+top_n: 20 Topic Num: 4 
+Topic Words: [['guarantee', 'ah', 'karma', 'solely', 'huh', 'anki', 'wan', 'partner', 'potential', 'slave', 'reinstall', 'na', 'buddy', 'passion', 'wd', 'lt', 'anyways', 'cylinder', 'underestimate', 'immediate']]
+Coh_type:c_v  Topic Num:4 COH score:0.6891809664227824
+top_n: 10 Topic Num: 5 
+Topic Words: [['karma', 'guarantee', 'partner', 'solely', 'ah', 'reinstall', 'username', 'potential', 'huh', 'wan']]
+Coh_type:c_v  Topic Num:5 COH score:0.5085590775300904
+top_n: 20 Topic Num: 5 
+Topic Words: [['karma', 'guarantee', 'partner', 'solely', 'ah', 'reinstall', 'username', 'potential', 'huh', 'wan', 'anki', 'passion', 'buddy', 'lt', 'conclusion', 'wd', 'icon', 'slave', 'immediate', 'na']]
+Coh_type:c_v  Topic Num:5 COH score:0.6718394130262118
+top_n: 10 Topic Num: 6 
+Topic Words: [['form', 'group', 'accurate', 'circuit', 'water', 'special', 'perspective', 'order', 'regard', 'aspect']]
+Coh_type:c_v  Topic Num:6 COH score:0.3859641479573783
+top_n: 20 Topic Num: 6 
+Topic Words: [['form', 'group', 'accurate', 'circuit', 'water', 'special', 'perspective', 'order', 'regard', 'aspect', 'bfhttheoryautotldrconcept', 'reflect', 'permanent', 'ability', 'resistance', 'fps', 'color', 'strike', 'console', 'additionally']]
+Coh_type:c_v  Topic Num:6 COH score:0.5991033735202204
+top_n: 10 Topic Num: 7 
+Topic Words: [['karma', 'guarantee', 'ah', 'solely', 'partner', 'reinstall', 'huh', 'potential', 'wan', 'anki']]
+Coh_type:c_v  Topic Num:7 COH score:0.5581853926324127
+top_n: 20 Topic Num: 7 
+Topic Words: [['karma', 'guarantee', 'ah', 'solely', 'partner', 'reinstall', 'huh', 'potential', 'wan', 'anki', 'passion', 'buddy', 'slave', 'wd', 'na', 'username', 'lt', 'conclusion', 'icon', 'anyways']]
+Coh_type:c_v  Topic Num:7 COH score:0.6819345952660235
+top_n: 10 Topic Num: 8 
+Topic Words: [['accurate', 'reflect', 'special', 'water', 'circuit', 'aspect', 'group', 'perspective', 'form', 'additionally']]
+Coh_type:c_v  Topic Num:8 COH score:0.37844384289769134
+top_n: 20 Topic Num: 8 
+Topic Words: [['accurate', 'reflect', 'special', 'water', 'circuit', 'aspect', 'group', 'perspective', 'form', 'additionally', 'console', 'match', 'operation', 'color', 'uh', 'permanent', 'steel', 'regard', 'whatsoever', 'reproduce']]
+Coh_type:c_v  Topic Num:8 COH score:0.665863655180728
+top_n: 10 Topic Num: 9 
+Topic Words: [['karma', 'guarantee', 'partner', 'solely', 'ah', 'reinstall', 'potential', 'username', 'huh', 'wan']]
+Coh_type:c_v  Topic Num:9 COH score:0.5085590775300904
+top_n: 20 Topic Num: 9 
+Topic Words: [['karma', 'guarantee', 'partner', 'solely', 'ah', 'reinstall', 'potential', 'username', 'huh', 'wan', 'anki', 'passion', 'buddy', 'lt', 'conclusion', 'wd', 'icon', 'slave', 'immediate', 'na']]
+Coh_type:c_v  Topic Num:9 COH score:0.6718394130262118
+top_n: 10 Topic Num: 10 
+Topic Words: [['guarantee', 'karma', 'ah', 'solely', 'huh', 'wan', 'anki', 'partner', 'potential', 'reinstall']]
+Coh_type:c_v  Topic Num:10 COH score:0.5581853926324127
+top_n: 20 Topic Num: 10 
+Topic Words: [['guarantee', 'karma', 'ah', 'solely', 'huh', 'wan', 'anki', 'partner', 'potential', 'reinstall', 'slave', 'na', 'passion', 'buddy', 'wd', 'lt', 'anyways', 'cylinder', 'underestimate', 'icon']]
+Coh_type:c_v  Topic Num:10 COH score:0.7220762378440282
+top_n: 10 Topic Num: 11 
+Topic Words: [['form', 'group', 'accurate', 'circuit', 'special', 'water', 'perspective', 'order', 'regard', 'bfhttheoryautotldrconcept']]
+Coh_type:c_v  Topic Num:11 COH score:0.3586096980754974
+top_n: 20 Topic Num: 11 
+Topic Words: [['form', 'group', 'accurate', 'circuit', 'special', 'water', 'perspective', 'order', 'regard', 'bfhttheoryautotldrconcept', 'aspect', 'permanent', 'reflect', 'ability', 'resistance', 'fps', 'strike', 'color', 'console', 'additionally']]
+Coh_type:c_v  Topic Num:11 COH score:0.5991033735202204
+top_n: 10 Topic Num: 12 
+Topic Words: [['form', 'accurate', 'water', 'special', 'group', 'circuit', 'perspective', 'reflect', 'aspect', 'permanent']]
+Coh_type:c_v  Topic Num:12 COH score:0.39900822963354854
+top_n: 20 Topic Num: 12 
+Topic Words: [['form', 'accurate', 'water', 'special', 'group', 'circuit', 'perspective', 'reflect', 'aspect', 'permanent', 'console', 'additionally', 'dot', 'color', 'regard', 'considerably', 'match', 'uh', 'operation', 'ability']]
+Coh_type:c_v  Topic Num:12 COH score:0.6731950580240466
+top_n: 10 Topic Num: 13 
+Topic Words: [['ah', 'guarantee', 'solely', 'anki', 'huh', 'karma', 'wan', 'lt', 'slave', 'leader']]
+Coh_type:c_v  Topic Num:13 COH score:0.6328192574062568
+top_n: 20 Topic Num: 13 
+Topic Words: [['ah', 'guarantee', 'solely', 'anki', 'huh', 'karma', 'wan', 'lt', 'slave', 'leader', 'na', 'buddy', 'reinstall', 'potential', 'passion', 'immediate', 'partner', 'tax', 'anyways', 'underestimate']]
+Coh_type:c_v  Topic Num:13 COH score:0.6472496216655527
+top_n: 10 Topic Num: 14 
+Topic Words: [['ah', 'solely', 'guarantee', 'anki', 'lt', 'huh', 'leader', 'wan', 'karma', 'slave']]
+Coh_type:c_v  Topic Num:14 COH score:0.6328192574062566
+top_n: 20 Topic Num: 14 
+Topic Words: [['ah', 'solely', 'guarantee', 'anki', 'lt', 'huh', 'leader', 'wan', 'karma', 'slave', 'na', 'buddy', 'reinstall', 'tax', 'immediate', 'passion', 'potential', 'underestimate', 'mirror', 'partner']]
+Coh_type:c_v  Topic Num:14 COH score:0.6768459915247094
+top_n: 10 Topic Num: 15 
+Topic Words: [['form', 'accurate', 'water', 'special', 'group', 'circuit', 'perspective', 'reflect', 'aspect', 'additionally']]
+Coh_type:c_v  Topic Num:15 COH score:0.3784438428976913
+top_n: 20 Topic Num: 15 
+Topic Words: [['form', 'accurate', 'water', 'special', 'group', 'circuit', 'perspective', 'reflect', 'aspect', 'additionally', 'console', 'permanent', 'dot', 'color', 'match', 'regard', 'considerably', 'uh', 'operation', 'ability']]
+Coh_type:c_v  Topic Num:15 COH score:0.6731950580240467
+top_n: 10 Topic Num: 16 
+Topic Words: [['guarantee', 'karma', 'ah', 'solely', 'huh', 'wan', 'anki', 'partner', 'potential', 'reinstall']]
+Coh_type:c_v  Topic Num:16 COH score:0.5581853926324127
+top_n: 20 Topic Num: 16 
+Topic Words: [['guarantee', 'karma', 'ah', 'solely', 'huh', 'wan', 'anki', 'partner', 'potential', 'reinstall', 'slave', 'na', 'passion', 'buddy', 'wd', 'lt', 'anyways', 'cylinder', 'underestimate', 'icon']]
+Coh_type:c_v  Topic Num:16 COH score:0.7220762378440282
+top_n: 10 Topic Num: 17 
+Topic Words: [['karma', 'guarantee', 'ah', 'solely', 'partner', 'huh', 'reinstall', 'potential', 'wan', 'anki']]
+Coh_type:c_v  Topic Num:17 COH score:0.5581853926324127
+top_n: 20 Topic Num: 17 
+Topic Words: [['karma', 'guarantee', 'ah', 'solely', 'partner', 'huh', 'reinstall', 'potential', 'wan', 'anki', 'passion', 'slave', 'buddy', 'wd', 'na', 'lt', 'conclusion', 'icon', 'anyways', 'cylinder']]
+Coh_type:c_v  Topic Num:17 COH score:0.7132309667668834
+top_n: 10 Topic Num: 18 
+Topic Words: [['reflect', 'accurate', 'special', 'water', 'circuit', 'console', 'additionally', 'match', 'form', 'aspect']]
+Coh_type:c_v  Topic Num:18 COH score:0.548066354542468
+top_n: 20 Topic Num: 18 
+Topic Words: [['reflect', 'accurate', 'special', 'water', 'circuit', 'console', 'additionally', 'match', 'form', 'aspect', 'operation', 'group', 'perspective', 'considerably', 'steel', 'color', 'permanent', 'whatsoever', 'regard', 'dominate']]
+Coh_type:c_v  Topic Num:18 COH score:0.6473688345190302
+top_n: 10 Topic Num: 19 
+Topic Words: [['ah', 'lt', 'guarantee', 'solely', 'leader', 'huh', 'tax', 'anki', 'slave', 'karma']]
+Coh_type:c_v  Topic Num:19 COH score:0.5857118338301438
+top_n: 20 Topic Num: 19 
+Topic Words: [['ah', 'lt', 'guarantee', 'solely', 'leader', 'huh', 'tax', 'anki', 'slave', 'karma', 'wan', 'buddy', 'reinstall', 'na', 'immediate', 'mirror', 'passion', 'potential', 'dead', 'underestimate']]
+Coh_type:c_v  Topic Num:19 COH score:0.7063853765288366
+top_n: 10 Topic Num: 20 
+Topic Words: [['accurate', 'special', 'reflect', 'console', 'considerably', 'match', 'steel', 'form', 'circuit', 'additionally']]
+Coh_type:c_v  Topic Num:20 COH score:0.5965788500176997
+top_n: 20 Topic Num: 20 
+Topic Words: [['accurate', 'special', 'reflect', 'console', 'considerably', 'match', 'steel', 'form', 'circuit', 'additionally', 'writing', 'unable', 'aspect', 'dominate', 'perspective', 'reproduce', 'federal', 'color', 'ammo', 'whatsoever']]
+Coh_type:c_v  Topic Num:20 COH score:0.7144313828519886
+top_n: 10 Topic Num: 21 
+Topic Words: [['form', 'accurate', 'group', 'water', 'special', 'circuit', 'perspective', 'aspect', 'reflect', 'permanent']]
+Coh_type:c_v  Topic Num:21 COH score:0.3990082296335487
+top_n: 20 Topic Num: 21 
+Topic Words: [['form', 'accurate', 'group', 'water', 'special', 'circuit', 'perspective', 'aspect', 'reflect', 'permanent', 'regard', 'bfhttheoryautotldrconcept', 'console', 'order', 'ability', 'additionally', 'color', 'dot', 'fps', 'match']]
+Coh_type:c_v  Topic Num:21 COH score:0.6352902768800398
+top_n: 10 Topic Num: 22 
+Topic Words: [['form', 'accurate', 'group', 'circuit', 'water', 'special', 'perspective', 'aspect', 'order', 'reflect']]
+Coh_type:c_v  Topic Num:22 COH score:0.34428826663747253
+top_n: 20 Topic Num: 22 
+Topic Words: [['form', 'accurate', 'group', 'circuit', 'water', 'special', 'perspective', 'aspect', 'order', 'reflect', 'regard', 'bfhttheoryautotldrconcept', 'permanent', 'ability', 'resistance', 'fps', 'color', 'console', 'strike', 'additionally']]
+Coh_type:c_v  Topic Num:22 COH score:0.5991033735202203
+top_n: 10 Topic Num: 23 
+Topic Words: [['karma', 'guarantee', 'ah', 'solely', 'partner', 'reinstall', 'huh', 'potential', 'wan', 'anki']]
+Coh_type:c_v  Topic Num:23 COH score:0.5581853926324127
+top_n: 20 Topic Num: 23 
+Topic Words: [['karma', 'guarantee', 'ah', 'solely', 'partner', 'reinstall', 'huh', 'potential', 'wan', 'anki', 'passion', 'buddy', 'slave', 'wd', 'na', 'lt', 'conclusion', 'icon', 'username', 'anyways']]
+Coh_type:c_v  Topic Num:23 COH score:0.6819345952660234
+top_n: 10 Topic Num: 24 
+Topic Words: [['form', 'accurate', 'group', 'water', 'circuit', 'special', 'perspective', 'aspect', 'reflect', 'permanent']]
+Coh_type:c_v  Topic Num:24 COH score:0.3990082296335487
+top_n: 20 Topic Num: 24 
+Topic Words: [['form', 'accurate', 'group', 'water', 'circuit', 'special', 'perspective', 'aspect', 'reflect', 'permanent', 'order', 'regard', 'bfhttheoryautotldrconcept', 'ability', 'console', 'fps', 'color', 'resistance', 'additionally', 'dot']]
+Coh_type:c_v  Topic Num:24 COH score:0.6177908466082063
+top_n: 10 Topic Num: 25 
+Topic Words: [['form', 'accurate', 'water', 'special', 'group', 'circuit', 'perspective', 'reflect', 'aspect', 'permanent']]
+Coh_type:c_v  Topic Num:25 COH score:0.39900822963354854
+top_n: 20 Topic Num: 25 
+Topic Words: [['form', 'accurate', 'water', 'special', 'group', 'circuit', 'perspective', 'reflect', 'aspect', 'permanent', 'console', 'additionally', 'dot', 'regard', 'color', 'considerably', 'match', 'bfhttheoryautotldrconcept', 'ability', 'uh']]
+Coh_type:c_v  Topic Num:25 COH score:0.6620036271790507
+top_n: 10 Topic Num: 26 
+Topic Words: [['reflect', 'accurate', 'special', 'water', 'circuit', 'console', 'additionally', 'match', 'form', 'operation']]
+Coh_type:c_v  Topic Num:26 COH score:0.5479790975789812
+top_n: 20 Topic Num: 26 
+Topic Words: [['reflect', 'accurate', 'special', 'water', 'circuit', 'console', 'additionally', 'match', 'form', 'operation', 'aspect', 'group', 'perspective', 'considerably', 'steel', 'color', 'whatsoever', 'permanent', 'dominate', 'regard']]
+Coh_type:c_v  Topic Num:26 COH score:0.6473688345190303
+top_n: 10 Topic Num: 27 
+Topic Words: [['reflect', 'special', 'accurate', 'console', 'form', 'circuit', 'considerably', 'match', 'additionally', 'water']]
+Coh_type:c_v  Topic Num:27 COH score:0.5777789990776524
+top_n: 20 Topic Num: 27 
+Topic Words: [['reflect', 'special', 'accurate', 'console', 'form', 'circuit', 'considerably', 'match', 'additionally', 'water', 'steel', 'aspect', 'writing', 'operation', 'unable', 'dominate', 'perspective', 'color', 'reproduce', 'whatsoever']]
+Coh_type:c_v  Topic Num:27 COH score:0.6987951058738593
+top_n: 10 Topic Num: 28 
+Topic Words: [['guarantee', 'karma', 'ah', 'solely', 'huh', 'wan', 'anki', 'partner', 'potential', 'reinstall']]
+Coh_type:c_v  Topic Num:28 COH score:0.5581853926324127
+top_n: 20 Topic Num: 28 
+Topic Words: [['guarantee', 'karma', 'ah', 'solely', 'huh', 'wan', 'anki', 'partner', 'potential', 'reinstall', 'slave', 'na', 'passion', 'buddy', 'wd', 'lt', 'anyways', 'cylinder', 'underestimate', 'icon']]
+Coh_type:c_v  Topic Num:28 COH score:0.7220762378440282
+top_n: 10 Topic Num: 29 
+Topic Words: [['accurate', 'reflect', 'special', 'water', 'circuit', 'aspect', 'perspective', 'group', 'additionally', 'console']]
+Coh_type:c_v  Topic Num:29 COH score:0.5062778231169965
+top_n: 20 Topic Num: 29 
+Topic Words: [['accurate', 'reflect', 'special', 'water', 'circuit', 'aspect', 'perspective', 'group', 'additionally', 'console', 'form', 'match', 'operation', 'color', 'permanent', 'uh', 'steel', 'whatsoever', 'regard', 'considerably']]
+Coh_type:c_v  Topic Num:29 COH score:0.664736032066311
+top_n: 10 Topic Num: 30 
+Topic Words: [['form', 'group', 'accurate', 'circuit', 'water', 'special', 'perspective', 'order', 'regard', 'aspect']]
+Coh_type:c_v  Topic Num:30 COH score:0.3859641479573783
+top_n: 20 Topic Num: 30 
+Topic Words: [['form', 'group', 'accurate', 'circuit', 'water', 'special', 'perspective', 'order', 'regard', 'aspect', 'bfhttheoryautotldrconcept', 'reflect', 'permanent', 'ability', 'resistance', 'fps', 'color', 'strike', 'console', 'additionally']]
+Coh_type:c_v  Topic Num:30 COH score:0.5991033735202204
+top_n: 10 Topic Num: 31 
+Topic Words: [['karma', 'guarantee', 'ah', 'solely', 'partner', 'reinstall', 'huh', 'potential', 'wan', 'anki']]
+Coh_type:c_v  Topic Num:31 COH score:0.5581853926324127
+top_n: 20 Topic Num: 31 
+Topic Words: [['karma', 'guarantee', 'ah', 'solely', 'partner', 'reinstall', 'huh', 'potential', 'wan', 'anki', 'passion', 'buddy', 'username', 'slave', 'wd', 'na', 'lt', 'conclusion', 'icon', 'anyways']]
+Coh_type:c_v  Topic Num:31 COH score:0.6819345952660235
+top_n: 10 Topic Num: 32 
+Topic Words: [['accurate', 'reflect', 'special', 'water', 'circuit', 'aspect', 'perspective', 'group', 'additionally', 'console']]
+Coh_type:c_v  Topic Num:32 COH score:0.5062778231169965
+top_n: 20 Topic Num: 32 
+Topic Words: [['accurate', 'reflect', 'special', 'water', 'circuit', 'aspect', 'perspective', 'group', 'additionally', 'console', 'form', 'match', 'operation', 'color', 'permanent', 'uh', 'steel', 'whatsoever', 'regard', 'considerably']]
+Coh_type:c_v  Topic Num:32 COH score:0.664736032066311
+top_n: 10 Topic Num: 33 
+Topic Words: [['accurate', 'special', 'reflect', 'water', 'circuit', 'aspect', 'group', 'perspective', 'form', 'additionally']]
+Coh_type:c_v  Topic Num:33 COH score:0.3784438428976913
+top_n: 20 Topic Num: 33 
+Topic Words: [['accurate', 'special', 'reflect', 'water', 'circuit', 'aspect', 'group', 'perspective', 'form', 'additionally', 'console', 'match', 'operation', 'permanent', 'uh', 'color', 'regard', 'steel', 'whatsoever', 'reproduce']]
+Coh_type:c_v  Topic Num:33 COH score:0.665863655180728
+top_n: 10 Topic Num: 34 
+Topic Words: [['guarantee', 'karma', 'ah', 'solely', 'partner', 'huh', 'wan', 'anki', 'potential', 'reinstall']]
+Coh_type:c_v  Topic Num:34 COH score:0.5581853926324127
+top_n: 20 Topic Num: 34 
+Topic Words: [['guarantee', 'karma', 'ah', 'solely', 'partner', 'huh', 'wan', 'anki', 'potential', 'reinstall', 'slave', 'passion', 'buddy', 'na', 'wd', 'lt', 'anyways', 'icon', 'cylinder', 'conclusion']]
+Coh_type:c_v  Topic Num:34 COH score:0.7132309667668835
+top_n: 10 Topic Num: 35 
+Topic Words: [['ah', 'guarantee', 'solely', 'anki', 'huh', 'karma', 'lt', 'wan', 'slave', 'leader']]
+Coh_type:c_v  Topic Num:35 COH score:0.6328192574062567
+top_n: 20 Topic Num: 35 
+Topic Words: [['ah', 'guarantee', 'solely', 'anki', 'huh', 'karma', 'lt', 'wan', 'slave', 'leader', 'na', 'buddy', 'reinstall', 'potential', 'passion', 'immediate', 'tax', 'partner', 'anyways', 'underestimate']]
+Coh_type:c_v  Topic Num:35 COH score:0.6472496216655528
+top_n: 10 Topic Num: 36 
+Topic Words: [['form', 'accurate', 'water', 'group', 'special', 'circuit', 'perspective', 'aspect', 'reflect', 'permanent']]
+Coh_type:c_v  Topic Num:36 COH score:0.3990082296335486
+top_n: 20 Topic Num: 36 
+Topic Words: [['form', 'accurate', 'water', 'group', 'special', 'circuit', 'perspective', 'aspect', 'reflect', 'permanent', 'console', 'additionally', 'regard', 'dot', 'color', 'bfhttheoryautotldrconcept', 'ability', 'considerably', 'match', 'uh']]
+Coh_type:c_v  Topic Num:36 COH score:0.6620036271790507
+top_n: 10 Topic Num: 37 
+Topic Words: [['reflect', 'accurate', 'special', 'water', 'circuit', 'console', 'additionally', 'form', 'match', 'operation']]
+Coh_type:c_v  Topic Num:37 COH score:0.5479790975789813
+top_n: 20 Topic Num: 37 
+Topic Words: [['reflect', 'accurate', 'special', 'water', 'circuit', 'console', 'additionally', 'form', 'match', 'operation', 'considerably', 'aspect', 'steel', 'perspective', 'group', 'color', 'writing', 'dominate', 'whatsoever', 'reproduce']]
+Coh_type:c_v  Topic Num:37 COH score:0.674890820236695
+top_n: 10 Topic Num: 38 
+Topic Words: [['reflect', 'special', 'accurate', 'console', 'circuit', 'form', 'match', 'additionally', 'water', 'considerably']]
+Coh_type:c_v  Topic Num:38 COH score:0.5777789990776523
+top_n: 20 Topic Num: 38 
+Topic Words: [['reflect', 'special', 'accurate', 'console', 'circuit', 'form', 'match', 'additionally', 'water', 'considerably', 'steel', 'operation', 'aspect', 'writing', 'perspective', 'dominate', 'color', 'unable', 'reproduce', 'whatsoever']]
+Coh_type:c_v  Topic Num:38 COH score:0.6987951058738593
+top_n: 10 Topic Num: 39 
+Topic Words: [['form', 'accurate', 'water', 'group', 'special', 'circuit', 'perspective', 'aspect', 'reflect', 'permanent']]
+Coh_type:c_v  Topic Num:39 COH score:0.3990082296335486
+top_n: 20 Topic Num: 39 
+Topic Words: [['form', 'accurate', 'water', 'group', 'special', 'circuit', 'perspective', 'aspect', 'reflect', 'permanent', 'console', 'regard', 'additionally', 'bfhttheoryautotldrconcept', 'color', 'dot', 'ability', 'order', 'considerably', 'match']]
+Coh_type:c_v  Topic Num:39 COH score:0.636005795271265
+top scores for top_10:[0.6337126769276555, 10, [['ah', 'solely', 'guarantee', 'lt', 'anki', 'leader', 'huh', 'tax', 'slave', 'wan']]]
+-------------------------------------------------------------------
+top scores for top_20:[0.7220762378440282, 20, [['guarantee', 'karma', 'ah', 'solely', 'huh', 'wan', 'anki', 'partner', 'potential', 'reinstall', 'slave', 'na', 'passion', 'buddy', 'wd', 'lt', 'anyways', 'cylinder', 'underestimate', 'icon']]]
+-------------------------------------------------------------------
+Avg COH for top_10 topic words: 0.5001323644695518
+-------------------------------------------------------------------
+Avg COH for top_20 topic words: 0.6678692082490422
+-------------------------------------------------------------------

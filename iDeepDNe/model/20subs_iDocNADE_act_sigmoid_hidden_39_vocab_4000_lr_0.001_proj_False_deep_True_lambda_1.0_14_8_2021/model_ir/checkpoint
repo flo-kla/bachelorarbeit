@@ -1,0 +1,3 @@
+model_checkpoint_path: "model_ir-1"
+all_model_checkpoint_paths: "../model_ppl/model_ppl-1"
+all_model_checkpoint_paths: "model_ir-1"

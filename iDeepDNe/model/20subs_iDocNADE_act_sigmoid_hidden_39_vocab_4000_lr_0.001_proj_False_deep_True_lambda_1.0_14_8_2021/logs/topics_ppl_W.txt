@@ -1,0 +1,195 @@
+h_num: 0
+w_h_top_words_indx: [  93 3312 1583 2101  152 2005 1716 3536 3279 3864 1949  457 2940 2347
+ 1758 2557 2264 2689  884 3737]
+w_h_top_words:['ah', 'solely', 'guarantee', 'lt', 'anki', 'leader', 'huh', 'tax', 'slave', 'wan', 'karma', 'buddy', 'reinstall', 'na', 'immediate', 'passion', 'mirror', 'potential', 'dead', 'underestimate']
+----------------------------------------------------------------------
+h_num: 1
+w_h_top_words_indx: [2921   33 3344 3880  737  590 1396   55 2172 2480  733 3406  217 2600
+ 3963  652 1041 1558 3907 2982]
+w_h_top_words:['reflect', 'accurate', 'special', 'water', 'console', 'circuit', 'form', 'additionally', 'match', 'operation', 'considerably', 'steel', 'aspect', 'perspective', 'writing', 'color', 'dominate', 'group', 'whatsoever', 'reproduce']
+----------------------------------------------------------------------
+h_num: 2
+w_h_top_words_indx: [1396   33 1558 3880  590 3344 2600  217 2921 2594 2929  358 2494    4
+  737 1408  652   55 2996 1048]
+w_h_top_words:['form', 'accurate', 'group', 'water', 'circuit', 'special', 'perspective', 'aspect', 'reflect', 'permanent', 'regard', 'bfhttheoryautotldrconcept', 'order', 'ability', 'console', 'fps', 'color', 'additionally', 'resistance', 'dot']
+----------------------------------------------------------------------
+h_num: 3
+w_h_top_words_indx: [1583   93 1949 3312 1716  152 3864 2553 2689 3279 2940 2347  457 2557
+ 3884 2101  165  861 3737 1758]
+w_h_top_words:['guarantee', 'ah', 'karma', 'solely', 'huh', 'anki', 'wan', 'partner', 'potential', 'slave', 'reinstall', 'na', 'buddy', 'passion', 'wd', 'lt', 'anyways', 'cylinder', 'underestimate', 'immediate']
+----------------------------------------------------------------------
+h_num: 4
+w_h_top_words_indx: [1949 1583 2553 3312   93 2940 3787 2689 1716 3864  152 2557  457 2101
+  705 3884 1729 3279 1758 2347]
+w_h_top_words:['karma', 'guarantee', 'partner', 'solely', 'ah', 'reinstall', 'username', 'potential', 'huh', 'wan', 'anki', 'passion', 'buddy', 'lt', 'conclusion', 'wd', 'icon', 'slave', 'immediate', 'na']
+----------------------------------------------------------------------
+h_num: 5
+w_h_top_words_indx: [1396 1558   33  590 3880 3344 2600 2494 2929  217  358 2921 2594    4
+ 2996 1408  652 3431  737   55]
+w_h_top_words:['form', 'group', 'accurate', 'circuit', 'water', 'special', 'perspective', 'order', 'regard', 'aspect', 'bfhttheoryautotldrconcept', 'reflect', 'permanent', 'ability', 'resistance', 'fps', 'color', 'strike', 'console', 'additionally']
+----------------------------------------------------------------------
+h_num: 6
+w_h_top_words_indx: [1949 1583   93 3312 2553 2940 1716 2689 3864  152 2557  457 3279 3884
+ 2347 3787 2101  705 1729  165]
+w_h_top_words:['karma', 'guarantee', 'ah', 'solely', 'partner', 'reinstall', 'huh', 'potential', 'wan', 'anki', 'passion', 'buddy', 'slave', 'wd', 'na', 'username', 'lt', 'conclusion', 'icon', 'anyways']
+----------------------------------------------------------------------
+h_num: 7
+w_h_top_words_indx: [  33 2921 3344 3880  590  217 1558 2600 1396   55  737 2172 2480  652
+ 3724 2594 3406 2929 3907 2982]
+w_h_top_words:['accurate', 'reflect', 'special', 'water', 'circuit', 'aspect', 'group', 'perspective', 'form', 'additionally', 'console', 'match', 'operation', 'color', 'uh', 'permanent', 'steel', 'regard', 'whatsoever', 'reproduce']
+----------------------------------------------------------------------
+h_num: 8
+w_h_top_words_indx: [1949 1583 2553 3312   93 2940 2689 3787 1716 3864  152 2557  457 2101
+  705 3884 1729 3279 1758 2347]
+w_h_top_words:['karma', 'guarantee', 'partner', 'solely', 'ah', 'reinstall', 'potential', 'username', 'huh', 'wan', 'anki', 'passion', 'buddy', 'lt', 'conclusion', 'wd', 'icon', 'slave', 'immediate', 'na']
+----------------------------------------------------------------------
+h_num: 9
+w_h_top_words_indx: [1583 1949   93 3312 1716 3864  152 2553 2689 2940 3279 2347 2557  457
+ 3884 2101  165  861 3737 1729]
+w_h_top_words:['guarantee', 'karma', 'ah', 'solely', 'huh', 'wan', 'anki', 'partner', 'potential', 'reinstall', 'slave', 'na', 'passion', 'buddy', 'wd', 'lt', 'anyways', 'cylinder', 'underestimate', 'icon']
+----------------------------------------------------------------------
+h_num: 10
+w_h_top_words_indx: [1396 1558   33  590 3344 3880 2600 2494 2929  358  217 2594 2921    4
+ 2996 1408 3431  652  737   55]
+w_h_top_words:['form', 'group', 'accurate', 'circuit', 'special', 'water', 'perspective', 'order', 'regard', 'bfhttheoryautotldrconcept', 'aspect', 'permanent', 'reflect', 'ability', 'resistance', 'fps', 'strike', 'color', 'console', 'additionally']
+----------------------------------------------------------------------
+h_num: 11
+w_h_top_words_indx: [1396   33 3880 3344 1558  590 2600 2921  217 2594  737   55 1048  652
+ 2929  733 2172 3724 2480    4]
+w_h_top_words:['form', 'accurate', 'water', 'special', 'group', 'circuit', 'perspective', 'reflect', 'aspect', 'permanent', 'console', 'additionally', 'dot', 'color', 'regard', 'considerably', 'match', 'uh', 'operation', 'ability']
+----------------------------------------------------------------------
+h_num: 12
+w_h_top_words_indx: [  93 1583 3312  152 1716 1949 3864 2101 3279 2005 2347  457 2940 2689
+ 2557 1758 2553 3536  165 3737]
+w_h_top_words:['ah', 'guarantee', 'solely', 'anki', 'huh', 'karma', 'wan', 'lt', 'slave', 'leader', 'na', 'buddy', 'reinstall', 'potential', 'passion', 'immediate', 'partner', 'tax', 'anyways', 'underestimate']
+----------------------------------------------------------------------
+h_num: 13
+w_h_top_words_indx: [  93 3312 1583  152 2101 1716 2005 3864 1949 3279 2347  457 2940 3536
+ 1758 2557 2689 3737 2264 2553]
+w_h_top_words:['ah', 'solely', 'guarantee', 'anki', 'lt', 'huh', 'leader', 'wan', 'karma', 'slave', 'na', 'buddy', 'reinstall', 'tax', 'immediate', 'passion', 'potential', 'underestimate', 'mirror', 'partner']
+----------------------------------------------------------------------
+h_num: 14
+w_h_top_words_indx: [1396   33 3880 3344 1558  590 2600 2921  217   55  737 2594 1048  652
+ 2172 2929  733 3724 2480    4]
+w_h_top_words:['form', 'accurate', 'water', 'special', 'group', 'circuit', 'perspective', 'reflect', 'aspect', 'additionally', 'console', 'permanent', 'dot', 'color', 'match', 'regard', 'considerably', 'uh', 'operation', 'ability']
+----------------------------------------------------------------------
+h_num: 15
+w_h_top_words_indx: [1583 1949   93 3312 1716 3864  152 2553 2689 2940 3279 2347 2557  457
+ 3884 2101  165  861 3737 1729]
+w_h_top_words:['guarantee', 'karma', 'ah', 'solely', 'huh', 'wan', 'anki', 'partner', 'potential', 'reinstall', 'slave', 'na', 'passion', 'buddy', 'wd', 'lt', 'anyways', 'cylinder', 'underestimate', 'icon']
+----------------------------------------------------------------------
+h_num: 16
+w_h_top_words_indx: [1949 1583   93 3312 2553 1716 2940 2689 3864  152 2557 3279  457 3884
+ 2347 2101  705 1729  165  861]
+w_h_top_words:['karma', 'guarantee', 'ah', 'solely', 'partner', 'huh', 'reinstall', 'potential', 'wan', 'anki', 'passion', 'slave', 'buddy', 'wd', 'na', 'lt', 'conclusion', 'icon', 'anyways', 'cylinder']
+----------------------------------------------------------------------
+h_num: 17
+w_h_top_words_indx: [2921   33 3344 3880  590  737   55 2172 1396  217 2480 1558 2600  733
+ 3406  652 2594 3907 2929 1041]
+w_h_top_words:['reflect', 'accurate', 'special', 'water', 'circuit', 'console', 'additionally', 'match', 'form', 'aspect', 'operation', 'group', 'perspective', 'considerably', 'steel', 'color', 'permanent', 'whatsoever', 'regard', 'dominate']
+----------------------------------------------------------------------
+h_num: 18
+w_h_top_words_indx: [  93 2101 1583 3312 2005 1716 3536  152 3279 1949 3864  457 2940 2347
+ 1758 2264 2557 2689  884 3737]
+w_h_top_words:['ah', 'lt', 'guarantee', 'solely', 'leader', 'huh', 'tax', 'anki', 'slave', 'karma', 'wan', 'buddy', 'reinstall', 'na', 'immediate', 'mirror', 'passion', 'potential', 'dead', 'underestimate']
+----------------------------------------------------------------------
+h_num: 19
+w_h_top_words_indx: [  33 3344 2921  737  733 2172 3406 1396  590   55 3963 3735  217 1041
+ 2600 2982 1313  652  130 3907]
+w_h_top_words:['accurate', 'special', 'reflect', 'console', 'considerably', 'match', 'steel', 'form', 'circuit', 'additionally', 'writing', 'unable', 'aspect', 'dominate', 'perspective', 'reproduce', 'federal', 'color', 'ammo', 'whatsoever']
+----------------------------------------------------------------------
+h_num: 20
+w_h_top_words_indx: [1396   33 1558 3880 3344  590 2600  217 2921 2594 2929  358  737 2494
+    4   55  652 1048 1408 2172]
+w_h_top_words:['form', 'accurate', 'group', 'water', 'special', 'circuit', 'perspective', 'aspect', 'reflect', 'permanent', 'regard', 'bfhttheoryautotldrconcept', 'console', 'order', 'ability', 'additionally', 'color', 'dot', 'fps', 'match']
+----------------------------------------------------------------------
+h_num: 21
+w_h_top_words_indx: [1396   33 1558  590 3880 3344 2600  217 2494 2921 2929  358 2594    4
+ 2996 1408  652  737 3431   55]
+w_h_top_words:['form', 'accurate', 'group', 'circuit', 'water', 'special', 'perspective', 'aspect', 'order', 'reflect', 'regard', 'bfhttheoryautotldrconcept', 'permanent', 'ability', 'resistance', 'fps', 'color', 'console', 'strike', 'additionally']
+----------------------------------------------------------------------
+h_num: 22
+w_h_top_words_indx: [1949 1583   93 3312 2553 2940 1716 2689 3864  152 2557  457 3279 3884
+ 2347 2101  705 1729 3787  165]
+w_h_top_words:['karma', 'guarantee', 'ah', 'solely', 'partner', 'reinstall', 'huh', 'potential', 'wan', 'anki', 'passion', 'buddy', 'slave', 'wd', 'na', 'lt', 'conclusion', 'icon', 'username', 'anyways']
+----------------------------------------------------------------------
+h_num: 23
+w_h_top_words_indx: [1396   33 1558 3880  590 3344 2600  217 2921 2594 2494 2929  358    4
+  737 1408  652 2996   55 1048]
+w_h_top_words:['form', 'accurate', 'group', 'water', 'circuit', 'special', 'perspective', 'aspect', 'reflect', 'permanent', 'order', 'regard', 'bfhttheoryautotldrconcept', 'ability', 'console', 'fps', 'color', 'resistance', 'additionally', 'dot']
+----------------------------------------------------------------------
+h_num: 24
+w_h_top_words_indx: [1396   33 3880 3344 1558  590 2600 2921  217 2594  737   55 1048 2929
+  652  733 2172  358    4 3724]
+w_h_top_words:['form', 'accurate', 'water', 'special', 'group', 'circuit', 'perspective', 'reflect', 'aspect', 'permanent', 'console', 'additionally', 'dot', 'regard', 'color', 'considerably', 'match', 'bfhttheoryautotldrconcept', 'ability', 'uh']
+----------------------------------------------------------------------
+h_num: 25
+w_h_top_words_indx: [2921   33 3344 3880  590  737   55 2172 1396 2480  217 1558 2600  733
+ 3406  652 3907 2594 1041 2929]
+w_h_top_words:['reflect', 'accurate', 'special', 'water', 'circuit', 'console', 'additionally', 'match', 'form', 'operation', 'aspect', 'group', 'perspective', 'considerably', 'steel', 'color', 'whatsoever', 'permanent', 'dominate', 'regard']
+----------------------------------------------------------------------
+h_num: 26
+w_h_top_words_indx: [2921 3344   33  737 1396  590  733 2172   55 3880 3406  217 3963 2480
+ 3735 1041 2600  652 2982 3907]
+w_h_top_words:['reflect', 'special', 'accurate', 'console', 'form', 'circuit', 'considerably', 'match', 'additionally', 'water', 'steel', 'aspect', 'writing', 'operation', 'unable', 'dominate', 'perspective', 'color', 'reproduce', 'whatsoever']
+----------------------------------------------------------------------
+h_num: 27
+w_h_top_words_indx: [1583 1949   93 3312 1716 3864  152 2553 2689 2940 3279 2347 2557  457
+ 3884 2101  165  861 3737 1729]
+w_h_top_words:['guarantee', 'karma', 'ah', 'solely', 'huh', 'wan', 'anki', 'partner', 'potential', 'reinstall', 'slave', 'na', 'passion', 'buddy', 'wd', 'lt', 'anyways', 'cylinder', 'underestimate', 'icon']
+----------------------------------------------------------------------
+h_num: 28
+w_h_top_words_indx: [  33 2921 3344 3880  590  217 2600 1558   55  737 1396 2172 2480  652
+ 2594 3724 3406 3907 2929  733]
+w_h_top_words:['accurate', 'reflect', 'special', 'water', 'circuit', 'aspect', 'perspective', 'group', 'additionally', 'console', 'form', 'match', 'operation', 'color', 'permanent', 'uh', 'steel', 'whatsoever', 'regard', 'considerably']
+----------------------------------------------------------------------
+h_num: 29
+w_h_top_words_indx: [1396 1558   33  590 3880 3344 2600 2494 2929  217  358 2921 2594    4
+ 2996 1408  652 3431  737   55]
+w_h_top_words:['form', 'group', 'accurate', 'circuit', 'water', 'special', 'perspective', 'order', 'regard', 'aspect', 'bfhttheoryautotldrconcept', 'reflect', 'permanent', 'ability', 'resistance', 'fps', 'color', 'strike', 'console', 'additionally']
+----------------------------------------------------------------------
+h_num: 30
+w_h_top_words_indx: [1949 1583   93 3312 2553 2940 1716 2689 3864  152 2557  457 3787 3279
+ 3884 2347 2101  705 1729  165]
+w_h_top_words:['karma', 'guarantee', 'ah', 'solely', 'partner', 'reinstall', 'huh', 'potential', 'wan', 'anki', 'passion', 'buddy', 'username', 'slave', 'wd', 'na', 'lt', 'conclusion', 'icon', 'anyways']
+----------------------------------------------------------------------
+h_num: 31
+w_h_top_words_indx: [  33 2921 3344 3880  590  217 2600 1558   55  737 1396 2172 2480  652
+ 2594 3724 3406 3907 2929  733]
+w_h_top_words:['accurate', 'reflect', 'special', 'water', 'circuit', 'aspect', 'perspective', 'group', 'additionally', 'console', 'form', 'match', 'operation', 'color', 'permanent', 'uh', 'steel', 'whatsoever', 'regard', 'considerably']
+----------------------------------------------------------------------
+h_num: 32
+w_h_top_words_indx: [  33 3344 2921 3880  590  217 1558 2600 1396   55  737 2172 2480 2594
+ 3724  652 2929 3406 3907 2982]
+w_h_top_words:['accurate', 'special', 'reflect', 'water', 'circuit', 'aspect', 'group', 'perspective', 'form', 'additionally', 'console', 'match', 'operation', 'permanent', 'uh', 'color', 'regard', 'steel', 'whatsoever', 'reproduce']
+----------------------------------------------------------------------
+h_num: 33
+w_h_top_words_indx: [1583 1949   93 3312 2553 1716 3864  152 2689 2940 3279 2557  457 2347
+ 3884 2101  165 1729  861  705]
+w_h_top_words:['guarantee', 'karma', 'ah', 'solely', 'partner', 'huh', 'wan', 'anki', 'potential', 'reinstall', 'slave', 'passion', 'buddy', 'na', 'wd', 'lt', 'anyways', 'icon', 'cylinder', 'conclusion']
+----------------------------------------------------------------------
+h_num: 34
+w_h_top_words_indx: [  93 1583 3312  152 1716 1949 2101 3864 3279 2005 2347  457 2940 2689
+ 2557 1758 3536 2553  165 3737]
+w_h_top_words:['ah', 'guarantee', 'solely', 'anki', 'huh', 'karma', 'lt', 'wan', 'slave', 'leader', 'na', 'buddy', 'reinstall', 'potential', 'passion', 'immediate', 'tax', 'partner', 'anyways', 'underestimate']
+----------------------------------------------------------------------
+h_num: 35
+w_h_top_words_indx: [1396   33 3880 1558 3344  590 2600  217 2921 2594  737   55 2929 1048
+  652  358    4  733 2172 3724]
+w_h_top_words:['form', 'accurate', 'water', 'group', 'special', 'circuit', 'perspective', 'aspect', 'reflect', 'permanent', 'console', 'additionally', 'regard', 'dot', 'color', 'bfhttheoryautotldrconcept', 'ability', 'considerably', 'match', 'uh']
+----------------------------------------------------------------------
+h_num: 36
+w_h_top_words_indx: [2921   33 3344 3880  590  737   55 1396 2172 2480  733  217 3406 2600
+ 1558  652 3963 1041 3907 2982]
+w_h_top_words:['reflect', 'accurate', 'special', 'water', 'circuit', 'console', 'additionally', 'form', 'match', 'operation', 'considerably', 'aspect', 'steel', 'perspective', 'group', 'color', 'writing', 'dominate', 'whatsoever', 'reproduce']
+----------------------------------------------------------------------
+h_num: 37
+w_h_top_words_indx: [2921 3344   33  737  590 1396 2172   55 3880  733 3406 2480  217 3963
+ 2600 1041  652 3735 2982 3907]
+w_h_top_words:['reflect', 'special', 'accurate', 'console', 'circuit', 'form', 'match', 'additionally', 'water', 'considerably', 'steel', 'operation', 'aspect', 'writing', 'perspective', 'dominate', 'color', 'unable', 'reproduce', 'whatsoever']
+----------------------------------------------------------------------
+h_num: 38
+w_h_top_words_indx: [1396   33 3880 1558 3344  590 2600  217 2921 2594  737 2929   55  358
+  652 1048    4 2494  733 2172]
+w_h_top_words:['form', 'accurate', 'water', 'group', 'special', 'circuit', 'perspective', 'aspect', 'reflect', 'permanent', 'console', 'regard', 'additionally', 'bfhttheoryautotldrconcept', 'color', 'dot', 'ability', 'order', 'considerably', 'match']
+----------------------------------------------------------------------

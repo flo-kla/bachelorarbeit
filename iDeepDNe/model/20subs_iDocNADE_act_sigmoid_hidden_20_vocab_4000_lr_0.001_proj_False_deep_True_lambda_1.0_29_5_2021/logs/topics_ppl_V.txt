@@ -1,0 +1,100 @@
+h_num: 0
+w_h_top_words_indx: [1051  282 2094  159  975 3507 2101  260 1318 2283  285 1638   17 2092
+ 3879 3463 2829 1611 1758 2965]
+w_h_top_words:['download', 'background', 'lot', 'answer', 'different', 'swap', 'lt', 'automatically', 'feel', 'moderator', 'bad', 'hear', 'ac', 'lose', 'watch', 'successful', 'puwhatisautomoderator', 'happy', 'immediate', 'remove']
+----------------------------------------------------------------------
+h_num: 1
+w_h_top_words_indx: [3193  420 2361 2049 3593 3946 1968 1772 1341 2757 3085 3600    6 2011
+ 2032 3040 3491 3985  974 3865]
+w_h_top_words:['sexual', 'bot', 'natural', 'like', 'think', 'work', 'know', 'important', 'find', 'problem', 's', 'thread', 'able', 'learn', 'level', 'right', 'sure', 'yes', 'difference', 'want']
+----------------------------------------------------------------------
+h_num: 2
+w_h_top_words_indx: [1583 3507 1806  877 1130 3657 3772 1597 2805 1181  447 1949 2553  637
+ 2836 3787 2011 2689 3543 2385]
+w_h_top_words:['guarantee', 'swap', 'information', 'date', 'email', 'trade', 'upgrade', 'haha', 'provide', 'error', 'browser', 'karma', 'partner', 'code', 'question', 'username', 'learn', 'potential', 'team', 'new']
+----------------------------------------------------------------------
+h_num: 3
+w_h_top_words_indx: [2553 2689 1949  282 3507  877 1583 2805 1806 2057 3787 2503 1758 3623
+ 1705 2753 3545  523 3027 2965]
+w_h_top_words:['partner', 'potential', 'karma', 'background', 'swap', 'date', 'guarantee', 'provide', 'information', 'link', 'username', 'os', 'immediate', 'title', 'hour', 'pro', 'tech', 'case', 'review', 'remove']
+----------------------------------------------------------------------
+h_num: 4
+w_h_top_words_indx: [3787 3463 1806 1758 1968 3440 3507 3472 3985 2591  615 2465 3897  988
+ 1928 1652 3614 2011 1536 1311]
+w_h_top_words:['username', 'successful', 'information', 'immediate', 'know', 'student', 'swap', 'suit', 'yes', 'perform', 'client', 'ok', 'week', 'directly', 'join', 'help', 'time', 'learn', 'grade', 'feature']
+----------------------------------------------------------------------
+h_num: 5
+w_h_top_words_indx: [3787 1806 3463 1583 1758 1309 2788 2057 3507 2689  952  637 3013 1652
+  662 3124 2883 1928 3786  461]
+w_h_top_words:['username', 'information', 'successful', 'guarantee', 'immediate', 'favorite', 'proper', 'link', 'swap', 'potential', 'desktop', 'code', 'resubmit', 'help', 'comment', 'school', 'read', 'join', 'user', 'building']
+----------------------------------------------------------------------
+h_num: 6
+w_h_top_words_indx: [1562 3592  766 1968 2293 3940 3085 2385 2088 2583  890 3614 1951 1341
+  505 2097 2045 2049 1649 2908]
+w_h_top_words:['gt', 'thing', 'convert', 'know', 'money', 'woman', 's', 'new', 'look', 'people', 'death', 'time', 'key', 'find', 'cap', 'love', 'life', 'like', 'hell', 'recommend']
+----------------------------------------------------------------------
+h_num: 7
+w_h_top_words_indx: [2583  851 2213  882 3882 1520 2192 2695 1528 1562 2654 3783  795 2476
+ 1651 3865 2099  658 3593  669]
+w_h_top_words:['people', 'current', 'member', 'day', 'wave', 'good', 'mean', 'power', 'government', 'gt', 'point', 'use', 'country', 'open', 'helmet', 'want', 'low', 'come', 'think', 'common']
+----------------------------------------------------------------------
+h_num: 8
+w_h_top_words_indx: [ 677  698 2045 2583 3085 3040 1562 2293 2049  183 1248 3577 3715  919
+ 1797 3592  798 2162 2065 1220]
+w_h_top_words:['company', 'computer', 'life', 'people', 's', 'right', 'gt', 'money', 'like', 'apply', 'expert', 'thank', 'type', 'delete', 'individual', 'thing', 'course', 'marriage', 'literally', 'example']
+----------------------------------------------------------------------
+h_num: 9
+w_h_top_words_indx: [3783 3593 2049 3262 1261 2761 1649 2890 1434 3085 1520 1925 3592 1514
+  200 3517  483 2925 2094 2375]
+w_h_top_words:['use', 'think', 'like', 'sit', 'expression', 'process', 'hell', 'reality', 'fucking', 's', 'good', 'job', 'thing', 'goal', 'argument', 'system', 'c', 'refugee', 'lot', 'need']
+----------------------------------------------------------------------
+h_num: 10
+w_h_top_words_indx: [1949 2553 1928 3787 3454 2057 1758  877 2574 2689 3657 3892 2283 3545
+   72 2821 3025 3922 2101 3463]
+w_h_top_words:['karma', 'partner', 'join', 'username', 'subredditmessagecomposeto', 'link', 'immediate', 'date', 'pc', 'potential', 'trade', 'web', 'moderator', 'tech', 'advice', 'purchase', 'revenue', 'win', 'lt', 'successful']
+----------------------------------------------------------------------
+h_num: 11
+w_h_top_words_indx: [3787 3657 1949 1806  877 3463 2101  260  215 2553 1758 2641 1457 1652
+ 2574 2689 2757 2836 2453  626]
+w_h_top_words:['username', 'trade', 'karma', 'information', 'date', 'successful', 'lt', 'automatically', 'ask', 'partner', 'immediate', 'platform', 'game', 'help', 'pc', 'potential', 'problem', 'question', 'offer', 'cloud']
+----------------------------------------------------------------------
+h_num: 12
+w_h_top_words_indx: [3552 2689  867 2461 3507 2283 3755 1022 1961 2215 1775 3964  952  276
+ 1086 2574 3385 3294 3949  460]
+w_h_top_words:['tell', 'potential', 'damage', 'oh', 'swap', 'moderator', 'universal', 'distract', 'kind', 'memorize', 'impossible', 'wrong', 'desktop', 'b', 'e', 'pc', 'standard', 'small', 'working', 'build']
+----------------------------------------------------------------------
+h_num: 13
+w_h_top_words_indx: [3593 2139 2192 1562 2917 2049 3085 1957  658 1520 3491 3040  305 1065
+ 3966 3883 2062  553 1472 3162]
+w_h_top_words:['think', 'man', 'mean', 'gt', 'reduce', 'like', 's', 'kill', 'come', 'good', 'sure', 'right', 'base', 'drive', 'x', 'way', 'list', 'change', 'gay', 'sell']
+----------------------------------------------------------------------
+h_num: 14
+w_h_top_words_indx: [1949 2955 1758  566 3124 3085   30 1631 3787 2250 3865 3946 3452 2203
+ 1928 3883  747 3614 1806 3217]
+w_h_top_words:['karma', 'religious', 'immediate', 'cheap', 'school', 's', 'account', 'head', 'username', 'minded', 'want', 'work', 'submit', 'med', 'join', 'way', 'contact', 'time', 'information', 'shitty']
+----------------------------------------------------------------------
+h_num: 15
+w_h_top_words_indx: [2049 1227 1256 2696 2185  915 2815 1949 2097 1217   30 2467 2788 1612
+ 3924 1611 2805 2731 3302 3883]
+w_h_top_words:['like', 'excited', 'explorer', 'powerful', 'maybe', 'definition', 'pull', 'karma', 'love', 'exam', 'account', 'old', 'proper', 'hard', 'window', 'happy', 'provide', 'pretty', 'social', 'way']
+----------------------------------------------------------------------
+h_num: 16
+w_h_top_words_indx: [3593   52 2249 2654 3783 1065 3485 2088 2086 2192 3085 3527 1832 3592
+ 2092 1609 2948 2293 3491 3614]
+w_h_top_words:['think', 'add', 'mind', 'point', 'use', 'drive', 'support', 'look', 'long', 'mean', 's', 'talk', 'install', 'thing', 'lose', 'happen', 'relatively', 'money', 'sure', 'time']
+----------------------------------------------------------------------
+h_num: 17
+w_h_top_words_indx: [ 863 1949 3577 3966 1250 3216 2553 3688  919 3564 2631 3187 2821 2225
+ 3961  858 1247 2499  568 2883]
+w_h_top_words:['d', 'karma', 'thank', 'x', 'explain', 'shit', 'partner', 'trigger', 'delete', 'terrible', 'place', 'setting', 'purchase', 'message', 'write', 'cut', 'experiment', 'original', 'check', 'read']
+----------------------------------------------------------------------
+h_num: 18
+w_h_top_words_indx: [ 919 2104 3979  282  430 3603 3577 1520 3614 3085  863 2605 3443  515
+ 1318 3076 2029 1952 3593 2375]
+w_h_top_words:['delete', 'luck', 'year', 'background', 'brand', 'throw', 'thank', 'good', 'time', 's', 'd', 'phone', 'stuff', 'car', 'feel', 'run', 'let', 'keyboard', 'think', 'need']
+----------------------------------------------------------------------
+h_num: 19
+w_h_top_words_indx: [ 606 3979 1318 1928 1949 1311  877 2685  703 2283 1332  365  282 1901
+ 1652 2225 3454 2249 3491 1649]
+w_h_top_words:['class', 'year', 'feel', 'join', 'karma', 'feature', 'date', 'post', 'concern', 'moderator', 'figure', 'bike', 'background', 'issue', 'help', 'message', 'subredditmessagecomposeto', 'mind', 'sure', 'hell']
+----------------------------------------------------------------------

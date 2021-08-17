@@ -1,0 +1,128 @@
+top_n: 10 Topic Num: 1 
+Topic Words: [['karma', 'username', 'immediate', 'partner', 'lt', 'swap', 'behance', 'guarantee', 'excite', 'rtechsupport']]
+Coh_type:c_v  Topic Num:1 COH score:0.5315401469369129
+top_n: 20 Topic Num: 1 
+Topic Words: [['karma', 'username', 'immediate', 'partner', 'lt', 'swap', 'behance', 'guarantee', 'excite', 'rtechsupport', 'resubmit', 'congrats', 'huh', 'rbuildapc', 'prophecy', 'modshttpwwwredditcommessagecomposeto', 'puwhatisautomoderator', 'anki', 'potential', 'successful']]
+Coh_type:c_v  Topic Num:1 COH score:0.551469503188054
+top_n: 10 Topic Num: 2 
+Topic Words: [['karma', 'username', 'immediate', 'partner', 'swap', 'lt', 'information', 'excite', 'behance', 'puwhatisautomoderator']]
+Coh_type:c_v  Topic Num:2 COH score:0.5120966126748916
+top_n: 20 Topic Num: 2 
+Topic Words: [['karma', 'username', 'immediate', 'partner', 'swap', 'lt', 'information', 'excite', 'behance', 'puwhatisautomoderator', 'portfolio', 'huh', 'anki', 'resubmit', 'rtechsupport', 'guarantee', 'following', 'confused', 'menu', 'congrats']]
+Coh_type:c_v  Topic Num:2 COH score:0.6054438391973426
+top_n: 10 Topic Num: 3 
+Topic Words: [['karma', 'username', 'immediate', 'partner', 'lt', 'swap', 'guarantee', 'potential', 'join', 'prophecy']]
+Coh_type:c_v  Topic Num:3 COH score:0.7676245063392809
+top_n: 20 Topic Num: 3 
+Topic Words: [['karma', 'username', 'immediate', 'partner', 'lt', 'swap', 'guarantee', 'potential', 'join', 'prophecy', 'behance', 'successful', 'huh', 'excite', 'congrats', 'tea', 'rtechsupport', 'anki', 'eh', 'employ']]
+Coh_type:c_v  Topic Num:3 COH score:0.6133154066211942
+top_n: 10 Topic Num: 4 
+Topic Words: [['karma', 'username', 'immediate', 'partner', 'swap', 'lt', 'information', 'puwhatisautomoderator', 'guarantee', 'portfolio']]
+Coh_type:c_v  Topic Num:4 COH score:0.609314322127228
+top_n: 20 Topic Num: 4 
+Topic Words: [['karma', 'username', 'immediate', 'partner', 'swap', 'lt', 'information', 'puwhatisautomoderator', 'guarantee', 'portfolio', 'excite', 'behance', 'anki', 'huh', 'resubmit', 'rtechsupport', 'confused', 'menu', 'desktop', 'log']]
+Coh_type:c_v  Topic Num:4 COH score:0.5705143888688332
+top_n: 10 Topic Num: 5 
+Topic Words: [['karma', 'username', 'immediate', 'partner', 'swap', 'lt', 'information', 'excite', 'behance', 'puwhatisautomoderator']]
+Coh_type:c_v  Topic Num:5 COH score:0.5120966126748916
+top_n: 20 Topic Num: 5 
+Topic Words: [['karma', 'username', 'immediate', 'partner', 'swap', 'lt', 'information', 'excite', 'behance', 'puwhatisautomoderator', 'resubmit', 'huh', 'rtechsupport', 'portfolio', 'anki', 'following', 'guarantee', 'confused', 'menu', 'congrats']]
+Coh_type:c_v  Topic Num:5 COH score:0.6054438391973427
+top_n: 10 Topic Num: 6 
+Topic Words: [['karma', 'username', 'immediate', 'partner', 'lt', 'swap', 'guarantee', 'potential', 'behance', 'prophecy']]
+Coh_type:c_v  Topic Num:6 COH score:0.6225641457170072
+top_n: 20 Topic Num: 6 
+Topic Words: [['karma', 'username', 'immediate', 'partner', 'lt', 'swap', 'guarantee', 'potential', 'behance', 'prophecy', 'join', 'successful', 'huh', 'congrats', 'excite', 'tea', 'anki', 'rtechsupport', 'employ', 'rbuildapc']]
+Coh_type:c_v  Topic Num:6 COH score:0.6003315673622467
+top_n: 10 Topic Num: 7 
+Topic Words: [['karma', 'username', 'immediate', 'partner', 'lt', 'swap', 'guarantee', 'potential', 'join', 'prophecy']]
+Coh_type:c_v  Topic Num:7 COH score:0.7676245063392809
+top_n: 20 Topic Num: 7 
+Topic Words: [['karma', 'username', 'immediate', 'partner', 'lt', 'swap', 'guarantee', 'potential', 'join', 'prophecy', 'successful', 'huh', 'behance', 'excite', 'congrats', 'tea', 'rtechsupport', 'eh', 'anki', 'reinstall']]
+Coh_type:c_v  Topic Num:7 COH score:0.6152210923457443
+top_n: 10 Topic Num: 8 
+Topic Words: [['karma', 'username', 'immediate', 'partner', 'lt', 'swap', 'potential', 'puwhatisautomoderator', 'guarantee', 'screen']]
+Coh_type:c_v  Topic Num:8 COH score:0.6288506486988286
+top_n: 20 Topic Num: 8 
+Topic Words: [['karma', 'username', 'immediate', 'partner', 'lt', 'swap', 'potential', 'puwhatisautomoderator', 'guarantee', 'screen', 'resubmit', 'desktop', 'steam', 'log', 'phone', 'tea', 'prophecy', 'huh', 'reinstall', 'technically']]
+Coh_type:c_v  Topic Num:8 COH score:0.6006745026217308
+top_n: 10 Topic Num: 9 
+Topic Words: [['karma', 'username', 'immediate', 'partner', 'lt', 'swap', 'behance', 'guarantee', 'rtechsupport', 'resubmit']]
+Coh_type:c_v  Topic Num:9 COH score:0.4822380253928819
+top_n: 20 Topic Num: 9 
+Topic Words: [['karma', 'username', 'immediate', 'partner', 'lt', 'swap', 'behance', 'guarantee', 'rtechsupport', 'resubmit', 'excite', 'congrats', 'huh', 'rbuildapc', 'prophecy', 'modshttpwwwredditcommessagecomposeto', 'potential', 'successful', 'puwhatisautomoderator', 'anki']]
+Coh_type:c_v  Topic Num:9 COH score:0.5514695031880541
+top_n: 10 Topic Num: 10 
+Topic Words: [['karma', 'username', 'immediate', 'partner', 'swap', 'lt', 'information', 'puwhatisautomoderator', 'guarantee', 'excite']]
+Coh_type:c_v  Topic Num:10 COH score:0.597253340772391
+top_n: 20 Topic Num: 10 
+Topic Words: [['karma', 'username', 'immediate', 'partner', 'swap', 'lt', 'information', 'puwhatisautomoderator', 'guarantee', 'excite', 'anki', 'behance', 'huh', 'resubmit', 'log', 'rtechsupport', 'portfolio', 'confused', 'desktop', 'menu']]
+Coh_type:c_v  Topic Num:10 COH score:0.5705143888688332
+top_n: 10 Topic Num: 11 
+Topic Words: [['karma', 'username', 'immediate', 'partner', 'lt', 'swap', 'potential', 'puwhatisautomoderator', 'guarantee', 'screen']]
+Coh_type:c_v  Topic Num:11 COH score:0.6288506486988286
+top_n: 20 Topic Num: 11 
+Topic Words: [['karma', 'username', 'immediate', 'partner', 'lt', 'swap', 'potential', 'puwhatisautomoderator', 'guarantee', 'screen', 'resubmit', 'steam', 'phone', 'desktop', 'log', 'tea', 'prophecy', 'huh', 'technically', 'reinstall']]
+Coh_type:c_v  Topic Num:11 COH score:0.6006745026217308
+top_n: 10 Topic Num: 12 
+Topic Words: [['karma', 'username', 'immediate', 'partner', 'lt', 'swap', 'guarantee', 'behance', 'rtechsupport', 'congrats']]
+Coh_type:c_v  Topic Num:12 COH score:0.5287949929350589
+top_n: 20 Topic Num: 12 
+Topic Words: [['karma', 'username', 'immediate', 'partner', 'lt', 'swap', 'guarantee', 'behance', 'rtechsupport', 'congrats', 'excite', 'huh', 'resubmit', 'prophecy', 'potential', 'rbuildapc', 'successful', 'modshttpwwwredditcommessagecomposeto', 'join', 'tea']]
+Coh_type:c_v  Topic Num:12 COH score:0.5677494190705445
+top_n: 10 Topic Num: 13 
+Topic Words: [['karma', 'username', 'immediate', 'partner', 'lt', 'swap', 'guarantee', 'behance', 'congrats', 'potential']]
+Coh_type:c_v  Topic Num:13 COH score:0.616580718048857
+top_n: 20 Topic Num: 13 
+Topic Words: [['karma', 'username', 'immediate', 'partner', 'lt', 'swap', 'guarantee', 'behance', 'congrats', 'potential', 'huh', 'prophecy', 'excite', 'successful', 'rtechsupport', 'join', 'rbuildapc', 'tea', 'resubmit', 'modshttpwwwredditcommessagecomposeto']]
+Coh_type:c_v  Topic Num:13 COH score:0.5677494190705448
+top_n: 10 Topic Num: 14 
+Topic Words: [['karma', 'username', 'immediate', 'partner', 'lt', 'swap', 'guarantee', 'behance', 'potential', 'prophecy']]
+Coh_type:c_v  Topic Num:14 COH score:0.6225641457170072
+top_n: 20 Topic Num: 14 
+Topic Words: [['karma', 'username', 'immediate', 'partner', 'lt', 'swap', 'guarantee', 'behance', 'potential', 'prophecy', 'congrats', 'successful', 'huh', 'join', 'excite', 'tea', 'rtechsupport', 'anki', 'rbuildapc', 'employ']]
+Coh_type:c_v  Topic Num:14 COH score:0.6003315673622467
+top_n: 10 Topic Num: 15 
+Topic Words: [['karma', 'username', 'immediate', 'partner', 'lt', 'swap', 'desktop', 'guarantee', 'potential', 'puwhatisautomoderator']]
+Coh_type:c_v  Topic Num:15 COH score:0.627030673008032
+top_n: 20 Topic Num: 15 
+Topic Words: [['karma', 'username', 'immediate', 'partner', 'lt', 'swap', 'desktop', 'guarantee', 'potential', 'puwhatisautomoderator', 'log', 'resubmit', 'huh', 'information', 'reinstall', 'anki', 'steam', 'tea', 'excite', 'screen']]
+Coh_type:c_v  Topic Num:15 COH score:0.5639363447361276
+top_n: 10 Topic Num: 16 
+Topic Words: [['karma', 'username', 'immediate', 'partner', 'lt', 'swap', 'behance', 'guarantee', 'excite', 'resubmit']]
+Coh_type:c_v  Topic Num:16 COH score:0.535144422781413
+top_n: 20 Topic Num: 16 
+Topic Words: [['karma', 'username', 'immediate', 'partner', 'lt', 'swap', 'behance', 'guarantee', 'excite', 'resubmit', 'rtechsupport', 'congrats', 'huh', 'rbuildapc', 'puwhatisautomoderator', 'prophecy', 'modshttpwwwredditcommessagecomposeto', 'anki', 'following', 'potential']]
+Coh_type:c_v  Topic Num:16 COH score:0.5820693775965903
+top_n: 10 Topic Num: 17 
+Topic Words: [['karma', 'username', 'immediate', 'partner', 'lt', 'swap', 'potential', 'puwhatisautomoderator', 'guarantee', 'screen']]
+Coh_type:c_v  Topic Num:17 COH score:0.6288506486988286
+top_n: 20 Topic Num: 17 
+Topic Words: [['karma', 'username', 'immediate', 'partner', 'lt', 'swap', 'potential', 'puwhatisautomoderator', 'guarantee', 'screen', 'resubmit', 'desktop', 'steam', 'log', 'tea', 'phone', 'prophecy', 'huh', 'reinstall', 'technically']]
+Coh_type:c_v  Topic Num:17 COH score:0.6006745026217308
+top_n: 10 Topic Num: 18 
+Topic Words: [['karma', 'username', 'immediate', 'partner', 'lt', 'swap', 'desktop', 'guarantee', 'puwhatisautomoderator', 'potential']]
+Coh_type:c_v  Topic Num:18 COH score:0.6270306730080317
+top_n: 20 Topic Num: 18 
+Topic Words: [['karma', 'username', 'immediate', 'partner', 'lt', 'swap', 'desktop', 'guarantee', 'puwhatisautomoderator', 'potential', 'log', 'resubmit', 'information', 'huh', 'anki', 'reinstall', 'steam', 'excite', 'tea', 'behance']]
+Coh_type:c_v  Topic Num:18 COH score:0.592419431079955
+top_n: 10 Topic Num: 19 
+Topic Words: [['karma', 'username', 'immediate', 'partner', 'lt', 'swap', 'guarantee', 'potential', 'behance', 'prophecy']]
+Coh_type:c_v  Topic Num:19 COH score:0.6225641457170072
+top_n: 20 Topic Num: 19 
+Topic Words: [['karma', 'username', 'immediate', 'partner', 'lt', 'swap', 'guarantee', 'potential', 'behance', 'prophecy', 'join', 'successful', 'huh', 'congrats', 'excite', 'tea', 'anki', 'rtechsupport', 'employ', 'rbuildapc']]
+Coh_type:c_v  Topic Num:19 COH score:0.6003315673622467
+top_n: 10 Topic Num: 20 
+Topic Words: [['karma', 'username', 'immediate', 'partner', 'lt', 'swap', 'potential', 'puwhatisautomoderator', 'guarantee', 'screen']]
+Coh_type:c_v  Topic Num:20 COH score:0.6288506486988286
+top_n: 20 Topic Num: 20 
+Topic Words: [['karma', 'username', 'immediate', 'partner', 'lt', 'swap', 'potential', 'puwhatisautomoderator', 'guarantee', 'screen', 'resubmit', 'steam', 'desktop', 'phone', 'log', 'tea', 'prophecy', 'huh', 'technically', 'reinstall']]
+Coh_type:c_v  Topic Num:20 COH score:0.6006745026217308
+top scores for top_10:[0.7676245063392809, 10, [['karma', 'username', 'immediate', 'partner', 'lt', 'swap', 'guarantee', 'potential', 'join', 'prophecy']]]
+-------------------------------------------------------------------
+top scores for top_20:[0.6152210923457443, 20, [['karma', 'username', 'immediate', 'partner', 'lt', 'swap', 'guarantee', 'potential', 'join', 'prophecy', 'successful', 'huh', 'behance', 'excite', 'congrats', 'tea', 'rtechsupport', 'eh', 'anki', 'reinstall']]]
+-------------------------------------------------------------------
+Avg COH for top_10 topic words: 0.6048732292492742
+-------------------------------------------------------------------
+Avg COH for top_20 topic words: 0.5880504332801413
+-------------------------------------------------------------------
