@@ -1,0 +1,128 @@
+top_n: 10 Topic Num: 1 
+Topic Words: [['fb', 'nyc', 'loser', 'times', 'qq', 'uk', 'svga', 'vg', 'enterpoopmitedu', 'xwindows']]
+Coh_type:c_v  Topic Num:1 COH score:0.6404276151002258
+top_n: 20 Topic Num: 1 
+Topic Words: [['fb', 'nyc', 'loser', 'times', 'qq', 'uk', 'svga', 'vg', 'enterpoopmitedu', 'xwindows', 'shareware', 'european', 'q', 'ey', 'qb', 'rb', 'um', 'dos', 'se', 'sunos']]
+Coh_type:c_v  Topic Num:1 COH score:0.6513294204274583
+top_n: 10 Topic Num: 2 
+Topic Words: [['motherboard', 'xterm', 'floppy', 'widget', 'configure', 'ns', 'cursor', 'meg', 'wiretap', 'socket']]
+Coh_type:c_v  Topic Num:2 COH score:0.3822149209931704
+top_n: 20 Topic Num: 2 
+Topic Words: [['motherboard', 'xterm', 'floppy', 'widget', 'configure', 'ns', 'cursor', 'meg', 'wiretap', 'socket', 'simms', 'hd', 'brake', 'connector', 'tire', 'captain', 'automotive', 'escrow', 'handler', 'cpu']]
+Coh_type:c_v  Topic Num:2 COH score:0.5935723497828179
+top_n: 10 Topic Num: 3 
+Topic Words: [['motherboard', 'goalie', 'theist', 'simms', 'scoring', 'polygon', 'hitter', 'playoff', 'homosexuality', 'slot']]
+Coh_type:c_v  Topic Num:3 COH score:0.5458836430800086
+top_n: 20 Topic Num: 3 
+Topic Words: [['motherboard', 'goalie', 'theist', 'simms', 'scoring', 'polygon', 'hitter', 'playoff', 'homosexuality', 'slot', 'bible', 'mono', 'pitching', 'simm', 'fpu', 'ns', 'trinity', 'pitcher', 'romans', 'theology']]
+Coh_type:c_v  Topic Num:3 COH score:0.672450824372213
+top_n: 10 Topic Num: 4 
+Topic Words: [['captain', 'phi', 'simms', 'vlb', 'games', 'jew', 'sb', 'z', 'rbi', 'simm']]
+Coh_type:c_v  Topic Num:4 COH score:0.5397102626845544
+top_n: 20 Topic Num: 4 
+Topic Words: [['captain', 'phi', 'simms', 'vlb', 'games', 'jew', 'sb', 'z', 'rbi', 'simm', 'macintosh', 'jupiter', 'com', 'cmos', 'fpu', 'scripture', 'irq', 'statistic', 'dp', 'adam']]
+Coh_type:c_v  Topic Num:4 COH score:0.7254476958971177
+top_n: 10 Topic Num: 5 
+Topic Words: [['fb', 'reply', 'com', 'loser', 'icon', 'nyc', 'q', 'qq', 'vg', 'mouse']]
+Coh_type:c_v  Topic Num:5 COH score:0.44718115658295937
+top_n: 20 Topic Num: 5 
+Topic Words: [['fb', 'reply', 'com', 'loser', 'icon', 'nyc', 'q', 'qq', 'vg', 'mouse', 'hst', 'uucp', 'pixmap', 'share', 'default', 'book', 'pp', 'mile', 'sunos', 'mfm']]
+Coh_type:c_v  Topic Num:5 COH score:0.5734520106189719
+top_n: 10 Topic Num: 6 
+Topic Words: [['economy', 'sale', 'firearm', 'taxis', 'window', 'polygon', 'upgrade', 'deficit', 'disk', 'fund']]
+Coh_type:c_v  Topic Num:6 COH score:0.36716461737175143
+top_n: 20 Topic Num: 6 
+Topic Words: [['economy', 'sale', 'firearm', 'taxis', 'window', 'polygon', 'upgrade', 'deficit', 'disk', 'fund', 'interface', 'loser', 'privacy', 'spending', 'program', 'mac', 'screen', 'motherboard', 'slot', 'color']]
+Coh_type:c_v  Topic Num:6 COH score:0.42733261165029496
+top_n: 10 Topic Num: 7 
+Topic Words: [['gc', 'bmp', 'repost', 'fb', 'xdm', 'abc', 'icon', 'nyc', 'athena', 'mailing']]
+Coh_type:c_v  Topic Num:7 COH score:0.5036863194375696
+top_n: 20 Topic Num: 7 
+Topic Words: [['gc', 'bmp', 'repost', 'fb', 'xdm', 'abc', 'icon', 'nyc', 'athena', 'mailing', 'newsletter', 'bull', 'enterpoopmitedu', 'geometry', 'bitmap', 'coordinate', 'pixmap', 'pa', 'sphere', 'wm']]
+Coh_type:c_v  Topic Num:7 COH score:0.6188595133869118
+top_n: 10 Topic Num: 8 
+Topic Words: [['upgrade', 'shipping', 'khz', 'mb', 'comet', 'captain', 'chastity', 'hp', 'amp', 'circuit']]
+Coh_type:c_v  Topic Num:8 COH score:0.54780178470839
+top_n: 20 Topic Num: 8 
+Topic Words: [['upgrade', 'shipping', 'khz', 'mb', 'comet', 'captain', 'chastity', 'hp', 'amp', 'circuit', 'shuttle', 'voltage', 'audio', 'uv', 'smooth', 'corp', 'imaging', 'lunar', 'cpu', 'seizure']]
+Coh_type:c_v  Topic Num:8 COH score:0.6515839082710803
+top_n: 10 Topic Num: 9 
+Topic Words: [['xterm', 'cursor', 'attribute', 'ld', 'mit', 'abc', 'undefined', 'symbol', 'irq', 'com']]
+Coh_type:c_v  Topic Num:9 COH score:0.46961578829558775
+top_n: 20 Topic Num: 9 
+Topic Words: [['xterm', 'cursor', 'attribute', 'ld', 'mit', 'abc', 'undefined', 'symbol', 'irq', 'com', 'r', 'manager', 'x', 'ff', 'bios', 'hz', 'permanent', 'n', 'svga', 'define']]
+Coh_type:c_v  Topic Num:9 COH score:0.3838294492176378
+top_n: 10 Topic Num: 10 
+Topic Words: [['fb', 'mfm', 'hst', 'svga', 'um', 'ide', 'abc', 'captain', 'ati', 'academic']]
+Coh_type:c_v  Topic Num:10 COH score:0.5634438144518708
+top_n: 20 Topic Num: 10 
+Topic Words: [['fb', 'mfm', 'hst', 'svga', 'um', 'ide', 'abc', 'captain', 'ati', 'academic', 'ds', 'nyc', 'vg', 'turbo', 'buyer', 'hz', 'uk', 'qq', 'bio', 'rb']]
+Coh_type:c_v  Topic Num:10 COH score:0.6733975908781726
+top_n: 10 Topic Num: 11 
+Topic Words: [['font', 'bitmap', 'polygon', 'xterm', 'widget', 'meg', 'postscript', 'controller', 'motherboard', 'pixmap']]
+Coh_type:c_v  Topic Num:11 COH score:0.3017054597470731
+top_n: 20 Topic Num: 11 
+Topic Words: [['font', 'bitmap', 'polygon', 'xterm', 'widget', 'meg', 'postscript', 'controller', 'motherboard', 'pixmap', 'dpi', 'download', 'xv', 'ibm', 'colormap', 'repost', 'icon', 'ld', 'bios', 'adapter']]
+Coh_type:c_v  Topic Num:11 COH score:0.4872296270729299
+top_n: 10 Topic Num: 12 
+Topic Words: [['rider', 'bike', 'meg', 'simm', 'captain', 'ticket', 'hitter', 'printer', 'motto', 'simms']]
+Coh_type:c_v  Topic Num:12 COH score:0.4961881348198022
+top_n: 20 Topic Num: 12 
+Topic Words: [['rider', 'bike', 'meg', 'simm', 'captain', 'ticket', 'hitter', 'printer', 'motto', 'simms', 'cpu', 'pitcher', 'amp', 'cd', 'stat', 'goalie', 'mac', 'player', 'spending', 'circuit']]
+Coh_type:c_v  Topic Num:12 COH score:0.6121500094653418
+top_n: 10 Topic Num: 13 
+Topic Words: [['com', 'irq', 'coprocessor', 'vlb', 'captain', 'e', 'dram', 'phi', 'p', 'truetype']]
+Coh_type:c_v  Topic Num:13 COH score:0.5035195101863749
+top_n: 20 Topic Num: 13 
+Topic Words: [['com', 'irq', 'coprocessor', 'vlb', 'captain', 'e', 'dram', 'phi', 'p', 'truetype', 'slot', 'fpu', 'uuencode', 'math', 'o', 'm', 'logo', 'int', 'y', 'pts']]
+Coh_type:c_v  Topic Num:13 COH score:0.58099717276007
+top_n: 10 Topic Num: 14 
+Topic Words: [['xterm', 'font', 'widget', 'cview', 'svga', 'xdm', 'configsys', 'cursor', 'irq', 'dma']]
+Coh_type:c_v  Topic Num:14 COH score:0.431584327031662
+top_n: 20 Topic Num: 14 
+Topic Words: [['xterm', 'font', 'widget', 'cview', 'svga', 'xdm', 'configsys', 'cursor', 'irq', 'dma', 'client', 'contrib', 'pixmap', 'ld', 'colormap', 'viewer', 'bios', 'bitmap', 'icon', 'truetype']]
+Coh_type:c_v  Topic Num:14 COH score:0.5192715308870269
+top_n: 10 Topic Num: 15 
+Topic Words: [['hitter', 'pitching', 'simm', 'rookie', 'defenseman', 'liability', 'baseball', 'dos', 'rbi', 'powerbook']]
+Coh_type:c_v  Topic Num:15 COH score:0.5089099141238128
+top_n: 20 Topic Num: 15 
+Topic Words: [['hitter', 'pitching', 'simm', 'rookie', 'defenseman', 'liability', 'baseball', 'dos', 'rbi', 'powerbook', 'simms', 'coach', 'homer', 'glock', 'captain', 'automotive', 'rev', 'catcher', 'hd', 'semiauto']]
+Coh_type:c_v  Topic Num:15 COH score:0.6489548947533968
+top_n: 10 Topic Num: 16 
+Topic Words: [['com', 'irq', 'pp', 'sb', 'dean', 'pit', 'qb', 'jewish', 'uk', 'bb']]
+Coh_type:c_v  Topic Num:16 COH score:0.5063964021509209
+top_n: 20 Topic Num: 16 
+Topic Words: [['com', 'irq', 'pp', 'sb', 'dean', 'pit', 'qb', 'jewish', 'uk', 'bb', 'thanx', 'buf', 'phi', 'mov', 'sh', 'enable', 'l', 'hst', 'adam', 'ethernet']]
+Coh_type:c_v  Topic Num:16 COH score:0.6692273677696619
+top_n: 10 Topic Num: 17 
+Topic Words: [['pp', 'jumper', 'fb', 'sh', 'hst', 'period', 'fax', 'qq', 'vg', 'turbo']]
+Coh_type:c_v  Topic Num:17 COH score:0.45191670090556146
+top_n: 20 Topic Num: 17 
+Topic Words: [['pp', 'jumper', 'fb', 'sh', 'hst', 'period', 'fax', 'qq', 'vg', 'turbo', 'um', 'id', 'lciii', 'rb', 'ide', 'serial', 'svga', 'modem', 'pw', 'cdc']]
+Coh_type:c_v  Topic Num:17 COH score:0.5080702368327781
+top_n: 10 Topic Num: 18 
+Topic Words: [['encryption', 'chip', 'polygon', 'ftp', 'upgrade', 'clipper', 'infection', 'symptom', 'colormap', 'chastity']]
+Coh_type:c_v  Topic Num:18 COH score:0.4398200737199572
+top_n: 20 Topic Num: 18 
+Topic Words: [['encryption', 'chip', 'polygon', 'ftp', 'upgrade', 'clipper', 'infection', 'symptom', 'colormap', 'chastity', 'compile', 'shameful', 'sensitivity', 'software', 'accessdigexnet', 'yeast', 'industry', 'scispace', 'font', 'sphere']]
+Coh_type:c_v  Topic Num:18 COH score:0.5030990212887814
+top_n: 10 Topic Num: 19 
+Topic Words: [['widget', 'polygon', 'shareware', 'gcc', 'portable', 'amp', 'circuit', 'module', 'dsp', 'pixmap']]
+Coh_type:c_v  Topic Num:19 COH score:0.4377826792262976
+top_n: 20 Topic Num: 19 
+Topic Words: [['widget', 'polygon', 'shareware', 'gcc', 'portable', 'amp', 'circuit', 'module', 'dsp', 'pixmap', 'led', 'rom', 'amplifier', 'orbit', 'array', 'volt', 'audio', 'ld', 'solar', 'xv']]
+Coh_type:c_v  Topic Num:19 COH score:0.5760192944110049
+top_n: 10 Topic Num: 20 
+Topic Words: [['ide', 'simms', 'captain', 'rookie', 'hockey', 'hitter', 'clutch', 'catcher', 'cursor', 'tire']]
+Coh_type:c_v  Topic Num:20 COH score:0.5714538981171201
+top_n: 20 Topic Num: 20 
+Topic Words: [['ide', 'simms', 'captain', 'rookie', 'hockey', 'hitter', 'clutch', 'catcher', 'cursor', 'tire', 'mhz', 'rbi', 'disc', 'adb', 'defenseman', 'dram', 'nj', 'puck', 'joystick', 'irq']]
+Coh_type:c_v  Topic Num:20 COH score:0.687199528023867
+top scores for top_10:[0.6404276151002258, 10, [['fb', 'nyc', 'loser', 'times', 'qq', 'uk', 'svga', 'vg', 'enterpoopmitedu', 'xwindows']]]
+-------------------------------------------------------------------
+top scores for top_20:[0.7254476958971177, 20, [['captain', 'phi', 'simms', 'vlb', 'games', 'jew', 'sb', 'z', 'rbi', 'simm', 'macintosh', 'jupiter', 'com', 'cmos', 'fpu', 'scripture', 'irq', 'statistic', 'dp', 'adam']]]
+-------------------------------------------------------------------
+Avg COH for top_10 topic words: 0.48282035113673355
+-------------------------------------------------------------------
+Avg COH for top_20 topic words: 0.5881737028883768
+-------------------------------------------------------------------
