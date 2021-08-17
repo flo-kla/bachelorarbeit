@@ -1,0 +1,308 @@
+top_n: 10 Topic Num: 1 
+Topic Words: [['potential', 'sound', 'karma', 'username', 'partner', 'force', 'swap', 'external', 'guarantee', 'range']]
+Coh_type:c_v  Topic Num:1 COH score:0.42440844223793633
+top_n: 20 Topic Num: 1 
+Topic Words: [['potential', 'sound', 'karma', 'username', 'partner', 'force', 'swap', 'external', 'guarantee', 'range', 'setting', 'pass', 'mind', 'immediate', 'false', 'loop', 'normal', 'great', 'luck', 'selection']]
+Coh_type:c_v  Topic Num:1 COH score:0.4996224397504626
+top_n: 10 Topic Num: 2 
+Topic Words: [['water', 'welcome', 'group', 'hand', 'buy', 'improve', 'reduce', 'public', 'x', 'color']]
+Coh_type:c_v  Topic Num:2 COH score:0.3489379550556389
+top_n: 20 Topic Num: 2 
+Topic Words: [['water', 'welcome', 'group', 'hand', 'buy', 'improve', 'reduce', 'public', 'x', 'color', 'surround', 'patent', 'math', 'previous', 'seek', 'ride', 'leave', 'aspect', 'chinese', 'slightly']]
+Coh_type:c_v  Topic Num:2 COH score:0.5378789564467923
+top_n: 10 Topic Num: 3 
+Topic Words: [['sound', 'pass', 'karma', 'potential', 'external', 'type', 'normal', 'post', 'shop', 'excited']]
+Coh_type:c_v  Topic Num:3 COH score:0.5155357037232875
+top_n: 20 Topic Num: 3 
+Topic Words: [['sound', 'pass', 'karma', 'potential', 'external', 'type', 'normal', 'post', 'shop', 'excited', 'range', 'stuff', 'straight', 'excellent', 'shape', 'username', 'false', 'k', 'hair', 'glock']]
+Coh_type:c_v  Topic Num:3 COH score:0.6540521214069557
+top_n: 10 Topic Num: 4 
+Topic Words: [['sound', 'potential', 'force', 'partner', 'range', 'setting', 'karma', 'external', 'luck', 'username']]
+Coh_type:c_v  Topic Num:4 COH score:0.4713476960834705
+top_n: 20 Topic Num: 4 
+Topic Words: [['sound', 'potential', 'force', 'partner', 'range', 'setting', 'karma', 'external', 'luck', 'username', 'normal', 'excited', 'mean', 'couple', 'mind', 'false', 'wonder', 'entire', 'guarantee', 'api']]
+Coh_type:c_v  Topic Num:4 COH score:0.5509898822621723
+top_n: 10 Topic Num: 5 
+Topic Words: [['sound', 'potential', 'karma', 'partner', 'force', 'username', 'range', 'external', 'pass', 'setting']]
+Coh_type:c_v  Topic Num:5 COH score:0.4100450083191178
+top_n: 20 Topic Num: 5 
+Topic Words: [['sound', 'potential', 'karma', 'partner', 'force', 'username', 'range', 'external', 'pass', 'setting', 'guarantee', 'mind', 'false', 'swap', 'luck', 'normal', 'loop', 'immediate', 'selection', 'excited']]
+Coh_type:c_v  Topic Num:5 COH score:0.5518981764205106
+top_n: 10 Topic Num: 6 
+Topic Words: [['public', 'hand', 'leave', 'water', 'family', 'welcome', 'group', 'send', 'wish', 'chinese']]
+Coh_type:c_v  Topic Num:6 COH score:0.4001969446597971
+top_n: 20 Topic Num: 6 
+Topic Words: [['public', 'hand', 'leave', 'water', 'family', 'welcome', 'group', 'send', 'wish', 'chinese', 'zionist', 'product', 'consider', 'buy', 'surround', 'server', 'play', 'form', 'tech', 'beginning']]
+Coh_type:c_v  Topic Num:6 COH score:0.5050664942977854
+top_n: 10 Topic Num: 7 
+Topic Words: [['leave', 'cross', 'hand', 'typical', 'stay', 'zionist', 'shift', 'form', 'welcome', 'chinese']]
+Coh_type:c_v  Topic Num:7 COH score:0.4723559931131782
+top_n: 20 Topic Num: 7 
+Topic Words: [['leave', 'cross', 'hand', 'typical', 'stay', 'zionist', 'shift', 'form', 'welcome', 'chinese', 'operation', 'group', 'require', 'strength', 'improve', 'primary', 'picture', 'contain', 'strip', 'staff']]
+Coh_type:c_v  Topic Num:7 COH score:0.6122005226821526
+top_n: 10 Topic Num: 8 
+Topic Words: [['leave', 'welcome', 'safe', 'water', 'truly', 'government', 'scenario', 'typical', 'edge', 'hand']]
+Coh_type:c_v  Topic Num:8 COH score:0.4594736282272537
+top_n: 20 Topic Num: 8 
+Topic Words: [['leave', 'welcome', 'safe', 'water', 'truly', 'government', 'scenario', 'typical', 'edge', 'hand', 'improve', 'animal', 'bfhttheoryautotldrconcept', 'chinese', 'ability', 'public', 'anybody', 'order', 'surround', 'ride']]
+Coh_type:c_v  Topic Num:8 COH score:0.5878057097879567
+top_n: 10 Topic Num: 9 
+Topic Words: [['sound', 'force', 'range', 'setting', 'external', 'mind', 'luck', 'pass', 'excited', 'normal']]
+Coh_type:c_v  Topic Num:9 COH score:0.48882918846009293
+top_n: 20 Topic Num: 9 
+Topic Words: [['sound', 'force', 'range', 'setting', 'external', 'mind', 'luck', 'pass', 'excited', 'normal', 'false', 'potential', 'entire', 'wonder', 'couple', 'drive', 'selection', 'excellent', 'api', 'hair']]
+Coh_type:c_v  Topic Num:9 COH score:0.6225706682127232
+top_n: 10 Topic Num: 10 
+Topic Words: [['welcome', 'water', 'chinese', 'bfhttheoryautotldrconcept', 'hand', 'leave', 'sense', 'public', 'cross', 'brother']]
+Coh_type:c_v  Topic Num:10 COH score:0.3709712024575732
+top_n: 20 Topic Num: 10 
+Topic Words: [['welcome', 'water', 'chinese', 'bfhttheoryautotldrconcept', 'hand', 'leave', 'sense', 'public', 'cross', 'brother', 'group', 'tldrs', 'ride', 'seek', 'contain', 'morality', 'previous', 'edge', 'truly', 'typical']]
+Coh_type:c_v  Topic Num:10 COH score:0.5452469140294297
+top_n: 10 Topic Num: 11 
+Topic Words: [['hand', 'leave', 'server', 'public', 'edge', 'form', 'welcome', 'muslim', 'pull', 'staff']]
+Coh_type:c_v  Topic Num:11 COH score:0.49168440719434897
+top_n: 20 Topic Num: 11 
+Topic Words: [['hand', 'leave', 'server', 'public', 'edge', 'form', 'welcome', 'muslim', 'pull', 'staff', 'typical', 'shift', 'bfhttheoryautotldrconcept', 'play', 'zionist', 'product', 'selection', 'previous', 'download', 'improve']]
+Coh_type:c_v  Topic Num:11 COH score:0.5935236857864282
+top_n: 10 Topic Num: 12 
+Topic Words: [['leave', 'typical', 'consider', 'form', 'cross', 'hand', 'product', 'deny', 'welcome', 'ability']]
+Coh_type:c_v  Topic Num:12 COH score:0.35011851526603077
+top_n: 20 Topic Num: 12 
+Topic Words: [['leave', 'typical', 'consider', 'form', 'cross', 'hand', 'product', 'deny', 'welcome', 'ability', 'round', 'shift', 'public', 'truly', 'block', 'staff', 'theological', 'improve', 'plastic', 'aspect']]
+Coh_type:c_v  Topic Num:12 COH score:0.5625633938519694
+top_n: 10 Topic Num: 13 
+Topic Words: [['sound', 'setting', 'drive', 'potential', 'karma', 'range', 'force', 'k', 'excited', 'mind']]
+Coh_type:c_v  Topic Num:13 COH score:0.4203812269450621
+top_n: 20 Topic Num: 13 
+Topic Words: [['sound', 'setting', 'drive', 'potential', 'karma', 'range', 'force', 'k', 'excited', 'mind', 'pass', 'partner', 'luck', 'username', 'external', 'couple', 'type', 'post', 'loop', 'normal']]
+Coh_type:c_v  Topic Num:13 COH score:0.5526288116610282
+top_n: 10 Topic Num: 14 
+Topic Words: [['leave', 'welcome', 'consider', 'form', 'hand', 'public', 'bfhttheoryautotldrconcept', 'truly', 'edge', 'send']]
+Coh_type:c_v  Topic Num:14 COH score:0.40662537301296375
+top_n: 20 Topic Num: 14 
+Topic Words: [['leave', 'welcome', 'consider', 'form', 'hand', 'public', 'bfhttheoryautotldrconcept', 'truly', 'edge', 'send', 'cross', 'water', 'typical', 'face', 'tldrs', 'staff', 'require', 'selection', 'circuit', 'special']]
+Coh_type:c_v  Topic Num:14 COH score:0.5318477070309109
+top_n: 10 Topic Num: 15 
+Topic Words: [['sound', 'force', 'potential', 'karma', 'setting', 'external', 'partner', 'range', 'luck', 'mind']]
+Coh_type:c_v  Topic Num:15 COH score:0.47906034476717885
+top_n: 20 Topic Num: 15 
+Topic Words: [['sound', 'force', 'potential', 'karma', 'setting', 'external', 'partner', 'range', 'luck', 'mind', 'false', 'username', 'excited', 'normal', 'entire', 'mean', 'wonder', 'selection', 'guarantee', 'loop']]
+Coh_type:c_v  Topic Num:15 COH score:0.5604589089558826
+top_n: 10 Topic Num: 16 
+Topic Words: [['sound', 'setting', 'drive', 'karma', 'potential', 'force', 'k', 'range', 'excited', 'pass']]
+Coh_type:c_v  Topic Num:16 COH score:0.4231945049267038
+top_n: 20 Topic Num: 16 
+Topic Words: [['sound', 'setting', 'drive', 'karma', 'potential', 'force', 'k', 'range', 'excited', 'pass', 'mind', 'partner', 'luck', 'username', 'post', 'external', 'type', 'couple', 'normal', 'loop']]
+Coh_type:c_v  Topic Num:16 COH score:0.5526288116610282
+top_n: 10 Topic Num: 17 
+Topic Words: [['sound', 'setting', 'drive', 'force', 'potential', 'karma', 'k', 'range', 'excited', 'pass']]
+Coh_type:c_v  Topic Num:17 COH score:0.42319450492670374
+top_n: 20 Topic Num: 17 
+Topic Words: [['sound', 'setting', 'drive', 'force', 'potential', 'karma', 'k', 'range', 'excited', 'pass', 'mind', 'luck', 'partner', 'username', 'external', 'post', 'type', 'couple', 'normal', 'loop']]
+Coh_type:c_v  Topic Num:17 COH score:0.5526288116610282
+top_n: 10 Topic Num: 18 
+Topic Words: [['consider', 'leave', 'typical', 'improve', 'public', 'hand', 'cross', 'download', 'welcome', 'shift']]
+Coh_type:c_v  Topic Num:18 COH score:0.4198556311319644
+top_n: 20 Topic Num: 18 
+Topic Words: [['consider', 'leave', 'typical', 'improve', 'public', 'hand', 'cross', 'download', 'welcome', 'shift', 'zionist', 'selection', 'strength', 'picture', 'require', 'staff', 'bfhttheoryautotldrconcept', 'edge', 'bang', 'slightly']]
+Coh_type:c_v  Topic Num:18 COH score:0.6251603814409599
+top_n: 10 Topic Num: 19 
+Topic Words: [['sound', 'setting', 'range', 'mind', 'karma', 'potential', 'drive', 'pass', 'force', 'excited']]
+Coh_type:c_v  Topic Num:19 COH score:0.4029949144015507
+top_n: 20 Topic Num: 19 
+Topic Words: [['sound', 'setting', 'range', 'mind', 'karma', 'potential', 'drive', 'pass', 'force', 'excited', 'luck', 'external', 'k', 'partner', 'couple', 'loop', 'entire', 'false', 'username', 'normal']]
+Coh_type:c_v  Topic Num:19 COH score:0.5743380047925115
+top_n: 10 Topic Num: 20 
+Topic Words: [['leave', 'typical', 'welcome', 'group', 'hand', 'public', 'copy', 'bfhttheoryautotldrconcept', 'form', 'consider']]
+Coh_type:c_v  Topic Num:20 COH score:0.3128475182282043
+top_n: 20 Topic Num: 20 
+Topic Words: [['leave', 'typical', 'welcome', 'group', 'hand', 'public', 'copy', 'bfhttheoryautotldrconcept', 'form', 'consider', 'special', 'contain', 'cross', 'product', 'admin', 'chinese', 'muslim', 'input', 'improve', 'patent']]
+Coh_type:c_v  Topic Num:20 COH score:0.5126401142570142
+top_n: 10 Topic Num: 21 
+Topic Words: [['sound', 'karma', 'potential', 'external', 'pass', 'range', 'partner', 'stuff', 'shop', 'zero']]
+Coh_type:c_v  Topic Num:21 COH score:0.37698148017276795
+top_n: 20 Topic Num: 21 
+Topic Words: [['sound', 'karma', 'potential', 'external', 'pass', 'range', 'partner', 'stuff', 'shop', 'zero', 'setting', 'mind', 'normal', 'high', 'false', 'glock', 'hair', 'great', 'av', 'straight']]
+Coh_type:c_v  Topic Num:21 COH score:0.6288098538746888
+top_n: 10 Topic Num: 22 
+Topic Words: [['send', 'hand', 'shift', 'public', 'seek', 'consider', 'zionist', 'animal', 'form', 'chinese']]
+Coh_type:c_v  Topic Num:22 COH score:0.49409690638601333
+top_n: 20 Topic Num: 22 
+Topic Words: [['send', 'hand', 'shift', 'public', 'seek', 'consider', 'zionist', 'animal', 'form', 'chinese', 'ride', 'aspect', 'face', 'typical', 'leave', 'product', 'wave', 'truly', 'round', 'reason']]
+Coh_type:c_v  Topic Num:22 COH score:0.5351635431447789
+top_n: 10 Topic Num: 23 
+Topic Words: [['welcome', 'leave', 'bfhttheoryautotldrconcept', 'cross', 'group', 'tldrs', 'slightly', 'hand', 'truly', 'admin']]
+Coh_type:c_v  Topic Num:23 COH score:0.2607313265295884
+top_n: 20 Topic Num: 23 
+Topic Words: [['welcome', 'leave', 'bfhttheoryautotldrconcept', 'cross', 'group', 'tldrs', 'slightly', 'hand', 'truly', 'admin', 'previous', 'send', 'muslim', 'surround', 'server', 'aspect', 'input', 'public', 'shift', 'morality']]
+Coh_type:c_v  Topic Num:23 COH score:0.46079722297902637
+top_n: 10 Topic Num: 24 
+Topic Words: [['leave', 'hand', 'product', 'form', 'typical', 'slightly', 'disaster', 'aspect', 'water', 'edge']]
+Coh_type:c_v  Topic Num:24 COH score:0.5048692215459949
+top_n: 20 Topic Num: 24 
+Topic Words: [['leave', 'hand', 'product', 'form', 'typical', 'slightly', 'disaster', 'aspect', 'water', 'edge', 'staff', 'chinese', 'cross', 'welcome', 'federal', 'ability', 'zionist', 'truly', 'muslim', 'special']]
+Coh_type:c_v  Topic Num:24 COH score:0.6341430234067057
+top_n: 10 Topic Num: 25 
+Topic Words: [['hand', 'water', 'individual', 'welcome', 'wish', 'play', 'form', 'product', 'face', 'ride']]
+Coh_type:c_v  Topic Num:25 COH score:0.3679627198502879
+top_n: 20 Topic Num: 25 
+Topic Words: [['hand', 'water', 'individual', 'welcome', 'wish', 'play', 'form', 'product', 'face', 'ride', 'sense', 'public', 'tech', 'order', 'server', 'perspective', 'chinese', 'market', 'seek', 'brother']]
+Coh_type:c_v  Topic Num:25 COH score:0.5159267190477627
+top_n: 10 Topic Num: 26 
+Topic Words: [['leave', 'welcome', 'typical', 'tldrs', 'face', 'chinese', 'public', 'autotldr', 'shift', 'thin']]
+Coh_type:c_v  Topic Num:26 COH score:0.5081123182661733
+top_n: 20 Topic Num: 26 
+Topic Words: [['leave', 'welcome', 'typical', 'tldrs', 'face', 'chinese', 'public', 'autotldr', 'shift', 'thin', 'individual', 'hand', 'patent', 'hit', 'bfhttheoryautotldrconcept', 'particle', 'input', 'rear', 'reduce', 'improve']]
+Coh_type:c_v  Topic Num:26 COH score:0.5756675174411121
+top_n: 10 Topic Num: 27 
+Topic Words: [['sound', 'setting', 'range', 'mind', 'k', 'excited', 'karma', 'luck', 'potential', 'external']]
+Coh_type:c_v  Topic Num:27 COH score:0.5040234888018306
+top_n: 20 Topic Num: 27 
+Topic Words: [['sound', 'setting', 'range', 'mind', 'k', 'excited', 'karma', 'luck', 'potential', 'external', 'drive', 'couple', 'entire', 'pass', 'force', 'normal', 'wonder', 'false', 'partner', 'post']]
+Coh_type:c_v  Topic Num:27 COH score:0.5450776295628372
+top_n: 10 Topic Num: 28 
+Topic Words: [['sound', 'potential', 'karma', 'username', 'partner', 'setting', 'mind', 'k', 'luck', 'guarantee']]
+Coh_type:c_v  Topic Num:28 COH score:0.35145563711072925
+top_n: 20 Topic Num: 28 
+Topic Words: [['sound', 'potential', 'karma', 'username', 'partner', 'setting', 'mind', 'k', 'luck', 'guarantee', 'immediate', 'range', 'external', 'post', 'drive', 'couple', 'excited', 'join', 'force', 'api']]
+Coh_type:c_v  Topic Num:28 COH score:0.49426057429244025
+top_n: 10 Topic Num: 29 
+Topic Words: [['sound', 'force', 'range', 'setting', 'potential', 'mind', 'external', 'pass', 'luck', 'excited']]
+Coh_type:c_v  Topic Num:29 COH score:0.4817327820044116
+top_n: 20 Topic Num: 29 
+Topic Words: [['sound', 'force', 'range', 'setting', 'potential', 'mind', 'external', 'pass', 'luck', 'excited', 'karma', 'couple', 'entire', 'normal', 'false', 'drive', 'selection', 'api', 'wonder', 'partner']]
+Coh_type:c_v  Topic Num:29 COH score:0.5954654607022966
+top_n: 10 Topic Num: 30 
+Topic Words: [['welcome', 'typical', 'leave', 'input', 'form', 'chinese', 'hand', 'tldrs', 'zionist', 'improve']]
+Coh_type:c_v  Topic Num:30 COH score:0.5160139607253937
+top_n: 20 Topic Num: 30 
+Topic Words: [['welcome', 'typical', 'leave', 'input', 'form', 'chinese', 'hand', 'tldrs', 'zionist', 'improve', 'copy', 'muslim', 'thin', 'server', 'shift', 'bfhttheoryautotldrconcept', 'group', 'reduce', 'truly', 'public']]
+Coh_type:c_v  Topic Num:30 COH score:0.579835581393787
+top_n: 10 Topic Num: 31 
+Topic Words: [['hand', 'group', 'consider', 'water', 'leave', 'typical', 'previous', 'edge', 'welcome', 'play']]
+Coh_type:c_v  Topic Num:31 COH score:0.34858499373190494
+top_n: 20 Topic Num: 31 
+Topic Words: [['hand', 'group', 'consider', 'water', 'leave', 'typical', 'previous', 'edge', 'welcome', 'play', 'face', 'bfhttheoryautotldrconcept', 'r', 'ride', 'family', 'server', 'relate', 'color', 'bring', 'surround']]
+Coh_type:c_v  Topic Num:31 COH score:0.4857751266462909
+top_n: 10 Topic Num: 32 
+Topic Words: [['shift', 'public', 'hand', 'send', 'form', 'zionist', 'consider', 'typical', 'chinese', 'truly']]
+Coh_type:c_v  Topic Num:32 COH score:0.4096388482370365
+top_n: 20 Topic Num: 32 
+Topic Words: [['shift', 'public', 'hand', 'send', 'form', 'zionist', 'consider', 'typical', 'chinese', 'truly', 'face', 'server', 'staff', 'operation', 'round', 'aspect', 'gold', 'refuse', 'particle', 'edge']]
+Coh_type:c_v  Topic Num:32 COH score:0.6395157466114747
+top_n: 10 Topic Num: 33 
+Topic Words: [['hand', 'welcome', 'group', 'public', 'pull', 'bfhttheoryautotldrconcept', 'water', 'input', 'surround', 'color']]
+Coh_type:c_v  Topic Num:33 COH score:0.3340905095161514
+top_n: 20 Topic Num: 33 
+Topic Words: [['hand', 'welcome', 'group', 'public', 'pull', 'bfhttheoryautotldrconcept', 'water', 'input', 'surround', 'color', 'typical', 'hit', 'server', 'edge', 'form', 'previous', 'product', 'tldrs', 'dot', 'brother']]
+Coh_type:c_v  Topic Num:33 COH score:0.5774164199226319
+top_n: 10 Topic Num: 34 
+Topic Words: [['sound', 'setting', 'drive', 'potential', 'karma', 'force', 'range', 'k', 'excited', 'mind']]
+Coh_type:c_v  Topic Num:34 COH score:0.420381226945062
+top_n: 20 Topic Num: 34 
+Topic Words: [['sound', 'setting', 'drive', 'potential', 'karma', 'force', 'range', 'k', 'excited', 'mind', 'pass', 'partner', 'luck', 'username', 'external', 'couple', 'type', 'post', 'loop', 'normal']]
+Coh_type:c_v  Topic Num:34 COH score:0.5526288116610282
+top_n: 10 Topic Num: 35 
+Topic Words: [['hand', 'welcome', 'water', 'public', 'previous', 'bfhttheoryautotldrconcept', 'leave', 'typical', 'color', 'input']]
+Coh_type:c_v  Topic Num:35 COH score:0.46161007140780297
+top_n: 20 Topic Num: 35 
+Topic Words: [['hand', 'welcome', 'water', 'public', 'previous', 'bfhttheoryautotldrconcept', 'leave', 'typical', 'color', 'input', 'muslim', 'circuit', 'brother', 'bang', 'ride', 'market', 'reduce', 'require', 'edge', 'consider']]
+Coh_type:c_v  Topic Num:35 COH score:0.5520135634144766
+top_n: 10 Topic Num: 36 
+Topic Words: [['leave', 'typical', 'hand', 'water', 'welcome', 'group', 'server', 'strength', 'surround', 'form']]
+Coh_type:c_v  Topic Num:36 COH score:0.44426121950717984
+top_n: 20 Topic Num: 36 
+Topic Words: [['leave', 'typical', 'hand', 'water', 'welcome', 'group', 'server', 'strength', 'surround', 'form', 'improve', 'public', 'x', 'wish', 'chinese', 'edge', 'ride', 'bfhttheoryautotldrconcept', 'send', 'muslim']]
+Coh_type:c_v  Topic Num:36 COH score:0.5902863132424219
+top_n: 10 Topic Num: 37 
+Topic Words: [['sound', 'setting', 'mind', 'k', 'range', 'karma', 'potential', 'luck', 'drive', 'excited']]
+Coh_type:c_v  Topic Num:37 COH score:0.4333161347557663
+top_n: 20 Topic Num: 37 
+Topic Words: [['sound', 'setting', 'mind', 'k', 'range', 'karma', 'potential', 'luck', 'drive', 'excited', 'external', 'couple', 'partner', 'post', 'entire', 'normal', 'shop', 'pass', 'wonder', 'false']]
+Coh_type:c_v  Topic Num:37 COH score:0.5542473422866914
+top_n: 10 Topic Num: 38 
+Topic Words: [['leave', 'form', 'hand', 'public', 'edge', 'water', 'special', 'typical', 'welcome', 'picture']]
+Coh_type:c_v  Topic Num:38 COH score:0.4578086330289743
+top_n: 20 Topic Num: 38 
+Topic Words: [['leave', 'form', 'hand', 'public', 'edge', 'water', 'special', 'typical', 'welcome', 'picture', 'federal', 'staff', 'circuit', 'play', 'ride', 'ability', 'autotldr', 'shift', 'truly', 'disaster']]
+Coh_type:c_v  Topic Num:38 COH score:0.5622833971773258
+top_n: 10 Topic Num: 39 
+Topic Words: [['sound', 'karma', 'potential', 'partner', 'pass', 'username', 'range', 'external', 'shop', 'loop']]
+Coh_type:c_v  Topic Num:39 COH score:0.3922994935867695
+top_n: 20 Topic Num: 39 
+Topic Words: [['sound', 'karma', 'potential', 'partner', 'pass', 'username', 'range', 'external', 'shop', 'loop', 'setting', 'stuff', 'mind', 'great', 'normal', 'glock', 'false', 'join', 'immediate', 'hair']]
+Coh_type:c_v  Topic Num:39 COH score:0.578595752745083
+top_n: 10 Topic Num: 40 
+Topic Words: [['edge', 'hand', 'tech', 'welcome', 'software', 'color', 'water', 'aspect', 'ride', 'capable']]
+Coh_type:c_v  Topic Num:40 COH score:0.5433581939451387
+top_n: 20 Topic Num: 40 
+Topic Words: [['edge', 'hand', 'tech', 'welcome', 'software', 'color', 'water', 'aspect', 'ride', 'capable', 'market', 'ability', 'surround', 'sense', 'leave', 'buy', 'play', 'primary', 'cross', 'imagine']]
+Coh_type:c_v  Topic Num:40 COH score:0.5166582039982601
+top_n: 10 Topic Num: 41 
+Topic Words: [['welcome', 'hand', 'public', 'form', 'typical', 'shift', 'edge', 'play', 'water', 'truly']]
+Coh_type:c_v  Topic Num:41 COH score:0.459351802862503
+top_n: 20 Topic Num: 41 
+Topic Words: [['welcome', 'hand', 'public', 'form', 'typical', 'shift', 'edge', 'play', 'water', 'truly', 'ability', 'cross', 'bfhttheoryautotldrconcept', 'aspect', 'circuit', 'send', 'require', 'face', 'fork', 'improve']]
+Coh_type:c_v  Topic Num:41 COH score:0.5644472543310577
+top_n: 10 Topic Num: 42 
+Topic Words: [['sound', 'karma', 'potential', 'mind', 'setting', 'range', 'partner', 'external', 'force', 'luck']]
+Coh_type:c_v  Topic Num:42 COH score:0.47906034476717896
+top_n: 20 Topic Num: 42 
+Topic Words: [['sound', 'karma', 'potential', 'mind', 'setting', 'range', 'partner', 'external', 'force', 'luck', 'excited', 'username', 'couple', 'k', 'drive', 'pass', 'entire', 'normal', 'false', 'guarantee']]
+Coh_type:c_v  Topic Num:42 COH score:0.532153062874358
+top_n: 10 Topic Num: 43 
+Topic Words: [['hand', 'form', 'typical', 'send', 'group', 'shift', 'leave', 'improve', 'regard', 'play']]
+Coh_type:c_v  Topic Num:43 COH score:0.3494032095494195
+top_n: 20 Topic Num: 43 
+Topic Words: [['hand', 'form', 'typical', 'send', 'group', 'shift', 'leave', 'improve', 'regard', 'play', 'server', 'truly', 'selection', 'staff', 'reflect', 'muslim', 'zionist', 'cross', 'edge', 'bang']]
+Coh_type:c_v  Topic Num:43 COH score:0.6120660196977497
+top_n: 10 Topic Num: 44 
+Topic Words: [['welcome', 'water', 'edge', 'hand', 'bfhttheoryautotldrconcept', 'leave', 'tldrs', 'reduce', 'group', 'circuit']]
+Coh_type:c_v  Topic Num:44 COH score:0.32869787311335014
+top_n: 20 Topic Num: 44 
+Topic Words: [['welcome', 'water', 'edge', 'hand', 'bfhttheoryautotldrconcept', 'leave', 'tldrs', 'reduce', 'group', 'circuit', 'chinese', 'fmfaqautotldrbot', 'individual', 'form', 'safe', 'surround', 'admin', 'typical', 'government', 'special']]
+Coh_type:c_v  Topic Num:44 COH score:0.4668183946604002
+top_n: 10 Topic Num: 45 
+Topic Words: [['leave', 'welcome', 'hand', 'brother', 'bfhttheoryautotldrconcept', 'edge', 'face', 'previous', 'picture', 'surround']]
+Coh_type:c_v  Topic Num:45 COH score:0.3355964795824256
+top_n: 20 Topic Num: 45 
+Topic Words: [['leave', 'welcome', 'hand', 'brother', 'bfhttheoryautotldrconcept', 'edge', 'face', 'previous', 'picture', 'surround', 'truly', 'cross', 'water', 'admin', 'form', 'public', 'tldrs', 'group', 'strength', 'play']]
+Coh_type:c_v  Topic Num:45 COH score:0.4169483345701817
+top_n: 10 Topic Num: 46 
+Topic Words: [['send', 'leave', 'shift', 'hand', 'cross', 'welcome', 'public', 'typical', 'face', 'require']]
+Coh_type:c_v  Topic Num:46 COH score:0.37298543365428916
+top_n: 20 Topic Num: 46 
+Topic Words: [['send', 'leave', 'shift', 'hand', 'cross', 'welcome', 'public', 'typical', 'face', 'require', 'operation', 'reduce', 'form', 'round', 'compare', 'consider', 'improve', 'staff', 'product', 'truly']]
+Coh_type:c_v  Topic Num:46 COH score:0.462151461073996
+top_n: 10 Topic Num: 47 
+Topic Words: [['welcome', 'leave', 'group', 'hand', 'cross', 'truly', 'bfhttheoryautotldrconcept', 'copy', 'send', 'public']]
+Coh_type:c_v  Topic Num:47 COH score:0.2714647914714594
+top_n: 20 Topic Num: 47 
+Topic Words: [['welcome', 'leave', 'group', 'hand', 'cross', 'truly', 'bfhttheoryautotldrconcept', 'copy', 'send', 'public', 'morality', 'require', 'form', 'typical', 'shift', 'helmet', 'tldrs', 'thin', 'ground', 'muslim']]
+Coh_type:c_v  Topic Num:47 COH score:0.5614933400988422
+top_n: 10 Topic Num: 48 
+Topic Words: [['sound', 'potential', 'karma', 'partner', 'force', 'username', 'range', 'external', 'pass', 'setting']]
+Coh_type:c_v  Topic Num:48 COH score:0.4100450083191178
+top_n: 20 Topic Num: 48 
+Topic Words: [['sound', 'potential', 'karma', 'partner', 'force', 'username', 'range', 'external', 'pass', 'setting', 'mind', 'guarantee', 'false', 'luck', 'swap', 'normal', 'loop', 'immediate', 'selection', 'excited']]
+Coh_type:c_v  Topic Num:48 COH score:0.5518981764205106
+top_n: 10 Topic Num: 49 
+Topic Words: [['potential', 'sound', 'karma', 'username', 'partner', 'force', 'swap', 'guarantee', 'external', 'range']]
+Coh_type:c_v  Topic Num:49 COH score:0.42440844223793633
+top_n: 20 Topic Num: 49 
+Topic Words: [['potential', 'sound', 'karma', 'username', 'partner', 'force', 'swap', 'guarantee', 'external', 'range', 'pass', 'setting', 'mind', 'immediate', 'false', 'loop', 'normal', 'luck', 'great', 'join']]
+Coh_type:c_v  Topic Num:49 COH score:0.4597199311047895
+top_n: 10 Topic Num: 50 
+Topic Words: [['sound', 'external', 'pass', 'normal', 'excellent', 'excited', 'shape', 'post', 'k', 'potential']]
+Coh_type:c_v  Topic Num:50 COH score:0.5016431206765943
+top_n: 20 Topic Num: 50 
+Topic Words: [['sound', 'external', 'pass', 'normal', 'excellent', 'excited', 'shape', 'post', 'k', 'potential', 'couple', 'karma', 'great', 'new', 'entire', 'specie', 'stuff', 'false', 'hair', 'luck']]
+Coh_type:c_v  Topic Num:50 COH score:0.5828423682736725
+top scores for top_10:[0.5433581939451387, 10, [['edge', 'hand', 'tech', 'welcome', 'software', 'color', 'water', 'aspect', 'ride', 'capable']]]
+-------------------------------------------------------------------
+top scores for top_20:[0.6540521214069557, 20, [['sound', 'pass', 'karma', 'potential', 'external', 'type', 'normal', 'post', 'shop', 'excited', 'range', 'stuff', 'straight', 'excellent', 'shape', 'username', 'false', 'k', 'hair', 'glock']]]
+-------------------------------------------------------------------
+Avg COH for top_10 topic words: 0.4207208875085462
+-------------------------------------------------------------------
+Avg COH for top_20 topic words: 0.5534171332610476
+-------------------------------------------------------------------

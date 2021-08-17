@@ -1,0 +1,250 @@
+h_num: 0
+w_h_top_words_indx: [2689 3326 1949 3787 2553 1387 3507 1266 1583 2859 3187 2555 2249 1758
+ 1290 2089 2402 1548 2104 3160]
+w_h_top_words:['potential', 'sound', 'karma', 'username', 'partner', 'force', 'swap', 'external', 'guarantee', 'range', 'setting', 'pass', 'mind', 'immediate', 'false', 'loop', 'normal', 'great', 'luck', 'selection']
+----------------------------------------------------------------------
+h_num: 1
+w_h_top_words_indx: [3880 3901 1558 1602  480 1779 2917 2812 3966  652 3499 2564 2176 2734
+ 3156 3034 2014  217  575 3287]
+w_h_top_words:['water', 'welcome', 'group', 'hand', 'buy', 'improve', 'reduce', 'public', 'x', 'color', 'surround', 'patent', 'math', 'previous', 'seek', 'ride', 'leave', 'aspect', 'chinese', 'slightly']
+----------------------------------------------------------------------
+h_num: 2
+w_h_top_words_indx: [3326 2555 1949 2689 1266 3715 2402 2685 3223 1227 2859 3443 3418 1221
+ 3204 3787 1290 1948 1599 1508]
+w_h_top_words:['sound', 'pass', 'karma', 'potential', 'external', 'type', 'normal', 'post', 'shop', 'excited', 'range', 'stuff', 'straight', 'excellent', 'shape', 'username', 'false', 'k', 'hair', 'glock']
+----------------------------------------------------------------------
+h_num: 3
+w_h_top_words_indx: [3326 2689 1387 2553 2859 3187 1949 1266 2104 3787 2402 1227 2192  797
+ 2249 1290 3941 1164 1583  168]
+w_h_top_words:['sound', 'potential', 'force', 'partner', 'range', 'setting', 'karma', 'external', 'luck', 'username', 'normal', 'excited', 'mean', 'couple', 'mind', 'false', 'wonder', 'entire', 'guarantee', 'api']
+----------------------------------------------------------------------
+h_num: 4
+w_h_top_words_indx: [3326 2689 1949 2553 1387 3787 2859 1266 2555 3187 1583 2249 1290 3507
+ 2104 2402 2089 1758 3160 1227]
+w_h_top_words:['sound', 'potential', 'karma', 'partner', 'force', 'username', 'range', 'external', 'pass', 'setting', 'guarantee', 'mind', 'false', 'swap', 'luck', 'normal', 'loop', 'immediate', 'selection', 'excited']
+----------------------------------------------------------------------
+h_num: 5
+w_h_top_words_indx: [2812 1602 2014 3880 1292 3901 1558 3167 3935  575 3997 2767  732  480
+ 3499 3183 2642 1396 3545  335]
+w_h_top_words:['public', 'hand', 'leave', 'water', 'family', 'welcome', 'group', 'send', 'wish', 'chinese', 'zionist', 'product', 'consider', 'buy', 'surround', 'server', 'play', 'form', 'tech', 'beginning']
+----------------------------------------------------------------------
+h_num: 6
+w_h_top_words_indx: [2014  830 1602 3716 3402 3997 3211 1396 3901  575 2480 1558 2987 3426
+ 1779 2741 2618  749 3433 3380]
+w_h_top_words:['leave', 'cross', 'hand', 'typical', 'stay', 'zionist', 'shift', 'form', 'welcome', 'chinese', 'operation', 'group', 'require', 'strength', 'improve', 'primary', 'picture', 'contain', 'strip', 'staff']
+----------------------------------------------------------------------
+h_num: 7
+w_h_top_words_indx: [2014 3901 3090 3880 3698 1528 3118 3716 1100 1602 1779  151  358  575
+    4 2812  162 2494 3499 3034]
+w_h_top_words:['leave', 'welcome', 'safe', 'water', 'truly', 'government', 'scenario', 'typical', 'edge', 'hand', 'improve', 'animal', 'bfhttheoryautotldrconcept', 'chinese', 'ability', 'public', 'anybody', 'order', 'surround', 'ride']
+----------------------------------------------------------------------
+h_num: 8
+w_h_top_words_indx: [3326 1387 2859 3187 1266 2249 2104 2555 1227 2402 1290 2689 1164 3941
+  797 1065 3160 1221  168 1599]
+w_h_top_words:['sound', 'force', 'range', 'setting', 'external', 'mind', 'luck', 'pass', 'excited', 'normal', 'false', 'potential', 'entire', 'wonder', 'couple', 'drive', 'selection', 'excellent', 'api', 'hair']
+----------------------------------------------------------------------
+h_num: 9
+w_h_top_words_indx: [3901 3880  575  358 1602 2014 3169 2812  830  444 1558 3627 3034 3156
+  749 2305 2734 1100 3698 3716]
+w_h_top_words:['welcome', 'water', 'chinese', 'bfhttheoryautotldrconcept', 'hand', 'leave', 'sense', 'public', 'cross', 'brother', 'group', 'tldrs', 'ride', 'seek', 'contain', 'morality', 'previous', 'edge', 'truly', 'typical']
+----------------------------------------------------------------------
+h_num: 10
+w_h_top_words_indx: [1602 2014 3183 2812 1100 1396 3901 2338 2815 3380 3716 3211  358 2642
+ 3997 2767 3160 2734 1051 1779]
+w_h_top_words:['hand', 'leave', 'server', 'public', 'edge', 'form', 'welcome', 'muslim', 'pull', 'staff', 'typical', 'shift', 'bfhttheoryautotldrconcept', 'play', 'zionist', 'product', 'selection', 'previous', 'download', 'improve']
+----------------------------------------------------------------------
+h_num: 11
+w_h_top_words_indx: [2014 3716  732 1396  830 1602 2767  936 3901    4 3064 3211 2812 3698
+  392 3380 3585 1779 2639  217]
+w_h_top_words:['leave', 'typical', 'consider', 'form', 'cross', 'hand', 'product', 'deny', 'welcome', 'ability', 'round', 'shift', 'public', 'truly', 'block', 'staff', 'theological', 'improve', 'plastic', 'aspect']
+----------------------------------------------------------------------
+h_num: 12
+w_h_top_words_indx: [3326 3187 1065 2689 1949 2859 1387 1948 1227 2249 2555 2553 2104 3787
+ 1266  797 3715 2685 2089 2402]
+w_h_top_words:['sound', 'setting', 'drive', 'potential', 'karma', 'range', 'force', 'k', 'excited', 'mind', 'pass', 'partner', 'luck', 'username', 'external', 'couple', 'type', 'post', 'loop', 'normal']
+----------------------------------------------------------------------
+h_num: 13
+w_h_top_words_indx: [2014 3901  732 1396 1602 2812  358 3698 1100 3167  830 3880 3716 1274
+ 3627 3380 2987 3160  590 3344]
+w_h_top_words:['leave', 'welcome', 'consider', 'form', 'hand', 'public', 'bfhttheoryautotldrconcept', 'truly', 'edge', 'send', 'cross', 'water', 'typical', 'face', 'tldrs', 'staff', 'require', 'selection', 'circuit', 'special']
+----------------------------------------------------------------------
+h_num: 14
+w_h_top_words_indx: [3326 1387 2689 1949 3187 1266 2553 2859 2104 2249 1290 3787 1227 2402
+ 1164 2192 3941 3160 1583 2089]
+w_h_top_words:['sound', 'force', 'potential', 'karma', 'setting', 'external', 'partner', 'range', 'luck', 'mind', 'false', 'username', 'excited', 'normal', 'entire', 'mean', 'wonder', 'selection', 'guarantee', 'loop']
+----------------------------------------------------------------------
+h_num: 15
+w_h_top_words_indx: [3326 3187 1065 1949 2689 1387 1948 2859 1227 2555 2249 2553 2104 3787
+ 2685 1266 3715  797 2402 2089]
+w_h_top_words:['sound', 'setting', 'drive', 'karma', 'potential', 'force', 'k', 'range', 'excited', 'pass', 'mind', 'partner', 'luck', 'username', 'post', 'external', 'type', 'couple', 'normal', 'loop']
+----------------------------------------------------------------------
+h_num: 16
+w_h_top_words_indx: [3326 3187 1065 1387 2689 1949 1948 2859 1227 2555 2249 2104 2553 3787
+ 1266 2685 3715  797 2402 2089]
+w_h_top_words:['sound', 'setting', 'drive', 'force', 'potential', 'karma', 'k', 'range', 'excited', 'pass', 'mind', 'luck', 'partner', 'username', 'external', 'post', 'type', 'couple', 'normal', 'loop']
+----------------------------------------------------------------------
+h_num: 17
+w_h_top_words_indx: [ 732 2014 3716 1779 2812 1602  830 1051 3901 3211 3997 3160 3426 2618
+ 2987 3380  358 1100  298 3287]
+w_h_top_words:['consider', 'leave', 'typical', 'improve', 'public', 'hand', 'cross', 'download', 'welcome', 'shift', 'zionist', 'selection', 'strength', 'picture', 'require', 'staff', 'bfhttheoryautotldrconcept', 'edge', 'bang', 'slightly']
+----------------------------------------------------------------------
+h_num: 18
+w_h_top_words_indx: [3326 3187 2859 2249 1949 2689 1065 2555 1387 1227 2104 1266 1948 2553
+  797 2089 1164 1290 3787 2402]
+w_h_top_words:['sound', 'setting', 'range', 'mind', 'karma', 'potential', 'drive', 'pass', 'force', 'excited', 'luck', 'external', 'k', 'partner', 'couple', 'loop', 'entire', 'false', 'username', 'normal']
+----------------------------------------------------------------------
+h_num: 19
+w_h_top_words_indx: [2014 3716 3901 1558 1602 2812  774  358 1396  732 3344  749  830 2767
+   59  575 2338 1822 1779 2564]
+w_h_top_words:['leave', 'typical', 'welcome', 'group', 'hand', 'public', 'copy', 'bfhttheoryautotldrconcept', 'form', 'consider', 'special', 'contain', 'cross', 'product', 'admin', 'chinese', 'muslim', 'input', 'improve', 'patent']
+----------------------------------------------------------------------
+h_num: 20
+w_h_top_words_indx: [3326 1949 2689 1266 2555 2859 2553 3443 3223 3996 3187 2249 2402 1659
+ 1290 1508 1599 1548  262 3418]
+w_h_top_words:['sound', 'karma', 'potential', 'external', 'pass', 'range', 'partner', 'stuff', 'shop', 'zero', 'setting', 'mind', 'normal', 'high', 'false', 'glock', 'hair', 'great', 'av', 'straight']
+----------------------------------------------------------------------
+h_num: 21
+w_h_top_words_indx: [3167 1602 3211 2812 3156  732 3997  151 1396  575 3034  217 1274 3716
+ 2014 2767 3882 3698 3064 2894]
+w_h_top_words:['send', 'hand', 'shift', 'public', 'seek', 'consider', 'zionist', 'animal', 'form', 'chinese', 'ride', 'aspect', 'face', 'typical', 'leave', 'product', 'wave', 'truly', 'round', 'reason']
+----------------------------------------------------------------------
+h_num: 22
+w_h_top_words_indx: [3901 2014  358  830 1558 3627 3287 1602 3698   59 2734 3167 2338 3499
+ 3183  217 1822 2812 3211 2305]
+w_h_top_words:['welcome', 'leave', 'bfhttheoryautotldrconcept', 'cross', 'group', 'tldrs', 'slightly', 'hand', 'truly', 'admin', 'previous', 'send', 'muslim', 'surround', 'server', 'aspect', 'input', 'public', 'shift', 'morality']
+----------------------------------------------------------------------
+h_num: 23
+w_h_top_words_indx: [2014 1602 2767 1396 3716 3287  999  217 3880 1100 3380  575  830 3901
+ 1313    4 3997 3698 2338 3344]
+w_h_top_words:['leave', 'hand', 'product', 'form', 'typical', 'slightly', 'disaster', 'aspect', 'water', 'edge', 'staff', 'chinese', 'cross', 'welcome', 'federal', 'ability', 'zionist', 'truly', 'muslim', 'special']
+----------------------------------------------------------------------
+h_num: 24
+w_h_top_words_indx: [1602 3880 1797 3901 3935 2642 1396 2767 1274 3034 3169 2812 3545 2494
+ 3183 2600  575 2159 3156  444]
+w_h_top_words:['hand', 'water', 'individual', 'welcome', 'wish', 'play', 'form', 'product', 'face', 'ride', 'sense', 'public', 'tech', 'order', 'server', 'perspective', 'chinese', 'market', 'seek', 'brother']
+----------------------------------------------------------------------
+h_num: 25
+w_h_top_words_indx: [2014 3901 3716 3627 1274  575 2812  261 3211 3591 1797 1602 2564 1673
+  358 2549 1822 2893 2917 1779]
+w_h_top_words:['leave', 'welcome', 'typical', 'tldrs', 'face', 'chinese', 'public', 'autotldr', 'shift', 'thin', 'individual', 'hand', 'patent', 'hit', 'bfhttheoryautotldrconcept', 'particle', 'input', 'rear', 'reduce', 'improve']
+----------------------------------------------------------------------
+h_num: 26
+w_h_top_words_indx: [3326 3187 2859 2249 1948 1227 1949 2104 2689 1266 1065  797 1164 2555
+ 1387 2402 3941 1290 2553 2685]
+w_h_top_words:['sound', 'setting', 'range', 'mind', 'k', 'excited', 'karma', 'luck', 'potential', 'external', 'drive', 'couple', 'entire', 'pass', 'force', 'normal', 'wonder', 'false', 'partner', 'post']
+----------------------------------------------------------------------
+h_num: 27
+w_h_top_words_indx: [3326 2689 1949 3787 2553 3187 2249 1948 2104 1583 1758 2859 1266 2685
+ 1065  797 1227 1928 1387  168]
+w_h_top_words:['sound', 'potential', 'karma', 'username', 'partner', 'setting', 'mind', 'k', 'luck', 'guarantee', 'immediate', 'range', 'external', 'post', 'drive', 'couple', 'excited', 'join', 'force', 'api']
+----------------------------------------------------------------------
+h_num: 28
+w_h_top_words_indx: [3326 1387 2859 3187 2689 2249 1266 2555 2104 1227 1949  797 1164 2402
+ 1290 1065 3160  168 3941 2553]
+w_h_top_words:['sound', 'force', 'range', 'setting', 'potential', 'mind', 'external', 'pass', 'luck', 'excited', 'karma', 'couple', 'entire', 'normal', 'false', 'drive', 'selection', 'api', 'wonder', 'partner']
+----------------------------------------------------------------------
+h_num: 29
+w_h_top_words_indx: [3901 3716 2014 1822 1396  575 1602 3627 3997 1779  774 2338 3591 3183
+ 3211  358 1558 2917 3698 2812]
+w_h_top_words:['welcome', 'typical', 'leave', 'input', 'form', 'chinese', 'hand', 'tldrs', 'zionist', 'improve', 'copy', 'muslim', 'thin', 'server', 'shift', 'bfhttheoryautotldrconcept', 'group', 'reduce', 'truly', 'public']
+----------------------------------------------------------------------
+h_num: 30
+w_h_top_words_indx: [1602 1558  732 3880 2014 3716 2734 1100 3901 2642 1274  358 2843 3034
+ 1292 3183 2943  652  438 3499]
+w_h_top_words:['hand', 'group', 'consider', 'water', 'leave', 'typical', 'previous', 'edge', 'welcome', 'play', 'face', 'bfhttheoryautotldrconcept', 'r', 'ride', 'family', 'server', 'relate', 'color', 'bring', 'surround']
+----------------------------------------------------------------------
+h_num: 31
+w_h_top_words_indx: [3211 2812 1602 3167 1396 3997  732 3716  575 3698 1274 3183 3380 2480
+ 3064  217 1518 2927 2549 1100]
+w_h_top_words:['shift', 'public', 'hand', 'send', 'form', 'zionist', 'consider', 'typical', 'chinese', 'truly', 'face', 'server', 'staff', 'operation', 'round', 'aspect', 'gold', 'refuse', 'particle', 'edge']
+----------------------------------------------------------------------
+h_num: 32
+w_h_top_words_indx: [1602 3901 1558 2812 2815  358 3880 1822 3499  652 3716 1673 3183 1100
+ 1396 2734 2767 3627 1048  444]
+w_h_top_words:['hand', 'welcome', 'group', 'public', 'pull', 'bfhttheoryautotldrconcept', 'water', 'input', 'surround', 'color', 'typical', 'hit', 'server', 'edge', 'form', 'previous', 'product', 'tldrs', 'dot', 'brother']
+----------------------------------------------------------------------
+h_num: 33
+w_h_top_words_indx: [3326 3187 1065 2689 1949 1387 2859 1948 1227 2249 2555 2553 2104 3787
+ 1266  797 3715 2685 2089 2402]
+w_h_top_words:['sound', 'setting', 'drive', 'potential', 'karma', 'force', 'range', 'k', 'excited', 'mind', 'pass', 'partner', 'luck', 'username', 'external', 'couple', 'type', 'post', 'loop', 'normal']
+----------------------------------------------------------------------
+h_num: 34
+w_h_top_words_indx: [1602 3901 3880 2812 2734  358 2014 3716  652 1822 2338  590  444  298
+ 3034 2159 2917 2987 1100  732]
+w_h_top_words:['hand', 'welcome', 'water', 'public', 'previous', 'bfhttheoryautotldrconcept', 'leave', 'typical', 'color', 'input', 'muslim', 'circuit', 'brother', 'bang', 'ride', 'market', 'reduce', 'require', 'edge', 'consider']
+----------------------------------------------------------------------
+h_num: 35
+w_h_top_words_indx: [2014 3716 1602 3880 3901 1558 3183 3426 3499 1396 1779 2812 3966 3935
+  575 1100 3034  358 3167 2338]
+w_h_top_words:['leave', 'typical', 'hand', 'water', 'welcome', 'group', 'server', 'strength', 'surround', 'form', 'improve', 'public', 'x', 'wish', 'chinese', 'edge', 'ride', 'bfhttheoryautotldrconcept', 'send', 'muslim']
+----------------------------------------------------------------------
+h_num: 36
+w_h_top_words_indx: [3326 3187 2249 1948 2859 1949 2689 2104 1065 1227 1266  797 2553 2685
+ 1164 2402 3223 2555 3941 1290]
+w_h_top_words:['sound', 'setting', 'mind', 'k', 'range', 'karma', 'potential', 'luck', 'drive', 'excited', 'external', 'couple', 'partner', 'post', 'entire', 'normal', 'shop', 'pass', 'wonder', 'false']
+----------------------------------------------------------------------
+h_num: 37
+w_h_top_words_indx: [2014 1396 1602 2812 1100 3880 3344 3716 3901 2618 1313 3380  590 2642
+ 3034    4  261 3211 3698  999]
+w_h_top_words:['leave', 'form', 'hand', 'public', 'edge', 'water', 'special', 'typical', 'welcome', 'picture', 'federal', 'staff', 'circuit', 'play', 'ride', 'ability', 'autotldr', 'shift', 'truly', 'disaster']
+----------------------------------------------------------------------
+h_num: 38
+w_h_top_words_indx: [3326 1949 2689 2553 2555 3787 2859 1266 3223 2089 3187 3443 2249 1548
+ 2402 1508 1290 1928 1758 1599]
+w_h_top_words:['sound', 'karma', 'potential', 'partner', 'pass', 'username', 'range', 'external', 'shop', 'loop', 'setting', 'stuff', 'mind', 'great', 'normal', 'glock', 'false', 'join', 'immediate', 'hair']
+----------------------------------------------------------------------
+h_num: 39
+w_h_top_words_indx: [1100 1602 3545 3901 3308  652 3880  217 3034  507 2159    4 3499 3169
+ 2014  480 2642 2741  830 1755]
+w_h_top_words:['edge', 'hand', 'tech', 'welcome', 'software', 'color', 'water', 'aspect', 'ride', 'capable', 'market', 'ability', 'surround', 'sense', 'leave', 'buy', 'play', 'primary', 'cross', 'imagine']
+----------------------------------------------------------------------
+h_num: 40
+w_h_top_words_indx: [3901 1602 2812 1396 3716 3211 1100 2642 3880 3698    4  830  358  217
+  590 3167 2987 1274 1395 1779]
+w_h_top_words:['welcome', 'hand', 'public', 'form', 'typical', 'shift', 'edge', 'play', 'water', 'truly', 'ability', 'cross', 'bfhttheoryautotldrconcept', 'aspect', 'circuit', 'send', 'require', 'face', 'fork', 'improve']
+----------------------------------------------------------------------
+h_num: 41
+w_h_top_words_indx: [3326 1949 2689 2249 3187 2859 2553 1266 1387 2104 1227 3787  797 1948
+ 1065 2555 1164 2402 1290 1583]
+w_h_top_words:['sound', 'karma', 'potential', 'mind', 'setting', 'range', 'partner', 'external', 'force', 'luck', 'excited', 'username', 'couple', 'k', 'drive', 'pass', 'entire', 'normal', 'false', 'guarantee']
+----------------------------------------------------------------------
+h_num: 42
+w_h_top_words_indx: [1602 1396 3716 3167 1558 3211 2014 1779 2929 2642 3183 3698 3160 3380
+ 2921 2338 3997  830 1100  298]
+w_h_top_words:['hand', 'form', 'typical', 'send', 'group', 'shift', 'leave', 'improve', 'regard', 'play', 'server', 'truly', 'selection', 'staff', 'reflect', 'muslim', 'zionist', 'cross', 'edge', 'bang']
+----------------------------------------------------------------------
+h_num: 43
+w_h_top_words_indx: [3901 3880 1100 1602  358 2014 3627 2917 1558  590  575 1372 1797 1396
+ 3090 3499   59 3716 1528 3344]
+w_h_top_words:['welcome', 'water', 'edge', 'hand', 'bfhttheoryautotldrconcept', 'leave', 'tldrs', 'reduce', 'group', 'circuit', 'chinese', 'fmfaqautotldrbot', 'individual', 'form', 'safe', 'surround', 'admin', 'typical', 'government', 'special']
+----------------------------------------------------------------------
+h_num: 44
+w_h_top_words_indx: [2014 3901 1602  444  358 1100 1274 2734 2618 3499 3698  830 3880   59
+ 1396 2812 3627 1558 3426 2642]
+w_h_top_words:['leave', 'welcome', 'hand', 'brother', 'bfhttheoryautotldrconcept', 'edge', 'face', 'previous', 'picture', 'surround', 'truly', 'cross', 'water', 'admin', 'form', 'public', 'tldrs', 'group', 'strength', 'play']
+----------------------------------------------------------------------
+h_num: 45
+w_h_top_words_indx: [3167 2014 3211 1602  830 3901 2812 3716 1274 2987 2480 2917 1396 3064
+  679  732 1779 3380 2767 3698]
+w_h_top_words:['send', 'leave', 'shift', 'hand', 'cross', 'welcome', 'public', 'typical', 'face', 'require', 'operation', 'reduce', 'form', 'round', 'compare', 'consider', 'improve', 'staff', 'product', 'truly']
+----------------------------------------------------------------------
+h_num: 46
+w_h_top_words_indx: [3901 2014 1558 1602  830 3698  358  774 3167 2812 2305 2987 1396 3716
+ 3211 1651 3627 3591 1557 2338]
+w_h_top_words:['welcome', 'leave', 'group', 'hand', 'cross', 'truly', 'bfhttheoryautotldrconcept', 'copy', 'send', 'public', 'morality', 'require', 'form', 'typical', 'shift', 'helmet', 'tldrs', 'thin', 'ground', 'muslim']
+----------------------------------------------------------------------
+h_num: 47
+w_h_top_words_indx: [3326 2689 1949 2553 1387 3787 2859 1266 2555 3187 2249 1583 1290 2104
+ 3507 2402 2089 1758 3160 1227]
+w_h_top_words:['sound', 'potential', 'karma', 'partner', 'force', 'username', 'range', 'external', 'pass', 'setting', 'mind', 'guarantee', 'false', 'luck', 'swap', 'normal', 'loop', 'immediate', 'selection', 'excited']
+----------------------------------------------------------------------
+h_num: 48
+w_h_top_words_indx: [2689 3326 1949 3787 2553 1387 3507 1583 1266 2859 2555 3187 2249 1758
+ 1290 2089 2402 2104 1548 1928]
+w_h_top_words:['potential', 'sound', 'karma', 'username', 'partner', 'force', 'swap', 'guarantee', 'external', 'range', 'pass', 'setting', 'mind', 'immediate', 'false', 'loop', 'normal', 'luck', 'great', 'join']
+----------------------------------------------------------------------
+h_num: 49
+w_h_top_words_indx: [3326 1266 2555 2402 1221 1227 3204 2685 1948 2689  797 1949 1548 2385
+ 1164 3347 3443 1290 1599 2104]
+w_h_top_words:['sound', 'external', 'pass', 'normal', 'excellent', 'excited', 'shape', 'post', 'k', 'potential', 'couple', 'karma', 'great', 'new', 'entire', 'specie', 'stuff', 'false', 'hair', 'luck']
+----------------------------------------------------------------------
