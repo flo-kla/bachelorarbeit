@@ -1,0 +1,32 @@
+top_n: 10 Topic Num: 1 
+Topic Words: [['bfhttheoryautotldrconcept', 'autotldr', 'tldrs', 'soldier', 'keyword', 'fmfaqautotldrbot', 'tldr', 'baker', 'kilogram', 'resurrection']]
+Coh_type:c_v  Topic Num:1 COH score:0.46597508970771484
+top_n: 20 Topic Num: 1 
+Topic Words: [['bfhttheoryautotldrconcept', 'autotldr', 'tldrs', 'soldier', 'keyword', 'fmfaqautotldrbot', 'tldr', 'baker', 'kilogram', 'resurrection', 'legal', 'expression', 'removal', 'citizen', 'frequency', 'scripture', 'impedance', 'human', 'faqhttpwwwredditcomrpricezombiewikiindex', 'meter']]
+Coh_type:c_v  Topic Num:1 COH score:0.6112496929707892
+top_n: 10 Topic Num: 2 
+Topic Words: [['bfhttheoryautotldrconcept', 'tldrs', 'soldier', 'autotldr', 'resurrection', 'removal', 'baker', 'fmfaqautotldrbot', 'tldr', 'kilogram']]
+Coh_type:c_v  Topic Num:2 COH score:0.45182746141356117
+top_n: 20 Topic Num: 2 
+Topic Words: [['bfhttheoryautotldrconcept', 'tldrs', 'soldier', 'autotldr', 'resurrection', 'removal', 'baker', 'fmfaqautotldrbot', 'tldr', 'kilogram', 'scripture', 'wing', 'frequency', 'voltage', 'meter', 'disaster', 'political', 'faqhttpwwwredditcomrpricezombiewikiindex', 'sinful', 'decline']]
+Coh_type:c_v  Topic Num:2 COH score:0.6784444932070908
+top_n: 10 Topic Num: 3 
+Topic Words: [['marriage', 'human', 'bfhttheoryautotldrconcept', 'soldier', 'legal', 'tldrs', 'child', 'citizen', 'frequency', 'church']]
+Coh_type:c_v  Topic Num:3 COH score:0.42772352540937264
+top_n: 20 Topic Num: 3 
+Topic Words: [['marriage', 'human', 'bfhttheoryautotldrconcept', 'soldier', 'legal', 'tldrs', 'child', 'citizen', 'frequency', 'church', 'fmfaqautotldrbot', 'sun', 'policy', 'resurrection', 'animal', 'political', 'responsible', 'kilogram', 'impedance', 'taxis']]
+Coh_type:c_v  Topic Num:3 COH score:0.6050800707208285
+top_n: 10 Topic Num: 4 
+Topic Words: [['bfhttheoryautotldrconcept', 'autotldr', 'soldier', 'tldrs', 'keyword', 'baker', 'fmfaqautotldrbot', 'resurrection', 'removal', 'kilogram']]
+Coh_type:c_v  Topic Num:4 COH score:0.4691117898862257
+top_n: 20 Topic Num: 4 
+Topic Words: [['bfhttheoryautotldrconcept', 'autotldr', 'soldier', 'tldrs', 'keyword', 'baker', 'fmfaqautotldrbot', 'resurrection', 'removal', 'kilogram', 'frequency', 'human', 'tldr', 'scripture', 'political', 'impedance', 'sinful', 'citizen', 'meter', 'government']]
+Coh_type:c_v  Topic Num:4 COH score:0.5927403949641421
+top scores for top_10:[0.4691117898862257, 10, [['bfhttheoryautotldrconcept', 'autotldr', 'soldier', 'tldrs', 'keyword', 'baker', 'fmfaqautotldrbot', 'resurrection', 'removal', 'kilogram']]]
+-------------------------------------------------------------------
+top scores for top_20:[0.6784444932070908, 20, [['bfhttheoryautotldrconcept', 'tldrs', 'soldier', 'autotldr', 'resurrection', 'removal', 'baker', 'fmfaqautotldrbot', 'tldr', 'kilogram', 'scripture', 'wing', 'frequency', 'voltage', 'meter', 'disaster', 'political', 'faqhttpwwwredditcomrpricezombiewikiindex', 'sinful', 'decline']]]
+-------------------------------------------------------------------
+Avg COH for top_10 topic words: 0.4536594666042185
+-------------------------------------------------------------------
+Avg COH for top_20 topic words: 0.6218786629657127
+-------------------------------------------------------------------

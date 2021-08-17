@@ -1,0 +1,32 @@
+top_n: 10 Topic Num: 1 
+Topic Words: [['swap', 'automatically', 'lt', 'partner', 'date', 'karma', 'username', 'immediate', 'successful', 'guarantee']]
+Coh_type:c_v  Topic Num:1 COH score:0.763077724504207
+top_n: 20 Topic Num: 1 
+Topic Words: [['swap', 'automatically', 'lt', 'partner', 'date', 'karma', 'username', 'immediate', 'successful', 'guarantee', 'moderator', 'designer', 'join', 'perform', 'action', 'information', 'read', 'puwhatisautomoderator', 'app', 'potential']]
+Coh_type:c_v  Topic Num:1 COH score:0.37325569833968075
+top_n: 10 Topic Num: 2 
+Topic Words: [['karma', 'potential', 'username', 'guarantee', 'immediate', 'background', 'successful', 'partner', 'join', 'trade']]
+Coh_type:c_v  Topic Num:2 COH score:0.9233242852571555
+top_n: 20 Topic Num: 2 
+Topic Words: [['karma', 'potential', 'username', 'guarantee', 'immediate', 'background', 'successful', 'partner', 'join', 'trade', 'concern', 'contact', 'resubmit', 'comment', 'subredditmessagecomposeto', 'information', 'sidebar', 'date', 'help', 'request']]
+Coh_type:c_v  Topic Num:2 COH score:0.37138101237266663
+top_n: 10 Topic Num: 3 
+Topic Words: [['fmfaqautotldrbot', 'amp', 'gt', 'human', 'keyword', 'voltage', 'fight', 'bfhttheoryautotldrconcept', 'reply', 'comment']]
+Coh_type:c_v  Topic Num:3 COH score:0.39990456492886467
+top_n: 20 Topic Num: 3 
+Topic Words: [['fmfaqautotldrbot', 'amp', 'gt', 'human', 'keyword', 'voltage', 'fight', 'bfhttheoryautotldrconcept', 'reply', 'comment', 'war', 'government', 'nation', 'reduce', 'resistor', 'autotldr', 'tldrs', 'low', 'x', 'power']]
+Coh_type:c_v  Topic Num:3 COH score:0.32793687946070676
+top_n: 10 Topic Num: 4 
+Topic Words: [['information', 'immediate', 'karma', 'potential', 'partner', 'background', 'join', 'provide', 'link', 'date']]
+Coh_type:c_v  Topic Num:4 COH score:0.8477207680598084
+top_n: 20 Topic Num: 4 
+Topic Words: [['information', 'immediate', 'karma', 'potential', 'partner', 'background', 'join', 'provide', 'link', 'date', 'username', 'trade', 'guarantee', 'swap', 'successful', 'message', 'puwhatisautomoderator', 'subredditmessagecomposeto', 'perform', 'error']]
+Coh_type:c_v  Topic Num:4 COH score:0.47529069851246797
+top scores for top_10:[0.9233242852571555, 10, [['karma', 'potential', 'username', 'guarantee', 'immediate', 'background', 'successful', 'partner', 'join', 'trade']]]
+-------------------------------------------------------------------
+top scores for top_20:[0.47529069851246797, 20, [['information', 'immediate', 'karma', 'potential', 'partner', 'background', 'join', 'provide', 'link', 'date', 'username', 'trade', 'guarantee', 'swap', 'successful', 'message', 'puwhatisautomoderator', 'subredditmessagecomposeto', 'perform', 'error']]]
+-------------------------------------------------------------------
+Avg COH for top_10 topic words: 0.733506835687509
+-------------------------------------------------------------------
+Avg COH for top_20 topic words: 0.38696607217138057
+-------------------------------------------------------------------

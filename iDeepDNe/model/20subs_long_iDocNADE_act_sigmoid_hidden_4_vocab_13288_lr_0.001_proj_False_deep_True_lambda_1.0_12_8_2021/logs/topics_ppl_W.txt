@@ -1,0 +1,20 @@
+h_num: 0
+w_h_top_words_indx: [ 1105   820 11961 11045  6477  4323 11960   907  6495  9996  6690  3970
+  9861  1906  4475 10500  5802  5628  4079  7315]
+w_h_top_words:['bfhttheoryautotldrconcept', 'autotldr', 'tldrs', 'soldier', 'keyword', 'fmfaqautotldrbot', 'tldr', 'baker', 'kilogram', 'resurrection', 'legal', 'expression', 'removal', 'citizen', 'frequency', 'scripture', 'impedance', 'human', 'faqhttpwwwredditcomrpricezombiewikiindex', 'meter']
+----------------------------------------------------------------------
+h_num: 1
+w_h_top_words_indx: [ 1105 11961 11045   820  9996  9861   907  4323 11960  6495 10500 13017
+  4475 12756  7315  3129  8965  4079 10838  2828]
+w_h_top_words:['bfhttheoryautotldrconcept', 'tldrs', 'soldier', 'autotldr', 'resurrection', 'removal', 'baker', 'fmfaqautotldrbot', 'tldr', 'kilogram', 'scripture', 'wing', 'frequency', 'voltage', 'meter', 'disaster', 'political', 'faqhttpwwwredditcomrpricezombiewikiindex', 'sinful', 'decline']
+----------------------------------------------------------------------
+h_num: 2
+w_h_top_words_indx: [ 7117  5628  1105 11045  6690 11961  1834  1906  4475  1882  4323 11509
+  8959  9996   478  8965  9979  6495  5802 11705]
+w_h_top_words:['marriage', 'human', 'bfhttheoryautotldrconcept', 'soldier', 'legal', 'tldrs', 'child', 'citizen', 'frequency', 'church', 'fmfaqautotldrbot', 'sun', 'policy', 'resurrection', 'animal', 'political', 'responsible', 'kilogram', 'impedance', 'taxis']
+----------------------------------------------------------------------
+h_num: 3
+w_h_top_words_indx: [ 1105   820 11045 11961  6477   907  4323  9996  9861  6495  4475  5628
+ 11960 10500  8965  5802 10838  1906  7315  4835]
+w_h_top_words:['bfhttheoryautotldrconcept', 'autotldr', 'soldier', 'tldrs', 'keyword', 'baker', 'fmfaqautotldrbot', 'resurrection', 'removal', 'kilogram', 'frequency', 'human', 'tldr', 'scripture', 'political', 'impedance', 'sinful', 'citizen', 'meter', 'government']
+----------------------------------------------------------------------

@@ -1,0 +1,215 @@
+h_num: 0
+w_h_top_words_indx: [10100 10922 12891  6715 10994 12933  3286  6608 10612  9774  2115   150
+ 11385  9917 11299  2344  2654  4672  8450  4388]
+w_h_top_words:['ring', 'slide', 'wear', 'length', 'snipe', 'wheel', 'dominate', 'laser', 'sentence', 'regard', 'commenter', 'additionally', 'strike', 'reproduce', 'steel', 'contemporary', 'curse', 'generate', 'paint', 'form']
+----------------------------------------------------------------------
+h_num: 1
+w_h_top_words_indx: [10100 10922 12891  2115 12933   478 10994  6608  9774  2344   150  3286
+  9917  9186  6715  7015  4672 12267 13254  6673]
+w_h_top_words:['ring', 'slide', 'wear', 'commenter', 'wheel', 'animal', 'snipe', 'laser', 'regard', 'contemporary', 'additionally', 'dominate', 'reproduce', 'priest', 'length', 'mag', 'generate', 'uh', 'z', 'leave']
+----------------------------------------------------------------------
+h_num: 2
+w_h_top_words_indx: [10922 10100   478 12891 12933  9917  6673  7015  2115 12233 12869  4388
+  4672 12875  9774 10994 13254  2344  1039  6608]
+w_h_top_words:['slide', 'ring', 'animal', 'wear', 'wheel', 'reproduce', 'leave', 'mag', 'commenter', 'typical', 'water', 'form', 'generate', 'wave', 'regard', 'snipe', 'z', 'contemporary', 'beginning', 'laser']
+----------------------------------------------------------------------
+h_num: 3
+w_h_top_words_indx: [10100 10994 12933  3286 10018 10922  6881  8450  5252 12891 11320  2260
+  2654  9630  4672  6673  2115  9774  6378 11385]
+w_h_top_words:['ring', 'snipe', 'wheel', 'dominate', 'reuse', 'slide', 'logically', 'paint', 'heart', 'wear', 'stick', 'confirm', 'curse', 'reality', 'generate', 'leave', 'commenter', 'regard', 'journalist', 'strike']
+----------------------------------------------------------------------
+h_num: 4
+w_h_top_words_indx: [ 6438  5059  8530 12540  6949  5780  2069  1992   536 10887 11591  7337
+   248  9047  5982  6026 10779  6330  9064  8259]
+w_h_top_words:['karma', 'guarantee', 'partner', 'username', 'lt', 'immediate', 'collector', 'clue', 'anyways', 'skip', 'swap', 'mic', 'ah', 'potential', 'informative', 'innovation', 'sidebar', 'jesus', 'powerpoint', 'optimal']
+----------------------------------------------------------------------
+h_num: 5
+w_h_top_words_indx: [10922   478 10100 12891 12933  9917  6673  4388 12233  7015 12869  2115
+  4672  6274  2932  9774  1014 12875 10994 13254]
+w_h_top_words:['slide', 'animal', 'ring', 'wear', 'wheel', 'reproduce', 'leave', 'form', 'typical', 'mag', 'water', 'commenter', 'generate', 'jack', 'deny', 'regard', 'bear', 'wave', 'snipe', 'z']
+----------------------------------------------------------------------
+h_num: 6
+w_h_top_words_indx: [ 5059  8530  6438 12540  6949  5780 10887   536  9047  1075   248  7337
+  2069  5982  6330  8549  2704  8259  1992  3596]
+w_h_top_words:['guarantee', 'partner', 'karma', 'username', 'lt', 'immediate', 'skip', 'anyways', 'potential', 'beneficial', 'ah', 'mic', 'collector', 'informative', 'jesus', 'past', 'daily', 'optimal', 'clue', 'elementary']
+----------------------------------------------------------------------
+h_num: 7
+w_h_top_words_indx: [10100 10922 12891 12933  2115 10994   478  6608  9774  6715  3286  2344
+   150  9917  9186 12267  7015  4672  4388  2849]
+w_h_top_words:['ring', 'slide', 'wear', 'wheel', 'commenter', 'snipe', 'animal', 'laser', 'regard', 'length', 'dominate', 'contemporary', 'additionally', 'reproduce', 'priest', 'uh', 'mag', 'generate', 'form', 'deep']
+----------------------------------------------------------------------
+h_num: 8
+w_h_top_words_indx: [ 6438  5059  8530 12540  6949  5780  2069  1992   536 10887 11591  7337
+   248  9047  5982  6330  9064  6026  8259  2704]
+w_h_top_words:['karma', 'guarantee', 'partner', 'username', 'lt', 'immediate', 'collector', 'clue', 'anyways', 'skip', 'swap', 'mic', 'ah', 'potential', 'informative', 'jesus', 'powerpoint', 'innovation', 'optimal', 'daily']
+----------------------------------------------------------------------
+h_num: 9
+w_h_top_words_indx: [12933 10100 10018  3286  6881 10994  8450 11320  5252 12891  9630 10922
+  2260  6673  2654  8070  4672  6378  1819 12104]
+w_h_top_words:['wheel', 'ring', 'reuse', 'dominate', 'logically', 'snipe', 'paint', 'stick', 'heart', 'wear', 'reality', 'slide', 'confirm', 'leave', 'curse', 'nuts', 'generate', 'journalist', 'chemical', 'trash']
+----------------------------------------------------------------------
+h_num: 10
+w_h_top_words_indx: [10922 12891 10100   478 12933  6673  4388  9917 12233 12869  2115  4672
+  7015  2932  6274  1014  9774 12875 10994 13038]
+w_h_top_words:['slide', 'wear', 'ring', 'animal', 'wheel', 'leave', 'form', 'reproduce', 'typical', 'water', 'commenter', 'generate', 'mag', 'deny', 'jack', 'bear', 'regard', 'wave', 'snipe', 'wire']
+----------------------------------------------------------------------
+h_num: 11
+w_h_top_words_indx: [10922 10100 12933   478 12891  2115  6673  4672  4388 10994  9774  2344
+  6608 13254  7015  9917  9186  3286  1039 12869]
+w_h_top_words:['slide', 'ring', 'wheel', 'animal', 'wear', 'commenter', 'leave', 'generate', 'form', 'snipe', 'regard', 'contemporary', 'laser', 'z', 'mag', 'reproduce', 'priest', 'dominate', 'beginning', 'water']
+----------------------------------------------------------------------
+h_num: 12
+w_h_top_words_indx: [10100 10922  6715 10994 12891 12933  3286  6608 10612  2115 10018  9774
+  8450  9917 11299 11385   150  2654  2260  4672]
+w_h_top_words:['ring', 'slide', 'length', 'snipe', 'wear', 'wheel', 'dominate', 'laser', 'sentence', 'commenter', 'reuse', 'regard', 'paint', 'reproduce', 'steel', 'strike', 'additionally', 'curse', 'confirm', 'generate']
+----------------------------------------------------------------------
+h_num: 13
+w_h_top_words_indx: [10100 10922 10994  3286 12933 12891  6715 10018  8450  6608  5252  2115
+  2654  2260  9774  9917 11299 11385 11320  4672]
+w_h_top_words:['ring', 'slide', 'snipe', 'dominate', 'wheel', 'wear', 'length', 'reuse', 'paint', 'laser', 'heart', 'commenter', 'curse', 'confirm', 'regard', 'reproduce', 'steel', 'strike', 'stick', 'generate']
+----------------------------------------------------------------------
+h_num: 14
+w_h_top_words_indx: [10922 10100 12933 12891   478  2115 10994  4672  6608  9774  2344  6673
+  9917  9186  3286   150 13254  4388  7015 12267]
+w_h_top_words:['slide', 'ring', 'wheel', 'wear', 'animal', 'commenter', 'snipe', 'generate', 'laser', 'regard', 'contemporary', 'leave', 'reproduce', 'priest', 'dominate', 'additionally', 'z', 'form', 'mag', 'uh']
+----------------------------------------------------------------------
+h_num: 15
+w_h_top_words_indx: [10100 12933 10018 10994  3286  6881  8450  5252 10922 11320 12891  9630
+  2260  2654  6673  4672  6378  9774  8070  2115]
+w_h_top_words:['ring', 'wheel', 'reuse', 'snipe', 'dominate', 'logically', 'paint', 'heart', 'slide', 'stick', 'wear', 'reality', 'confirm', 'curse', 'leave', 'generate', 'journalist', 'regard', 'nuts', 'commenter']
+----------------------------------------------------------------------
+h_num: 16
+w_h_top_words_indx: [11320 12933  9630 10018  5252  8450  2260  3286 11120    15  1715  6378
+  1819  4222  6673  4062   762  1723   704  4403]
+w_h_top_words:['stick', 'wheel', 'reality', 'reuse', 'heart', 'paint', 'confirm', 'dominate', 'special', 'ability', 'celibacy', 'journalist', 'chemical', 'finance', 'leave', 'fan', 'attend', 'cent', 'asset', 'forth']
+----------------------------------------------------------------------
+h_num: 17
+w_h_top_words_indx: [10100 10922 12891 12933  2115 10994   478  6608  9774  6715  3286  2344
+   150  9917  9186  4672 12267  7015  2849  4388]
+w_h_top_words:['ring', 'slide', 'wear', 'wheel', 'commenter', 'snipe', 'animal', 'laser', 'regard', 'length', 'dominate', 'contemporary', 'additionally', 'reproduce', 'priest', 'generate', 'uh', 'mag', 'deep', 'form']
+----------------------------------------------------------------------
+h_num: 18
+w_h_top_words_indx: [10100 10922 12891  6715 10994 12933  3286  6608  2115  9774 10612   150
+  9917  2344  9186   478  4388  4672  2849 11299]
+w_h_top_words:['ring', 'slide', 'wear', 'length', 'snipe', 'wheel', 'dominate', 'laser', 'commenter', 'regard', 'sentence', 'additionally', 'reproduce', 'contemporary', 'priest', 'animal', 'form', 'generate', 'deep', 'steel']
+----------------------------------------------------------------------
+h_num: 19
+w_h_top_words_indx: [10100 10922 12891 12933 10994  6715  3286  6608  2115  9774   150  2344
+  9917   478 10612  9186  4388 12267  4672  2849]
+w_h_top_words:['ring', 'slide', 'wear', 'wheel', 'snipe', 'length', 'dominate', 'laser', 'commenter', 'regard', 'additionally', 'contemporary', 'reproduce', 'animal', 'sentence', 'priest', 'form', 'uh', 'generate', 'deep']
+----------------------------------------------------------------------
+h_num: 20
+w_h_top_words_indx: [10922 10100   478 12891 12933  9917  6673  7015  2115 12233 12869  4388
+  4672 12875  9774 10994 13254  2344  1039  6608]
+w_h_top_words:['slide', 'ring', 'animal', 'wear', 'wheel', 'reproduce', 'leave', 'mag', 'commenter', 'typical', 'water', 'form', 'generate', 'wave', 'regard', 'snipe', 'z', 'contemporary', 'beginning', 'laser']
+----------------------------------------------------------------------
+h_num: 21
+w_h_top_words_indx: [10922   478 10100 12891 12933  9917  6673  4388 12233  7015 12869  2115
+  4672  9774  6274  2932  1014 12875 10994 13254]
+w_h_top_words:['slide', 'animal', 'ring', 'wear', 'wheel', 'reproduce', 'leave', 'form', 'typical', 'mag', 'water', 'commenter', 'generate', 'regard', 'jack', 'deny', 'bear', 'wave', 'snipe', 'z']
+----------------------------------------------------------------------
+h_num: 22
+w_h_top_words_indx: [ 5059  8530  6949 12540  6438  5780 10887   536   248  9047  7337  8549
+  2069  1075  6330  5982  8259  2704  3596 11794]
+w_h_top_words:['guarantee', 'partner', 'lt', 'username', 'karma', 'immediate', 'skip', 'anyways', 'ah', 'potential', 'mic', 'past', 'collector', 'beneficial', 'jesus', 'informative', 'optimal', 'daily', 'elementary', 'test']
+----------------------------------------------------------------------
+h_num: 23
+w_h_top_words_indx: [10922 10100   478 12891 12933  9917  6673  7015  2115 12233 12869  4388
+  4672 12875  9774 10994 13254  2344  1039  6608]
+w_h_top_words:['slide', 'ring', 'animal', 'wear', 'wheel', 'reproduce', 'leave', 'mag', 'commenter', 'typical', 'water', 'form', 'generate', 'wave', 'regard', 'snipe', 'z', 'contemporary', 'beginning', 'laser']
+----------------------------------------------------------------------
+h_num: 24
+w_h_top_words_indx: [10922 10100 12933   478 12891  2115  4672  6673 10994  4388  9774  6608
+  2344  9917 13254  7015  9186  3286   150 12267]
+w_h_top_words:['slide', 'ring', 'wheel', 'animal', 'wear', 'commenter', 'generate', 'leave', 'snipe', 'form', 'regard', 'laser', 'contemporary', 'reproduce', 'z', 'mag', 'priest', 'dominate', 'additionally', 'uh']
+----------------------------------------------------------------------
+h_num: 25
+w_h_top_words_indx: [10100 10922 12891 12933  2115   478 10994  9774  6608  2344   150  3286
+  6715  9917  9186  4672 12267  7015  2849  2654]
+w_h_top_words:['ring', 'slide', 'wear', 'wheel', 'commenter', 'animal', 'snipe', 'regard', 'laser', 'contemporary', 'additionally', 'dominate', 'length', 'reproduce', 'priest', 'generate', 'uh', 'mag', 'deep', 'curse']
+----------------------------------------------------------------------
+h_num: 26
+w_h_top_words_indx: [10100 10922 12891 12933  2115 10994  6608  9774   478  6715  3286  2344
+   150  9917  9186 12267  4388  7015  4672  2849]
+w_h_top_words:['ring', 'slide', 'wear', 'wheel', 'commenter', 'snipe', 'laser', 'regard', 'animal', 'length', 'dominate', 'contemporary', 'additionally', 'reproduce', 'priest', 'uh', 'form', 'mag', 'generate', 'deep']
+----------------------------------------------------------------------
+h_num: 27
+w_h_top_words_indx: [12933 10018 10100  3286  6881 11320 10994  8450  5252  9630 12891  2260
+ 10922  6673  2654  8070  6378 12104  1819  4672]
+w_h_top_words:['wheel', 'reuse', 'ring', 'dominate', 'logically', 'stick', 'snipe', 'paint', 'heart', 'reality', 'wear', 'confirm', 'slide', 'leave', 'curse', 'nuts', 'journalist', 'trash', 'chemical', 'generate']
+----------------------------------------------------------------------
+h_num: 28
+w_h_top_words_indx: [10100 10922 12891 12933  2115 10994   478  6608  9774  6715  3286  2344
+   150  9917  9186 12267  7015  4388  4672  2849]
+w_h_top_words:['ring', 'slide', 'wear', 'wheel', 'commenter', 'snipe', 'animal', 'laser', 'regard', 'length', 'dominate', 'contemporary', 'additionally', 'reproduce', 'priest', 'uh', 'mag', 'form', 'generate', 'deep']
+----------------------------------------------------------------------
+h_num: 29
+w_h_top_words_indx: [10922 10100   478 12891 12933  6673  9917  4388 12233 12869  7015  2115
+  4672  2932  6274  9774  1014 12875 10994 13254]
+w_h_top_words:['slide', 'ring', 'animal', 'wear', 'wheel', 'leave', 'reproduce', 'form', 'typical', 'water', 'mag', 'commenter', 'generate', 'deny', 'jack', 'regard', 'bear', 'wave', 'snipe', 'z']
+----------------------------------------------------------------------
+h_num: 30
+w_h_top_words_indx: [ 5059  8530  6438 12540  6949  5780 10887   536  1075  9047  2069  7337
+   248  5982  1992  6330  2704  8549  8259  3596]
+w_h_top_words:['guarantee', 'partner', 'karma', 'username', 'lt', 'immediate', 'skip', 'anyways', 'beneficial', 'potential', 'collector', 'mic', 'ah', 'informative', 'clue', 'jesus', 'daily', 'past', 'optimal', 'elementary']
+----------------------------------------------------------------------
+h_num: 31
+w_h_top_words_indx: [10100 10922 12891 12933  2115 10994   478  9774  6608  6715  2344  3286
+   150  9917  9186  4672 12267  7015  2849  4388]
+w_h_top_words:['ring', 'slide', 'wear', 'wheel', 'commenter', 'snipe', 'animal', 'regard', 'laser', 'length', 'contemporary', 'dominate', 'additionally', 'reproduce', 'priest', 'generate', 'uh', 'mag', 'deep', 'form']
+----------------------------------------------------------------------
+h_num: 32
+w_h_top_words_indx: [10100 10922 12891 12933  2115   478 10994  9774  6608  2344   150  3286
+  6715  9917  9186  4672 12267  7015  2849  2654]
+w_h_top_words:['ring', 'slide', 'wear', 'wheel', 'commenter', 'animal', 'snipe', 'regard', 'laser', 'contemporary', 'additionally', 'dominate', 'length', 'reproduce', 'priest', 'generate', 'uh', 'mag', 'deep', 'curse']
+----------------------------------------------------------------------
+h_num: 33
+w_h_top_words_indx: [10100 12933 10994 10018  3286  6881  8450 10922  5252 12891 11320  2260
+  2654  9630  6673  4672  9774  2115  6378  8070]
+w_h_top_words:['ring', 'wheel', 'snipe', 'reuse', 'dominate', 'logically', 'paint', 'slide', 'heart', 'wear', 'stick', 'confirm', 'curse', 'reality', 'leave', 'generate', 'regard', 'commenter', 'journalist', 'nuts']
+----------------------------------------------------------------------
+h_num: 34
+w_h_top_words_indx: [10100 10922  6715 12891 10994 12933  3286 10612  6608  9774  2115 11385
+   150  9917 11299  8450 10018  2654  4672  2260]
+w_h_top_words:['ring', 'slide', 'length', 'wear', 'snipe', 'wheel', 'dominate', 'sentence', 'laser', 'regard', 'commenter', 'strike', 'additionally', 'reproduce', 'steel', 'paint', 'reuse', 'curse', 'generate', 'confirm']
+----------------------------------------------------------------------
+h_num: 35
+w_h_top_words_indx: [10922 10100 12933   478 12891  2115  6673  4388  4672 10994  7015  9774
+ 13254  2344  6608  9917 12869  9186  1039 10893]
+w_h_top_words:['slide', 'ring', 'wheel', 'animal', 'wear', 'commenter', 'leave', 'form', 'generate', 'snipe', 'mag', 'regard', 'z', 'contemporary', 'laser', 'reproduce', 'water', 'priest', 'beginning', 'sky']
+----------------------------------------------------------------------
+h_num: 36
+w_h_top_words_indx: [10100 10922 12891 12933  2115   478 10994  9774  6608  2344   150  3286
+  6715  9917  9186  4672 12267  7015  2849  2654]
+w_h_top_words:['ring', 'slide', 'wear', 'wheel', 'commenter', 'animal', 'snipe', 'regard', 'laser', 'contemporary', 'additionally', 'dominate', 'length', 'reproduce', 'priest', 'generate', 'uh', 'mag', 'deep', 'curse']
+----------------------------------------------------------------------
+h_num: 37
+w_h_top_words_indx: [10100 10922 12891 12933 10994  2115  6608  6715  9774  3286   478  2344
+   150  9917  9186  4388 12267  7015  2849  4672]
+w_h_top_words:['ring', 'slide', 'wear', 'wheel', 'snipe', 'commenter', 'laser', 'length', 'regard', 'dominate', 'animal', 'contemporary', 'additionally', 'reproduce', 'priest', 'form', 'uh', 'mag', 'deep', 'generate']
+----------------------------------------------------------------------
+h_num: 38
+w_h_top_words_indx: [10922 10100 12933   478 12891  2115  4672 10994  6673  4388  9774  6608
+  2344  9917 13254  9186  7015  3286   150 12267]
+w_h_top_words:['slide', 'ring', 'wheel', 'animal', 'wear', 'commenter', 'generate', 'snipe', 'leave', 'form', 'regard', 'laser', 'contemporary', 'reproduce', 'z', 'priest', 'mag', 'dominate', 'additionally', 'uh']
+----------------------------------------------------------------------
+h_num: 39
+w_h_top_words_indx: [ 5059  6949  8530 12540  6438 10887  5780   248  8549   536  7337  9047
+  2069  1075  6330  8259 11794  3596  6211  2952]
+w_h_top_words:['guarantee', 'lt', 'partner', 'username', 'karma', 'skip', 'immediate', 'ah', 'past', 'anyways', 'mic', 'potential', 'collector', 'beneficial', 'jesus', 'optimal', 'test', 'elementary', 'iraqi', 'depreciation']
+----------------------------------------------------------------------
+h_num: 40
+w_h_top_words_indx: [10922 10100 12933 12891   478  2115  4672 10994  6673  9774  6608  4388
+  2344  9917 13254  9186  3286  7015   150 12267]
+w_h_top_words:['slide', 'ring', 'wheel', 'wear', 'animal', 'commenter', 'generate', 'snipe', 'leave', 'regard', 'laser', 'form', 'contemporary', 'reproduce', 'z', 'priest', 'dominate', 'mag', 'additionally', 'uh']
+----------------------------------------------------------------------
+h_num: 41
+w_h_top_words_indx: [10100 10994 12933  3286 10922 10018  8450 12891  5252 11320  2260  2654
+  6881  4672  6715  2115  9774  9630  6673 11385]
+w_h_top_words:['ring', 'snipe', 'wheel', 'dominate', 'slide', 'reuse', 'paint', 'wear', 'heart', 'stick', 'confirm', 'curse', 'logically', 'generate', 'length', 'commenter', 'regard', 'reality', 'leave', 'strike']
+----------------------------------------------------------------------
+h_num: 42
+w_h_top_words_indx: [10100 10922 12891 12933  2115   478 10994  9774  6608  2344   150  3286
+  6715  9917  9186  4672  7015 12267  2849  2654]
+w_h_top_words:['ring', 'slide', 'wear', 'wheel', 'commenter', 'animal', 'snipe', 'regard', 'laser', 'contemporary', 'additionally', 'dominate', 'length', 'reproduce', 'priest', 'generate', 'mag', 'uh', 'deep', 'curse']
+----------------------------------------------------------------------

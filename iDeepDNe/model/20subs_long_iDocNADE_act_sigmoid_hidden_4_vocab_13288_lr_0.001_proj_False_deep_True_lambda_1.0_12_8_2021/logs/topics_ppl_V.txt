@@ -1,0 +1,20 @@
+h_num: 0
+w_h_top_words_indx: [11591   816  6949  8530  2751  6438 12540  5780 11473  5059  7514  2981
+  6360  8676   116  5980  9614  9425   563  9047]
+w_h_top_words:['swap', 'automatically', 'lt', 'partner', 'date', 'karma', 'username', 'immediate', 'successful', 'guarantee', 'moderator', 'designer', 'join', 'perform', 'action', 'information', 'read', 'puwhatisautomoderator', 'app', 'potential']
+----------------------------------------------------------------------
+h_num: 1
+w_h_top_words_indx: [ 6438  9047 12540  5059  5780   873 11473  8530  6360 12052  2222  2339
+  9992  2112 11447  5980 10779  2751  5297  9928]
+w_h_top_words:['karma', 'potential', 'username', 'guarantee', 'immediate', 'background', 'successful', 'partner', 'join', 'trade', 'concern', 'contact', 'resubmit', 'comment', 'subredditmessagecomposeto', 'information', 'sidebar', 'date', 'help', 'request']
+----------------------------------------------------------------------
+h_num: 2
+w_h_top_words_indx: [ 4323   395  4938  5628  6477 12756  4200  1105  9897  2112 12837  4835
+  7768  9730  9961   820 11961  6930 13153  9058]
+w_h_top_words:['fmfaqautotldrbot', 'amp', 'gt', 'human', 'keyword', 'voltage', 'fight', 'bfhttheoryautotldrconcept', 'reply', 'comment', 'war', 'government', 'nation', 'reduce', 'resistor', 'autotldr', 'tldrs', 'low', 'x', 'power']
+----------------------------------------------------------------------
+h_num: 3
+w_h_top_words_indx: [ 5980  5780  6438  9047  8530   873  6360  9345  6815  2751 12540 12052
+  5059 11591 11473  7300  9425 11447  8676  3786]
+w_h_top_words:['information', 'immediate', 'karma', 'potential', 'partner', 'background', 'join', 'provide', 'link', 'date', 'username', 'trade', 'guarantee', 'swap', 'successful', 'message', 'puwhatisautomoderator', 'subredditmessagecomposeto', 'perform', 'error']
+----------------------------------------------------------------------
