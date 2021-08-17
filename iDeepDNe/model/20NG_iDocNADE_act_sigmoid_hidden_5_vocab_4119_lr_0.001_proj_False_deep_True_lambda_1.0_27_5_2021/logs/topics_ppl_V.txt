@@ -1,0 +1,25 @@
+h_num: 0
+w_h_top_words_indx: [ 512 1186 1038 1391 2644 3327 3440  366 3918 2364 2288 2228 1104 2188
+ 3105 3395 1027  538 2324 1970]
+w_h_top_words:['car', 'engine', 'disk', 'floppy', 'pc', 'shipping', 'spec', 'bike', 'vga', 'mouse', 'mile', 'mb', 'dual', 'manual', 'rgb', 'slot', 'disc', 'cd', 'model', 'k']
+----------------------------------------------------------------------
+h_num: 1
+w_h_top_words_indx: [1581 2656 3116 3179 1992  301 3703 3973 1538 2072 2640 1605  794 2729
+  815  840 1373 3417 3668 4023]
+w_h_top_words:['gun', 'people', 'right', 's', 'kill', 'bad', 'think', 'want', 'government', 'let', 'pay', 'happen', 'cop', 'player', 'country', 'criminal', 'fire', 'somebody', 'tell', 'win']
+----------------------------------------------------------------------
+h_num: 2
+w_h_top_words_indx: [ 513 4016 1359   47 3863 4076 4025 2228 1417 2756 2256 2323 4088 1095
+ 2249  666 1549 1590 2702 1885]
+w_h_top_words:['card', 'widget', 'file', 'adapter', 'upgrade', 'x', 'window', 'mb', 'format', 'port', 'memory', 'mode', 'xterm', 'drive', 'meg', 'com', 'graphic', 'hal', 'pin', 'irq']
+----------------------------------------------------------------------
+h_num: 3
+w_h_top_words_indx: [3829 2900 3627 2158 2591 1301 2009 1115  285 1469 3840 2961 1084 4095
+ 2899 2159 3737 4110 1337 2277]
+w_h_top_words:['u', 'q', 't', 'm', 'p', 'f', 'l', 'e', 'ax', 'g', 'um', 'rb', 'dp', 'y', 'pw', 'ma', 'tm', 'z', 'fb', 'mh']
+----------------------------------------------------------------------
+h_num: 4
+w_h_top_words_indx: [2829 3202 3135 3224 3435 2034 2591 2556 2928  150  772 1037 2045 1469
+ 3640 4085 4088 1301 4076 2715]
+w_h_top_words:['probe', 'satellite', 'rocket', 'scientific', 'spacecraft', 'launch', 'p', 'orbit', 'r', 'anonymous', 'contrib', 'disease', 'ld', 'g', 'tarz', 'xp', 'xterm', 'f', 'x', 'pixmap']
+----------------------------------------------------------------------

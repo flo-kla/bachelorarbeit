@@ -1,0 +1,38 @@
+top_n: 10 Topic Num: 1 
+Topic Words: [['meg', 'xterm', 'printer', 'ethernet', 'floppy', 'bmp', 'irq', 'rgb', 'ide', 'bio']]
+Coh_type:c_v  Topic Num:1 COH score:0.39649835790711857
+top_n: 20 Topic Num: 1 
+Topic Words: [['meg', 'xterm', 'printer', 'ethernet', 'floppy', 'bmp', 'irq', 'rgb', 'ide', 'bio', 'gcc', 'cache', 'ld', 'svga', 'jumper', 'postscript', 'motherboard', 'configure', 'comp', 'compiler']]
+Coh_type:c_v  Topic Num:1 COH score:0.45913779941130056
+top_n: 10 Topic Num: 2 
+Topic Words: [['upgrade', 'simm', 'app', 'tire', 'modem', 'polygon', 'mb', 'cpu', 'meg', 'font']]
+Coh_type:c_v  Topic Num:2 COH score:0.38489642759496784
+top_n: 20 Topic Num: 2 
+Topic Words: [['upgrade', 'simm', 'app', 'tire', 'modem', 'polygon', 'mb', 'cpu', 'meg', 'font', 'motherboard', 'duo', 'ftp', 'ethernet', 'rgb', 'hd', 'cursor', 'accelerator', 'printer', 'floppy']]
+Coh_type:c_v  Topic Num:2 COH score:0.4104157019231597
+top_n: 10 Topic Num: 3 
+Topic Words: [['hitter', 'pitching', 'coach', 'rookie', 'catcher', 'baseball', 'playoff', 'escrow', 'scorer', 'forsale']]
+Coh_type:c_v  Topic Num:3 COH score:0.4797688093865314
+top_n: 20 Topic Num: 3 
+Topic Words: [['hitter', 'pitching', 'coach', 'rookie', 'catcher', 'baseball', 'playoff', 'escrow', 'scorer', 'forsale', 'pitcher', 'puck', 'defenseman', 'hockey', 'player', 'franchise', 'rbi', 'simm', 'league', 'ticket']]
+Coh_type:c_v  Topic Num:3 COH score:0.4779512033629184
+top_n: 10 Topic Num: 4 
+Topic Words: [['fb', 'vg', 'qb', 'u', 'mq', 'q', 'oname', 'xp', 'ey', 'um']]
+Coh_type:c_v  Topic Num:4 COH score:0.6153769638129148
+top_n: 20 Topic Num: 4 
+Topic Words: [['fb', 'vg', 'qb', 'u', 'mq', 'q', 'oname', 'xp', 'ey', 'um', 'rb', 'wrap', 'qq', 'mu', 'sunos', 'checkiooutput', 'congress', 'bs', 'f', 'lc']]
+Coh_type:c_v  Topic Num:4 COH score:0.5393955425407136
+top_n: 10 Topic Num: 5 
+Topic Words: [['fb', 'gcc', 'uuencode', 'xterm', 'contrib', 'truetype', 'vg', 'xlib', 'qb', 'qq']]
+Coh_type:c_v  Topic Num:5 COH score:0.49145991466578726
+top_n: 20 Topic Num: 5 
+Topic Words: [['fb', 'gcc', 'uuencode', 'xterm', 'contrib', 'truetype', 'vg', 'xlib', 'qb', 'qq', 'font', 'mq', 'ey', 'tf', 'rb', 'tq', 'xwindows', 'uk', 'axaxax', 'tgq']]
+Coh_type:c_v  Topic Num:5 COH score:0.5499839856565022
+top scores for top_10:[0.6153769638129148, 10, [['fb', 'vg', 'qb', 'u', 'mq', 'q', 'oname', 'xp', 'ey', 'um']]]
+-------------------------------------------------------------------
+top scores for top_20:[0.5499839856565022, 20, [['fb', 'gcc', 'uuencode', 'xterm', 'contrib', 'truetype', 'vg', 'xlib', 'qb', 'qq', 'font', 'mq', 'ey', 'tf', 'rb', 'tq', 'xwindows', 'uk', 'axaxax', 'tgq']]]
+-------------------------------------------------------------------
+Avg COH for top_10 topic words: 0.473600094673464
+-------------------------------------------------------------------
+Avg COH for top_20 topic words: 0.4873768465789189
+-------------------------------------------------------------------

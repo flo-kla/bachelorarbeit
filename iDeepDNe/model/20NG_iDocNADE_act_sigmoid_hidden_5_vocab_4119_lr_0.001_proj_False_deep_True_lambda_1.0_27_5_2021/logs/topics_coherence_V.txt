@@ -1,0 +1,38 @@
+top_n: 10 Topic Num: 1 
+Topic Words: [['car', 'engine', 'disk', 'floppy', 'pc', 'shipping', 'spec', 'bike', 'vga', 'mouse']]
+Coh_type:c_v  Topic Num:1 COH score:0.24009322886716572
+top_n: 20 Topic Num: 1 
+Topic Words: [['car', 'engine', 'disk', 'floppy', 'pc', 'shipping', 'spec', 'bike', 'vga', 'mouse', 'mile', 'mb', 'dual', 'manual', 'rgb', 'slot', 'disc', 'cd', 'model', 'k']]
+Coh_type:c_v  Topic Num:1 COH score:0.28264554092464456
+top_n: 10 Topic Num: 2 
+Topic Words: [['gun', 'people', 'right', 's', 'kill', 'bad', 'think', 'want', 'government', 'let']]
+Coh_type:c_v  Topic Num:2 COH score:0.5308643776923576
+top_n: 20 Topic Num: 2 
+Topic Words: [['gun', 'people', 'right', 's', 'kill', 'bad', 'think', 'want', 'government', 'let', 'pay', 'happen', 'cop', 'player', 'country', 'criminal', 'fire', 'somebody', 'tell', 'win']]
+Coh_type:c_v  Topic Num:2 COH score:0.4743208259816772
+top_n: 10 Topic Num: 3 
+Topic Words: [['card', 'widget', 'file', 'adapter', 'upgrade', 'x', 'window', 'mb', 'format', 'port']]
+Coh_type:c_v  Topic Num:3 COH score:0.3816194597496663
+top_n: 20 Topic Num: 3 
+Topic Words: [['card', 'widget', 'file', 'adapter', 'upgrade', 'x', 'window', 'mb', 'format', 'port', 'memory', 'mode', 'xterm', 'drive', 'meg', 'com', 'graphic', 'hal', 'pin', 'irq']]
+Coh_type:c_v  Topic Num:3 COH score:0.36830878052984767
+top_n: 10 Topic Num: 4 
+Topic Words: [['u', 'q', 't', 'm', 'p', 'f', 'l', 'e', 'ax', 'g']]
+Coh_type:c_v  Topic Num:4 COH score:0.9301901510293955
+top_n: 20 Topic Num: 4 
+Topic Words: [['u', 'q', 't', 'm', 'p', 'f', 'l', 'e', 'ax', 'g', 'um', 'rb', 'dp', 'y', 'pw', 'ma', 'tm', 'z', 'fb', 'mh']]
+Coh_type:c_v  Topic Num:4 COH score:0.9305363833722679
+top_n: 10 Topic Num: 5 
+Topic Words: [['probe', 'satellite', 'rocket', 'scientific', 'spacecraft', 'launch', 'p', 'orbit', 'r', 'anonymous']]
+Coh_type:c_v  Topic Num:5 COH score:0.4633436516442565
+top_n: 20 Topic Num: 5 
+Topic Words: [['probe', 'satellite', 'rocket', 'scientific', 'spacecraft', 'launch', 'p', 'orbit', 'r', 'anonymous', 'contrib', 'disease', 'ld', 'g', 'tarz', 'xp', 'xterm', 'f', 'x', 'pixmap']]
+Coh_type:c_v  Topic Num:5 COH score:0.3088170823769487
+top scores for top_10:[0.9301901510293955, 10, [['u', 'q', 't', 'm', 'p', 'f', 'l', 'e', 'ax', 'g']]]
+-------------------------------------------------------------------
+top scores for top_20:[0.9305363833722679, 20, [['u', 'q', 't', 'm', 'p', 'f', 'l', 'e', 'ax', 'g', 'um', 'rb', 'dp', 'y', 'pw', 'ma', 'tm', 'z', 'fb', 'mh']]]
+-------------------------------------------------------------------
+Avg COH for top_10 topic words: 0.5092221737965683
+-------------------------------------------------------------------
+Avg COH for top_20 topic words: 0.4729257226370772
+-------------------------------------------------------------------

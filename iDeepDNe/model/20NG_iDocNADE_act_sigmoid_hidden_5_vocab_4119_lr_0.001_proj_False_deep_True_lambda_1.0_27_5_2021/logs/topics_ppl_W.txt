@@ -1,0 +1,25 @@
+h_num: 0
+w_h_top_words_indx: [2249 4088 2818 1229 1391  395 1885 3105 1730  372 1489  481 2045 3607
+ 1960 2771 2353  731  689  699]
+w_h_top_words:['meg', 'xterm', 'printer', 'ethernet', 'floppy', 'bmp', 'irq', 'rgb', 'ide', 'bio', 'gcc', 'cache', 'ld', 'svga', 'jumper', 'postscript', 'motherboard', 'configure', 'comp', 'compiler']
+----------------------------------------------------------------------
+h_num: 1
+w_h_top_words_indx: [3863 3359  164 3732 2325 2748 2228  824 2249 1405 2353 1108 1453 1229
+ 3105 1625  866   19 2818 1391]
+w_h_top_words:['upgrade', 'simm', 'app', 'tire', 'modem', 'polygon', 'mb', 'cpu', 'meg', 'font', 'motherboard', 'duo', 'ftp', 'ethernet', 'rgb', 'hd', 'cursor', 'accelerator', 'printer', 'floppy']
+----------------------------------------------------------------------
+h_num: 2
+w_h_top_words_indx: [1665 2711  649 3147  531  318 2731 1216 3229 1419 2710 2887  932 1671
+ 2729 1433 2962 3359 2052 3717]
+w_h_top_words:['hitter', 'pitching', 'coach', 'rookie', 'catcher', 'baseball', 'playoff', 'escrow', 'scorer', 'forsale', 'pitcher', 'puck', 'defenseman', 'hockey', 'player', 'franchise', 'rbi', 'simm', 'league', 'ticket']
+----------------------------------------------------------------------
+h_num: 3
+w_h_top_words_indx: [1337 3917 2902 3829 2371 2900 2536 4085 1299 3840 2961 4063 2904 2378
+ 3581  580  736  447 1301 2043]
+w_h_top_words:['fb', 'vg', 'qb', 'u', 'mq', 'q', 'oname', 'xp', 'ey', 'um', 'rb', 'wrap', 'qq', 'mu', 'sunos', 'checkiooutput', 'congress', 'bs', 'f', 'lc']
+----------------------------------------------------------------------
+h_num: 4
+w_h_top_words_indx: [1337 1489 3881 4088  772 3799 3917 4082 2902 2904 1405 2371 1299 3690
+ 2961 3764 4092 3836  286 3692]
+w_h_top_words:['fb', 'gcc', 'uuencode', 'xterm', 'contrib', 'truetype', 'vg', 'xlib', 'qb', 'qq', 'font', 'mq', 'ey', 'tf', 'rb', 'tq', 'xwindows', 'uk', 'axaxax', 'tgq']
+----------------------------------------------------------------------
