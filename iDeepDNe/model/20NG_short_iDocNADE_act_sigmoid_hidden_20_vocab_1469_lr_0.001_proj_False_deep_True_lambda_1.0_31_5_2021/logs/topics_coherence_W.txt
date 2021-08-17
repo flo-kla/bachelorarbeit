@@ -1,0 +1,128 @@
+top_n: 10 Topic Num: 1 
+Topic Words: [['bible', 'arab', 'atheism', 'muslim', 'israeli', 'genocide', 'religion', 'christians', 'morality', 'massacre']]
+Coh_type:c_v  Topic Num:1 COH score:0.26926412561078394
+top_n: 20 Topic Num: 1 
+Topic Words: [['bible', 'arab', 'atheism', 'muslim', 'israeli', 'genocide', 'religion', 'christians', 'morality', 'massacre', 'homosexuality', 'turkish', 'soldier', 'homosexual', 'scripture', 'islamic', 'sex', 'doctrine', 'arabs', 'sin']]
+Coh_type:c_v  Topic Num:1 COH score:0.35987079394229593
+top_n: 10 Topic Num: 2 
+Topic Words: [['israeli', 'arab', 'escrow', 'officer', 'muslims', 'enforcement', 'economic', 'massacre', 'amendment', 'tx']]
+Coh_type:c_v  Topic Num:2 COH score:0.2857853839019876
+top_n: 20 Topic Num: 2 
+Topic Words: [['israeli', 'arab', 'escrow', 'officer', 'muslims', 'enforcement', 'economic', 'massacre', 'amendment', 'tx', 'firearm', 'federal', 'tap', 'wiretap', 'assault', 'corp', 'crypto', 'civilian', 'circuit', 'clipper']]
+Coh_type:c_v  Topic Num:2 COH score:0.4353841145095386
+top_n: 10 Topic Num: 3 
+Topic Words: [['islamic', 'muslim', 'arab', 'armenian', 'soldier', 'genocide', 'atheism', 'massacre', 'jews', 'sin']]
+Coh_type:c_v  Topic Num:3 COH score:0.35477177259569126
+top_n: 20 Topic Num: 3 
+Topic Words: [['islamic', 'muslim', 'arab', 'armenian', 'soldier', 'genocide', 'atheism', 'massacre', 'jews', 'sin', 'israel', 'muslims', 'bd', 'turkish', 'character', 'fbi', 'arabs', 'village', 'scripture', 'firearm']]
+Coh_type:c_v  Topic Num:3 COH score:0.4811211170222339
+top_n: 10 Topic Num: 4 
+Topic Words: [['bike', 'drug', 'gas', 'orbit', 'motorcycle', 'encryption', 'battery', 'young', 'cop', 'oil']]
+Coh_type:c_v  Topic Num:4 COH score:0.35467314210876266
+top_n: 20 Topic Num: 4 
+Topic Words: [['bike', 'drug', 'gas', 'orbit', 'motorcycle', 'encryption', 'battery', 'young', 'cop', 'oil', 'reaction', 'arm', 'mile', 'detector', 'economic', 'hot', 'coverage', 'solar', 'canada', 'legal']]
+Coh_type:c_v  Topic Num:4 COH score:0.38487842795871685
+top_n: 10 Topic Num: 5 
+Topic Words: [['insurance', 'team', 'widget', 'crash', 'practice', 'government', 'dod', 'land', 'minute', 'study']]
+Coh_type:c_v  Topic Num:5 COH score:0.2504735064467351
+top_n: 20 Topic Num: 5 
+Topic Words: [['insurance', 'team', 'widget', 'crash', 'practice', 'government', 'dod', 'land', 'minute', 'study', 'fan', 'pressure', 'playoff', 'likely', 'political', 'shuttle', 'guy', 'stand', 'season', 'somebody']]
+Coh_type:c_v  Topic Num:5 COH score:0.31017158250178134
+top_n: 10 Topic Num: 6 
+Topic Words: [['law', 'defense', 'coverage', 'health', 'circuit', 'gas', 'motherboard', 'encryption', 'insurance', 'detector']]
+Coh_type:c_v  Topic Num:6 COH score:0.31130891945836503
+top_n: 20 Topic Num: 6 
+Topic Words: [['law', 'defense', 'coverage', 'health', 'circuit', 'gas', 'motherboard', 'encryption', 'insurance', 'detector', 'tear', 'playoff', 'player', 'cop', 'drug', 'dod', 'satellite', 'shuttle', 'spacecraft', 'channel']]
+Coh_type:c_v  Topic Num:6 COH score:0.41154466944235785
+top_n: 10 Topic Num: 7 
+Topic Words: [['homosexuality', 'armenian', 'atheism', 'building', 'genocide', 'turkish', 'escape', 'tear', 'pp', 'soldier']]
+Coh_type:c_v  Topic Num:7 COH score:0.42646099793498166
+top_n: 20 Topic Num: 7 
+Topic Words: [['homosexuality', 'armenian', 'atheism', 'building', 'genocide', 'turkish', 'escape', 'tear', 'pp', 'soldier', 'village', 'muslims', 'russian', 'team', 'muslim', 'fbi', 'homosexual', 'inc', 'nd', 'islam']]
+Coh_type:c_v  Topic Num:7 COH score:0.45518789759227396
+top_n: 10 Topic Num: 8 
+Topic Words: [['absolute', 'atheism', 'objective', 'dog', 'bike', 'eric', 'hell', 'morality', 'disagree', 'approach']]
+Coh_type:c_v  Topic Num:8 COH score:0.2378237162123622
+top_n: 20 Topic Num: 8 
+Topic Words: [['absolute', 'atheism', 'objective', 'dog', 'bike', 'eric', 'hell', 'morality', 'disagree', 'approach', 'natural', 'motorcycle', 'fully', 'apple', 'effect', 'belief', 'spend', 'save', 'existence', 'conclusion']]
+Coh_type:c_v  Topic Num:8 COH score:0.27821544069282805
+top_n: 10 Topic Num: 9 
+Topic Words: [['cpu', 'drug', 'printer', 'vote', 'upgrade', 'patient', 'sort', 'government', 'motherboard', 'league']]
+Coh_type:c_v  Topic Num:9 COH score:0.2673045731175321
+top_n: 20 Topic Num: 9 
+Topic Words: [['cpu', 'drug', 'printer', 'vote', 'upgrade', 'patient', 'sort', 'government', 'motherboard', 'league', 'screen', 'quote', 'assume', 'talk', 'chip', 'bob', 'gun', 'yeah', 'encryption', 'directory']]
+Coh_type:c_v  Topic Num:9 COH score:0.3355770245976174
+top_n: 10 Topic Num: 10 
+Topic Words: [['pitcher', 'health', 'disease', 'doctor', 'scripture', 'hockey', 'medicine', 'gay', 'baseball', 'homosexual']]
+Coh_type:c_v  Topic Num:10 COH score:0.3793434262998996
+top_n: 20 Topic Num: 10 
+Topic Words: [['pitcher', 'health', 'disease', 'doctor', 'scripture', 'hockey', 'medicine', 'gay', 'baseball', 'homosexual', 'catholic', 'christians', 'evil', 'church', 'bible', 'verse', 'hospital', 'penalty', 'education', 'sex']]
+Coh_type:c_v  Topic Num:10 COH score:0.4140898746094355
+top_n: 10 Topic Num: 11 
+Topic Words: [['controller', 'escrow', 'motherboard', 'floppy', 'circuit', 'tap', 'islamic', 'motif', 'civil', 'fund']]
+Coh_type:c_v  Topic Num:11 COH score:0.42221292649568004
+top_n: 20 Topic Num: 11 
+Topic Words: [['controller', 'escrow', 'motherboard', 'floppy', 'circuit', 'tap', 'islamic', 'motif', 'civil', 'fund', 'crypto', 'insurance', 'postscript', 'privacy', 'bus', 'scheme', 'war', 'chip', 'wife', 'device']]
+Coh_type:c_v  Topic Num:11 COH score:0.45315753236999107
+top_n: 10 Topic Num: 12 
+Topic Words: [['motorcycle', 'christians', 'atheism', 'soldier', 'bible', 'verse', 'christianity', 'church', 'bike', 'morality']]
+Coh_type:c_v  Topic Num:12 COH score:0.4158114218338791
+top_n: 20 Topic Num: 12 
+Topic Words: [['motorcycle', 'christians', 'atheism', 'soldier', 'bible', 'verse', 'christianity', 'church', 'bike', 'morality', 'tap', 'muslims', 'uk', 'genocide', 'passage', 'armenian', 'massacre', 'ride', 'eric', 'sin']]
+Coh_type:c_v  Topic Num:12 COH score:0.5375408226869609
+top_n: 10 Topic Num: 13 
+Topic Words: [['firearm', 'nsa', 'armenian', 'soldier', 'russian', 'radar', 'troop', 'detector', 'rocket', 'army']]
+Coh_type:c_v  Topic Num:13 COH score:0.33312611379625423
+top_n: 20 Topic Num: 13 
+Topic Words: [['firearm', 'nsa', 'armenian', 'soldier', 'russian', 'radar', 'troop', 'detector', 'rocket', 'army', 'coverage', 'nhl', 'clutch', 'penalty', 'fbi', 'launch', 'civilian', 'rob', 'atf', 'satellite']]
+Coh_type:c_v  Topic Num:13 COH score:0.5534760800419308
+top_n: 10 Topic Num: 14 
+Topic Words: [['firearm', 'morality', 'armenian', 'church', 'homosexual', 'assault', 'sexual', 'muslim', 'orbit', 'arab']]
+Coh_type:c_v  Topic Num:14 COH score:0.44755052149448266
+top_n: 20 Topic Num: 14 
+Topic Words: [['firearm', 'morality', 'armenian', 'church', 'homosexual', 'assault', 'sexual', 'muslim', 'orbit', 'arab', 'troop', 'catholic', 'religion', 'soldier', 'homosexuality', 'crime', 'islamic', 'turkish', 'rocket', 'widget']]
+Coh_type:c_v  Topic Num:14 COH score:0.48793768998942283
+top_n: 10 Topic Num: 15 
+Topic Words: [['printer', 'controller', 'encryption', 'floppy', 'board', 'card', 'ftp', 'cover', 'protect', 'secret']]
+Coh_type:c_v  Topic Num:15 COH score:0.24279699447592334
+top_n: 20 Topic Num: 15 
+Topic Words: [['printer', 'controller', 'encryption', 'floppy', 'board', 'card', 'ftp', 'cover', 'protect', 'secret', 'window', 'fund', 'video', 'usa', 'key', 'charge', 'machine', 'motherboard', 'gun', 'graphic']]
+Coh_type:c_v  Topic Num:15 COH score:0.23192805482335338
+top_n: 10 Topic Num: 16 
+Topic Words: [['morality', 'escrow', 'clipper', 'encrypt', 'encryption', 'wiretap', 'arabs', 'militia', 'crypto', 'armenian']]
+Coh_type:c_v  Topic Num:16 COH score:0.5439124867099246
+top_n: 20 Topic Num: 16 
+Topic Words: [['morality', 'escrow', 'clipper', 'encrypt', 'encryption', 'wiretap', 'arabs', 'militia', 'crypto', 'armenian', 'army', 'criminal', 'arab', 'homosexuality', 'civilian', 'soviet', 'sexual', 'warrant', 'secret', 'absolute']]
+Coh_type:c_v  Topic Num:16 COH score:0.4594522279024149
+top_n: 10 Topic Num: 17 
+Topic Words: [['genocide', 'atheism', 'islam', 'mountain', 'administration', 'arab', 'arabs', 'tie', 'armenian', 'radar']]
+Coh_type:c_v  Topic Num:17 COH score:0.3825435199932129
+top_n: 20 Topic Num: 17 
+Topic Words: [['genocide', 'atheism', 'islam', 'mountain', 'administration', 'arab', 'arabs', 'tie', 'armenian', 'radar', 'village', 'muslims', 'tap', 'proposal', 'faith', 'door', 'dealer', 'movement', 'sell', 'belief']]
+Coh_type:c_v  Topic Num:17 COH score:0.37574630554593647
+top_n: 10 Topic Num: 18 
+Topic Words: [['encryption', 'disk', 'printer', 'floppy', 'gun', 'drive', 'motherboard', 'machine', 'signal', 'software']]
+Coh_type:c_v  Topic Num:18 COH score:0.37162395813686555
+top_n: 20 Topic Num: 18 
+Topic Words: [['encryption', 'disk', 'printer', 'floppy', 'gun', 'drive', 'motherboard', 'machine', 'signal', 'software', 'chip', 'upgrade', 'secure', 'controller', 'board', 'escrow', 'charge', 'privacy', 'external', 'instal']]
+Coh_type:c_v  Topic Num:18 COH score:0.2869051467719184
+top_n: 10 Topic Num: 19 
+Topic Words: [['arab', 'israeli', 'armenian', 'muslim', 'jewish', 'militia', 'fbi', 'cult', 'food', 'blood']]
+Coh_type:c_v  Topic Num:19 COH score:0.3461213728705535
+top_n: 20 Topic Num: 19 
+Topic Words: [['arab', 'israeli', 'armenian', 'muslim', 'jewish', 'militia', 'fbi', 'cult', 'food', 'blood', 'genocide', 'village', 'marriage', 'bd', 'god', 'homosexual', 'sexual', 'massacre', 'msg', 'arabs']]
+Coh_type:c_v  Topic Num:19 COH score:0.44748204903206884
+top_n: 10 Topic Num: 20 
+Topic Words: [['oil', 'brake', 'radar', 'fuel', 'orbit', 'population', 'dod', 'homosexuality', 'turkish', 'vehicle']]
+Coh_type:c_v  Topic Num:20 COH score:0.3819167405433022
+top_n: 20 Topic Num: 20 
+Topic Words: [['oil', 'brake', 'radar', 'fuel', 'orbit', 'population', 'dod', 'homosexuality', 'turkish', 'vehicle', 'marriage', 'rocket', 'clutch', 'spacecraft', 'drug', 'engine', 'insurance', 'bike', 'temperature', 'massacre']]
+Coh_type:c_v  Topic Num:20 COH score:0.42304684764986245
+top scores for top_10:[0.5439124867099246, 10, [['morality', 'escrow', 'clipper', 'encrypt', 'encryption', 'wiretap', 'arabs', 'militia', 'crypto', 'armenian']]]
+-------------------------------------------------------------------
+top scores for top_20:[0.5534760800419308, 20, [['firearm', 'nsa', 'armenian', 'soldier', 'russian', 'radar', 'troop', 'detector', 'rocket', 'army', 'coverage', 'nhl', 'clutch', 'penalty', 'fbi', 'launch', 'civilian', 'rob', 'atf', 'satellite']]]
+-------------------------------------------------------------------
+Avg COH for top_10 topic words: 0.351241281001859
+-------------------------------------------------------------------
+Avg COH for top_20 topic words: 0.4061356849841469
+-------------------------------------------------------------------

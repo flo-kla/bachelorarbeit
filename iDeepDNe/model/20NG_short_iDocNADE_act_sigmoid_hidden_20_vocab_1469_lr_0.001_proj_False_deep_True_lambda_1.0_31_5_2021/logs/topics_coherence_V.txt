@@ -1,0 +1,128 @@
+top_n: 10 Topic Num: 1 
+Topic Words: [['entry', 'goal', 'key', 'play', 'team', 'manager', 'win', 'aware', 'pray', 'hell']]
+Coh_type:c_v  Topic Num:1 COH score:0.29395497229750156
+top_n: 20 Topic Num: 1 
+Topic Words: [['entry', 'goal', 'key', 'play', 'team', 'manager', 'win', 'aware', 'pray', 'hell', 'game', 'score', 'armenian', 'strong', 'draft', 'save', 'management', 'division', 'pick', 'massacre']]
+Coh_type:c_v  Topic Num:1 COH score:0.3327791067946843
+top_n: 10 Topic Num: 2 
+Topic Words: [['armenian', 'attack', 'gun', 'genocide', 'tank', 'p', 'village', 'civilian', 'soldier', 'muslim']]
+Coh_type:c_v  Topic Num:2 COH score:0.5879791412806994
+top_n: 20 Topic Num: 2 
+Topic Words: [['armenian', 'attack', 'gun', 'genocide', 'tank', 'p', 'village', 'civilian', 'soldier', 'muslim', 'firearm', 'fire', 'pp', 'turkish', 'weapon', 'border', 'war', 'gas', 'army', 'dog']]
+Coh_type:c_v  Topic Num:2 COH score:0.4974243239092472
+top_n: 10 Topic Num: 3 
+Topic Words: [['o', 'pp', 'routine', 'com', 'homosexuality', 'soviet', 'mouse', 'land', 'font', 'escape']]
+Coh_type:c_v  Topic Num:3 COH score:0.2504169332091809
+top_n: 20 Topic Num: 3 
+Topic Words: [['o', 'pp', 'routine', 'com', 'homosexuality', 'soviet', 'mouse', 'land', 'font', 'escape', 'xterm', 'surface', 'homosexual', 'heavy', 'james', 'rocket', 'edge', 'join', 'e', 'lines']]
+Coh_type:c_v  Topic Num:3 COH score:0.456323816109703
+top_n: 10 Topic Num: 4 
+Topic Words: [['excellent', 'q', 'item', 'extra', 'fb', 'di', 'm', 'tm', 'channel', 'dr']]
+Coh_type:c_v  Topic Num:4 COH score:0.30009301935793753
+top_n: 20 Topic Num: 4 
+Topic Words: [['excellent', 'q', 'item', 'extra', 'fb', 'di', 'm', 'tm', 'channel', 'dr', 'vg', 'ad', 'serial', 'cable', 'double', 'pin', 'million', 'com', 'um', 'port']]
+Coh_type:c_v  Topic Num:4 COH score:0.3228338313248169
+top_n: 10 Topic Num: 5 
+Topic Words: [['fear', 'produce', 'law', 'land', 'dead', 'radar', 'communication', 'security', 'detector', 'party']]
+Coh_type:c_v  Topic Num:5 COH score:0.22519542838108092
+top_n: 20 Topic Num: 5 
+Topic Words: [['fear', 'produce', 'law', 'land', 'dead', 'radar', 'communication', 'security', 'detector', 'party', 'provide', 'protect', 'citizen', 'vs', 'manufacturer', 'hard', 'commercial', 'machine', 'act', 'defense']]
+Coh_type:c_v  Topic Num:5 COH score:0.24010742751009212
+top_n: 10 Topic Num: 6 
+Topic Words: [['james', 'driver', 'card', 'slow', 'save', 'o', 'pl', 'q', 'vg', 'file']]
+Coh_type:c_v  Topic Num:6 COH score:0.22864890280094258
+top_n: 20 Topic Num: 6 
+Topic Words: [['james', 'driver', 'card', 'slow', 'save', 'o', 'pl', 'q', 'vg', 'file', 'um', 'window', 'belief', 'play', 'shell', 'd', 'video', 'absolute', 'bus', 'f']]
+Coh_type:c_v  Topic Num:6 COH score:0.32506315935271013
+top_n: 10 Topic Num: 7 
+Topic Words: [['mi', 'steve', 'g', 'tm', 'f', 'ad', 'm', 'cross', 'e', 'p']]
+Coh_type:c_v  Topic Num:7 COH score:0.5360110968236739
+top_n: 20 Topic Num: 7 
+Topic Words: [['mi', 'steve', 'g', 'tm', 'f', 'ad', 'm', 'cross', 'e', 'p', 'vehicle', 't', 'fully', 'mm', 'assumption', 'define', 'd', 'orbit', 'ps', 'heres']]
+Coh_type:c_v  Topic Num:7 COH score:0.3521543131729713
+top_n: 10 Topic Num: 8 
+Topic Words: [['mother', 'dog', 'abuse', 'chip', 'ground', 'dealer', 'atheist', 'road', 'old', 'apple']]
+Coh_type:c_v  Topic Num:8 COH score:0.2169282547433095
+top_n: 20 Topic Num: 8 
+Topic Words: [['mother', 'dog', 'abuse', 'chip', 'ground', 'dealer', 'atheist', 'road', 'old', 'apple', 'god', 'owner', 'mac', 'power', 'newsgroup', 'tape', 'street', 'phone', 'learn', 'conflict']]
+Coh_type:c_v  Topic Num:8 COH score:0.23495231645928313
+top_n: 10 Topic Num: 9 
+Topic Words: [['technology', 'privacy', 'establish', 'chip', 'administration', 'technical', 'percent', 'management', 'facility', 'fund']]
+Coh_type:c_v  Topic Num:9 COH score:0.3542247003462077
+top_n: 20 Topic Num: 9 
+Topic Words: [['technology', 'privacy', 'establish', 'chip', 'administration', 'technical', 'percent', 'management', 'facility', 'fund', 'year', 'government', 'develop', 'development', 'team', 'communication', 'project', 'constitution', 'crypto', 'secret']]
+Coh_type:c_v  Topic Num:9 COH score:0.4427062820563511
+top_n: 10 Topic Num: 10 
+Topic Words: [['mailing', 'tear', 'man', 'body', 'cup', 'bike', 'soldier', 'steal', 'ride', 'beat']]
+Coh_type:c_v  Topic Num:10 COH score:0.3229012470168044
+top_n: 20 Topic Num: 10 
+Topic Words: [['mailing', 'tear', 'man', 'body', 'cup', 'bike', 'soldier', 'steal', 'ride', 'beat', 'sex', 'home', 'homosexuality', 'bible', 'homosexual', 'face', 'big', 'son', 'window', 'ball']]
+Coh_type:c_v  Topic Num:10 COH score:0.2877034045798084
+top_n: 10 Topic Num: 11 
+Topic Words: [['fb', 'baseball', 'copy', 'player', 'graphic', 'scripture', 'circuit', 'disk', 'motherboard', 'bible']]
+Coh_type:c_v  Topic Num:11 COH score:0.48535689246031477
+top_n: 20 Topic Num: 11 
+Topic Words: [['fb', 'baseball', 'copy', 'player', 'graphic', 'scripture', 'circuit', 'disk', 'motherboard', 'bible', 'di', 'board', 'um', 'c', 'tel', 'newsgroup', 'book', 'doctrine', 'post', 'documentation']]
+Coh_type:c_v  Topic Num:11 COH score:0.4836635199446665
+top_n: 10 Topic Num: 12 
+Topic Words: [['pp', 'draft', 'treat', 'road', 'dog', 'pm', 'r', 'update', 'parent', 'q']]
+Coh_type:c_v  Topic Num:12 COH score:0.16777504210039887
+top_n: 20 Topic Num: 12 
+Topic Words: [['pp', 'draft', 'treat', 'road', 'dog', 'pm', 'r', 'update', 'parent', 'q', 'content', 'fb', 'vg', 'treatment', 't', 'body', 'f', 'mi', 'associate', 'cross']]
+Coh_type:c_v  Topic Num:12 COH score:0.2891108751216162
+top_n: 10 Topic Num: 13 
+Topic Words: [['mb', 'os', 'eat', 'hd', 'l', 'heat', 'food', 'u', 'usually', 'period']]
+Coh_type:c_v  Topic Num:13 COH score:0.14906581833346816
+top_n: 20 Topic Num: 13 
+Topic Words: [['mb', 'os', 'eat', 'hd', 'l', 'heat', 'food', 'u', 'usually', 'period', 'pain', 'disease', 'study', 'result', 'temperature', 'damage', 'm', 'test', 'eye', 'g']]
+Coh_type:c_v  Topic Num:13 COH score:0.12913073722669466
+top_n: 10 Topic Num: 14 
+Topic Words: [['gay', 'sex', 'homosexual', 'context', 'social', 'administration', 'believe', 'family', 'food', 'troop']]
+Coh_type:c_v  Topic Num:14 COH score:0.3590382537452964
+top_n: 20 Topic Num: 14 
+Topic Words: [['gay', 'sex', 'homosexual', 'context', 'social', 'administration', 'believe', 'family', 'food', 'troop', 'health', 'percent', 'continue', 'arab', 'male', 'mother', 'armenian', 'turkish', 'child', 'compound']]
+Coh_type:c_v  Topic Num:14 COH score:0.28560098542206236
+top_n: 10 Topic Num: 15 
+Topic Words: [['program', 'orbit', 'package', 'image', 'q', 'thank', 'satellite', 'build', 'probe', 'detector']]
+Coh_type:c_v  Topic Num:15 COH score:0.3325995049743786
+top_n: 20 Topic Num: 15 
+Topic Words: [['program', 'orbit', 'package', 'image', 'q', 'thank', 'satellite', 'build', 'probe', 'detector', 'z', 'space', 'look', 'cost', 'problem', 'u', 'crash', 'project', 'double', 'mouse']]
+Coh_type:c_v  Topic Num:15 COH score:0.28873215211533027
+top_n: 10 Topic Num: 16 
+Topic Words: [['moral', 'morality', 'bike', 'right', 'car', 'insurance', 'objective', 'dog', 'penalty', 'd']]
+Coh_type:c_v  Topic Num:16 COH score:0.3337590986087346
+top_n: 20 Topic Num: 16 
+Topic Words: [['moral', 'morality', 'bike', 'right', 'car', 'insurance', 'objective', 'dog', 'penalty', 'd', 'murder', 'road', 'gun', 'moon', 'innocent', 'thing', 'light', 'detector', 'hockey', 'engine']]
+Coh_type:c_v  Topic Num:16 COH score:0.27534180017113524
+top_n: 10 Topic Num: 17 
+Topic Words: [['v', 'remote', 'mm', 'condition', 'voice', 'soul', 'mi', 'w', 'n', 'secret']]
+Coh_type:c_v  Topic Num:17 COH score:0.20995841047376756
+top_n: 20 Topic Num: 17 
+Topic Words: [['v', 'remote', 'mm', 'condition', 'voice', 'soul', 'mi', 'w', 'n', 'secret', 'u', 'pl', 'utility', 'z', 'k', 'connect', 'entirely', 'offer', 'keyboard', 'connection']]
+Coh_type:c_v  Topic Num:17 COH score:0.2323781134898315
+top_n: 10 Topic Num: 18 
+Topic Words: [['traffic', 'privacy', 'team', 'model', 'goal', 'frame', 'enforcement', 'basis', 'shift', 'penalty']]
+Coh_type:c_v  Topic Num:18 COH score:0.22433020520580982
+top_n: 20 Topic Num: 18 
+Topic Words: [['traffic', 'privacy', 'team', 'model', 'goal', 'frame', 'enforcement', 'basis', 'shift', 'penalty', 'button', 'ticket', 'perfect', 'dealer', 'objective', 'obvious', 'record', 'draw', 'engine', 'legal']]
+Coh_type:c_v  Topic Num:18 COH score:0.17047285332110113
+top_n: 10 Topic Num: 19 
+Topic Words: [['character', 'road', 'key', 'independent', 'soviet', 'land', 'algorithm', 'islamic', 'motorcycle', 'p']]
+Coh_type:c_v  Topic Num:19 COH score:0.26095137031049315
+top_n: 20 Topic Num: 19 
+Topic Words: [['character', 'road', 'key', 'independent', 'soviet', 'land', 'algorithm', 'islamic', 'motorcycle', 'p', 'warrant', 'pp', 'organization', 'window', 'morality', 'muslims', 'n', 'face', 'atheist', 'trust']]
+Coh_type:c_v  Topic Num:19 COH score:0.32186925583968573
+top_n: 10 Topic Num: 20 
+Topic Words: [['motorcycle', 'dog', 'dod', 'encryption', 'algorithm', 'ride', 'bike', 'school', 'address', 'mail']]
+Coh_type:c_v  Topic Num:20 COH score:0.31395193256457266
+top_n: 20 Topic Num: 20 
+Topic Words: [['motorcycle', 'dog', 'dod', 'encryption', 'algorithm', 'ride', 'bike', 'school', 'address', 'mail', 'privacy', 'phone', 'chip', 'government', 'crypto', 'secure', 'learn', 'newsgroup', 'advice', 'access']]
+Coh_type:c_v  Topic Num:20 COH score:0.22688119958737682
+top scores for top_10:[0.5879791412806994, 10, [['armenian', 'attack', 'gun', 'genocide', 'tank', 'p', 'village', 'civilian', 'soldier', 'muslim']]]
+-------------------------------------------------------------------
+top scores for top_20:[0.4974243239092472, 20, [['armenian', 'attack', 'gun', 'genocide', 'tank', 'p', 'village', 'civilian', 'soldier', 'muslim', 'firearm', 'fire', 'pp', 'turkish', 'weapon', 'border', 'war', 'gas', 'army', 'dog']]]
+-------------------------------------------------------------------
+Avg COH for top_10 topic words: 0.3076570112517286
+-------------------------------------------------------------------
+Avg COH for top_20 topic words: 0.3097614736754584
+-------------------------------------------------------------------

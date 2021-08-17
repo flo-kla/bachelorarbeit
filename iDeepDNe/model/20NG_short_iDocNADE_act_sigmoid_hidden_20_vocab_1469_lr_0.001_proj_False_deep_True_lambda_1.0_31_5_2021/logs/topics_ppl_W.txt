@@ -1,0 +1,100 @@
+h_num: 0
+w_h_top_words_indx: [ 122   59   80  851  666  535 1096  204  834  779  602 1364 1227  601
+ 1164  664 1194  369   60 1212]
+w_h_top_words:['bible', 'arab', 'atheism', 'muslim', 'israeli', 'genocide', 'religion', 'christians', 'morality', 'massacre', 'homosexuality', 'turkish', 'soldier', 'homosexual', 'scripture', 'islamic', 'sex', 'doctrine', 'arabs', 'sin']
+----------------------------------------------------------------------
+h_num: 1
+w_h_top_words_indx: [ 666   59  430  899  852  415  398  779   35 1368  493  479 1301 1444
+   74  275  293  211  206  220]
+w_h_top_words:['israeli', 'arab', 'escrow', 'officer', 'muslims', 'enforcement', 'economic', 'massacre', 'amendment', 'tx', 'firearm', 'federal', 'tap', 'wiretap', 'assault', 'corp', 'crypto', 'civilian', 'circuit', 'clipper']
+----------------------------------------------------------------------
+h_num: 2
+w_h_top_words_indx: [ 664  851   59   67 1227  535   80  779  676 1212  665  852  111 1364
+  191  476   60 1405 1164  493]
+w_h_top_words:['islamic', 'muslim', 'arab', 'armenian', 'soldier', 'genocide', 'atheism', 'massacre', 'jews', 'sin', 'israel', 'muslims', 'bd', 'turkish', 'character', 'fbi', 'arabs', 'village', 'scripture', 'firearm']
+----------------------------------------------------------------------
+h_num: 3
+w_h_top_words_indx: [ 124  389  529  916  839  412  108 1467  273  903 1068   65  810  341
+  398  606  285 1226  170  717]
+w_h_top_words:['bike', 'drug', 'gas', 'orbit', 'motorcycle', 'encryption', 'battery', 'young', 'cop', 'oil', 'reaction', 'arm', 'mile', 'detector', 'economic', 'hot', 'coverage', 'solar', 'canada', 'legal']
+----------------------------------------------------------------------
+h_num: 4
+w_h_top_words_indx: [ 650 1306 1436  287 1003  548  372  704  817 1276  468 1009  979  727
+  987 1205  564 1251 1167 1230]
+w_h_top_words:['insurance', 'team', 'widget', 'crash', 'practice', 'government', 'dod', 'land', 'minute', 'study', 'fan', 'pressure', 'playoff', 'likely', 'political', 'shuttle', 'guy', 'stand', 'season', 'somebody']
+----------------------------------------------------------------------
+h_num: 5
+w_h_top_words_indx: [ 710  324  285  579  206  529  837  412  650  341 1307  979  978  273
+  389  372 1151 1205 1241  190]
+w_h_top_words:['law', 'defense', 'coverage', 'health', 'circuit', 'gas', 'motherboard', 'encryption', 'insurance', 'detector', 'tear', 'playoff', 'player', 'cop', 'drug', 'dod', 'satellite', 'shuttle', 'spacecraft', 'channel']
+----------------------------------------------------------------------
+h_num: 6
+w_h_top_words_indx: [ 602   67   80  156  535 1364  429 1307 1002 1227 1405  852 1144 1306
+  851  476  601  631  862  663]
+w_h_top_words:['homosexuality', 'armenian', 'atheism', 'building', 'genocide', 'turkish', 'escape', 'tear', 'pp', 'soldier', 'village', 'muslims', 'russian', 'team', 'muslim', 'fbi', 'homosexual', 'inc', 'nd', 'islam']
+----------------------------------------------------------------------
+h_num: 7
+w_h_top_words_indx: [   2   80  891  373  124  427  585  834  357   55  860  839  520   51
+  403  117 1247 1152  446  253]
+w_h_top_words:['absolute', 'atheism', 'objective', 'dog', 'bike', 'eric', 'hell', 'morality', 'disagree', 'approach', 'natural', 'motorcycle', 'fully', 'apple', 'effect', 'belief', 'spend', 'save', 'existence', 'conclusion']
+----------------------------------------------------------------------
+h_num: 8
+w_h_top_words_indx: [ 286  389 1016 1409 1384  943 1234  548  837  713 1162 1055   77 1299
+  197  136  563 1462  412  356]
+w_h_top_words:['cpu', 'drug', 'printer', 'vote', 'upgrade', 'patient', 'sort', 'government', 'motherboard', 'league', 'screen', 'quote', 'assume', 'talk', 'chip', 'bob', 'gun', 'yeah', 'encryption', 'directory']
+----------------------------------------------------------------------
+h_num: 9
+w_h_top_words_indx: [ 969  579  362  368 1164  596  793  531  103  601  179  204  440  205
+  122 1399  604  948  402 1194]
+w_h_top_words:['pitcher', 'health', 'disease', 'doctor', 'scripture', 'hockey', 'medicine', 'gay', 'baseball', 'homosexual', 'catholic', 'christians', 'evil', 'church', 'bible', 'verse', 'hospital', 'penalty', 'education', 'sex']
+----------------------------------------------------------------------
+h_num: 10
+w_h_top_words_indx: [ 268  430  837  498  206 1301  664  838  210  523  293  650  999 1017
+  159 1155 1418  197 1437  346]
+w_h_top_words:['controller', 'escrow', 'motherboard', 'floppy', 'circuit', 'tap', 'islamic', 'motif', 'civil', 'fund', 'crypto', 'insurance', 'postscript', 'privacy', 'bus', 'scheme', 'war', 'chip', 'wife', 'device']
+----------------------------------------------------------------------
+h_num: 11
+w_h_top_words_indx: [ 839  204   80 1227  122 1399  203  205  124  834 1301  852 1372  535
+  938   67  779 1125  427 1212]
+w_h_top_words:['motorcycle', 'christians', 'atheism', 'soldier', 'bible', 'verse', 'christianity', 'church', 'bike', 'morality', 'tap', 'muslims', 'uk', 'genocide', 'passage', 'armenian', 'massacre', 'ride', 'eric', 'sin']
+----------------------------------------------------------------------
+h_num: 12
+w_h_top_words_indx: [ 493  884   67 1227 1144 1058 1357  341 1135   69  285  874  224  948
+  476  709  211 1131   79 1151]
+w_h_top_words:['firearm', 'nsa', 'armenian', 'soldier', 'russian', 'radar', 'troop', 'detector', 'rocket', 'army', 'coverage', 'nhl', 'clutch', 'penalty', 'fbi', 'launch', 'civilian', 'rob', 'atf', 'satellite']
+----------------------------------------------------------------------
+h_num: 13
+w_h_top_words_indx: [ 493  834   67  205  601   74 1195  851  916   59 1357  179 1096 1227
+  602  290  664 1364 1135 1436]
+w_h_top_words:['firearm', 'morality', 'armenian', 'church', 'homosexual', 'assault', 'sexual', 'muslim', 'orbit', 'arab', 'troop', 'catholic', 'religion', 'soldier', 'homosexuality', 'crime', 'islamic', 'turkish', 'rocket', 'widget']
+----------------------------------------------------------------------
+h_num: 14
+w_h_top_words_indx: [1016  268  412  498  135  174  518  284 1038 1171 1441  523 1403 1385
+  689  192  755  837  563  550]
+w_h_top_words:['printer', 'controller', 'encryption', 'floppy', 'board', 'card', 'ftp', 'cover', 'protect', 'secret', 'window', 'fund', 'video', 'usa', 'key', 'charge', 'machine', 'motherboard', 'gun', 'graphic']
+----------------------------------------------------------------------
+h_num: 15
+w_h_top_words_indx: [ 834  430  220  411  412 1444   60  812  293   67   69  291   59  602
+  211 1239 1195 1419 1171    2]
+w_h_top_words:['morality', 'escrow', 'clipper', 'encrypt', 'encryption', 'wiretap', 'arabs', 'militia', 'crypto', 'armenian', 'army', 'criminal', 'arab', 'homosexuality', 'civilian', 'soviet', 'sexual', 'warrant', 'secret', 'absolute']
+----------------------------------------------------------------------
+h_num: 16
+w_h_top_words_indx: [ 535   80  663  841   19   59   60 1334   67 1058 1405  852 1301 1036
+  464  377  317  844 1179  117]
+w_h_top_words:['genocide', 'atheism', 'islam', 'mountain', 'administration', 'arab', 'arabs', 'tie', 'armenian', 'radar', 'village', 'muslims', 'tap', 'proposal', 'faith', 'door', 'dealer', 'movement', 'sell', 'belief']
+----------------------------------------------------------------------
+h_num: 17
+w_h_top_words_indx: [ 412  363 1016  498  563  386  837  755 1207 1225  197 1384 1173  268
+  135  430  192 1017  453  644]
+w_h_top_words:['encryption', 'disk', 'printer', 'floppy', 'gun', 'drive', 'motherboard', 'machine', 'signal', 'software', 'chip', 'upgrade', 'secure', 'controller', 'board', 'escrow', 'charge', 'privacy', 'external', 'instal']
+----------------------------------------------------------------------
+h_num: 18
+w_h_top_words_indx: [  59  666   67  851  675  812  476  295  504  131  535 1405  776  111
+  546  601 1195  779  847   60]
+w_h_top_words:['arab', 'israeli', 'armenian', 'muslim', 'jewish', 'militia', 'fbi', 'cult', 'food', 'blood', 'genocide', 'village', 'marriage', 'bd', 'god', 'homosexual', 'sexual', 'massacre', 'msg', 'arabs']
+----------------------------------------------------------------------
+h_num: 19
+w_h_top_words_indx: [ 903  146 1058  519  916  990  372  602 1364 1398  776 1135  224 1241
+  389  416  650  124 1315  779]
+w_h_top_words:['oil', 'brake', 'radar', 'fuel', 'orbit', 'population', 'dod', 'homosexuality', 'turkish', 'vehicle', 'marriage', 'rocket', 'clutch', 'spacecraft', 'drug', 'engine', 'insurance', 'bike', 'temperature', 'massacre']
+----------------------------------------------------------------------
