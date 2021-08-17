@@ -1,0 +1,500 @@
+h_num: 0
+w_h_top_words_indx: [ 972 1385 1339  413  111 1002 1392  753  301  822   14  925  347 1457
+  475  805  456 1371  286  854]
+w_h_top_words:['pl', 'usa', 'tm', 'end', 'bd', 'pp', 'v', 'ma', 'd', 'mm', 'ad', 'p', 'di', 'x', 'fb', 'mi', 'f', 'u', 'cpu', 'n']
+----------------------------------------------------------------------
+h_num: 1
+w_h_top_words_indx: [1436  402  753  838  890  991  475  626 1373 1156  161 1411  873 1204
+  437  456  112 1114  909   66]
+w_h_top_words:['widget', 'education', 'ma', 'motif', 'object', 'port', 'fb', 'implement', 'um', 'school', 'button', 'w', 'newssoftware', 'show', 'event', 'f', 'be', 'resource', 'ontario', 'armenia']
+----------------------------------------------------------------------
+h_num: 2
+w_h_top_words_indx: [1385  972 1392  753 1339  822  413 1457  301  347  925  111  854 1002
+  475   14  889  803  805  456]
+w_h_top_words:['usa', 'pl', 'v', 'ma', 'tm', 'mm', 'end', 'x', 'd', 'di', 'p', 'bd', 'n', 'pp', 'fb', 'ad', 'o', 'mg', 'mi', 'f']
+----------------------------------------------------------------------
+h_num: 3
+w_h_top_words_indx: [1385  972 1339  805  301  413 1002   14  753 1392  347  787  925  822
+  889 1050  456  286  475 1371]
+w_h_top_words:['usa', 'pl', 'tm', 'mi', 'd', 'end', 'pp', 'ad', 'ma', 'v', 'di', 'mb', 'p', 'mm', 'o', 'q', 'f', 'cpu', 'fb', 'u']
+----------------------------------------------------------------------
+h_num: 4
+w_h_top_words_indx: [ 287 1039 1028  363  485  737  356 1391  645  274  511  163  577 1382
+  268  386  139 1240  428 1165]
+w_h_top_words:['crash', 'protection', 'program', 'disk', 'file', 'load', 'directory', 'utility', 'install', 'copy', 'format', 'byte', 'hd', 'unix', 'controller', 'drive', 'boot', 'space', 'error', 'scsi']
+----------------------------------------------------------------------
+h_num: 5
+w_h_top_words_indx: [  21  553  375  590   54 1323  347   47 1203  475 1442  743  538 1226
+  565  638  721 1065  586 1402]
+w_h_top_words:['advance', 'greatly', 'domain', 'hi', 'appreciate', 'thank', 'di', 'anybody', 'shot', 'fb', 'windows', 'look', 'germany', 'solar', 'h', 'info', 'library', 'ray', 'hello', 'vga']
+----------------------------------------------------------------------
+h_num: 6
+w_h_top_words_indx: [ 135  937 1340 1128   48  263  813 1056  535 1235  401  565 1044  445
+  190 1130   70 1187  899 1172]
+w_h_top_words:['board', 'pass', 'today', 'rise', 'app', 'contain', 'million', 'r', 'genocide', 'soul', 'editor', 'h', 'publish', 'exist', 'channel', 'road', 'art', 'serve', 'officer', 'section']
+----------------------------------------------------------------------
+h_num: 7
+w_h_top_words_indx: [ 127 1191 1459  467  130 1371  341  190 1184  971  414  683 1084  197
+   24 1283  641  922  854 1056]
+w_h_top_words:['bit', 'session', 'xterm', 'family', 'block', 'u', 'detector', 'channel', 'serial', 'pixel', 'energy', 'jpeg', 'red', 'chip', 'affect', 'summary', 'input', 'output', 'n', 'r']
+----------------------------------------------------------------------
+h_num: 8
+w_h_top_words_indx: [ 982 1050  475  360 1296 1191  795 1027  179  255  512 1244  205   52
+  899 1174  557  550 1156 1065]
+w_h_top_words:['pm', 'q', 'fb', 'discuss', 't', 'session', 'meet', 'professor', 'catholic', 'conference', 'forward', 'specific', 'church', 'application', 'officer', 'security', 'group', 'graphic', 'school', 'ray']
+----------------------------------------------------------------------
+h_num: 9
+w_h_top_words_indx: [ 245  111  543 1298  407 1133  168 1204  843  537 1468 1438  777 1175
+  873  428  764 1153  544  112]
+w_h_top_words:['compile', 'bd', 'gmt', 'take', 'ei', 'rochester', 'call', 'show', 'move', 'georgia', 'z', 'will', 'mary', 'see', 'newssoftware', 'error', 'make', 'say', 'go', 'be']
+----------------------------------------------------------------------
+h_num: 10
+w_h_top_words_indx: [ 231  842  991  245  525  825  869 1188  433 1457 1392  699  843  259
+   18 1056  823   68  688  541]
+w_h_top_words:['com', 'mouse', 'port', 'compile', 'g', 'modem', 'network', 'server', 'establish', 'x', 'v', 'l', 'move', 'connection', 'address', 'r', 'mode', 'armenians', 'keep', 'give']
+----------------------------------------------------------------------
+h_num: 11
+w_h_top_words_indx: [1385  972 1339 1002  301 1392  413  753  822   14  805  347 1401 1050
+  925  456  475  752 1371  889]
+w_h_top_words:['usa', 'pl', 'tm', 'pp', 'd', 'v', 'end', 'ma', 'mm', 'ad', 'mi', 'di', 'vg', 'q', 'p', 'f', 'fb', 'm', 'u', 'o']
+----------------------------------------------------------------------
+h_num: 12
+w_h_top_words_indx: [1385  972 1002  301 1392  805  413 1339  753  456 1457  889  347 1401
+   14 1371  925 1050  822  752]
+w_h_top_words:['usa', 'pl', 'pp', 'd', 'v', 'mi', 'end', 'tm', 'ma', 'f', 'x', 'o', 'di', 'vg', 'ad', 'u', 'p', 'q', 'mm', 'm']
+----------------------------------------------------------------------
+h_num: 13
+w_h_top_words_indx: [ 842 1162 1459  796 1441  830  533  968   48  929  817  716  287 1434
+  769 1061  831  607  798  161]
+w_h_top_words:['mouse', 'screen', 'xterm', 'meg', 'window', 'monitor', 'generally', 'pitch', 'app', 'pain', 'minute', 'left', 'crash', 'white', 'manager', 'ram', 'month', 'hour', 'memory', 'button']
+----------------------------------------------------------------------
+h_num: 14
+w_h_top_words_indx: [ 834  891  833   43 1460  545 1066 1150  427 1252 1087 1325 1455 1394
+  326  943  892  412  451 1192]
+w_h_top_words:['morality', 'objective', 'moral', 'animal', 'xv', 'goal', 'rd', 'san', 'eric', 'standard', 'reference', 'theory', 'wrong', 'value', 'definition', 'patient', 'observation', 'encryption', 'explain', 'set']
+----------------------------------------------------------------------
+h_num: 15
+w_h_top_words_indx: [ 159  268  308 1296  804  614  991  656  346  556 1352  292  428  961
+ 1165 1410  823 1184  127  221]
+w_h_top_words:['bus', 'controller', 'datum', 't', 'mhz', 'ide', 'port', 'interface', 'device', 'ground', 'transfer', 'cross', 'error', 'physical', 'scsi', 'vs', 'mode', 'serial', 'bit', 'clock']
+----------------------------------------------------------------------
+h_num: 16
+w_h_top_words_indx: [ 879  173  922 1443  181  317 1302  641  555 1051  352  165  190  162
+  825   51   57  408  312  495]
+w_h_top_words:['noise', 'car', 'output', 'wire', 'cd', 'dealer', 'tape', 'input', 'green', 'quality', 'digital', 'cable', 'channel', 'buy', 'modem', 'apple', 'apr', 'electrical', 'db', 'fix']
+----------------------------------------------------------------------
+h_num: 17
+w_h_top_words_indx: [ 487  180 1452 1217 1066  286  787  503 1240  798  988  515  485  159
+  486   93 1268  455 1152  392]
+w_h_top_words:['final', 'cause', 'worry', 'size', 'rd', 'cpu', 'mb', 'font', 'space', 'memory', 'poor', 'free', 'file', 'bus', 'fill', 'avoid', 'store', 'eye', 'save', 'early']
+----------------------------------------------------------------------
+h_num: 18
+w_h_top_words_indx: [ 285  154  650 1308 1307 1333  579 1018  940 1056  529  397  368  454
+ 1152 1218  333  492  242  519]
+w_h_top_words:['coverage', 'bug', 'insurance', 'tech', 'tear', 'ticket', 'health', 'private', 'pat', 'r', 'gas', 'eat', 'doctor', 'extra', 'save', 'sky', 'dept', 'fire', 'company', 'fuel']
+----------------------------------------------------------------------
+h_num: 19
+w_h_top_words_indx: [1392  456  525  565  889 1296  925 1461 1468  334  382 1056  391  787
+ 1050 1401  164 1373  854  475]
+w_h_top_words:['v', 'f', 'g', 'h', 'o', 't', 'p', 'y', 'z', 'des', 'dr', 'r', 'e', 'mb', 'q', 'vg', 'c', 'um', 'n', 'fb']
+----------------------------------------------------------------------
+h_num: 20
+w_h_top_words_indx: [1385  972 1392  301  413 1002  822 1339  805  111   14  753 1457 1050
+  347 1371  456  525  889 1401]
+w_h_top_words:['usa', 'pl', 'v', 'd', 'end', 'pp', 'mm', 'tm', 'mi', 'bd', 'ad', 'ma', 'x', 'q', 'di', 'u', 'f', 'g', 'o', 'vg']
+----------------------------------------------------------------------
+h_num: 21
+w_h_top_words_indx: [ 111  301  822  413   14 1392 1385 1339  805  972  753  525 1002 1050
+  787  347  391 1411  456 1371]
+w_h_top_words:['bd', 'd', 'mm', 'end', 'ad', 'v', 'usa', 'tm', 'mi', 'pl', 'ma', 'g', 'pp', 'q', 'mb', 'di', 'e', 'w', 'f', 'u']
+----------------------------------------------------------------------
+h_num: 22
+w_h_top_words_indx: [ 972 1385 1392  413 1002  753  301 1339  822  805 1457   14  925  111
+ 1050 1401  669  347 1371  803]
+w_h_top_words:['pl', 'usa', 'v', 'end', 'pp', 'ma', 'd', 'tm', 'mm', 'mi', 'x', 'ad', 'p', 'bd', 'q', 'vg', 'j', 'di', 'u', 'mg']
+----------------------------------------------------------------------
+h_num: 23
+w_h_top_words_indx: [1016  623  387 1215  540  999  503  485  122 1400  518 1391  683 1015
+  364 1460  270 1038  356 1288]
+w_h_top_words:['printer', 'image', 'driver', 'site', 'gif', 'postscript', 'font', 'file', 'bible', 'version', 'ftp', 'utility', 'jpeg', 'print', 'display', 'xv', 'convert', 'protect', 'directory', 'support']
+----------------------------------------------------------------------
+h_num: 24
+w_h_top_words_indx: [ 807  249  187 1460 1148  889  602  138 1114  962  793 1343   80  967
+ 1382  496  513  227  429 1065]
+w_h_top_words:['microsoft', 'computer', 'challenge', 'xv', 'sale', 'o', 'homosexuality', 'book', 'resource', 'physics', 'medicine', 'topic', 'atheism', 'pit', 'unix', 'flame', 'frame', 'cold', 'escape', 'ray']
+----------------------------------------------------------------------
+h_num: 25
+w_h_top_words_indx: [1392 1402  327  669   51  555 1457 1324  133 1206 1340 1086  231  825
+  699  991  968 1250 1287  416]
+w_h_top_words:['v', 'vga', 'degree', 'j', 'apple', 'green', 'x', 'thanks', 'blue', 'sign', 'today', 'refer', 'com', 'modem', 'l', 'port', 'pitch', 'st', 'supply', 'engine']
+----------------------------------------------------------------------
+h_num: 26
+w_h_top_words_indx: [ 437  668 1441  931  559 1436  618 1459  772  384 1461  446  175  992
+  503 1373  769  191 1074  948]
+w_h_top_words:['event', 'item', 'window', 'parent', 'guarantee', 'widget', 'ignore', 'xterm', 'map', 'draw', 'y', 'existence', 'care', 'position', 'font', 'um', 'manager', 'character', 'realize', 'penalty']
+----------------------------------------------------------------------
+h_num: 27
+w_h_top_words_indx: [  48   55  346  519 1384 1018 1026  604  943 1311  637  172  702  921
+  344 1389  345  412  104  458]
+w_h_top_words:['app', 'approach', 'device', 'fuel', 'upgrade', 'private', 'product', 'hospital', 'patient', 'technology', 'industry', 'capability', 'laboratory', 'os', 'develop', 'user', 'development', 'encryption', 'basic', 'facility']
+----------------------------------------------------------------------
+h_num: 28
+w_h_top_words_indx: [ 341  293 1179  274 1058  220  226  855  812 1126 1415  775  412 1090
+  363 1035  162 1301  722  208]
+w_h_top_words:['detector', 'crypto', 'sell', 'copy', 'radar', 'clipper', 'code', 'na', 'militia', 'right', 'walk', 'market', 'encryption', 'register', 'disk', 'property', 'buy', 'tap', 'license', 'citizen']
+----------------------------------------------------------------------
+h_num: 29
+w_h_top_words_indx: [1385  972 1002 1392  301  413   14  822  753 1339 1457  925  805 1050
+  889  854  347 1401  111  456]
+w_h_top_words:['usa', 'pl', 'pp', 'v', 'd', 'end', 'ad', 'mm', 'ma', 'tm', 'x', 'p', 'mi', 'q', 'o', 'n', 'di', 'vg', 'bd', 'f']
+----------------------------------------------------------------------
+h_num: 30
+w_h_top_words_indx: [ 687  823  813 1346 1457  830 1402 1403   66 1049  902  229 1360  541
+  127 1288 1396  112  873  909]
+w_h_top_words:['k', 'mode', 'million', 'totally', 'x', 'monitor', 'vga', 'video', 'armenia', 'put', 'ohio', 'color', 'trust', 'give', 'bit', 'support', 'vancouver', 'be', 'newssoftware', 'ontario']
+----------------------------------------------------------------------
+h_num: 31
+w_h_top_words_indx: [ 933  764  525  543  889 1396 1298 1431   66 1296  853 1183  576  112
+  168  407 1438 1204 1153 1133]
+w_h_top_words:['part', 'make', 'g', 'gmt', 'o', 'vancouver', 'take', 'well', 'armenia', 't', 'myers', 'serdar', 'have', 'be', 'call', 'ei', 'will', 'show', 'say', 'rochester']
+----------------------------------------------------------------------
+h_num: 32
+w_h_top_words_indx: [ 211  318  640  693  348 1403  236  779  850 1303  196 1227 1061  948
+ 1255  632  159  439  993  180]
+w_h_top_words:['civilian', 'death', 'innocent', 'kill', 'die', 'video', 'commit', 'massacre', 'murder', 'target', 'child', 'soldier', 'ram', 'penalty', 'stat', 'include', 'bus', 'evidence', 'possibility', 'cause']
+----------------------------------------------------------------------
+h_num: 33
+w_h_top_words_indx: [1399  503 1321  602  660  790 1164   64   55   78  253 1449  601   15
+  729  392  265 1137  938  554]
+w_h_top_words:['verse', 'font', 'text', 'homosexuality', 'interpretation', 'meaning', 'scripture', 'argument', 'approach', 'assumption', 'conclusion', 'word', 'homosexual', 'add', 'limited', 'early', 'context', 'rom', 'passage', 'greek']
+----------------------------------------------------------------------
+h_num: 34
+w_h_top_words_indx: [ 155  587 1353  933  941 1303  407 1049   96  156 1264  325  544  856
+ 1022   68 1183 1204  537  907]
+w_h_top_words:['build', 'help', 'translation', 'part', 'patch', 'target', 'ei', 'put', 'azerbaijan', 'building', 'stephanopoulos', 'define', 'go', 'name', 'problem', 'armenians', 'serdar', 'show', 'georgia', 'one']
+----------------------------------------------------------------------
+h_num: 35
+w_h_top_words_indx: [ 341 1200 1058  165 1443 1144 1059 1094  197  155   32 1207 1135 1151
+  840  670  242 1226   57  819]
+w_h_top_words:['detector', 'ship', 'radar', 'cable', 'wire', 'russian', 'radio', 'relationship', 'chip', 'build', 'algorithm', 'signal', 'rocket', 'satellite', 'motorola', 'jack', 'company', 'solar', 'apr', 'mission']
+----------------------------------------------------------------------
+h_num: 36
+w_h_top_words_indx: [ 137 1285  961  434  976 1380 1325 1002 1159  583  138  414 1253 1235
+ 1423 1328  385  633  482  695]
+w_h_top_words:['body', 'sun', 'physical', 'eternal', 'planet', 'universe', 'theory', 'pp', 'scientist', 'heaven', 'book', 'energy', 'star', 'soul', 'water', 'thomas', 'dream', 'increase', 'field', 'king']
+----------------------------------------------------------------------
+h_num: 37
+w_h_top_words_indx: [1385  972  413 1002 1392  301  111 1339  805  753   14  822  347 1401
+  475  787 1457 1050  925  699]
+w_h_top_words:['usa', 'pl', 'end', 'pp', 'v', 'd', 'bd', 'tm', 'mi', 'ma', 'ad', 'mm', 'di', 'vg', 'fb', 'mb', 'x', 'q', 'p', 'l']
+----------------------------------------------------------------------
+h_num: 38
+w_h_top_words_indx: [1302  155  383  102 1400 1053 1210  495  758  263  890 1457  668  897
+   64  474  937 1436 1056 1103]
+w_h_top_words:['tape', 'build', 'draft', 'base', 'version', 'quick', 'simple', 'fix', 'mail', 'contain', 'object', 'x', 'item', 'offer', 'argument', 'fax', 'pass', 'widget', 'r', 'replace']
+----------------------------------------------------------------------
+h_num: 39
+w_h_top_words_indx: [ 111  525  983  687 1392 1339  847 1145  164 1102 1317 1298  347  169
+  885 1230  577 1393  777  805]
+w_h_top_words:['bd', 'g', 'po', 'k', 'v', 'tm', 'msg', 's', 'c', 'repeat', 'term', 'take', 'di', 'cambridge', 'nt', 'somebody', 'hd', 'valid', 'mary', 'mi']
+----------------------------------------------------------------------
+h_num: 40
+w_h_top_words_indx: [1339  111  972 1392  753  822  301 1385   14  347  413 1401 1002  925
+  983  885  803  854  901 1050]
+w_h_top_words:['tm', 'bd', 'pl', 'v', 'ma', 'mm', 'd', 'usa', 'ad', 'di', 'end', 'vg', 'pp', 'p', 'po', 'nt', 'mg', 'n', 'oh', 'q']
+----------------------------------------------------------------------
+h_num: 41
+w_h_top_words_indx: [ 563  290  710  493  291  267  948  317  125  415 1409 1064  601  318
+ 1426  664   35  893   74 1036]
+w_h_top_words:['gun', 'crime', 'law', 'firearm', 'criminal', 'control', 'penalty', 'dealer', 'bill', 'enforcement', 'vote', 'rate', 'homosexual', 'death', 'weapon', 'islamic', 'amendment', 'obtain', 'assault', 'proposal']
+----------------------------------------------------------------------
+h_num: 42
+w_h_top_words_indx: [1306  671 1440 1401  475  979  636  749 1349  785  367  220 1050  575
+ 1371  791 1373  446 1212  456]
+w_h_top_words:['team', 'james', 'win', 'vg', 'fb', 'playoff', 'individual', 'love', 'trade', 'maxaxaxaxaxaxaxaxaxaxaxaxaxaxax', 'division', 'clipper', 'q', 'hate', 'u', 'measure', 'um', 'existence', 'sin', 'f']
+----------------------------------------------------------------------
+h_num: 43
+w_h_top_words_indx: [ 301  787 1145  565  525  687  822  889  456 1056 1468  904  972 1392
+ 1371  391  164   14 1050 1411]
+w_h_top_words:['d', 'mb', 's', 'h', 'g', 'k', 'mm', 'o', 'f', 'r', 'z', 'ok', 'pl', 'v', 'u', 'e', 'c', 'ad', 'q', 'w']
+----------------------------------------------------------------------
+h_num: 44
+w_h_top_words_indx: [1323  979  730   21  825  972  535  878 1392  837  410 1096  503   80
+  587  174  601  590 1459 1327]
+w_h_top_words:['thank', 'playoff', 'line', 'advance', 'modem', 'pl', 'genocide', 'nntppostinghost', 'v', 'motherboard', 'email', 'religion', 'font', 'atheism', 'help', 'card', 'homosexual', 'hi', 'xterm', 'think']
+----------------------------------------------------------------------
+h_num: 45
+w_h_top_words_indx: [ 219 1363  110  166  796  530  825   81  217  124 1061   14  787  381
+  837  382  475  676  657 1384]
+w_h_top_words:['clinton', 'turkey', 'bc', 'cache', 'meg', 'gateway', 'modem', 'atheist', 'cleveland', 'bike', 'ram', 'ad', 'mb', 'doug', 'motherboard', 'dr', 'fb', 'jews', 'internal', 'upgrade']
+----------------------------------------------------------------------
+h_num: 46
+w_h_top_words_indx: [ 842 1219  776 1004  931  836  272  567  929  867 1212  368 1251  673
+  585  432 1214  611 1242  625]
+w_h_top_words:['mouse', 'sleep', 'marriage', 'pray', 'parent', 'mother', 'cool', 'hall', 'pain', 'neighbor', 'sin', 'doctor', 'stand', 'jesus', 'hell', 'espn', 'sit', 'hurt', 'speak', 'immediately']
+----------------------------------------------------------------------
+h_num: 47
+w_h_top_words_indx: [ 159 1137  127 1061  683  656  190 1424 1403  268  787  471  174  614
+  511 1024  540  946 1410  135]
+w_h_top_words:['bus', 'rom', 'bit', 'ram', 'jpeg', 'interface', 'channel', 'wave', 'video', 'controller', 'mb', 'fast', 'card', 'ide', 'format', 'processing', 'gif', 'pc', 'vs', 'board']
+----------------------------------------------------------------------
+h_num: 48
+w_h_top_words_indx: [1385  972 1392  301  413 1002 1339  925  822 1457  753  805   14  456
+  475  889 1371  347 1401  699]
+w_h_top_words:['usa', 'pl', 'v', 'd', 'end', 'pp', 'tm', 'p', 'mm', 'x', 'ma', 'mi', 'ad', 'f', 'fb', 'o', 'u', 'di', 'vg', 'l']
+----------------------------------------------------------------------
+h_num: 49
+w_h_top_words_indx: [1073  240  594 1158  826 1403 1373  930   89 1324  285 1325 1202 1369
+   32  796  475  802  793 1111]
+w_h_top_words:['reality', 'communications', 'history', 'scientific', 'modern', 'video', 'um', 'paper', 'author', 'thanks', 'coverage', 'theory', 'short', 'type', 'algorithm', 'meg', 'fb', 'method', 'medicine', 'research']
+----------------------------------------------------------------------
+h_num: 50
+w_h_top_words_indx: [1050  947 1418 1218  172 1126  936  280  811  903 1229  858 1299  548
+ 1144  321  974 1297 1317  986]
+w_h_top_words:['q', 'peace', 'war', 'sky', 'capability', 'right', 'party', 'country', 'military', 'oil', 'solve', 'nation', 'talk', 'government', 'russian', 'decision', 'plan', 'table', 'term', 'policy']
+----------------------------------------------------------------------
+h_num: 51
+w_h_top_words_indx: [ 273  899  839 1125 1222 1045  124  389 1230  176  822  740 1147 1293
+  985  800  471  563 1033 1341]
+w_h_top_words:['cop', 'officer', 'motorcycle', 'ride', 'smith', 'pull', 'bike', 'drug', 'somebody', 'carry', 'mm', 'lock', 'safety', 'switch', 'police', 'merely', 'fast', 'gun', 'proper', 'tom']
+----------------------------------------------------------------------
+h_num: 52
+w_h_top_words_indx: [ 445 1424  446 1153  933 1133 1431  112 1298 1183   66  688  856   51
+  537  169   68  777  544 1438]
+w_h_top_words:['exist', 'wave', 'existence', 'say', 'part', 'rochester', 'well', 'be', 'take', 'serdar', 'armenia', 'keep', 'name', 'apple', 'georgia', 'cambridge', 'armenians', 'mary', 'go', 'will']
+----------------------------------------------------------------------
+h_num: 53
+w_h_top_words_indx: [1125  123  468  699  124  892  373  596  924 1424  977 1173 1168 1351
+ 1199 1246 1130 1145  613  475]
+w_h_top_words:['ride', 'big', 'fan', 'l', 'bike', 'observation', 'dog', 'hockey', 'owner', 'wave', 'play', 'secure', 'seat', 'traffic', 'shift', 'speed', 'road', 's', 'ice', 'fb']
+----------------------------------------------------------------------
+h_num: 54
+w_h_top_words_indx: [ 301  904 1392  972  983  752 1145  787 1457 1468  687  854 1050 1371
+  925  456  329  164 1385  822]
+w_h_top_words:['d', 'ok', 'v', 'pl', 'po', 'm', 's', 'mb', 'x', 'z', 'k', 'n', 'q', 'u', 'p', 'f', 'demand', 'c', 'usa', 'mm']
+----------------------------------------------------------------------
+h_num: 55
+w_h_top_words_indx: [ 825  231  269 1184  960  689 1360  430  734  991 1351  258  306 1173
+  980  220  412    6  259  346]
+w_h_top_words:['modem', 'com', 'conversation', 'serial', 'phone', 'key', 'trust', 'escrow', 'listen', 'port', 'traffic', 'connect', 'database', 'secure', 'plug', 'clipper', 'encryption', 'access', 'connection', 'device']
+----------------------------------------------------------------------
+h_num: 56
+w_h_top_words_indx: [ 511  373  903  386  498  657  189  614  416  453  573  810  224   83
+  862  851 1084  796 1250 1189]
+w_h_top_words:['format', 'dog', 'oil', 'drive', 'floppy', 'internal', 'change', 'ide', 'engine', 'external', 'hard', 'mile', 'clutch', 'attack', 'nd', 'muslim', 'red', 'meg', 'st', 'service']
+----------------------------------------------------------------------
+h_num: 57
+w_h_top_words_indx: [1459  218  838  503 1056 1188  135 1237  259  910  221  898  762  428
+ 1288 1457  475  461  941  155]
+w_h_top_words:['xterm', 'client', 'motif', 'font', 'r', 'server', 'board', 'source', 'connection', 'open', 'clock', 'office', 'major', 'error', 'support', 'x', 'fb', 'fail', 'patch', 'build']
+----------------------------------------------------------------------
+h_num: 58
+w_h_top_words_indx: [1385  972  413 1392  822  111 1339  687  301  164   14  525  805  753
+ 1145  983  787  803  904  847]
+w_h_top_words:['usa', 'pl', 'end', 'v', 'mm', 'bd', 'tm', 'k', 'd', 'c', 'ad', 'g', 'mi', 'ma', 's', 'po', 'mb', 'mg', 'ok', 'msg']
+----------------------------------------------------------------------
+h_num: 59
+w_h_top_words_indx: [ 562  125 1333  124 1394  770  518 1013 1167 1090  898  631  713  242
+  639   35  761 1352  182  181]
+w_h_top_words:['guide', 'bill', 'ticket', 'bike', 'value', 'manual', 'ftp', 'price', 'season', 'register', 'office', 'inc', 'league', 'company', 'information', 'amendment', 'maintain', 'transfer', 'cdrom', 'cd']
+----------------------------------------------------------------------
+h_num: 60
+w_h_top_words_indx: [ 733  759 1255  872  996  134   81 1421  475  456  391  669  889  469
+   18  557 1296 1456 1180   80]
+w_h_top_words:['list', 'mailing', 'stat', 'newsgroup', 'post', 'bmw', 'atheist', 'waste', 'fb', 'f', 'e', 'j', 'o', 'faq', 'address', 'group', 't', 'ww', 'send', 'atheism']
+----------------------------------------------------------------------
+h_num: 61
+w_h_top_words_indx: [1363  504  847  663  888  838   72  475  589  219  312 1050  310   81
+ 1105  383  525  204  414  206]
+w_h_top_words:['turkey', 'food', 'msg', 'islam', 'ny', 'motif', 'articleid', 'fb', 'hey', 'clinton', 'db', 'q', 'david', 'atheist', 'replyto', 'draft', 'g', 'christians', 'energy', 'circuit']
+----------------------------------------------------------------------
+h_num: 62
+w_h_top_words_indx: [1385  972  413 1339  301 1002  753 1392  805   14  822  347  286 1457
+  925  475  752  111  889 1050]
+w_h_top_words:['usa', 'pl', 'end', 'tm', 'd', 'pp', 'ma', 'v', 'mi', 'ad', 'mm', 'di', 'cpu', 'x', 'p', 'fb', 'm', 'bd', 'o', 'q']
+----------------------------------------------------------------------
+h_num: 63
+w_h_top_words_indx: [1392 1339  347  972  925  301  111   14  822  753  805  699 1401  456
+  889 1228  982 1371  643  475]
+w_h_top_words:['v', 'tm', 'di', 'pl', 'p', 'd', 'bd', 'ad', 'mm', 'ma', 'mi', 'l', 'vg', 'f', 'o', 'solution', 'pm', 'u', 'inside', 'fb']
+----------------------------------------------------------------------
+h_num: 64
+w_h_top_words_indx: [  59 1405  675  270  140  851 1198 1096  676  693  664   83  205 1097
+  666  212  990 1364   67 1103]
+w_h_top_words:['arab', 'village', 'jewish', 'convert', 'border', 'muslim', 'shell', 'religion', 'jews', 'kill', 'islamic', 'attack', 'church', 'religious', 'israeli', 'claim', 'population', 'turkish', 'armenian', 'replace']
+----------------------------------------------------------------------
+h_num: 65
+w_h_top_words_indx: [ 387  268  174 1016 1015  231  614   21  382  586   47  109 1193 1184
+  256  966   23 1022  139  159]
+w_h_top_words:['driver', 'controller', 'card', 'printer', 'print', 'com', 'ide', 'advance', 'dr', 'hello', 'anybody', 'bbs', 'setup', 'serial', 'conflict', 'pin', 'advice', 'problem', 'boot', 'bus']
+----------------------------------------------------------------------
+h_num: 66
+w_h_top_words_indx: [  80   79  224  921   81  117  436 1339  250 1065   63  303 1394  464
+  111   64 1040 1075  535 1032]
+w_h_top_words:['atheism', 'atf', 'clutch', 'os', 'atheist', 'belief', 'european', 'tm', 'computing', 'ray', 'argue', 'dan', 'value', 'faith', 'bd', 'argument', 'prove', 'reason', 'genocide', 'proof']
+----------------------------------------------------------------------
+h_num: 67
+w_h_top_words_indx: [ 602  753  889  531 1195 1194  164 1461 1111  601  205 1270  776 1399
+  347  766  999  202 1163  410]
+w_h_top_words:['homosexuality', 'ma', 'o', 'gay', 'sexual', 'sex', 'c', 'y', 'research', 'homosexual', 'church', 'straight', 'marriage', 'verse', 'di', 'man', 'postscript', 'christian', 'screw', 'email']
+----------------------------------------------------------------------
+h_num: 68
+w_h_top_words_indx: [ 972 1392 1385  301  111   14 1002  413 1339  753  925  699  822  805
+ 1050  983  347  525  904 1411]
+w_h_top_words:['pl', 'v', 'usa', 'd', 'bd', 'ad', 'pp', 'end', 'tm', 'ma', 'p', 'l', 'mm', 'mi', 'q', 'po', 'di', 'g', 'ok', 'w']
+----------------------------------------------------------------------
+h_num: 69
+w_h_top_words_indx: [ 108  468  315  192  711 1318  804  286 1268  414  221  135  311  830
+ 1165  607  582 1346  614  837]
+w_h_top_words:['battery', 'fan', 'dead', 'charge', 'lead', 'terminal', 'mhz', 'cpu', 'store', 'energy', 'clock', 'board', 'day', 'monitor', 'scsi', 'hour', 'heat', 'totally', 'ide', 'motherboard']
+----------------------------------------------------------------------
+h_num: 70
+w_h_top_words_indx: [ 833  602   81 1212 1096  610  270  850  776  546 1455  938 1126  226
+ 1137  601 1289  640   80  203]
+w_h_top_words:['moral', 'homosexuality', 'atheist', 'sin', 'religion', 'human', 'convert', 'murder', 'marriage', 'god', 'wrong', 'passage', 'right', 'code', 'rom', 'homosexual', 'suppose', 'innocent', 'atheism', 'christianity']
+----------------------------------------------------------------------
+h_num: 71
+w_h_top_words_indx: [ 804  224  837 1199  221  969  106  286 1262  968  146 1415  390  379
+  611 1276    0  100  953  595]
+w_h_top_words:['mhz', 'clutch', 'motherboard', 'shift', 'clock', 'pitcher', 'basis', 'cpu', 'steal', 'pitch', 'brake', 'walk', 'dx', 'double', 'hurt', 'study', 'ability', 'ball', 'performance', 'hit']
+----------------------------------------------------------------------
+h_num: 72
+w_h_top_words_indx: [1286  205  138 1105  274  103 1004  809  122 1156 1218 1416  596 1015
+ 1324 1164 1161 1323 1030  988]
+w_h_top_words:['sunday', 'church', 'book', 'replyto', 'copy', 'baseball', 'pray', 'mike', 'bible', 'school', 'sky', 'wall', 'hockey', 'print', 'thanks', 'scripture', 'scott', 'thank', 'project', 'poor']
+----------------------------------------------------------------------
+h_num: 73
+w_h_top_words_indx: [ 295  666  439  794 1106  248  812 1300 1008  684  330 1254 1083 1356
+  492  548   59  884  459  111]
+w_h_top_words:['cult', 'israeli', 'evidence', 'medium', 'report', 'compound', 'militia', 'tank', 'press', 'judge', 'deny', 'start', 'record', 'trial', 'fire', 'government', 'arab', 'nsa', 'fact', 'bd']
+----------------------------------------------------------------------
+h_num: 74
+w_h_top_words_indx: [ 419  117 1321  460  819  660 1202  954 1350 1429 1294 1097  518  182
+ 1014  179  511  854   39 1139]
+w_h_top_words:['english', 'belief', 'text', 'factor', 'mission', 'interpretation', 'short', 'period', 'tradition', 'weight', 'system', 'religious', 'ftp', 'cdrom', 'principle', 'catholic', 'format', 'n', 'analysis', 'room']
+----------------------------------------------------------------------
+h_num: 75
+w_h_top_words_indx: [ 765   37  484  211 1217  990  813  595  750 1021  173  950  766  976
+  704   92 1463 1467 1194 1200]
+w_h_top_words:['male', 'american', 'figure', 'civilian', 'size', 'population', 'million', 'hit', 'low', 'probe', 'car', 'percent', 'man', 'planet', 'land', 'average', 'year', 'young', 'sex', 'ship']
+----------------------------------------------------------------------
+h_num: 76
+w_h_top_words_indx: [ 819  623 1125  916  124 1162  206 1240  229 1151  235  998  971 1466
+  146 1226 1016 1424 1205  725]
+w_h_top_words:['mission', 'image', 'ride', 'orbit', 'bike', 'screen', 'circuit', 'space', 'color', 'satellite', 'commercial', 'posting', 'pixel', 'york', 'brake', 'solar', 'printer', 'wave', 'shuttle', 'light']
+----------------------------------------------------------------------
+h_num: 77
+w_h_top_words_indx: [ 389  943  368 1203 1355  432  792 1354  793  403  803  604 1319  171
+  180  929  362  847 1105  504]
+w_h_top_words:['drug', 'patient', 'doctor', 'shot', 'treatment', 'espn', 'medical', 'treat', 'medicine', 'effect', 'mg', 'hospital', 'test', 'cancer', 'cause', 'pain', 'disease', 'msg', 'replyto', 'food']
+----------------------------------------------------------------------
+h_num: 78
+w_h_top_words_indx: [1410  220  399   48  699 1066  663  862 1383 1093  334 1353  385  729
+ 1250  391  700  465   97  174]
+w_h_top_words:['vs', 'clipper', 'ed', 'app', 'l', 'rd', 'islam', 'nd', 'update', 'relate', 'des', 'translation', 'dream', 'limited', 'st', 'e', 'la', 'fall', 'b', 'card']
+----------------------------------------------------------------------
+h_num: 79
+w_h_top_words_indx: [ 596  527  978 1306  969  103  977 1367  979  441  968  468  813  874
+  190  165  285  713 1160  927]
+w_h_top_words:['hockey', 'game', 'player', 'team', 'pitcher', 'baseball', 'play', 'tv', 'playoff', 'exactly', 'pitch', 'fan', 'million', 'nhl', 'channel', 'cable', 'coverage', 'league', 'score', 'package']
+----------------------------------------------------------------------
+h_num: 80
+w_h_top_words_indx: [1385  972 1339  413 1002  301 1392  347  925  753  805 1457 1401  822
+  854   14  785 1050  475  456]
+w_h_top_words:['usa', 'pl', 'tm', 'end', 'pp', 'd', 'v', 'di', 'p', 'ma', 'mi', 'x', 'vg', 'mm', 'n', 'ad', 'maxaxaxaxaxaxaxaxaxaxaxaxaxaxax', 'q', 'fb', 'f']
+----------------------------------------------------------------------
+h_num: 81
+w_h_top_words_indx: [1166 1259 1272  156  598  792 1419   83  591 1443  980  499  482 1187
+  910 1139 1416  985 1144  608]
+w_h_top_words:['search', 'station', 'strike', 'building', 'hole', 'medical', 'warrant', 'attack', 'hide', 'wire', 'plug', 'fly', 'field', 'serve', 'open', 'room', 'wall', 'police', 'russian', 'house']
+----------------------------------------------------------------------
+h_num: 82
+w_h_top_words_indx: [1385  972 1002  413 1392 1339  301  753  347  925  854  805  456   14
+  822  475 1457  889 1050 1371]
+w_h_top_words:['usa', 'pl', 'pp', 'end', 'v', 'tm', 'd', 'ma', 'di', 'p', 'n', 'mi', 'f', 'ad', 'mm', 'fb', 'x', 'o', 'q', 'u']
+----------------------------------------------------------------------
+h_num: 83
+w_h_top_words_indx: [1392  525 1296  687  164 1145  925  565  822  577  111  787  889 1468
+  500 1277 1367  699  273 1371]
+w_h_top_words:['v', 'g', 't', 'k', 'c', 's', 'p', 'h', 'mm', 'hd', 'bd', 'mb', 'o', 'z', 'folk', 'stuff', 'tv', 'l', 'cop', 'u']
+----------------------------------------------------------------------
+h_num: 84
+w_h_top_words_indx: [1392 1339  972  111  301 1002 1385  753  925  822   14 1457  854  347
+  803  983 1050  413 1411 1296]
+w_h_top_words:['v', 'tm', 'pl', 'bd', 'd', 'pp', 'usa', 'ma', 'p', 'mm', 'ad', 'x', 'n', 'di', 'mg', 'po', 'q', 'end', 'w', 't']
+----------------------------------------------------------------------
+h_num: 85
+w_h_top_words_indx: [1371  391 1135  752  925  889 1056 1411   97 1296  699 1050 1392  565
+  680  164  854  456 1065  468]
+w_h_top_words:['u', 'e', 'rocket', 'm', 'p', 'o', 'r', 'w', 'b', 't', 'l', 'q', 'v', 'h', 'john', 'c', 'n', 'f', 'ray', 'fan']
+----------------------------------------------------------------------
+h_num: 86
+w_h_top_words_indx: [1339  972 1385   14  111  347  753  413 1392 1002  301  822  805  925
+ 1401  854  803  456 1050  752]
+w_h_top_words:['tm', 'pl', 'usa', 'ad', 'bd', 'di', 'ma', 'end', 'v', 'pp', 'd', 'mm', 'mi', 'p', 'vg', 'n', 'mg', 'f', 'q', 'm']
+----------------------------------------------------------------------
+h_num: 87
+w_h_top_words_indx: [1265 1363 1124 1171 1364   83  142 1043  383  768 1466  689  747 1166
+  590  285 1239  127  690  240]
+w_h_top_words:['steve', 'turkey', 'richard', 'secret', 'turkish', 'attack', 'bother', 'public', 'draft', 'management', 'york', 'key', 'loss', 'search', 'hi', 'coverage', 'soviet', 'bit', 'keyboard', 'communications']
+----------------------------------------------------------------------
+h_num: 88
+w_h_top_words_indx: [ 540  270  511  384  927  194  229  641    1  680 1251  683  335  999
+ 1065  772   45 1081  104 1436]
+w_h_top_words:['gif', 'convert', 'format', 'draw', 'package', 'check', 'color', 'input', 'able', 'john', 'stand', 'jpeg', 'describe', 'postscript', 'ray', 'map', 'anonymous', 'recognize', 'basic', 'widget']
+----------------------------------------------------------------------
+h_num: 89
+w_h_top_words_indx: [1339  972  301 1385 1002 1401  805  753  752  347  925  787 1050  456
+ 1392  475  164  854   17 1296]
+w_h_top_words:['tm', 'pl', 'd', 'usa', 'pp', 'vg', 'mi', 'ma', 'm', 'di', 'p', 'mb', 'q', 'f', 'v', 'fb', 'c', 'n', 'additional', 't']
+----------------------------------------------------------------------
+h_num: 90
+w_h_top_words_indx: [1349  832 1102  912 1183  169  777  168  770  576   96  112  688  543
+  541  843 1204   34 1431 1152]
+w_h_top_words:['trade', 'moon', 'repeat', 'operation', 'serdar', 'cambridge', 'mary', 'call', 'manual', 'have', 'azerbaijan', 'be', 'keep', 'gmt', 'give', 'move', 'show', 'alternative', 'well', 'save']
+----------------------------------------------------------------------
+h_num: 91
+w_h_top_words_indx: [1032  136  166  954 1122  941   86 1239 1264  371  817   55  266 1012
+  752  159  981 1049 1183  391]
+w_h_top_words:['proof', 'bob', 'cache', 'period', 'return', 'patch', 'attitude', 'soviet', 'stephanopoulos', 'documentation', 'minute', 'approach', 'continue', 'previous', 'm', 'bus', 'plus', 'put', 'serdar', 'e']
+----------------------------------------------------------------------
+h_num: 92
+w_h_top_words_indx: [1385  972 1339  413 1392 1002  347  301  805  753  925  822   14 1457
+  475 1371 1050  456 1401  854]
+w_h_top_words:['usa', 'pl', 'tm', 'end', 'v', 'pp', 'di', 'd', 'mi', 'ma', 'p', 'mm', 'ad', 'x', 'fb', 'u', 'q', 'f', 'vg', 'n']
+----------------------------------------------------------------------
+h_num: 93
+w_h_top_words_indx: [ 133  555 1468 1296  699  341 1371  925  832  854  687  536 1461 1456
+  889  901  135 1050  391 1065]
+w_h_top_words:['blue', 'green', 'z', 't', 'l', 'detector', 'u', 'p', 'moon', 'n', 'k', 'george', 'y', 'ww', 'o', 'oh', 'board', 'q', 'e', 'ray']
+----------------------------------------------------------------------
+h_num: 94
+w_h_top_words_indx: [ 954  220  475 1050 1401  967 1002  972  699  787  785 1339 1373  347
+  262  545 1296  868 1461  753]
+w_h_top_words:['period', 'clipper', 'fb', 'q', 'vg', 'pit', 'pp', 'pl', 'l', 'mb', 'maxaxaxaxaxaxaxaxaxaxaxaxaxaxax', 'tm', 'um', 'di', 'contact', 'goal', 't', 'net', 'y', 'ma']
+----------------------------------------------------------------------
+h_num: 95
+w_h_top_words_indx: [ 992 1401  843 1133  541  475   68  539 1183 1438  909 1298  902  168
+  169  873 1436  777 1396 1204]
+w_h_top_words:['position', 'vg', 'move', 'rochester', 'give', 'fb', 'armenians', 'get', 'serdar', 'will', 'ontario', 'take', 'ohio', 'call', 'cambridge', 'newssoftware', 'widget', 'mary', 'vancouver', 'show']
+----------------------------------------------------------------------
+h_num: 96
+w_h_top_words_indx: [1461 1468  625 1265  929  931  169 1396  907  112 1431   96 1438 1298
+  909  544  407  541  856  539]
+w_h_top_words:['y', 'z', 'immediately', 'steve', 'pain', 'parent', 'cambridge', 'vancouver', 'one', 'be', 'well', 'azerbaijan', 'will', 'take', 'ontario', 'go', 'ei', 'give', 'name', 'get']
+----------------------------------------------------------------------
+h_num: 97
+w_h_top_words_indx: [1385  972  301 1392 1339 1002  753  413  822   14  805 1050  347  925
+ 1401  889  111 1457  456 1411]
+w_h_top_words:['usa', 'pl', 'd', 'v', 'tm', 'pp', 'ma', 'end', 'mm', 'ad', 'mi', 'q', 'di', 'p', 'vg', 'o', 'bd', 'x', 'f', 'w']
+----------------------------------------------------------------------
+h_num: 98
+w_h_top_words_indx: [ 822  254 1402  244  475  842  752 1148  363 1411  443  770  855  503
+ 1410 1457  632  284 1200 1373]
+w_h_top_words:['mm', 'condition', 'vga', 'compatible', 'fb', 'mouse', 'm', 'sale', 'disk', 'w', 'excellent', 'manual', 'na', 'font', 'vs', 'x', 'include', 'cover', 'ship', 'um']
+----------------------------------------------------------------------
+h_num: 99
+w_h_top_words_indx: [ 503  889  145 1459  191  822  245 1396  777  688   66  539 1264  112
+  909 1183  856   68  933  537]
+w_h_top_words:['font', 'o', 'brain', 'xterm', 'character', 'mm', 'compile', 'vancouver', 'mary', 'keep', 'armenia', 'get', 'stephanopoulos', 'be', 'ontario', 'serdar', 'name', 'armenians', 'part', 'georgia']
+----------------------------------------------------------------------
